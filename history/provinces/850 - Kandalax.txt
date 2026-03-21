@@ -1,0 +1,13 @@
+title = c_kandalax
+max_settlements = 2
+b_kantalahti = tribal
+culture = lappish
+religion = finnish_pagan
+1300.1.1 = {
+  b_kantalahti = castle
+  b_kantalahti = ca_wall_1
+  b_kantalahti = ca_wall_q_1
+}
+1700.1.1 = {
+  b_umba = city
+}

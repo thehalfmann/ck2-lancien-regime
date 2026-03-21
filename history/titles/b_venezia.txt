@@ -1,0 +1,12 @@
+1694.1.16 = {
+  holding_dynasty = 100070
+  liege = c_venice
+  holder = 100263
+  law = succ_patrician_elective
+}
+1700.1.1 = {
+  vice_royalty = no
+  law = investiture_law_0
+  law = cognatic_succession
+  law = centralization_2
+}

@@ -1,0 +1,37 @@
+title = c_iona
+max_settlements = 3
+b_iona = temple
+b_finlaggan = castle
+culture = irish
+religion = catholic
+terrain = hills
+855.1.1 = {
+  culture = norse
+  religion = norse_pagan
+}
+867.1.1 = {
+  b_finlaggan = ca_shipyard_1
+  b_iona = tp_shipyard_1
+}
+1000.1.1 = {
+  religion = catholic
+  b_finlaggan = ca_keep_1
+  b_finlaggan = ca_militia_barracks_1
+  b_finlaggan = ca_wall_1
+  b_finlaggan = ca_shipyard_1
+}
+1066.1.1 = {
+  culture = norwegian
+}
+1266.1.1 = {
+  culture = scottish_gaels
+}
+1700.1.1 = {
+  b_laggan = city
+}
+1700.1.1 = {
+  capital = b_finlaggan
+}
+1700.1.1 = {
+  religion = reformed
+}

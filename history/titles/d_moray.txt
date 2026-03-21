@@ -1,0 +1,10 @@
+1689.4.11 = {
+  liege = k_scotland
+  holder = 100000
+}
+1700.1.1 = {
+  vice_royalty = no
+  law = investiture_law_0
+  law = cognatic_succession
+  law = centralization_2
+}

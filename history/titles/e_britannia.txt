@@ -1,0 +1,19 @@
+1450.1.1 = {
+  liege = 0
+  holder = 0
+}
+1689.2.13 = {
+  holder = 113183721
+}
+1700.1.1 = {
+  name = "United Kingdom"
+  adjective = British
+  vice_royalty = no
+  law = investiture_law_0
+  law = cognatic_succession
+  law = crown_authority_1
+  law = centralization_0
+  law = imperial_administration
+  law = vice_royalty_0
+  law = ze_administration_laws_2
+}

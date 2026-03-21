@@ -1,0 +1,14 @@
+title = c_madaba
+max_settlements = 4
+b_madaba = castle
+b_umm_ar-rasas = temple
+b_sahab = city
+b_qastal = castle
+culture = levantine_arabic
+religion = sunni
+1192.1.1 = {
+  remove_settlement = b_qastal
+}
+1700.1.1 = {
+  b_muwaqqar = castle
+}

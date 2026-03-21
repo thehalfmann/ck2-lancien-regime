@@ -1,0 +1,120 @@
+751.1.1 = {
+  liege = e_byzantium
+  holder = 145889
+}
+793.1.1 = {
+  holder = 145894
+}
+800.1.1 = {
+  holder = 145898
+}
+806.1.1 = {
+  holder = 145896
+}
+807.1.1 = {
+  holder = 145890
+}
+812.1.1 = {
+  holder = 145900
+}
+814.1.1 = {
+  holder = 145891
+}
+818.1.1 = {
+  holder = 145904
+}
+830.1.1 = {
+  holder = 145907
+}
+839.1.1 = {
+  liege = 0
+  holder = 6881
+}
+860.1.1 = {
+  holder = 168373
+}
+862.1.1 = {
+  holder = 168480
+}
+866.1.1 = {
+  holder = 6881
+}
+870.1.1 = {
+  holder = 168399
+}
+879.9.1 = {
+  holder = 168415
+}
+898.1.1 = {
+  holder = 168418
+}
+914.1.1 = {
+  holder = 168419
+}
+930.1.1 = {
+  holder = 168421
+  liege = e_byzantium
+  de_jure_liege = k_sicily
+}
+931.6.25 = {
+  holder = 168422
+}
+947.7.26 = {
+  holder = 168419
+}
+954.6.29 = {
+  holder = 168423
+}
+958.1.1 = {
+  holder = 168439
+}
+966.11.20 = {
+  holder = 168440
+}
+984.1.1 = {
+  holder = 168442
+}
+985.1.1 = {
+  holder = 168440
+}
+1004.1.1 = {
+  holder = 168448
+}
+1006.6.1 = {
+  holder = 168454
+}
+1028.1.1 = {
+  holder = 168467
+}
+1029.1.1 = {
+  holder = 168466
+}
+1034.1.1 = {
+  holder = 168467
+}
+1038.1.1 = {
+  holder = 168466
+}
+1039.1.1 = {
+  holder = 1116
+}
+1051.1.1 = {
+  holder = 168474
+}
+1052.1.1 = {
+  holder = 168466
+}
+1060.1.1 = {
+  holder = 0
+  de_jure_liege = 0
+}
+1450.1.1 = {
+  liege = 0
+  holder = 0
+}
+1700.1.1 = {
+  vice_royalty = no
+  law = investiture_law_0
+  law = cognatic_succession
+  law = centralization_2
+}

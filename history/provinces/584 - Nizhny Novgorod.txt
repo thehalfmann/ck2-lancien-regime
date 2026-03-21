@@ -1,0 +1,21 @@
+title = c_nizhny_novgorod
+max_settlements = 3
+b_nizhnynovgorod = tribal
+culture = mordvin
+religion = orthodox
+terrain = plains
+988.1.1 = {
+  religion = orthodox
+}
+1087.1.2 = {
+  culture = russian
+}
+1221.1.1 = {
+  b_nizhnynovgorod = castle
+}
+1700.1.1 = {
+  b_lyskovo = city
+}
+1700.1.1 = {
+  b_balakhna = temple
+}

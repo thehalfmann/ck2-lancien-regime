@@ -1,0 +1,15 @@
+# County Title
+title = c_choquechaca
+
+# Settlements
+max_settlements = 6
+b_choquechaca = tribal
+b_choquechaca-ii = tribal
+b_choquechaca-iii = tribal
+b_choquechaca-iv = temple
+
+# Misc
+culture = aimara
+religion = inti
+
+# History

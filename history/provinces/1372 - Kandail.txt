@@ -1,0 +1,12 @@
+title = c_kandail
+max_settlements = 3
+b_kandail = castle
+b_dadu = city
+culture = sindhi
+religion = buddhist
+800.1.1 = {
+  religion = sunni
+}
+1700.1.1 = {
+  b_jhal = temple
+}

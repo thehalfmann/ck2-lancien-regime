@@ -1,0 +1,27 @@
+title = c_trondelag
+max_settlements = 4
+b_steinvikholm = tribal
+b_maere = temple
+culture = norse
+religion = norse_pagan
+terrain = mountain
+800.1.1 = {
+  b_audunborg = tb_shipyard_1
+}
+1000.1.1 = {
+  b_steinvikholm = castle
+  b_trondheim = city
+  b_nidaros = temple
+  b_trondheim = ct_port_1
+  b_steinvikholm = ca_shipyard_1
+  b_nidaros = tp_shipyard_1
+  b_maere = tp_town_1
+  b_maere = tp_shipyard_1
+}
+1066.1.1 = {
+  culture = norwegian
+  religion = catholic
+}
+1700.1.1 = {
+  religion = protestant
+}

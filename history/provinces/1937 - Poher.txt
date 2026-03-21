@@ -1,0 +1,9 @@
+title = c_poher
+max_settlements = 3
+b_corlay = castle
+b_carhaix = city
+culture = breton
+religion = catholic
+1700.1.1 = {
+  b_langonnet = temple
+}

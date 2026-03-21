@@ -1,0 +1,10 @@
+title = c_gilgit
+max_settlements = 4
+b_gilgit = castle
+b_danyor = city
+b_chitral = temple
+culture = panjabi
+religion = buddhist
+1700.1.1 = {
+  b_minawar = castle
+}

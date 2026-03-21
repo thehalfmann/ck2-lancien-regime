@@ -1,0 +1,8 @@
+title = c_negev
+max_settlements = 2
+b_negev = castle
+culture = levantine_arabic
+religion = sunni
+1700.1.1 = {
+  b_yeruham = city
+}

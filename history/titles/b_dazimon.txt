@@ -1,0 +1,11 @@
+1292.1.1 = {
+  liege = c_amisos
+  holder = 476353
+}
+1308.1.1 = {
+  holder = 476350
+}
+1450.1.1 = {
+  holder = 0
+  liege = c_charsianon
+}

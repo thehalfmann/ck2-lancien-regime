@@ -1,0 +1,12 @@
+title = c_fuqi
+max_settlements = 4
+b_fuqi = castle
+b_shatuo = temple
+culture = tangut
+religion = buddhist
+1700.1.1 = {
+  b_shinaihai = city
+}
+1700.1.1 = {
+  b_naerji = castle
+}

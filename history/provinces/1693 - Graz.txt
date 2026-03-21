@@ -1,0 +1,18 @@
+title = c_graz
+max_settlements = 5
+b_graz = tribal
+culture = slovene
+religion = slavic_pagan
+846.1.1 = {
+  culture = german
+  religion = catholic
+  b_graz = castle
+  b_radkersburg = temple
+  b_leibnitz = city
+}
+1700.1.1 = {
+  b_reun = castle
+}
+1700.1.1 = {
+  b_friedberg_graz = city
+}

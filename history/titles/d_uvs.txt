@@ -1,0 +1,70 @@
+1700.1.1 = {
+  vice_royalty = no
+  law = investiture_law_0
+  law = cognatic_succession
+  law = centralization_2
+}
+1815.6.9 = {
+  holder = 112277452
+  liege = e_china_west_governor
+}
+1830.6.9 = {
+  holder = 111535280
+  liege = e_china_west_governor
+}
+1845.6.9 = {
+  holder = 110679613
+  liege = e_china_west_governor
+}
+1860.6.9 = {
+  holder = 115134941
+  liege = e_china_west_governor
+}
+1875.6.9 = {
+  holder = 117188561
+  liege = e_china_west_governor
+}
+1890.6.9 = {
+  holder = 113347202
+  liege = e_china_west_governor
+}
+1905.6.9 = {
+  holder = 112145823
+  liege = e_china_west_governor
+}
+1920.6.9 = {
+  holder = 112299864
+  liege = e_china_west_governor
+}
+1924.11.26 = {
+  holder = 116057688
+  liege = k_mongolia
+}
+1939.11.26 = {
+  holder = 111698917
+  liege = k_mongolia
+}
+1954.11.26 = {
+  holder = 115557815
+  liege = k_mongolia
+}
+1969.11.26 = {
+  holder = 116163687
+  liege = k_mongolia
+}
+1984.11.26 = {
+  holder = 119971522
+  liege = k_mongolia
+}
+1999.11.26 = {
+  holder = 110311807
+  liege = k_mongolia
+}
+2014.11.26 = {
+  holder = 112653024
+  liege = k_mongolia
+}
+2020.12.31 = {
+  holder = 0
+  liege = 0
+}

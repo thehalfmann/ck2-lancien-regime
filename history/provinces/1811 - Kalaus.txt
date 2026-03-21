@@ -1,0 +1,16 @@
+# 1811 - Kalaus
+
+# County Title
+title = c_kalaus
+
+# Settlements
+max_settlements = 2
+b_kalaus = tribal
+
+culture = russian
+religion = orthodox
+
+# History
+900.1.1 = { religion = orthodox } 
+1313.1.1= { religion = sunni } 
+1700.1.1 = { religion = orthodox } 

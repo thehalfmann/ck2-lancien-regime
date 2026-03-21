@@ -1,0 +1,20 @@
+title = c_ghana
+max_settlements = 5
+b_el_ghaba = tribal
+b_diara = temple
+culture = soninke
+religion = west_african_pagan
+900.1.1 = {
+  b_el_ghaba = castle
+  b_koumbi_saleh = city
+  b_goumbou = city
+}
+1150.1.1 = {
+  remove_settlement = b_goumbou
+}
+1700.1.1 = {
+  b_baghena = castle
+}
+1700.1.1 = {
+  b_goumbou = city
+}

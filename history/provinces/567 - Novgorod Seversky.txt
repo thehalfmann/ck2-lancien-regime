@@ -1,0 +1,24 @@
+title = c_novgorod_seversky
+max_settlements = 4
+b_novgorodseversky = tribal
+culture = turkish
+religion = slavic_pagan
+867.1.1 = {
+  culture = russian
+}
+988.1.1 = {
+  religion = orthodox
+}
+1150.1.1 = {
+  b_novgorodseversky = castle
+  b_glukhov = city
+}
+1700.1.1 = {
+  b_batouryn = temple
+}
+1700.1.1 = {
+  b_konotop = castle
+}
+1700.1.1 = {
+  culture = ruthenian
+}

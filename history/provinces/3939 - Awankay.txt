@@ -1,0 +1,13 @@
+# County Title
+title = c_awankay
+
+# Settlements
+max_settlements = 3
+b_awankay = tribal
+b_awankay-ii = tribal
+
+# Misc
+culture = quechua
+religion = inti
+
+# History

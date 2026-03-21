@@ -1,0 +1,91 @@
+764.12.4 = {
+  holder = 256023
+}
+857.12.12 = {
+  holder = 256024
+}
+936.1.1 = {
+  holder = 261098
+}
+1060.1.1 = {
+  holder = 256025
+}
+1095.12.24 = {
+  holder = 256026
+}
+1123.8.11 = {
+  holder = 256027
+}
+1158.1.1 = {
+  holder = 0
+}
+1450.1.1 = {
+  liege = 0
+  holder = 0
+}
+1700.1.1 = {
+  vice_royalty = no
+  law = investiture_law_0
+  law = cognatic_succession
+  law = centralization_2
+}
+1815.6.9 = {
+  holder = 110844501
+  liege = k_finland
+}
+1830.6.9 = {
+  holder = 113694285
+  liege = k_finland
+}
+1845.6.9 = {
+  holder = 110986396
+  liege = k_finland
+}
+1860.6.9 = {
+  holder = 114590474
+  liege = k_finland
+}
+1875.6.9 = {
+  holder = 113041454
+  liege = k_finland
+}
+1890.6.9 = {
+  holder = 118864897
+  liege = k_finland
+}
+1905.6.9 = {
+  holder = 118589770
+  liege = k_finland
+}
+1920.6.9 = {
+  holder = 117183759
+  liege = k_finland
+}
+1935.6.9 = {
+  holder = 113357623
+  liege = k_finland
+}
+1950.6.9 = {
+  holder = 116603981
+  liege = k_finland
+}
+1965.6.9 = {
+  holder = 117422214
+  liege = k_finland
+}
+1980.6.9 = {
+  holder = 112164532
+  liege = k_finland
+}
+1995.6.9 = {
+  holder = 115777235
+  liege = k_finland
+}
+2010.6.9 = {
+  holder = 118596665
+  liege = k_finland
+}
+2020.12.31 = {
+  holder = 0
+  liege = 0
+}

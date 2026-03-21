@@ -1,0 +1,10 @@
+title = c_clermont
+max_settlements = 4
+b_clermont_PIC = castle
+b_gisors = city
+b_beauvais = temple
+culture = french
+religion = catholic
+1700.1.1 = {
+  b_tille = castle
+}

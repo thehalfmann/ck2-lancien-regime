@@ -1,0 +1,15 @@
+title = c_ural
+max_settlements = 2
+b_ural = tribal
+culture = komi
+religion = finnish_pagan
+1227.1.1 = {
+  culture = mongol
+}
+1227.1.1 = {
+  religion = tengri_pagan
+}
+1700.1.1 = {
+  religion = orthodox
+  culture = kazakh
+}

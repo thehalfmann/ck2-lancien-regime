@@ -1,0 +1,13 @@
+title = c_naxos
+max_settlements = 3
+b_naxos = castle
+b_santorini = city
+culture = greek
+religion = orthodox
+terrain = mountain
+1154.1.1 = {
+  trade_post = b_morosini
+}
+1700.1.1 = {
+  b_hermoupolis = temple
+}

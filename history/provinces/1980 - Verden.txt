@@ -1,0 +1,25 @@
+title = c_verden
+max_settlements = 4
+b_verden = tribal
+culture = old_saxon
+religion = norse_pagan
+790.1.1 = {
+  culture = german
+  religion = catholic
+  b_rotenburg_verden = castle
+  b_verden = temple
+  b_ottersberg = temple
+  capital = b_rotenburg_verden
+}
+936.1.1 = {
+  capital = b_verden
+}
+1066.1.1 = {
+  capital = b_rotenburg_verden
+}
+1700.1.1 = {
+  b_walsrode = city
+}
+1700.1.1 = {
+  religion = protestant
+}

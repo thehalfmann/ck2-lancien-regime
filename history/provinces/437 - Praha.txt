@@ -1,0 +1,27 @@
+title = c_praha
+max_settlements = 7
+b_praha = tribal
+culture = bohemian
+religion = slavic_pagan
+800.1.1 = {
+  b_praha = castle
+  b_stare_mesto = city
+  b_brevnov = temple
+  b_vysehrad = castle
+}
+883.1.1 = {
+  religion = catholic
+}
+1009.1.1 = {
+  b_sazava = temple
+}
+1261.1.1 = {
+  b_kolin = city
+}
+1291.1.1 = {
+  b_zbraslav = temple
+  remove_settlement = b_sazava
+}
+1700.1.1 = {
+  b_kuttenberg = castle
+}

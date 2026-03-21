@@ -1,0 +1,18 @@
+title = c_turnu
+max_settlements = 4
+b_turnu = castle
+b_giurgiu = city
+culture = bolghar
+religion = tengri_pagan
+892.1.1 = {
+  culture = romanian
+}
+900.1.1 = {
+  religion = orthodox
+}
+1700.1.1 = {
+  b_comana = temple
+}
+1700.1.1 = {
+  b_zimnicea = castle
+}

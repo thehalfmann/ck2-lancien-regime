@@ -1,0 +1,18 @@
+title = c_luneburg
+max_settlements = 4
+b_luneburg = tribal
+culture = old_saxon
+religion = norse_pagan
+790.1.1 = {
+  culture = german
+  religion = catholic
+  b_luneburg = castle
+  b_bardowick = city
+  b_gifhorn = temple
+}
+1700.1.1 = {
+  b_evern = castle
+}
+1700.1.1 = {
+  religion = protestant
+}

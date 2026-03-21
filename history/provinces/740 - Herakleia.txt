@@ -1,0 +1,21 @@
+title = c_herakleia
+max_settlements = 3
+b_herakleia = castle
+b_flaviopolis = city
+culture = greek
+religion = orthodox
+750.1.1 = {
+  religion = orthodox
+}
+1209.1.1 = {
+  trade_post = b_spinola
+}
+1325.1.1 = {
+  culture = turkish
+}
+1325.1.1 = {
+  religion = sunni
+}
+1700.1.1 = {
+  b_polis = temple
+}

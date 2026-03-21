@@ -1,0 +1,20 @@
+title = c_gemer
+max_settlements = 4
+b_gomor = tribal
+culture = slovieni
+religion = slavic_pagan
+853.1.1 = {
+  religion = catholic
+}
+950.1.1 = {
+  b_gomor = castle
+  b_dobsina = city
+  b_losonc = temple
+}
+1700.1.1 = {
+  b_rozsnyo = castle
+}
+1700.1.1 = {
+  religion = reformed
+  culture = slovieni
+}

@@ -1,0 +1,13 @@
+# County Title
+title = c_moniquira
+
+# Settlements
+max_settlements = 3
+b_moniquira = tribal
+#b_moniquira-ii = tribal
+
+# Misc
+culture = muisca
+religion = south_american
+
+# History

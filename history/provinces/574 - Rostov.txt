@@ -1,0 +1,18 @@
+title = c_rostov
+max_settlements = 4
+b_sarskoyegorodishche = tribal
+culture = mordvin
+religion = finnish_pagan
+terrain = plains
+988.1.1 = {
+  culture = russian
+  religion = orthodox
+  b_sarskoyegorodishche = castle
+  b_rostov = city
+}
+1150.1.1 = {
+  b_spasoyakovlevsky = temple
+}
+1700.1.1 = {
+  b_lvy = castle
+}

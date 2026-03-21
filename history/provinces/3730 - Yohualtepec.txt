@@ -1,0 +1,13 @@
+# County Title
+title = c_yohualtepec
+
+# Settlements
+max_settlements = 3
+b_yohualtepec = tribal
+b_yohualtepec-ii = tribal
+
+# Misc
+culture = mixtec
+religion = aztec
+
+# History

@@ -1,0 +1,4 @@
+1692.6.21 = {
+  liege = d_mecklemburg
+  holder = 100252
+}

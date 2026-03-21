@@ -1,0 +1,17 @@
+title = c_lombardia
+max_settlements = 6
+b_lodi = castle
+b_milano = city
+b_monza = temple
+b_maggiore = castle
+culture = lombard
+religion = catholic
+869.1.1 = {
+  culture = italian
+}
+1240.1.1 = {
+  b_chiavenna = castle
+}
+1700.1.1 = {
+  b_vigevano = city
+}

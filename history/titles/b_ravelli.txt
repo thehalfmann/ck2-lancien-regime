@@ -1,0 +1,18 @@
+756.1.1 = {
+  holding_dynasty = 1022323
+  liege = d_amalfi
+  holder = 145905
+}
+796.1.1 = {
+  holder = 145906
+}
+813.1.1 = {
+  holder = 145907
+}
+839.1.1 = {
+  holder = 0
+}
+1450.1.1 = {
+  holder = 0
+  liege = 0
+}

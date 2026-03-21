@@ -1,0 +1,13 @@
+title = c_zahedan
+max_settlements = 4
+b_zahedan = castle
+b_khajeh = temple
+b_kuhtaftan = city
+culture = baloch
+religion = zoroastrian
+825.1.1 = {
+  religion = sunni
+}
+1700.1.1 = {
+  b_hamun = castle
+}

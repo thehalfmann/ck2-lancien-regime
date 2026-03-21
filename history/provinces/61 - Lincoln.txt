@@ -1,0 +1,19 @@
+title = c_lincoln
+max_settlements = 5
+b_gainsborough = castle
+b_lincoln = temple
+b_boston = city
+culture = saxon
+religion = catholic
+1100.11.11 = {
+  culture = english
+}
+1700.1.1 = {
+  b_spalding = castle
+}
+1700.1.1 = {
+  b_stamford = city
+}
+1700.1.1 = {
+  religion = protestant
+}

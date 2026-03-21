@@ -1,0 +1,10 @@
+1060.1.1 = {
+  holder = 20825
+}
+1108.1.1 = {
+  holder = 0
+}
+1450.1.1 = {
+  holder = 0
+  liege = c_mahdia
+}

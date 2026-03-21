@@ -1,0 +1,5 @@
+1682.5.7 = {
+  law = succ_seniority 
+  liege = d_lithuanians
+  holder = 100062
+}

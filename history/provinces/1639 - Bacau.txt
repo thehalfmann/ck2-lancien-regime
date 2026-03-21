@@ -1,0 +1,17 @@
+title = c_bacau
+max_settlements = 3
+b_bacau = tribal
+culture = volhynian
+religion = slavic_pagan
+867.1.1 = {
+  culture = russian
+  b_bacau = castle
+  b_targu_neamnt = city
+  b_neamnt = temple
+}
+988.1.1 = {
+  religion = orthodox
+}
+1700.1.1 = {
+  culture = romanian
+}

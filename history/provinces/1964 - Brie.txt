@@ -1,0 +1,13 @@
+title = c_brie
+max_settlements = 5
+b_provins = castle
+b_meaux = city
+b_sezanne = temple
+culture = french
+religion = catholic
+1700.1.1 = {
+  b_chateauthierry = castle
+}
+1700.1.1 = {
+  b_montmirail = city
+}

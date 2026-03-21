@@ -1,0 +1,13 @@
+title = c_honnore
+max_settlements = 5
+b_honnore = castle
+b_bhatkal = city
+b_gokarna = temple
+culture = kannada
+religion = jain
+1700.1.1 = {
+  b_barkur = castle
+}
+1700.1.1 = {
+  b_mookambika = city
+}

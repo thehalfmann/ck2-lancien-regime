@@ -1,0 +1,7 @@
+1682.1.1 = {
+  liege = d_courland
+  holder = 100116
+}
+1698.1.22 = {
+  holder = 100117
+}

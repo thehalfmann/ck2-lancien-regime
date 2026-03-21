@@ -1,0 +1,23 @@
+title = c_napoli
+max_settlements = 5
+b_aversa = castle
+b_napoli = city
+b_cumae = temple
+b_portici = castle
+culture = greek
+religion = orthodox
+900.1.1 = {
+  religion = catholic
+}
+1092.1.1 = {
+  trade_post = b_alliata
+}
+1154.4.1 = {
+  culture = italian
+}
+1285.1.1 = {
+  trade_post = b_spinola
+}
+1700.1.1 = {
+  b_pozzuoli = city
+}

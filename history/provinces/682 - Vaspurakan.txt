@@ -1,0 +1,26 @@
+title = c_vaspurakan
+max_settlements = 4
+b_haykaberd = castle
+b_van = city
+b_surbkhach = temple
+culture = armenian
+religion = miaphysite
+1091.8.26 = {
+  culture = kurdish
+  religion = sunni
+}
+1187.1.1 = {
+  b_vostan = castle
+}
+1700.1.1 = {
+  culture = armenian
+}
+1918.11.11 = {
+  culture = kurdish
+}
+1700.1.1 = {
+  religion = orthodox
+}
+1918.11.11 = {
+  religion = sunni
+}

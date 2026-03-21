@@ -1,0 +1,18 @@
+title = c_samatata
+max_settlements = 3
+b_devaparvata = castle
+b_chatigama = city
+culture = bengali
+religion = buddhist
+terrain = jungle
+867.1.1 = {
+  b_chatigama = ct_wall_1
+  b_chatigama = ct_barracks_1
+  b_chatigama = ct_marketplace_1
+}
+1700.1.1 = {
+  b_candranatha = temple
+}
+1700.1.1 = {
+  religion = sunni
+}

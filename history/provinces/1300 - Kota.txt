@@ -1,0 +1,12 @@
+title = c_kota
+max_settlements = 4
+b_kota = castle
+b_koshvardhan = city
+culture = rajput
+religion = jain
+1700.1.1 = {
+  b_ramgarh = temple
+}
+1700.1.1 = {
+  b_bundi = castle
+}

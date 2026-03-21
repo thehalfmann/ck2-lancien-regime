@@ -1,0 +1,11 @@
+936.1.1 = {
+  holder = 261394
+  liege = d_saxony
+}
+938.7.28 = {
+  holder = 0
+}
+1450.1.1 = {
+  holder = 0
+  liege = c_gottingen
+}

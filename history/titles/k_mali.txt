@@ -1,0 +1,62 @@
+1234.1.1 = {
+  holder = 161022
+}
+1255.1.1 = {
+  holder = 161026
+}
+1270.1.1 = {
+  holder = 161027
+}
+1274.1.1 = {
+  holder = 161028
+}
+1275.1.1 = {
+  holder = 161025
+}
+1285.1.1 = {
+  holder = 161029
+}
+1300.1.1 = {
+  holder = 161031
+}
+1305.1.1 = {
+  holder = 161032
+}
+1310.1.1 = {
+  holder = 161034
+}
+1312.1.1 = {
+  holder = 161035
+}
+1337.1.1 = {
+  holder = 161036
+}
+1450.1.1 = {
+  liege = 0
+  holder = 0
+}
+1700.1.1 = {
+  vice_royalty = no
+  law = investiture_law_0
+  law = cognatic_succession
+  law = crown_authority_1
+  law = centralization_2
+}
+1960.6.20 = {
+  holder = 117311721
+}
+1976.10.29 = {
+  holder = 116854339
+}
+1981.12.28 = {
+  holder = 114505833
+}
+1998.4.3 = {
+  holder = 116046099
+}
+2003.10.8 = {
+  holder = 112241247
+}
+2009.6.7 = {
+  holder = 112344475
+}

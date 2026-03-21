@@ -1,0 +1,9 @@
+title = c_asir
+max_settlements = 3
+b_kamaran = castle
+b_tabala = temple
+culture = bedouin_arabic
+religion = sunni
+1700.1.1 = {
+  b_kuthba = city
+}

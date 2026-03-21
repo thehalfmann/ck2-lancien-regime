@@ -1,0 +1,17 @@
+title = c_toulouse
+max_settlements = 6
+b_toulouse = castle
+b_lavaur = temple
+b_muret = city
+b_castelnaudary = castle
+religion = catholic
+culture = occitan
+1144.1.1 = {
+  b_montauban = city
+}
+1244.3.16 = {
+  religion = catholic
+}
+1700.1.1 = {
+  b_lombez = castle
+}

@@ -1,0 +1,12 @@
+title = c_tamralipti
+max_settlements = 4
+b_tamralipti = castle
+b_sagardwip = temple
+culture = bengali
+religion = buddhist
+1700.1.1 = {
+  b_jahajghata = city
+}
+1700.1.1 = {
+  b_chandraketugarh = castle
+}

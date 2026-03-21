@@ -1,0 +1,13 @@
+title = c_tus
+max_settlements = 4
+b_bojnurd = castle
+b_shervan = city
+b_mashhad = temple
+culture = persian
+religion = zoroastrian
+1187.1.1 = {
+  religion = sunni
+}
+1700.1.1 = {
+  b_hasanabad = castle
+}

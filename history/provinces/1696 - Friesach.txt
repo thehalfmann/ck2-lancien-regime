@@ -1,0 +1,17 @@
+title = c_friesach
+b_wolfsberg = tribal
+terrain = marsh
+max_settlements = 4
+culture = slovene
+religion = slavic_pagan
+846.1.1 = {
+  religion = catholic
+  b_petersberg = castle
+  b_sankt_veit = temple
+  b_wolfsberg = city
+  capital = b_petersberg
+}
+1700.1.1 = {
+  culture = german
+  b_sankt_lambrecht = castle
+}

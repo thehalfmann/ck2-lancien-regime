@@ -1,0 +1,24 @@
+1477.1.5 = {
+  de_jure_liege = k_frisia
+  liege = k_frisia
+  holder = 100415
+}
+1700.1.1 = {
+  de_jure_liege = k_frisia
+  vice_royalty = no
+  law = investiture_law_0
+  law = cognatic_succession
+  law = centralization_2
+}
+1815.6.9 = {
+  holder = 114506748
+  liege = k_frisia
+}
+1830.6.9 = {
+  holder = 115380280
+  liege = k_frisia
+}
+1831.7.21 = {
+  holder = 0
+  liege = 0
+}

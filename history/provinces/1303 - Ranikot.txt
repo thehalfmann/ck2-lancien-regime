@@ -1,0 +1,15 @@
+title = c_ranikot
+max_settlements = 4
+b_ranikot = castle
+b_sharusan = city
+culture = sindhi
+religion = hindu
+800.1.1 = {
+  religion = sunni
+}
+1700.1.1 = {
+  b_paat = temple
+}
+1700.1.1 = {
+  b_khudabad = castle
+}

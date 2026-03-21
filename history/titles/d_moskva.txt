@@ -1,0 +1,29 @@
+750.1.1 = {
+  holder = 0
+}
+1246.9.30 = {
+  liege = e_golden_horde
+  holder = 125204
+}
+1248.1.2 = {
+  holder = 125205
+}
+1263.1.2 = {
+  holder = 472843
+}
+1303.3.4 = {
+  holder = 472848
+}
+1325.11.21 = {
+  holder = 472840
+}
+1450.1.1 = {
+  liege = 0
+  holder = 0
+}
+1700.1.1 = {
+  vice_royalty = no
+  law = investiture_law_0
+  law = cognatic_succession
+  law = centralization_2
+}

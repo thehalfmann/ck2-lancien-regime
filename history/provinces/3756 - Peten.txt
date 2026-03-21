@@ -1,0 +1,14 @@
+# County Title
+title = c_peten
+
+# Settlements
+max_settlements = 4
+b_peten = tribal
+b_peten-ii = tribal
+b_peten-iii = temple
+
+# Misc
+culture = putun
+religion = mayan
+
+# History

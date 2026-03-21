@@ -1,0 +1,14 @@
+title = c_toledo
+max_settlements = 5
+b_toledo = castle
+b_madrid = city
+b_talavera = temple
+b_illescas = castle
+culture = visigothic
+religion = catholic
+955.1.1 = {
+  culture = castillan
+}
+1700.1.1 = {
+  b_orgaz = city
+}

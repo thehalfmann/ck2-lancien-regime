@@ -1,0 +1,18 @@
+title = c_karachev
+max_settlements = 3
+b_karachev = tribal
+culture = ilmenian
+religion = slavic_pagan
+867.1.1 = {
+  culture = russian
+}
+988.1.1 = {
+  religion = orthodox
+}
+1150.1.1 = {
+  b_karachev = castle
+  b_orel = temple
+}
+1700.1.1 = {
+  b_bolkhov = city
+}

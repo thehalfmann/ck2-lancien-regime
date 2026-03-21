@@ -1,0 +1,9 @@
+title = c_traungau
+max_settlements = 3
+b_enisiburg = castle
+b_linz = city
+culture = german
+religion = catholic
+1700.1.1 = {
+  b_wels = temple
+}

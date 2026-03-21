@@ -1,0 +1,11 @@
+1665.9.17 = {
+  de_jure_liege  = k_castille
+  liege = k_castille
+  holder = 0
+}
+1700.1.1 = {
+  vice_royalty = no
+  law = investiture_law_0
+  law = cognatic_succession
+  law = centralization_2
+}

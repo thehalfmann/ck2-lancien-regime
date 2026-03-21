@@ -1,0 +1,17 @@
+title = c_syrte
+max_settlements = 4
+b_syrte = tribal
+b_assidr = temple
+culture = maghreb_arabic
+religion = ibadi
+1051.1.1 = {
+  religion = sunni
+  b_syrte = castle
+  b_abuhadi = city
+}
+1168.1.1 = {
+  trade_post = b_ziani
+}
+1700.1.1 = {
+  b_lanuf = castle
+}

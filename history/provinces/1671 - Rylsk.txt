@@ -1,0 +1,18 @@
+title = c_rylsk
+max_settlements = 3
+b_rylsk = tribal
+culture = turkish
+religion = slavic_pagan
+867.1.1 = {
+  culture = russian
+}
+988.1.1 = {
+  religion = orthodox
+  b_vyr = temple
+}
+1152.1.1 = {
+  b_rylsk = castle
+}
+1700.1.1 = {
+  b_krupets = city
+}

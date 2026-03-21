@@ -1,0 +1,62 @@
+1450.1.1 = {
+  liege = 0
+  holder = 0
+}
+1700.1.1 = {
+  vice_royalty = no
+  law = investiture_law_0
+  law = cognatic_succession
+  law = centralization_2
+}
+1815.6.9 = {
+  holder = 119888383
+  liege = e_carpathia
+}
+1830.6.9 = {
+  holder = 110127706
+  liege = e_carpathia
+}
+1845.6.9 = {
+  holder = 111163652
+  liege = e_carpathia
+}
+1860.6.9 = {
+  holder = 119950931
+  liege = e_carpathia
+}
+1875.6.9 = {
+  holder = 110614232
+  liege = e_carpathia
+}
+1890.6.9 = {
+  holder = 113434274
+  liege = e_carpathia
+}
+1905.6.9 = {
+  holder = 115403222
+  liege = e_carpathia
+}
+1918.11.11 = {
+  holder = 116851894
+  liege = k_serbia
+}
+1933.11.11 = {
+  holder = 118391822
+  liege = k_serbia
+}
+1948.11.11 = {
+  holder = 111335896
+  liege = k_serbia
+}
+1963.11.11 = {
+  holder = 111011768
+  liege = k_serbia
+}
+1978.11.11 = {
+  holder = 116477870
+  liege = k_serbia
+}
+1991.7.7 = {
+  holder = 0
+  liege = 0
+}

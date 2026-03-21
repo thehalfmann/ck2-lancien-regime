@@ -1,0 +1,4 @@
+1697.1.1 = {
+  liege = c_kara_khoja
+  holder = 100385
+}

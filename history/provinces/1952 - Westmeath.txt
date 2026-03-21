@@ -1,0 +1,12 @@
+title = c_westmeath
+max_settlements = 3
+b_westmeath = tribal
+b_birr = temple
+culture = irish
+religion = catholic
+1000.1.1 = {
+  b_westmeath = castle
+}
+1700.1.1 = {
+  b_uisnech = city
+}

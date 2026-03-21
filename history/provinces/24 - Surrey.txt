@@ -1,0 +1,16 @@
+title = c_surrey
+max_settlements = 4
+b_lambeth = castle
+b_southwark = temple
+b_woking = city
+culture = saxon
+religion = catholic
+1100.11.11 = {
+  culture = english
+}
+1700.1.1 = {
+  b_farnham = castle
+}
+1700.1.1 = {
+  religion = protestant
+}

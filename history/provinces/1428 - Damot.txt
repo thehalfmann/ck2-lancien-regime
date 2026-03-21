@@ -1,0 +1,15 @@
+title = c_damot
+max_settlements = 4
+b_awasa = tribal
+culture = ethiopian
+religion = miaphysite
+1050.1.1 = {
+  b_awasa = castle
+  b_yirga_chefe = city
+}
+1700.1.1 = {
+  b_malbarde = temple
+}
+1700.1.1 = {
+  b_muger = castle
+}

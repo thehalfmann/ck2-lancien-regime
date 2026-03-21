@@ -1,0 +1,9 @@
+title = c_jharkand
+max_settlements = 2
+b_koriya = castle
+b_kandra = city
+culture = bengali
+religion = buddhist
+1700.1.1 = {
+  religion = hindu
+}

@@ -1,0 +1,4 @@
+1690.10.25 = {
+  liege = d_transylvania
+  holder = 100362
+}

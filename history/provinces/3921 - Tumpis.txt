@@ -1,0 +1,13 @@
+# County Title
+title = c_tumpis
+
+# Settlements
+max_settlements = 4
+b_tumpis = tribal
+b_tumpis-ii = tribal
+
+# Misc
+culture = chimuan
+religion = inti
+
+# History

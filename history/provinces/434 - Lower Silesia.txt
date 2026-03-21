@@ -1,0 +1,24 @@
+title = c_lower_silesia
+terrain = forest
+max_settlements = 5
+b_glogow = tribal
+culture = polish
+religion = slavic_pagan
+990.1.1 = {
+  religion = catholic
+  b_glogow = castle
+  b_krosno = city
+  b_zielonagora = temple
+}
+1250.1.1 = {
+  culture = german
+}
+1700.1.1 = {
+  b_nowogrod = castle
+}
+1700.1.1 = {
+  b_swiebozin = city
+}
+1700.1.1 = {
+  culture = silesian
+}

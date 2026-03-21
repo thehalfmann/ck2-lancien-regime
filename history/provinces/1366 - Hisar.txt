@@ -1,0 +1,17 @@
+title = c_hisar
+max_settlements = 5
+b_asigarh = castle
+b_asika = city
+b_surajkund = temple
+culture = hindustani
+religion = jain
+terrain = plains
+1700.1.1 = {
+  b_rohtak = castle
+}
+1700.1.1 = {
+  b_hisar = city
+}
+1700.1.1 = {
+  religion = hindu
+}

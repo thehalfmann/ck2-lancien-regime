@@ -1,0 +1,18 @@
+title = c_euphrates
+max_settlements = 6
+b_samarra = castle
+b_bayji = city
+b_tagrit = temple
+b_balad = castle
+b_amirli = castle
+culture = assyrian
+religion = nestorian
+1255.1.1 = {
+  remove_settlement = b_tagrit
+}
+1700.1.1 = {
+  b_tagrit = temple
+}
+1700.1.1 = {
+  b_dujail = city
+}

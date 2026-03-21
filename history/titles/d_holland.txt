@@ -1,0 +1,29 @@
+1477.1.5 = {
+  de_jure_liege = k_frisia
+  liege = k_frisia
+  holder = 100415
+}
+1482.3.27 = {
+  holder = 100264
+}
+1506.9.25 = {
+  holder = 100270
+}
+1572.1.1 = {
+  liege = 0
+  holder = 100421
+}
+1585.11.14 = {
+  holder = 100428
+}
+1625.4.23 = {
+  holder = 100204
+}
+1641.11.23 = {
+  set_tribute_suzerain = { who = k_england type = permanent }
+  holder=100010
+  vice_royalty = no
+  law = succ_patrician_elective
+  law = investiture_law_0
+  law = centralization_2
+}

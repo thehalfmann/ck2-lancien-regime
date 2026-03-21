@@ -1,0 +1,17 @@
+title = c_dotawo
+max_settlements = 6
+b_dotawo = castle
+b_jebeladda = city
+b_faras = city
+b_qasribrim = temple
+culture = nubian
+religion = miaphysite
+1700.1.1 = {
+  b_ballana = castle
+}
+1700.1.1 = {
+  b_buhen = castle
+}
+1700.1.1 = {
+  religion = sunni
+}

@@ -1,0 +1,5 @@
+1699.1.1 = {
+	vice_royalty = yes
+  liege = e_arabia
+  holder = 100262
+}

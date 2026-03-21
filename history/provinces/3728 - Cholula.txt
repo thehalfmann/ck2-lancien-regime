@@ -1,0 +1,20 @@
+# County Title
+title = c_cholula
+
+# Settlements
+max_settlements = 5
+b_cholula = tribal
+b_cholula-ii = tribal
+b_cholula-iii = temple
+b_cholula-iv = temple
+
+# Misc
+culture = nahuatl
+religion = aztec
+
+1.1.1 = {
+	build_wonder = wonder_aztec_pyramid
+	set_wonder_stage = 2
+}
+
+# History

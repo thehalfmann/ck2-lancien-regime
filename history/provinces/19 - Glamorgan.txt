@@ -1,0 +1,16 @@
+title = c_glamorgan
+max_settlements = 4
+b_cardiff = castle
+b_llandaff = temple
+culture = welsh
+religion = catholic
+terrain = hills
+1700.1.1 = {
+  b_neath = city
+}
+1700.1.1 = {
+  b_caerphilly = castle
+}
+1700.1.1 = {
+  religion = protestant
+}

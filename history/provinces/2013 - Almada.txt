@@ -1,0 +1,20 @@
+title = c_almada
+max_settlements = 4
+b_palmela = castle
+b_almada = city
+culture = visigothic
+religion = catholic
+850.1.1 = {
+  culture = andalusian_arabic
+  religion = sunni
+}
+1163.1.1 = {
+  culture = portuguese
+  religion = catholic
+}
+1700.1.1 = {
+  b_setubal = temple
+}
+1700.1.1 = {
+  b_sesimbra = castle
+}

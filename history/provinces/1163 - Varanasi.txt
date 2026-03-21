@@ -1,0 +1,21 @@
+title = c_varanasi
+max_settlements = 5
+b_varanasi = castle
+b_sarnath = temple
+b_bhadohi = city
+culture = hindustani
+religion = buddhist
+867.1.1 = {
+  b_sarnath = tp_monastery_1
+  b_sarnath = tp_barracks_1
+  b_sarnath = tp_wall_1
+}
+1700.1.1 = {
+  b_ballia = castle
+}
+1700.1.1 = {
+  b_durga_mandir = city
+}
+1700.1.1 = {
+  religion = hindu
+}

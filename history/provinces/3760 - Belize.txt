@@ -1,0 +1,13 @@
+# County Title
+title = c_belize
+
+# Settlements
+max_settlements = 3
+b_belize = tribal
+b_belize-ii = tribal
+
+# Misc
+culture = mayanx
+religion = mayan
+
+# History

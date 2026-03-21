@@ -1,0 +1,16 @@
+title = c_balkh
+max_settlements = 5
+b_balkh = castle
+b_takhtisangin = temple
+b_alkhanoum = city
+culture = persian
+religion = zoroastrian
+1187.1.1 = {
+  religion = sunni
+}
+1700.1.1 = {
+  b_tiliatepe = castle
+}
+1700.1.1 = {
+  b_surkhkotal = city
+}

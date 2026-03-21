@@ -1,0 +1,188 @@
+song = {
+	name = "thecoronation_titletheme.ogg"
+	song_name = "Coronation"
+	chance = {
+		factor = 1 
+	}
+	volume = 0.55
+}
+
+song = {
+	name = "Flute_Concerto.ogg"
+	song_name = "Flute Concerto"
+	chance = {
+		factor = 1 
+	}
+	volume = 0.55
+}
+
+song = {
+	name = "Follia.ogg"
+	song_name = "Follia"
+	chance = {
+		factor = 1 
+	}
+	volume = 0.55
+}
+
+song = {
+	name = "Winter.ogg"
+	song_name = "Winter"
+	chance = {
+		factor = 1 
+	}
+	volume = 0.55
+}
+
+song = {
+	name = "Symphony_7.ogg"
+	song_name = "Symphony 7"
+	chance = {
+		factor = 1 
+	}
+	volume = 0.55
+}
+
+song = {
+	name = "Prince_Eugenes_March.ogg"
+	song_name = "Prince Eugenes March"
+	chance = {
+		factor = 1 
+	}
+	volume = 0.55
+}
+
+song = {
+	name = "Turkish_March.ogg"
+	song_name = "Turkish March"
+	chance = {
+		factor = 1 
+	}
+	volume = 0.55
+}
+
+song = {
+	name = "world_turned_upsidedown.ogg"
+	song_name = "World Turned Upsidedown"
+	chance = {
+		factor = 1 
+	}
+	volume = 0.55
+}
+
+song = {
+	name = "Air.ogg"
+	song_name = "Air"
+	chance = {
+		factor = 1 
+	}
+	volume = 0.55
+}
+
+song = {
+	name = "Majors_Maggot.ogg"
+	song_name = "Majors Maggot"
+	chance = {
+		factor = 1 
+	}
+	volume = 0.55
+}
+
+song = {
+	name = "Haendel.ogg"
+	song_name = "Haendel"
+	chance = {
+		factor = 1 
+	}
+	volume = 0.55
+}
+
+song = {
+	name = "Hohenfriedberger_March.ogg"
+	song_name = "HohenfriedbergerMarch"
+	chance = {
+		factor = 1 
+	}
+	volume = 0.55
+}
+
+song = {
+	name = "La_Marseillaise.ogg"
+	song_name = "La Marseillaise"
+	chance = {
+		factor = 1 
+	}
+	volume = 0.55
+}
+
+song = {
+	name = "Chant_du_depart.ogg"
+	song_name = "Chant du départ"
+	chance = {
+		factor = 1 
+	}
+	volume = 0.55
+}
+
+song = {
+	name = "Village_Dance.ogg"
+	song_name = "Village Dance"
+	chance = {
+		factor = 1 
+	}
+	volume = 0.55
+}
+
+song = {
+	name = "Prince_Poniatowski_March.ogg"
+	song_name = "Prince Poniatowski March"
+	chance = {
+		factor = 1 
+	}
+	volume = 0.55
+}
+
+song = {
+	name = "Hulls_Victory.ogg"
+	song_name = "Hulls Victory"
+	chance = {
+		factor = 1 
+	}
+	volume = 0.55
+}
+
+song = {
+	name = "Koziutelskis_March.ogg"
+	song_name = "Koziutelskis March"
+	chance = {
+		factor = 1 
+	}
+	volume = 0.55
+}
+
+song = {
+	name = "Yankee_Doodle.ogg"
+	song_name = "Yankee Doodle"
+	chance = {
+		factor = 1 
+	}
+	volume = 0.55
+}
+
+song = {
+	name = "General_Wolfe.ogg"
+	song_name = "General Wolfe"
+	chance = {
+		factor = 1 
+	}
+	volume = 0.55
+}
+
+song = {
+	name = "God_Save_the_Queen.ogg"
+	song_name = "God Save the Queen"
+	chance = {
+		factor = 1 
+	}
+	volume = 0.55
+}

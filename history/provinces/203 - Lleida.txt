@@ -1,0 +1,19 @@
+title = c_lleida
+max_settlements = 4
+b_lleida = castle
+b_cervera = city
+b_solsona = temple
+culture = visigothic
+religion = catholic
+952.1.1 = {
+  culture = catalan
+}
+1164.1.1 = {
+  culture = catalan
+}
+1164.1.1 = {
+  religion = catholic
+}
+1700.1.1 = {
+  b_agramunt = castle
+}

@@ -1,0 +1,23 @@
+title = c_njudung
+max_settlements = 3
+b_hultaby = tribal
+culture = norse
+religion = norse_pagan
+1000.1.1 = {
+  b_hultaby = castle
+}
+1066.1.1 = {
+  culture = swedish
+}
+1123.1.1 = {
+  religion = catholic
+}
+1700.1.1 = {
+  b_vitala = city
+}
+1700.1.1 = {
+  b_komstad = temple
+}
+1700.1.1 = {
+  religion = protestant
+}

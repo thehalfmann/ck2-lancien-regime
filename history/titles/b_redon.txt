@@ -1,0 +1,14 @@
+740.1.1 = {
+  liege = c_nantes
+  holder = 91472
+}
+760.1.1 = {
+  holder = 91473
+}
+770.1.1 = {
+  holder = 0
+}
+1450.1.1 = {
+  holder = 0
+  liege = c_nantes
+}

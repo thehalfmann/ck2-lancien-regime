@@ -1,0 +1,9 @@
+title = c_kutch
+max_settlements = 3
+b_kanthakota = castle
+b_anjar = temple
+culture = gujurati
+religion = jain
+1700.1.1 = {
+  b_dhaneti = city
+}

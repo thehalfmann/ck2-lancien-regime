@@ -1,0 +1,11 @@
+title = c_kamarupanagara
+max_settlements = 5
+b_kamarupanagara = castle
+b_pragyotisapura = city
+b_madan_kamdev = temple
+b_hajo = temple
+culture = assamese
+religion = buddhist
+1700.1.1 = {
+  b_durjaya = castle
+}

@@ -1,0 +1,18 @@
+title = c_vinnytsia
+max_settlements = 2
+b_vinnytsia = tribal
+culture = hungarian
+religion = tengri_pagan
+terrain = steppe
+892.1.1 = {
+  culture = pecheneg
+}
+988.1.1 = {
+  religion = orthodox
+}
+1091.1.1 = {
+  culture = kazakh
+}
+1700.1.1 = {
+  culture = ruthenian
+}

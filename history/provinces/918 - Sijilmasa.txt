@@ -1,0 +1,12 @@
+title = c_sijilmasa
+max_settlements = 3
+b_sijilmasa = castle
+b_tanamouste = temple
+culture = maghreb_arabic
+religion = kharijite
+947.1.1 = {
+  religion = sunni
+}
+1700.1.1 = {
+  b_merzouga = city
+}

@@ -1,0 +1,12 @@
+title = c_godwad
+max_settlements = 5
+b_achalgarh = castle
+b_bhillamala = temple
+b_jalor = city
+b_candravati = castle
+culture = rajput
+religion = jain
+terrain = desert
+1700.1.1 = {
+  b_barodiya = city
+}

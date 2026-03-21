@@ -1,0 +1,10 @@
+title = c_tummana
+max_settlements = 3
+b_tummana = castle
+b_amarkantak = temple
+culture = hindustani
+religion = hindu
+terrain = jungle
+1700.1.1 = {
+  b_manendragarh = city
+}

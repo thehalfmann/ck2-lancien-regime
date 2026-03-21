@@ -1,0 +1,25 @@
+title = c_chernigov
+max_settlements = 5
+b_chernigov = tribal
+culture = severian
+religion = slavic_pagan
+867.1.1 = {
+  culture = russian
+}
+988.1.1 = {
+  religion = orthodox
+}
+1150.1.1 = {
+  b_chernigov = castle
+  b_snov = city
+  b_korop = temple
+}
+1700.1.1 = {
+  b_sosnytsia = castle
+}
+1700.1.1 = {
+  b_mena = city
+}
+1700.1.1 = {
+  culture = ruthenian
+}

@@ -1,0 +1,18 @@
+title = c_plasencia
+max_settlements = 4
+b_plasencia = castle
+b_hervas = city
+b_jaraiz = temple
+culture = visigothic
+religion = catholic
+943.1.1 = {
+  culture = andalusian_arabic
+  religion = sunni
+}
+1240.1.1 = {
+  culture = castillan
+  religion = catholic
+}
+1700.1.1 = {
+  b_lazarza = castle
+}

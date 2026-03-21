@@ -1,0 +1,12 @@
+# County Title
+title = c_moron
+
+# Settlements
+max_settlements = 3
+b_moron = tribal
+b_moron-ii = tribal
+
+# Misc
+culture = castilian
+religion = catholic
+# History

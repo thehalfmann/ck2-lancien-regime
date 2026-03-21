@@ -1,0 +1,24 @@
+title = c_nordland
+max_settlements = 2
+b_rost = tribal
+culture = norse
+religion = norse_pagan
+800.1.1 = {
+  b_rost = tb_shipyard_1
+}
+1000.1.1 = {
+  b_rost = castle
+  b_rost = ca_shipyard_1
+}
+1066.1.1 = {
+  culture = norwegian
+}
+1080.1.1 = {
+  religion = catholic
+}
+1700.1.1 = {
+  b_kabelvag = city
+}
+1700.1.1 = {
+  religion = protestant
+}

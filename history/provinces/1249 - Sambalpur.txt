@@ -1,0 +1,12 @@
+title = c_sambalpur
+max_settlements = 4
+b_ranipur = castle
+b_sambalpur = city
+culture = oriya
+religion = buddhist
+1700.1.1 = {
+  b_samaleswari = temple
+}
+1700.1.1 = {
+  b_rajgangpur = castle
+}

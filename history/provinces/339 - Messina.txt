@@ -1,0 +1,24 @@
+title = c_messina
+max_settlements = 5
+b_taormina = castle
+b_messina = city
+b_lipari = temple
+culture = greek
+religion = orthodox
+terrain = hills
+1109.1.1 = {
+  culture = italian
+  religion = catholic
+}
+1104.1.1 = {
+  trade_post = b_visconti
+}
+1187.1.1 = {
+  b_sanmarcodalunzio = castle
+}
+1285.1.1 = {
+  trade_post = b_embriaco
+}
+1700.1.1 = {
+  b_troinia = city
+}

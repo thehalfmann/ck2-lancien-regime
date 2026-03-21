@@ -1,0 +1,12 @@
+# County Title
+title = c_chikinchel
+
+# Settlements
+max_settlements = 3
+b_chikinchel = tribal
+
+# Misc
+culture = mayanx
+religion = mayan
+
+# History

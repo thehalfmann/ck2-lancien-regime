@@ -1,0 +1,5 @@
+1694.10.14 = {
+  de_jure_liege = d_saxony
+  liege = d_saxony
+  holder = 100250
+}

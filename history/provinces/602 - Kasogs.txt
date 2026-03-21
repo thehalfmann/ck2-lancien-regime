@@ -1,0 +1,17 @@
+title = c_kasogs
+max_settlements = 3
+b_myequape = tribal
+culture = russian
+religion = tengri_pagan
+860.1.1 = {
+  religion = orthodox
+}
+1238.1.1 = {
+  culture = mongol
+}
+1313.1.1 = {
+  religion = sunni
+}
+1700.1.1 = {
+  culture = russian
+}

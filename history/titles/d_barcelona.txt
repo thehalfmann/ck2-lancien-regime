@@ -1,0 +1,5 @@
+1698.2.6 = {
+  liege = e_spain
+  holder = 100389
+	vice_royalty = yes
+}

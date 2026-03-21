@@ -1,0 +1,22 @@
+1559.10.3 = {
+  holder = 100359
+}
+1629.7.11 = {
+  liege = "d_modena"  
+  holder = 100030
+}
+1658.10.14 = {
+  holder = 100026
+}
+1662.7.16 = {
+  holder = 100028
+}
+1694.9.6 = {
+  holder = 100029
+}
+1700.1.1 = {
+  vice_royalty = no
+  law = investiture_law_0
+  law = cognatic_succession
+  law = centralization_2
+}

@@ -1,0 +1,19 @@
+title = c_narke
+max_settlements = 3
+b_goksholm = tribal
+culture = norse
+religion = norse_pagan
+1000.1.1 = {
+  b_goksholm = castle
+  b_orebro = city
+}
+1066.1.1 = {
+  culture = swedish
+  religion = catholic
+}
+1700.1.1 = {
+  b_mosas = temple
+}
+1700.1.1 = {
+  religion = protestant
+}

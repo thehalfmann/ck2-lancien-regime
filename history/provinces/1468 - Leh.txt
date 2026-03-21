@@ -1,0 +1,17 @@
+title = c_leh
+max_settlements = 5
+b_leh = castle
+b_keylong = city
+b_shey = temple
+culture = zhangzhung
+religion = bon
+850.1.1 = {
+  culture = bodpa
+  religion = buddhist
+}
+1700.1.1 = {
+  b_gya = castle
+}
+1700.1.1 = {
+  b_thiksey = city
+}

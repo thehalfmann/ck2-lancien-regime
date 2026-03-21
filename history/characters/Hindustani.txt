@@ -1,0 +1,9 @@
+100141 = {
+	name = "Aurangzeb" 
+	religion = sunni
+	culture = hindustani
+	dynasty = 100044
+	1618.1.1 = {
+	  birth = yes          
+	}   
+  }

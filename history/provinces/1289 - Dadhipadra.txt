@@ -1,0 +1,12 @@
+title = c_dadhipadra
+max_settlements = 3
+b_dadhipadra = castle
+b_pavagadh = castle
+culture = rajput
+religion = jain
+1700.1.1 = {
+  b_champaner = city
+}
+1700.1.1 = {
+  religion = hindu
+}

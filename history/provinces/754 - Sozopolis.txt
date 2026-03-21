@@ -1,0 +1,24 @@
+title = c_sozopolis
+max_settlements = 3
+b_souzopolis = castle
+b_cadi = city
+culture = greek
+religion = orthodox
+740.1.1 = {
+  religion = orthodox
+}
+1097.8.26 = {
+  culture = turkish
+  religion = sunni
+}
+1099.1.1 = {
+  culture = greek
+  religion = orthodox
+}
+1176.9.17 = {
+  culture = turkish
+  religion = sunni
+}
+1700.1.1 = {
+  b_polidorion = temple
+}

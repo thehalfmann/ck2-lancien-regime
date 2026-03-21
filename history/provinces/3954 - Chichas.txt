@@ -1,0 +1,13 @@
+# County Title
+title = c_chichas
+
+# Settlements
+max_settlements = 3
+b_chichas = tribal
+b_chichas-ii = tribal
+
+# Misc
+culture = aimara
+religion = inti
+
+# History

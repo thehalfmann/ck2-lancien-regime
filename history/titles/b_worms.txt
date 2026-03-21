@@ -1,0 +1,4 @@
+1694.1.1 = {
+  holder = 100170
+  liege = c_pfalz
+}

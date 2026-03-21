@@ -1,0 +1,10 @@
+title = c_kundina
+max_settlements = 3
+b_kundina = castle
+b_prithiminagar = temple
+culture = assamese
+religion = buddhist
+terrain = hills
+1700.1.1 = {
+  b_sadiya = city
+}

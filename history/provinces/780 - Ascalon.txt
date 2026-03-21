@@ -1,0 +1,31 @@
+title = c_ascalon
+max_settlements = 5
+b_ascalon = castle
+b_harbijah = city
+b_agelen = temple
+culture = levantine_arabic
+religion = orthodox
+867.1.1 = {
+  religion = sunni
+}
+1246.1.1 = {
+  trade_post = b_dandolo
+}
+1700.1.1 = {
+  b_laforbie = castle
+}
+1700.1.1 = {
+  b_blanchegarde = city
+}
+1700.1.1 = {
+  culture = levantine_arabic
+}
+1918.11.11 = {
+  culture = ashkenazi
+}
+1700.1.1 = {
+  religion = sunni
+}
+1918.11.11 = {
+  religion = jewish
+}

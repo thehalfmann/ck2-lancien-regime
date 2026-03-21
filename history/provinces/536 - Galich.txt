@@ -1,0 +1,26 @@
+title = c_galich
+max_settlements = 5
+b_galich = tribal
+culture = volhynian
+religion = slavic_pagan
+867.1.1 = {
+  culture = russian
+}
+988.1.1 = {
+  religion = orthodox
+  b_galich = castle
+  b_bykovna = city
+  b_kolomyia = temple
+}
+1187.1.1 = {
+  b_vasyliv = castle
+}
+1700.1.1 = {
+  b_rohatin = city
+}
+1700.1.1 = {
+  culture = ruthenian
+}
+1700.1.1 = {
+  religion = catholic
+}

@@ -1,0 +1,14 @@
+title = c_bobo_dyulasso
+max_settlements = 3
+b_bobo_dyulasso = tribal
+culture = manden
+religion = west_african_pagan
+1300.1.1 = {
+  b_bobo_dyulasso = castle
+}
+1700.1.1 = {
+  b_taba = city
+}
+1700.1.1 = {
+  b_sikasso = temple
+}

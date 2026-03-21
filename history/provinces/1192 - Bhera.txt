@@ -1,0 +1,15 @@
+title = c_bhera
+max_settlements = 5
+b_bhera = castle
+b_rampur = city
+b_katasraj = temple
+b_girjakh = temple
+culture = panjabi
+religion = hindu
+terrain = jungle
+1700.1.1 = {
+  b_behak_maken = castle
+}
+1700.1.1 = {
+  religion = sunni
+}

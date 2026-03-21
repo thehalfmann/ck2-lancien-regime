@@ -1,0 +1,13 @@
+# County Title
+title = c_uru_uru
+
+# Settlements
+max_settlements = 3
+b_uru_uru = tribal
+b_uru_uru-ii = tribal
+
+# Misc
+culture = aimara
+religion = inti
+
+# History

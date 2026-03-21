@@ -1,0 +1,15 @@
+title = c_prayaga
+max_settlements = 6
+b_prayaga = castle
+b_daraganj = city
+b_alopibagh = temple
+b_kausambi = temple
+b_chowk = city
+culture = hindustani
+religion = buddhist
+1700.1.1 = {
+  b_kara = castle
+}
+1700.1.1 = {
+  religion = hindu
+}

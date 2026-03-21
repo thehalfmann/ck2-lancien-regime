@@ -1,0 +1,10 @@
+title = c_taradavadi
+max_settlements = 4
+b_taradavadi = castle
+b_viyapura = city
+b_saundatti = temple
+culture = kannada
+religion = jain
+1700.1.1 = {
+  b_hastikundi = castle
+}

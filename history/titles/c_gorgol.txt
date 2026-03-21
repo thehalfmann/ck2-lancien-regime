@@ -1,0 +1,4 @@
+1682.5.7 = {
+  liege = e_russia
+  holder = 100060
+}

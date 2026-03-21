@@ -1,0 +1,13 @@
+# County Title
+title = c_chanchan
+
+# Settlements
+max_settlements = 3
+b_chanchan = tribal
+b_chanchan-ii = tribal
+
+# Misc
+culture = chimuan
+religion = inti
+
+# History

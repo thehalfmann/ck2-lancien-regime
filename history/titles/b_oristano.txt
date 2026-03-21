@@ -1,0 +1,12 @@
+1066.1.1 = {
+  liege = k_pisa
+  holder = 180202
+}
+1078.1.1 = {
+  liege = c_arborea
+  holder = 0
+}
+1450.1.1 = {
+  holder = 0
+  liege = c_arborea
+}

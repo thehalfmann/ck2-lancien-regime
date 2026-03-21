@@ -1,0 +1,16 @@
+title = c_parma
+max_settlements = 5
+b_parma = castle
+b_guastalla = temple
+b_laspezia = city
+culture = lombard
+religion = catholic
+849.1.1 = {
+  culture = italian
+}
+1700.1.1 = {
+  b_massa = castle
+}
+1700.1.1 = {
+  b_fornovo = city
+}

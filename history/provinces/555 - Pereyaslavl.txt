@@ -1,0 +1,20 @@
+title = c_pereyaslavl
+max_settlements = 4
+b_pereyaslavl = tribal
+culture = severian
+religion = slavic_pagan
+833.1.1 = {
+  culture = russian
+}
+988.1.1 = {
+  religion = orthodox
+}
+1150.1.1 = {
+  b_pereyaslavl = castle
+  b_boryspil = temple
+  b_kozelets = city
+  b_baryshivka = castle
+}
+1700.1.1 = {
+  culture = ruthenian
+}

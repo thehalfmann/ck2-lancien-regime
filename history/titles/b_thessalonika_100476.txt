@@ -1,0 +1,8 @@
+1973.5.30 = {
+  holding_dynasty = 100476
+  liege = d_thessalonika
+  holder = 118442430
+}
+1988.5.30 = {
+  holder = 0
+}

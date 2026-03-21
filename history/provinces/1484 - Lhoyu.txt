@@ -1,0 +1,15 @@
+title = c_lhoyu
+max_settlements = 5
+b_lhoyu = castle
+b_anini = city
+culture = bodpa
+religion = buddhist
+1700.1.1 = {
+  b_dambuk = temple
+}
+1700.1.1 = {
+  b_namsai = castle
+}
+1700.1.1 = {
+  b_diyun = city
+}

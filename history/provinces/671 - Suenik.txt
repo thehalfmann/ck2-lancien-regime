@@ -1,0 +1,17 @@
+title = c_suenik
+max_settlements = 3
+b_ghapan = castle
+b_areni = city
+b_noravank = temple
+culture = armenian
+religion = miaphysite
+1320.1.1 = {
+  culture = kurdish
+  religion = sunni
+}
+1700.1.1 = {
+  culture = armenian
+}
+1700.1.1 = {
+  religion = orthodox
+}

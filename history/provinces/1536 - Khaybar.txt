@@ -1,0 +1,10 @@
+title = c_khaybar
+max_settlements = 4
+b_khaybar = castle
+b_badr = city
+b_rabig = temple
+culture = bedouin_arabic
+religion = sunni
+1700.1.1 = {
+  b_yanbu = castle
+}

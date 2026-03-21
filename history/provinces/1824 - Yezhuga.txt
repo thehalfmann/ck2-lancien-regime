@@ -1,0 +1,9 @@
+title = c_yezhuga
+max_settlements = 1
+b_yezhuga = tribal
+culture = samoyed
+religion = finnish_pagan
+terrain = arctic
+1700.1.1 = {
+  religion = orthodox
+}

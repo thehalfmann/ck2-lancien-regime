@@ -1,0 +1,15 @@
+title = c_rutog
+max_settlements = 4
+b_rutog = castle
+b_rawang_rutog = temple
+culture = zhangzhung
+religion = bon
+1050.1.1 = {
+  culture = bodpa
+}
+1700.1.1 = {
+  b_derok = city
+}
+1700.1.1 = {
+  b_gobak = castle
+}

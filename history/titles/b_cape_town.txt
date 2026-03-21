@@ -1,0 +1,6 @@
+1699.11.2={
+	holding_dynasty = 100176
+    liege=c_cape_town
+	holder=100595 #Willem Adriaan van der Stel
+	law = succ_patrician_elective
+}

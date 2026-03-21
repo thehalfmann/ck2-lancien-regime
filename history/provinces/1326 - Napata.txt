@@ -1,0 +1,16 @@
+title = c_napata
+max_settlements = 5
+b_napata = castle
+b_marawi = city
+b_ghazali = temple
+culture = nubian
+religion = miaphysite
+1700.1.1 = {
+  b_kanisah = castle
+}
+1700.1.1 = {
+  b_korti = city
+}
+1700.1.1 = {
+  religion = sunni
+}

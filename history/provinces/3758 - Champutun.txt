@@ -1,0 +1,13 @@
+# County Title
+title = c_champutun
+
+# Settlements
+max_settlements = 3
+b_champutun = tribal
+b_champutun-ii = tribal
+
+# Misc
+culture = mayanx
+religion = mayan
+
+# History

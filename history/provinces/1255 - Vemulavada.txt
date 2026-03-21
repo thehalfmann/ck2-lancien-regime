@@ -1,0 +1,9 @@
+title = c_vemulavada
+max_settlements = 3
+b_kaulas = castle
+b_vemulavada = temple
+culture = telugu
+religion = hindu
+1700.1.1 = {
+  b_kaleshwaram = city
+}

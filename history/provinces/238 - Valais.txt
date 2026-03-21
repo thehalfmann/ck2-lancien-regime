@@ -1,0 +1,10 @@
+title = c_valais
+max_settlements = 3
+b_sitten = temple
+b_greyerz = castle
+b_martigny = city
+culture = french
+religion = catholic
+1700.1.1 = {
+  capital = b_greyerz
+}

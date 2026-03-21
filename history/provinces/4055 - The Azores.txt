@@ -1,0 +1,18 @@
+# County Title
+title = c_the_azores
+
+# Settlements
+max_settlements = 3
+b_the_azores = tribal
+b_the_azores-ii = tribal
+
+# Misc
+culture = azoren
+religion = animism
+
+#1062.1.1 = {
+#	b_the_azores = castle
+#	religion = sunni
+#}
+
+# History

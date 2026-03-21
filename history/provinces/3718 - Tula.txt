@@ -1,0 +1,13 @@
+# County Title
+title = c_tulax
+
+# Settlements
+max_settlements = 3
+b_tulax = tribal
+b_tulax-ii = temple
+
+# Misc
+culture = nahuatl
+religion = aztec
+
+# History

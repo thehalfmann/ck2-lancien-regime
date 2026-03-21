@@ -1,0 +1,40 @@
+914.1.1 = {
+  liege = 0
+  holder = 1059714
+  law = agnatic_succession
+  law = succ_primogeniture
+}
+935.1.1 = {
+  holder = 1059716
+}
+939.1.1 = {
+  holder = 1059717
+}
+944.1.1 = {
+  holder = 1059718
+}
+974.1.1 = {
+  holder = 1059720
+}
+976.1.1 = {
+  holder = 1059721
+}
+1002.1.1 = {
+  holder = 1059722
+}
+1014.1.1 = {
+  holder = 1059722
+}
+1032.1.1 = {
+  holder = 0
+}
+1450.1.1 = {
+  liege = 0
+  holder = 0
+}
+1700.1.1 = {
+  vice_royalty = no
+  law = investiture_law_0
+  law = cognatic_succession
+  law = centralization_2
+}

@@ -1,0 +1,13 @@
+title = c_uchangidurga
+max_settlements = 5
+b_uchangidurga = castle
+b_parivi = city
+b_hemavati = temple
+culture = kannada
+religion = hindu
+1700.1.1 = {
+  b_sira = castle
+}
+1700.1.1 = {
+  b_harihar = city
+}

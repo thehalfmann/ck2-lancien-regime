@@ -1,0 +1,36 @@
+title = c_lykandos
+max_settlements = 4
+b_lykandos = castle
+b_tzamandos = city
+b_comanagene = temple
+terrain = mountain
+culture = greek
+religion = orthodox
+700.1.1 = {
+  religion = orthodox
+}
+910.1.1 = {
+  culture = armenian
+  religion = miaphysite
+}
+1177.1.1 = {
+  culture = turkish
+}
+1177.1.1 = {
+  religion = sunni
+}
+1187.1.1 = {
+  b_germanikeia = city
+}
+1700.1.1 = {
+  culture = armenian
+}
+1918.11.11 = {
+  culture = turkish
+}
+1700.1.1 = {
+  religion = miaphysite
+}
+1918.11.11 = {
+  religion = sunni
+}

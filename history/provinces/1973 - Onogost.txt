@@ -1,0 +1,21 @@
+title = c_onogost
+max_settlements = 3
+b_onogost = tribal
+culture = serbian
+religion = slavic_pagan
+800.1.1 = {
+  b_onogost = castle
+  b_destinik = city
+}
+870.1.1 = {
+  religion = orthodox
+}
+1050.1.1 = {
+  religion = bogomilist
+}
+1200.1.1 = {
+  religion = orthodox
+}
+1700.1.1 = {
+  b_desnik = temple
+}

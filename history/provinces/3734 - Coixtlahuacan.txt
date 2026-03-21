@@ -1,0 +1,12 @@
+# County Title
+title = c_coixtlahuacan
+
+# Settlements
+max_settlements = 3
+b_coixtlahuacan = tribal
+
+# Misc
+culture = mixtec
+religion = aztec
+
+# History

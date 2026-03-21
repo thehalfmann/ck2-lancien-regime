@@ -1,0 +1,6 @@
+1699.5.26 = {
+  holding_dynasty = 100084
+  holder = 100384
+  liege = c_genoa
+  law = succ_patrician_elective
+}

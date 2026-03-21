@@ -1,0 +1,10 @@
+title = c_paro
+max_settlements = 4
+b_paro = castle
+b_kyichu = temple
+b_hungrel = city
+culture = bodpa
+religion = buddhist
+1700.1.1 = {
+  b_taktshang = castle
+}

@@ -1,0 +1,11 @@
+title = c_arigh
+max_settlements = 2
+b_arigh = castle
+culture = maghreb_arabic
+religion = kharijite
+1000.1.1 = {
+  religion = sunni
+}
+1700.1.1 = {
+  b_ajlu = city
+}

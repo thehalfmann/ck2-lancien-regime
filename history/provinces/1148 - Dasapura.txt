@@ -1,0 +1,13 @@
+title = c_dasapura
+max_settlements = 4
+b_dasapura = castle
+b_sondani = city
+b_dharmrajeshwar = temple
+culture = rajput
+religion = jain
+1700.1.1 = {
+  b_hinglajgarh = castle
+}
+1700.1.1 = {
+  religion = hindu
+}

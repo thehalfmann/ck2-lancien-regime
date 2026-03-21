@@ -1,0 +1,21 @@
+title = c_jarva
+max_settlements = 3
+b_viljandi = tribal
+culture = ugricbaltic
+religion = finnish_pagan
+1290.1.1 = {
+  religion = catholic
+  b_viljandi = castle
+  b_alempois = temple
+  b_viljandi = ca_keep_1
+  b_viljandi = ca_militia_barracks_1
+  b_viljandi = ca_wall_1
+  b_viljandi = ca_wall_q_1
+  b_alempois = tp_barracks_1
+}
+1700.1.1 = {
+  b_vaiga = city
+}
+1700.1.1 = {
+  religion = protestant
+}

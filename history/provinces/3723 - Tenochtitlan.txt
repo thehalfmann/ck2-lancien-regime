@@ -1,0 +1,22 @@
+# County Title
+title = c_tenochtitlan
+
+# Settlements
+max_settlements = 6
+b_tenochtitlan = city
+b_tenochtitlan-ii = tribal
+b_tenochtitlan-iii = tribal
+b_tenochtitlan-iv = temple
+b_tenochtitlan-v = temple
+#b_tenochtitlan-vi = temple
+
+1.1.1 = {
+	build_wonder = wonder_aztec_pyramid
+	set_wonder_stage = 4
+}
+
+# Misc
+culture = nahuatl
+religion = aztec
+
+# History

@@ -1,0 +1,9 @@
+title = c_velsk
+max_settlements = 2
+b_velsk = tribal
+culture = samoyed
+religion = finnish_pagan
+terrain = arctic
+1700.1.1 = {
+  religion = orthodox
+}

@@ -1,0 +1,12 @@
+title = c_kanj_rustaq
+max_settlements = 3
+b_diza = castle
+b_baghsur = city
+culture = persian
+religion = buddhist
+1000.1.1 = {
+  religion = sunni
+}
+1700.1.1 = {
+  b_kusak = temple
+}

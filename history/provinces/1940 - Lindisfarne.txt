@@ -1,0 +1,24 @@
+title = c_lindisfarne
+max_settlements = 3
+b_lindisfarne = temple
+b_yeavering = castle
+culture = saxon
+religion = catholic
+875.1.1 = {
+  capital = b_yeavering
+}
+1093.1.1 = {
+  capital = b_lindisfarne
+}
+1100.11.11 = {
+  culture = english
+}
+1121.1.1 = {
+  b_norham = castle
+}
+1700.1.1 = {
+  capital = b_yeavering
+}
+1700.1.1 = {
+  religion = protestant
+}

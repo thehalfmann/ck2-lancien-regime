@@ -1,0 +1,9 @@
+title = c_alqusair
+max_settlements = 3
+b_kosseir = castle
+b_safaga = city
+culture = egyptian_arabic
+religion = miaphysite
+1700.1.1 = {
+  b_abughusun = temple
+}

@@ -1,0 +1,22 @@
+title = c_khaylam
+max_settlements = 4
+b_khaylam = castle
+b_akhsikath = city
+b_wankath = temple
+culture = sogdian
+religion = khurmazta
+900.1.1 = {
+  culture = karluk
+}
+1070.1.1 = {
+  religion = sunni
+}
+1230.1.1 = {
+  culture = mongol
+}
+1700.1.1 = {
+  b_kasan = castle
+}
+1700.1.1 = {
+  culture = kirghiz
+}

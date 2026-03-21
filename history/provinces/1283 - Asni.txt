@@ -1,0 +1,14 @@
+title = c_asni
+max_settlements = 5
+b_asni2 = castle
+b_bhitargaon = temple
+b_kora = city
+b_musanagar = city
+culture = hindustani
+religion = buddhist
+1700.1.1 = {
+  b_shivrajpur = castle
+}
+1700.1.1 = {
+  religion = hindu
+}

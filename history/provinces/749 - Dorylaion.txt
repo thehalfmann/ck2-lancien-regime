@@ -1,0 +1,19 @@
+title = c_dorylaion
+max_settlements = 4
+b_dorylaion = castle
+b_iustinianopolis = city
+b_kotiaion = temple
+culture = greek
+religion = orthodox
+730.1.1 = {
+  religion = orthodox
+}
+1328.1.1 = {
+  culture = turkish
+}
+1328.1.1 = {
+  religion = sunni
+}
+1700.1.1 = {
+  b_orkistos = castle
+}

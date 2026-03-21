@@ -1,0 +1,10 @@
+1488.9.9 = {
+  liege = k_brittany
+  holder = 100416
+}
+1700.1.1 = {
+  vice_royalty = no
+  law = investiture_law_0
+  law = cognatic_succession
+  law = centralization_2
+}

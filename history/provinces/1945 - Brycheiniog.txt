@@ -1,0 +1,11 @@
+title = c_brycheiniog
+max_settlements = 3
+b_brecon = castle
+b_talgarth = city
+b_merthyr_tydfil = temple
+culture = welsh
+religion = catholic
+terrain = hills
+1700.1.1 = {
+  religion = protestant
+}

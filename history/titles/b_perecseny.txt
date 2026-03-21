@@ -1,0 +1,11 @@
+1066.1.1 = {
+  liege = c_bereg
+  holder = 4374
+}
+1080.1.1 = {
+  holder = 0
+}
+1450.1.1 = {
+  holder = 0
+  liege = c_bereg
+}

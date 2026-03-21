@@ -1,0 +1,137 @@
+745.1.1 = {
+  liege = 0
+  holder = 145642
+}
+774.1.1 = {
+  holder = 145643
+}
+817.1.1 = {
+  holder = 145644
+}
+831.1.1 = {
+  holder = 145645
+}
+857.1.1 = {
+  holder = 145646
+}
+889.1.1 = {
+  holder = 145647
+}
+918.1.1 = {
+  holder = 145648
+}
+949.1.1 = {
+  holder = 145649
+}
+953.1.1 = {
+  holder = 145650
+}
+1001.1.1 = {
+  holder = 145651
+}
+1008.1.1 = {
+  holder = 145652
+}
+1019.1.1 = {
+  holder = 145653
+}
+1046.1.1 = {
+  holder = 145654
+}
+1053.1.1 = {
+  holder = 145655
+}
+1102.1.1 = {
+  holder = 145656
+}
+1125.1.1 = {
+  holder = 145657
+}
+1166.1.1 = {
+  holder = 145658
+}
+1201.1.1 = {
+  holder = 145659
+}
+1237.1.1 = {
+  holder = 145660
+}
+1268.1.1 = {
+  holder = 145661
+}
+1299.1.1 = {
+  holder = 145662
+}
+1321.1.1 = {
+  holder = 145663
+}
+1450.1.1 = {
+  liege = 0
+  holder = 0
+}
+1700.1.1 = {
+  vice_royalty = no
+  law = investiture_law_0
+  law = cognatic_succession
+  law = centralization_2
+}
+1815.6.9 = {
+  holder = 118180941
+  liege = k_abyssinia
+}
+1830.6.9 = {
+  holder = 118944483
+  liege = k_abyssinia
+}
+1845.6.9 = {
+  holder = 112951825
+  liege = k_abyssinia
+}
+1860.6.9 = {
+  holder = 115850797
+  liege = k_abyssinia
+}
+1875.6.9 = {
+  holder = 117062451
+  liege = k_abyssinia
+}
+1890.6.9 = {
+  holder = 111743741
+  liege = k_abyssinia
+}
+1905.6.9 = {
+  holder = 118300659
+  liege = k_abyssinia
+}
+1920.6.9 = {
+  holder = 119176056
+  liege = k_abyssinia
+}
+1935.6.9 = {
+  holder = 116078379
+  liege = k_abyssinia
+}
+1950.6.9 = {
+  holder = 119968459
+  liege = k_abyssinia
+}
+1965.6.9 = {
+  holder = 116961419
+  liege = k_abyssinia
+}
+1980.6.9 = {
+  holder = 112848924
+  liege = k_abyssinia
+}
+1995.6.9 = {
+  holder = 115463578
+  liege = k_abyssinia
+}
+2010.6.9 = {
+  holder = 114390979
+  liege = k_abyssinia
+}
+2020.12.31 = {
+  holder = 0
+  liege = 0
+}

@@ -1,0 +1,25 @@
+title = c_tjust
+max_settlements = 3
+b_tornsfall = tribal
+culture = norse
+religion = norse_pagan
+800.1.1 = {
+  b_tornsfall = tb_shipyard_1
+}
+1000.1.1 = {
+  b_tornsfall = castle
+  b_tornsfall = ca_shipyard_1
+}
+1066.1.1 = {
+  culture = swedish
+  religion = catholic
+}
+1700.1.1 = {
+  b_vastervik = city
+}
+1700.1.1 = {
+  b_stegsholm = temple
+}
+1700.1.1 = {
+  religion = protestant
+}

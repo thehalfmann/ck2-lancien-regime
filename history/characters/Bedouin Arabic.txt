@@ -1,0 +1,39 @@
+100549 = {
+	name = "Saif"
+	dynasty = 100139
+	religion = ibadi
+	culture = bedouin_arabic
+	1650.1.1 = {
+	  birth = yes
+	}
+  }
+
+  100550 = {
+	name = "Muhammad"
+	dynasty = 100141
+	religion = shiite
+	culture = bedouin_arabic
+	1637.10.27 = {
+	  birth = yes
+	}
+  }
+
+  100551 = {
+	name = "Jafar ibn Badr"
+	dynasty = 100140
+	religion = shiite
+	culture = bedouin_arabic
+	1650.1.1 = {
+	  birth = yes
+	}
+  }
+  
+  100552 = {
+	name = "Abdallah"
+	dynasty = 100141
+	religion = shiite
+	culture = bedouin_arabic
+	1664.1.1 = {
+	  birth = yes
+	}
+  }

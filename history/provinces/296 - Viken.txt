@@ -1,0 +1,24 @@
+title = c_viken
+max_settlements = 3
+b_bagahus = tribal
+culture = norse
+religion = norse_pagan
+1000.1.1 = {
+  b_bagahus = castle
+  b_kungahalla = city
+  b_bagahus = ca_shipyard_1
+  b_kungahalla = ct_port_1
+}
+1066.1.1 = {
+  culture = norwegian
+  religion = catholic
+}
+1260.1.1 = {
+  trade_post = b_warendorp
+}
+1700.1.1 = {
+  b_svarteborg = temple
+}
+1700.1.1 = {
+  religion = protestant
+}

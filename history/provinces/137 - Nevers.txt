@@ -1,0 +1,10 @@
+title = c_nevers
+max_settlements = 4
+b_nevers = castle
+b_lacharite = temple
+b_courtenay = city
+religion = catholic
+culture = french
+1700.1.1 = {
+  b_donzy = castle
+}

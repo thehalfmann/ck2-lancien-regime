@@ -1,0 +1,9 @@
+100544 = {
+	name = "Idris"
+	dynasty = 100137
+	religion = sunni
+	culture = kanuri
+	1650.1.1 = {
+	  birth = yes
+	}
+  }

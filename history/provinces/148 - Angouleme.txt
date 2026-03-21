@@ -1,0 +1,16 @@
+title = c_angouleme
+max_settlements = 5
+b_jarnac = castle
+b_angouleme = city
+b_bassac = temple
+religion = catholic
+culture = occitan
+1200.1.1 = {
+  b_cognac = city
+}
+1308.1.1 = {
+  culture = french
+}
+1700.1.1 = {
+  b_larochefoucauld = castle
+}

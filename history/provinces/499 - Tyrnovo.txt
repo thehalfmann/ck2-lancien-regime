@@ -1,0 +1,16 @@
+title = c_tyrnovo
+max_settlements = 4
+b_tyrnovo = castle
+b_irinopolis = city
+b_kilifarevski = temple
+culture = bulgarian
+religion = orthodox
+681.1.1 = {
+  religion = slavic_pagan
+}
+865.1.1 = {
+  religion = orthodox
+}
+1700.1.1 = {
+  b_hisarya = castle
+}

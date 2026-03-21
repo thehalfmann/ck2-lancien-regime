@@ -1,0 +1,5 @@
+1688.4.29 = {
+  de_jure_liege = d_brandenburg
+  liege = d_brandenburg
+  holder = 100056
+}

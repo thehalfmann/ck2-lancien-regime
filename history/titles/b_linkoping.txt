@@ -1,0 +1,19 @@
+1216.1.1 = {
+  liege = c_ostergotland
+  holder = 170000
+}
+1220.8.8 = {
+  holder = 450512
+}
+1286.1.1 = {
+  liege = d_finland
+  holder = 33338
+}
+1291.5.25 = {
+  liege = c_ostergotland
+  holder = 0
+}
+1450.1.1 = {
+  holder = 0
+  liege = c_ostergotland
+}

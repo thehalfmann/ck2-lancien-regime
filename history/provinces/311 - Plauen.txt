@@ -1,0 +1,19 @@
+title = c_plauen
+max_settlements = 5
+b_plauen = castle
+b_leipzig = city
+b_merseburg = temple
+culture = german
+religion = slavic_pagan
+1066.1.1 = {
+  religion = catholic
+}
+1700.1.1 = {
+  b_halle = castle
+}
+1700.1.1 = {
+  b_knobelsdorf = city
+}
+1700.1.1 = {
+  religion = protestant
+}

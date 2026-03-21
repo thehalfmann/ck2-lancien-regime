@@ -1,0 +1,230 @@
+100.1.1 = {
+  pentarch = b_roma
+}
+475.1.1 = {
+  holder = 168775
+}
+526.8.30 = {
+  holder = 168786
+}
+534.10.2 = {
+  holder = 168778
+}
+536.12.1 = {
+  holder = 214107
+}
+540.1.1 = {
+  holder = 0
+}
+565.1.1 = {
+  holder = 190124
+  name = LOMBARD_KINGDOM
+  adjective = LOMBARD_KINGDOM_ADJ
+  effect = {
+    set_coa = k_lombardy
+  }
+}
+572.1.1 = {
+  holder = 190168
+}
+574.1.1 = {
+  holder = 190169
+}
+590.1.1 = {
+  holder = 190170
+}
+616.1.1 = {
+  holder = 190173
+}
+626.1.1 = {
+  holder = 190174
+}
+636.1.1 = {
+  holder = 190176
+}
+652.1.1 = {
+  holder = 190177
+}
+653.1.1 = {
+  holder = 190181
+}
+661.1.1 = {
+  holder = 190182
+}
+662.1.1 = {
+  holder = 190185
+}
+662.6.1 = {
+  holder = 190133
+}
+671.1.1 = {
+  holder = 190136
+}
+671.6.1 = {
+  holder = 190185
+}
+688.1.1 = {
+  holder = 190188
+}
+689.1.1 = {
+  holder = 190354
+}
+689.6.1 = {
+  holder = 190188
+}
+700.1.1 = {
+  holder = 190189
+}
+701.1.1 = {
+  holder = 190183
+}
+701.6.1 = {
+  holder = 190189
+}
+702.1.1 = {
+  holder = 190184
+}
+712.1.1 = {
+  holder = 190193
+}
+712.6.1 = {
+  holder = 190196
+}
+744.1.1 = {
+  holder = 190198
+}
+744.6.1 = {
+  holder = 190343
+}
+749.1.1 = {
+  holder = 190331
+}
+756.1.1 = {
+  holder = 190347
+}
+774.1.1 = {
+  holder = 6392
+  law = agnatic_succession
+  reset_name = yes
+  reset_adjective = yes
+  effect = {
+    reset_coa = THIS
+  }
+  set_global_flag = fall_of_lombard_kingdom
+}
+781.1.1 = {
+  holder = 6394
+}
+810.7.8 = {
+  holder = 6396
+}
+818.8.17 = {
+  holder = 90095
+}
+840.6.20 = {
+  holder = 30227
+}
+855.9.20 = {
+  holder = 30228
+}
+875.8.12 = {
+  holder = 90104
+}
+877.10.6 = {
+  holder = 42018
+}
+880.9.29 = {
+  holder = 90105
+}
+888.1.13 = {
+  holder = 71901
+}
+889.1.1 = {
+  holder = 71903
+}
+894.12.12 = {
+  holder = 71904
+}
+898.10.15 = {
+  holder = 71901
+}
+900.1.1 = {
+  holder = 1164
+}
+902.1.1 = {
+  holder = 71901
+}
+902.6.1 = {
+  holder = 1164
+}
+905.6.1 = {
+  holder = 71901
+}
+922.1.1 = {
+  holder = 1144
+}
+924.1.1 = {
+  holder = 7923
+}
+948.4.10 = {
+  holder = 167000
+}
+950.11.22 = {
+  holder = 1108
+}
+961.1.1 = {
+  holder = 1110
+}
+962.1.1 = {
+  holder = 1282
+}
+973.5.7 = {
+  holder = 1286
+}
+1002.1.24 = {
+  holder = 71902
+}
+1014.1.1 = {
+  holder = 1296
+}
+1024.7.13 = {
+  holder = 0
+}
+1530.2.22 = {
+  holder = 100270
+}
+1600.1.1 = {
+  name = "Piedmont-Sardinia"
+  adjective = "Piedmontese-Sardinian"
+}
+1700.1.1 = {
+  holder = 0
+  vice_royalty = no
+  law = investiture_law_0
+  law = cognatic_succession
+  law = crown_authority_1
+  law = centralization_2
+}
+1773.2.20 = {
+  holder = 113878693
+}
+1796.5.24 = {
+  holder = 112813647
+}
+1802.6.4 = {
+  holder = 114865644
+}
+1821.3.12 = {
+  holder = 114476896
+}
+1831.4.27 = {
+  holder = 111035543
+}
+1849.3.23 = {
+  holder = 113672541
+}
+1861.3.17 = {
+  holder = 0
+  name = "North Italy"
+  adjective = "North Italian"
+}

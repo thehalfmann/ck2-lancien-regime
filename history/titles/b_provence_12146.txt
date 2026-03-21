@@ -1,0 +1,8 @@
+2010.6.9 = {
+  holding_dynasty = 12146
+  liege = d_provence
+  holder = 113584139
+}
+2020.12.31 = {
+  holder = 0
+}

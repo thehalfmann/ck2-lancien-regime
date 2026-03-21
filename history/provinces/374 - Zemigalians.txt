@@ -1,0 +1,26 @@
+title = c_zemigalians
+max_settlements = 5
+b_mezotne = tribal
+culture = lettigallish
+religion = baltic_pagan
+1199.1.1 = {
+  religion = catholic
+  b_mezotne = castle
+  b_tervete = temple
+  b_dobele = city
+  b_mezotne = ca_keep_1
+  b_mezotne = ca_militia_barracks_1
+  b_mezotne = ca_wall_1
+  b_mezotne = ca_wall_q_1
+  b_dobele = ct_barracks_1
+  b_tervete = tp_barracks_1
+}
+1700.1.1 = {
+  b_jelgawa = castle
+}
+1700.1.1 = {
+  b_sparnene = city
+}
+1700.1.1 = {
+  religion = protestant
+}

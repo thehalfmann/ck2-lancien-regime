@@ -1,0 +1,21 @@
+title = c_melitene
+max_settlements = 4
+b_melitene = castle
+b_arca = temple
+b_samosata = city
+culture = armenian
+religion = orthodox
+terrain = mountain
+680.1.1 = {
+  religion = orthodox
+}
+1121.1.1 = {
+  culture = kurdish
+  religion = sunni
+}
+1200.1.1 = {
+  culture = turkish
+}
+1700.1.1 = {
+  b_corduene = castle
+}

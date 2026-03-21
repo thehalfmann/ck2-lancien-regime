@@ -1,0 +1,15 @@
+title = c_mahra
+max_settlements = 3
+b_ghaydah = tribal
+culture = bedouin_arabic
+religion = sunni
+1066.1.1 = {
+  b_ghaydah = castle
+  b_nishtun = city
+}
+1700.1.1 = {
+  b_damqwat = temple
+}
+1700.1.1 = {
+  religion = shiite
+}

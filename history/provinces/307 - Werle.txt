@@ -1,0 +1,24 @@
+title = c_werle
+max_settlements = 4
+b_waren = tribal
+culture = german
+religion = slavic_pagan
+800.1.1 = {
+  b_waren = castle
+  b_stralsund = city
+  b_greifswald = temple
+  b_waren = ca_keep_1
+  b_waren = ca_militia_barracks_1
+  b_waren = ca_wall_1
+  b_waren = ca_wall_q_1
+}
+1168.1.1 = {
+  religion = catholic
+}
+1277.1.1 = {
+  trade_post = b_bardewik
+}
+1700.1.1 = {
+  religion = protestant
+  b_tribsees = castle
+}

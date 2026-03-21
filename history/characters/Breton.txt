@@ -1,0 +1,13 @@
+100416 = {
+	name = "Anne" # Anne of Brittany
+	female = yes
+	religion = catholic
+	culture = breton
+	dynasty = 100095
+	1477.1.25 = {
+		birth = yes    
+	}    
+	1514.1.9 = {
+		death = yes     
+	} 
+}

@@ -1,0 +1,32 @@
+768.1.1 = {
+  liege = c_vairata
+}
+809.1.1 = {
+  holder = 188108
+  liege = d_jangladesh
+}
+836.1.1 = {
+  holder = 188109
+}
+840.1.1 = {
+  holder = 188447
+}
+865.1.1 = {
+  holder = 188448
+}
+890.1.1 = {
+  holder = 188449
+}
+915.1.1 = {
+  holder = 188450
+}
+950.1.1 = {
+  holder = 188451
+}
+988.1.1 = {
+  liege = c_vairata
+}
+1450.1.1 = {
+  holder = 0
+  liege = c_vairata
+}

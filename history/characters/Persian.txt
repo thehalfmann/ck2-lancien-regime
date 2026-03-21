@@ -1,0 +1,9 @@
+100142 = {
+	name = "Soltan Hoseyn" 
+	religion = shiite
+	culture = persian
+	dynasty = 100076
+	1668.1.1 = {
+	  birth = yes          
+	}   
+  }

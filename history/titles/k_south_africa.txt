@@ -1,0 +1,9 @@
+1290.1.1={
+	holder=1017000019 #Ntosvelo
+}
+1320.1.1={
+	holder=1017000020 #Nyeleti
+}
+1350.1.1={
+	holder=1017000021 #Rhulani
+}

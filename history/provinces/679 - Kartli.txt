@@ -1,0 +1,16 @@
+title = c_kartli
+max_settlements = 6
+b_narikala = castle
+b_tbilisi = city
+b_svetitskhoveli = temple
+culture = georgian
+religion = orthodox
+1700.1.1 = {
+  b_dmanisi = castle
+}
+1700.1.1 = {
+  b_tmoghvi = city
+}
+1700.1.1 = {
+  b_akhalkalaki = castle
+}

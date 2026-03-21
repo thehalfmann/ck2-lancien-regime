@@ -1,0 +1,58 @@
+1700.1.1 = {
+  vice_royalty = no
+  law = investiture_law_0
+  law = cognatic_succession
+  law = centralization_2
+}
+1843.3.1 = {
+  holder = 115072735
+  liege = e_britannia
+}
+1858.3.1 = {
+  holder = 117749446
+  liege = e_britannia
+}
+1873.3.1 = {
+  holder = 119626636
+  liege = e_britannia
+}
+1888.3.1 = {
+  holder = 115850190
+  liege = e_britannia
+}
+1903.3.1 = {
+  holder = 110937218
+  liege = e_britannia
+}
+1918.3.1 = {
+  holder = 119516184
+  liege = e_britannia
+}
+1933.3.1 = {
+  holder = 114509663
+  liege = e_britannia
+}
+1947.8.15 = {
+  holder = 110413822
+  liege = k_baluchistan
+}
+1962.8.15 = {
+  holder = 118021749
+  liege = k_baluchistan
+}
+1977.8.15 = {
+  holder = 115099348
+  liege = k_baluchistan
+}
+1992.8.15 = {
+  holder = 117093940
+  liege = k_baluchistan
+}
+2007.8.15 = {
+  holder = 112598963
+  liege = k_baluchistan
+}
+2020.12.31 = {
+  holder = 0
+  liege = 0
+}

@@ -1,0 +1,14 @@
+1039.1.1 = {
+  liege = c_salerno
+  holder = 1116
+}
+1052.6.5 = {
+  holder = 30856
+}
+1076.12.13 = {
+  liege = c_amalfi
+}
+1450.1.1 = {
+  holder = 0
+  liege = c_amalfi
+}

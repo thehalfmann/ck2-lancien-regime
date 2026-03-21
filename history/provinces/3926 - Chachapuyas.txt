@@ -1,0 +1,13 @@
+# County Title
+title = c_chachapuyas
+
+# Settlements
+max_settlements = 3
+b_chachapuyas = tribal
+b_chachapuyas-ii = tribal
+
+# Misc
+culture = quechua
+religion = inti
+
+# History

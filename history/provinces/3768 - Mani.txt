@@ -1,0 +1,14 @@
+# County Title
+title = c_mani
+
+# Settlements
+max_settlements = 4
+b_mani = tribal
+b_mani-ii = tribal
+b_mani-ii = tribal
+
+# Misc
+culture = mayanx
+religion = mayan
+
+# History

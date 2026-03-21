@@ -1,0 +1,10 @@
+title = c_quena
+max_settlements = 4
+b_quena = castle
+b_qus = city
+b_qift = temple
+culture = coptic
+religion = miaphysite
+1700.1.1 = {
+  b_luxor = castle
+}

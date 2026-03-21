@@ -1,0 +1,13 @@
+title = c_ludrava
+max_settlements = 4
+b_ludrava = castle
+b_phalavardhika = temple
+b_lanela = city
+culture = rajput
+religion = jain
+1700.1.1 = {
+  b_jaisalmer = castle
+}
+1700.1.1 = {
+  religion = hindu
+}

@@ -1,0 +1,16 @@
+# County Title
+title = c_qusqu
+
+# Settlements
+max_settlements = 6
+b_qusqu = tribal
+b_qusqu-ii = tribal
+b_qusqu-iii = tribal
+b_qusqu-iv = temple
+b_qusqu-v = temple
+
+# Misc
+culture = quechua
+religion = inti
+
+# History

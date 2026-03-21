@@ -1,0 +1,13 @@
+# County Title
+title = c_kitu
+
+# Settlements
+max_settlements = 4
+b_kitu = tribal
+b_kitu-ii = tribal
+
+# Misc
+culture = caran
+religion = inti
+
+# History

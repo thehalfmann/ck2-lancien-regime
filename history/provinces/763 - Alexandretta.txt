@@ -1,0 +1,26 @@
+title = c_alexandretta
+max_settlements = 4
+b_alexandretta = castle
+b_rhosus = temple
+b_portella = city
+culture = greek
+religion = orthodox
+terrain = mountain
+1199.1.1 = {
+  b_sarvantikar = castle
+}
+1220.1.1 = {
+  remove_settlement = b_rhosus
+}
+1264.1.1 = {
+  trade_post = b_ziani
+}
+1268.1.1 = {
+  culture = levantine_arabic
+}
+1268.1.1 = {
+  religion = sunni
+}
+1700.1.1 = {
+  b_rhosus = temple
+}

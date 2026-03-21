@@ -1,0 +1,13 @@
+# County Title
+title = c_ariqipa
+
+# Settlements
+max_settlements = 3
+b_ariqipa = tribal
+b_ariqipa-ii = tribal
+
+# Misc
+culture = aimara
+religion = inti
+
+# History

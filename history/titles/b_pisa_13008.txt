@@ -1,0 +1,8 @@
+2011.3.17 = {
+  holding_dynasty = 13008
+  liege = d_pisa
+  holder = 119178905
+}
+2020.12.31 = {
+  holder = 0
+}

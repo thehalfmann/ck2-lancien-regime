@@ -1,0 +1,23 @@
+title = c_ephesos
+max_settlements = 4
+b_ephesos = castle
+b_miletos = city
+b_lebedos = temple
+culture = greek
+religion = orthodox
+1222.1.1 = {
+  trade_post = b_dandolo
+}
+1328.1.1 = {
+  culture = turkish
+}
+1328.1.1 = {
+  religion = sunni
+}
+1700.1.1 = {
+  b_tralles = castle
+}
+1700.1.1 = {
+  culture = greek
+  religion = orthodox
+}

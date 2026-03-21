@@ -1,0 +1,17 @@
+title = c_djenne
+max_settlements = 5
+b_bindugu = tribal
+b_bandiagara = temple
+culture = soninke
+religion = west_african_pagan
+940.1.1 = {
+  b_bindugu = castle
+  b_djenne = city
+}
+1150.1.1 = {
+  religion = sunni
+  b_mopti = city
+}
+1700.1.1 = {
+  b_korienza = castle
+}

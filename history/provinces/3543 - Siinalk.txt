@@ -1,0 +1,24 @@
+# 3346 - Siinalk
+
+# County Title
+title = c_siinalk
+
+# Settlements
+max_settlements = 3
+b_siinalk = tribal
+#b_megweguntew = tribal
+#b_nataqamtug = tribal
+#b_pitaw = tribal
+#b_lampoq = tribal
+#b_psitnuj = tribal
+#b_gameg = tribal
+
+# Misc
+culture = beothuk
+religion = algic_pagan
+
+# History
+1700.1.1 = {
+	culture = french_canadians
+}
+  

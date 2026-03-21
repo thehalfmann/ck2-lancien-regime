@@ -1,0 +1,20 @@
+title = c_makuria
+max_settlements = 6
+b_kawa = castle
+b_dongola = city
+b_kerma = temple
+b_kerat = city
+culture = nubian
+religion = miaphysite
+1337.1.1 = {
+  b_kawa = castle
+}
+1700.1.1 = {
+  b_affat = castle
+}
+1700.1.1 = {
+  b_qubban = castle
+}
+1700.1.1 = {
+  religion = sunni
+}

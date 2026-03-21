@@ -1,0 +1,8 @@
+1066.1.1 = {
+  liege = c_lorraine
+  holder = 161490
+}
+1450.1.1 = {
+  holder = 0
+  liege = c_lorraine
+}

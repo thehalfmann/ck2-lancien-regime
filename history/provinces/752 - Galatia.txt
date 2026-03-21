@@ -1,0 +1,19 @@
+title = c_galatia
+max_settlements = 4
+b_mikissos = castle
+b_asponia = city
+b_tavia = temple
+culture = greek
+religion = orthodox
+715.1.1 = {
+  religion = iconoclast
+}
+1097.8.26 = {
+  culture = turkish
+}
+1097.8.26 = {
+  religion = sunni
+}
+1700.1.1 = {
+  b_carissa = castle
+}

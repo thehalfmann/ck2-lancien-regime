@@ -1,0 +1,24 @@
+title = c_soli
+max_settlements = 4
+b_doboj = tribal
+culture = croatian
+religion = slavic_pagan
+terrain = mountain
+800.1.1 = {
+  religion = catholic
+  b_doboj = castle
+  b_srebrenik = city
+}
+800.1.1 = {
+  culture = bosnian
+}
+1000.1.1 = {
+  religion = bogomilist
+}
+1700.1.1 = {
+  b_brod = temple
+}
+1700.1.1 = {
+  religion = orthodox
+  b_bilino_polje = castle
+}

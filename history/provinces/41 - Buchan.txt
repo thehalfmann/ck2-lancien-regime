@@ -1,0 +1,20 @@
+title = c_buchan
+max_settlements = 4
+b_ellon = tribal
+b_st_machar = temple
+culture = pictish
+religion = catholic
+terrain = hills
+848.1.1 = {
+  culture = scottish
+}
+1000.1.1 = {
+  b_ellon = castle
+  b_aberdeen = city
+}
+1700.1.1 = {
+  b_banff = castle
+}
+1700.1.1 = {
+  religion = reformed
+}

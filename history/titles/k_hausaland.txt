@@ -1,0 +1,40 @@
+1450.1.1 = {
+  liege = 0
+  holder = 0
+}
+1700.1.1 = {
+  name = Niger
+  adjective = Nigerien
+  vice_royalty = no
+  law = investiture_law_0
+  law = cognatic_succession
+  law = crown_authority_1
+  law = centralization_2
+}
+1960.8.3 = {
+  holder = 118104807
+}
+1974.4.15 = {
+  holder = 116461422
+}
+1987.11.10 = {
+  holder = 112269765
+}
+1993.4.16 = {
+  holder = 111694231
+}
+1996.1.27 = {
+  holder = 116356475
+}
+1999.4.9 = {
+  holder = 118901790
+}
+1999.12.22 = {
+  holder = 113844492
+}
+2010.2.18 = {
+  holder = 118417371
+}
+2011.4.7 = {
+  holder = 119497914
+}

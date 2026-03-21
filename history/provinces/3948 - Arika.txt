@@ -1,0 +1,13 @@
+# County Title
+title = c_arika
+
+# Settlements
+max_settlements = 3
+b_arika = tribal
+b_arika-ii = tribal
+
+# Misc
+culture = aimara
+religion = inti
+
+# History

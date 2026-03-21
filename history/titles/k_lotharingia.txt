@@ -1,0 +1,137 @@
+100.1.1 = {
+  pentarch = b_roma
+}
+481.1.1 = {
+  holder = 168673
+  de_jure_liege = e_france
+}
+511.11.27 = {
+  holder = 168674
+}
+534.1.1 = {
+  holder = 168675
+}
+548.1.1 = {
+  holder = 168676
+}
+555.1.1 = {
+  holder = 168681
+}
+561.11.29 = {
+  holder = 168687
+}
+575.1.1 = {
+  holder = 168691
+}
+595.3.28 = {
+  holder = 168692
+}
+612.1.1 = {
+  holder = 168694
+}
+613.7.1 = {
+  holder = 168695
+}
+622.10.19 = {
+  holder = 168696
+}
+634.1.1 = {
+  holder = 168700
+}
+656.2.1 = {
+  holder = 168699
+}
+657.10.31 = {
+  holder = 168699
+}
+675.1.1 = {
+  holder = 168704
+}
+679.12.23 = {
+  holder = 168703
+}
+691.4.12 = {
+  holder = 168709
+}
+695.1.1 = {
+  holder = 168711
+}
+711.4.14 = {
+  holder = 168712
+}
+715.12.31 = {
+  holder = 168706
+}
+717.1.1 = {
+  holder = 168710
+}
+719.1.1 = {
+  holder = 168706
+}
+721.2.13 = {
+  holder = 168713
+}
+743.2.15 = {
+  holder = 168707
+}
+768.9.24 = {
+  holder = 144999
+  law = agnatic_succession
+}
+769.1.1 = {
+  de_jure_liege = e_france
+}
+771.12.4 = {
+  holder = 6392
+}
+817.1.1 = {
+  holder = 30227
+  law = agnatic_succession
+}
+855.8.22 = {
+  holder = 144998
+  name = LOTHARINGIA
+  adjective = LOTHARINGIA_ADJ
+  set_global_flag = middle_francia_renamed
+}
+867.1.1 = {
+  de_jure_liege = e_hre
+}
+869.8.8 = {
+  holder = 90104
+}
+877.6.10 = {
+  holder = 42019
+}
+882.1.20 = {
+  holder = 90105
+}
+888.1.1 = {
+  holder = 7945
+}
+895.1.1 = {
+  holder = 144997
+}
+900.8.13 = {
+  holder = 7949
+}
+911.9.20 = {
+  holder = 90111
+}
+923.1.1 = {
+  holder = 0
+}
+1450.1.1 = {
+  liege = 0
+  holder = 0
+}
+1700.1.1 = {
+  vice_royalty = no
+  law = investiture_law_0
+  law = cognatic_succession
+  law = crown_authority_1
+  law = centralization_2
+}
+1806.8.6 = {
+  de_jure_liege = e_germany
+}

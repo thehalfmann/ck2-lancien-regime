@@ -1,0 +1,32 @@
+title = c_brno
+max_settlements = 4
+b_veligrad = tribal
+b_rajhrad = temple
+culture = slovieni
+religion = slavic_pagan
+842.1.1 = {
+  religion = catholic
+}
+800.1.1 = {
+  b_veligrad = castle
+  b_mikulcice = city
+}
+907.1.1 = {
+  b_brno = castle
+  capital = b_brno
+  remove_settlement = b_veligrad
+  remove_settlement = b_mikulcice
+}
+1030.1.1 = {
+  b_hodonin = city
+}
+1103.1.1 = {
+  culture = bohemian
+}
+1252.1.1 = {
+  b_zdar = temple
+  remove_settlement = b_rajhrad
+}
+1700.1.1 = {
+  b_veligrad = castle
+}

@@ -1,0 +1,12 @@
+title = c_alania
+max_settlements = 5
+b_vovnushki = tribal
+b_arkhyz = temple
+culture = russian
+religion = tengri_pagan
+860.1.1 = {
+  religion = orthodox
+}
+1700.1.1 = {
+  religion = sunni
+}

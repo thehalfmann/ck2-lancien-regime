@@ -1,0 +1,21 @@
+title = c_dege
+max_settlements = 5
+b_dege = castle
+b_dzongsar = temple
+culture = tangut
+religion = bon
+700.1.1 = {
+  culture = bodpa
+}
+800.1.1 = {
+  religion = buddhist
+}
+1700.1.1 = {
+  b_palpung = city
+}
+1700.1.1 = {
+  b_dama = castle
+}
+1700.1.1 = {
+  b_baiya = city
+}

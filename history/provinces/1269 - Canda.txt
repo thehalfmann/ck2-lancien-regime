@@ -1,0 +1,13 @@
+title = c_canda
+max_settlements = 4
+b_canda = castle
+b_ballarpur = city
+b_nagbhid = temple
+culture = telugu
+religion = jain
+1066.1.1 = {
+  religion = hindu
+}
+1700.1.1 = {
+  b_rajura = castle
+}

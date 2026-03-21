@@ -1,0 +1,11 @@
+title = c_quzdar
+max_settlements = 2
+b_quzdar = castle
+culture = sindhi
+religion = buddhist
+800.1.1 = {
+  religion = sunni
+}
+1700.1.1 = {
+  b_bodein = city
+}

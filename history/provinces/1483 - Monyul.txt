@@ -1,0 +1,13 @@
+title = c_monyul
+max_settlements = 5
+b_tawang = castle
+b_itanagar = city
+b_sepla = temple
+culture = bodpa
+religion = bon
+1700.1.1 = {
+  b_bameng = castle
+}
+1700.1.1 = {
+  b_bomdila = city
+}

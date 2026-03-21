@@ -1,0 +1,21 @@
+title = "c_el-arish"
+terrain = hills
+max_settlements = 2
+b_arish = castle
+culture = levantine_arabic
+religion = miaphysite
+867.1.1 = {
+  religion = sunni
+}
+909.1.1 = {
+  religion = shiite
+}
+1171.1.1 = {
+  religion = sunni
+}
+1272.1.1 = {
+  trade_post = b_faliero
+}
+1700.1.1 = {
+  b_tukkot = city
+}

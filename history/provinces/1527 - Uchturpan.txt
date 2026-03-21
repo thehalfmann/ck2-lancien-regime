@@ -1,0 +1,15 @@
+title = c_uchturpan
+max_settlements = 3
+b_uqturpan = castle
+b_yezheguan = city
+culture = tocharian
+religion = buddhist
+900.1.1 = {
+  culture = uyghur
+}
+1006.1.1 = {
+  religion = sunni
+}
+1700.1.1 = {
+  b_jizhuoguan = temple
+}

@@ -1,0 +1,9 @@
+1665.9.17 = {
+  liege = e_spain
+  holder=100578
+  set_flag = colony_test
+  law = investiture_law_0
+  law = cognatic_succession
+  law = crown_authority_1
+  law = centralization_2
+}

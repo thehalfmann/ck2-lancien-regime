@@ -1,0 +1,19 @@
+title = c_moskva
+max_settlements = 4
+b_moskva = tribal
+b_mytishchi = temple
+culture = meshchera
+religion = finnish_pagan
+988.1.1 = {
+  religion = orthodox
+}
+1147.1.1 = {
+  b_moskva = castle
+  b_podolsk = city
+}
+1200.1.1 = {
+  culture = russian
+}
+1700.1.1 = {
+  b_istra = castle
+}

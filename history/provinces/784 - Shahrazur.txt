@@ -1,0 +1,15 @@
+title = c_shahrazur
+max_settlements = 3
+b_shahrazur = castle
+b_sanda = city
+culture = kurdish
+religion = zoroastrian
+900.1.1 = {
+  religion = sunni
+}
+1700.1.1 = {
+  b_saqqez = temple
+}
+1700.1.1 = {
+  religion = shiite
+}

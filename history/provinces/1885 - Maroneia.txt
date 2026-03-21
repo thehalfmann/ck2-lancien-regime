@@ -1,0 +1,13 @@
+title = c_maroneia
+max_settlements = 4
+b_xantheia = castle
+b_maroneia = city
+b_mosynopolis = temple
+culture = greek
+religion = orthodox
+1181.1.1 = {
+  trade_post = b_dandolo
+}
+1700.1.1 = {
+  b_komotini = castle
+}

@@ -1,0 +1,17 @@
+title = c_kostroma
+max_settlements = 3
+b_kostroma = tribal
+culture = mordvin
+religion = finnish_pagan
+terrain = forest
+1087.1.2 = {
+  religion = orthodox
+  culture = russian
+}
+1152.1.1 = {
+  b_kostroma = castle
+  b_plyos = city
+}
+1700.1.1 = {
+  b_sudislavl = temple
+}

@@ -1,0 +1,22 @@
+title = c_azerbaijan
+max_settlements = 4
+b_urmiah = castle
+b_kapalak = city
+b_takhtesuleiman = temple
+culture = armenian
+religion = miaphysite
+820.1.1 = {
+  culture = kurdish
+}
+820.1.1 = {
+  religion = sunni
+}
+1320.1.1 = {
+  religion = shiite
+}
+1700.1.1 = {
+  b_bastam = castle
+}
+1700.1.1 = {
+  culture = turkish
+}

@@ -1,0 +1,13 @@
+title = c_spoleto
+max_settlements = 4
+b_spoleto = castle
+b_foligno = city
+b_terni = temple
+culture = lombard
+religion = catholic
+849.1.1 = {
+  culture = italian
+}
+1700.1.1 = {
+  b_nursia = castle
+}

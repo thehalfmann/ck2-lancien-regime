@@ -1,0 +1,42 @@
+1031.1.1 = {
+  holder = 45000
+  liege = 0
+}
+1043.1.1 = {
+  holder = 45001
+}
+1065.1.1 = {
+  holder = 20852
+}
+1070.1.1 = {
+  holder = 0
+}
+1144.1.1 = {
+  holder = 73665
+  liege = 0
+}
+1145.1.1 = {
+  holder = 73181
+}
+1145.7.1 = {
+  holder = 73665
+}
+1146.1.1 = {
+  holder = 155072
+}
+1148.1.1 = {
+  holder = 0
+}
+1212.7.16 = {
+  de_jure_liege = k_castille
+}
+1450.1.1 = {
+  liege = 0
+  holder = 0
+}
+1700.1.1 = {
+  vice_royalty = no
+  law = investiture_law_0
+  law = cognatic_succession
+  law = centralization_2
+}

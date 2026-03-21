@@ -1,0 +1,15 @@
+title = c_kalanjara
+max_settlements = 5
+b_kalinjar = castle
+b_khajuraho = temple
+b_jayapura = city
+b_bhatta = temple
+culture = hindustani
+religion = buddhist
+terrain = jungle
+1700.1.1 = {
+  b_panna = castle
+}
+1700.1.1 = {
+  religion = hindu
+}

@@ -1,0 +1,23 @@
+title = c_slutsk
+max_settlements = 4
+b_slutsk = tribal
+culture = volhynian
+religion = slavic_pagan
+terrain = marsh
+867.1.1 = {
+  culture = russian
+}
+988.1.1 = {
+  religion = orthodox
+}
+1150.1.1 = {
+  b_slutsk = castle
+  b_gomel = temple
+  b_mazyr = city
+}
+1700.1.1 = {
+  b_rechytsa = castle
+}
+1700.1.1 = {
+  culture = ruthenian
+}

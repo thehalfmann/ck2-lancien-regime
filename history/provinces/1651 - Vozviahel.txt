@@ -1,0 +1,22 @@
+title = c_vozviahel
+max_settlements = 3
+b_vozvyahel = tribal
+culture = volhynian
+religion = slavic_pagan
+terrain = plains
+867.1.1 = {
+  culture = russian
+}
+988.1.1 = {
+  religion = orthodox
+}
+1150.1.1 = {
+  b_vozvyahel = castle
+  b_korets = city
+}
+1700.1.1 = {
+  b_horodnytsia = temple
+}
+1700.1.1 = {
+  culture = ruthenian
+}

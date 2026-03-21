@@ -1,0 +1,23 @@
+title = c_novogrodek
+max_settlements = 3
+b_novogrodek = tribal
+culture = volhynian
+religion = slavic_pagan
+867.1.1 = {
+  culture = russian
+}
+988.1.1 = {
+  religion = orthodox
+}
+1150.1.1 = {
+  b_novogrodek = castle
+}
+1252.1.1 = {
+  b_slonim = city
+}
+1700.1.1 = {
+  b_lida = temple
+}
+1700.1.1 = {
+  culture = ruthenian
+}

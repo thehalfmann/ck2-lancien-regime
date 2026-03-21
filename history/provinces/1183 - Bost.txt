@@ -1,0 +1,13 @@
+title = c_bost
+max_settlements = 4
+b_kandahar = castle
+b_bost = city
+b_sangin = temple
+culture = afghan
+religion = zun_pagan
+860.1.1 = {
+  religion = sunni
+}
+1700.1.1 = {
+  b_gereshk = castle
+}

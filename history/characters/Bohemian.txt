@@ -1,0 +1,8 @@
+100089 = {
+	name = "Johann Ernst von Thun und Hohenstein"  
+	religion = catholic
+	culture = bohemian
+	1643.7.3 = {
+	  birth = yes   
+	} 
+  }

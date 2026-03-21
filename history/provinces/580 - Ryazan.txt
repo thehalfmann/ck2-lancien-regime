@@ -1,0 +1,30 @@
+title = c_ryazan
+max_settlements = 4
+b_ryazan = tribal
+culture = meshchera
+religion = finnish_pagan
+terrain = plains
+867.1.1 = {
+  culture = russian
+  religion = slavic_pagan
+}
+988.1.1 = {
+  religion = orthodox
+}
+1150.1.1 = {
+  b_ryazan = castle
+  b_pereyaslavl_ryazanski = city
+  b_krasnoye = temple
+  b_ryazan = ca_keep_1
+  b_ryazan = ca_wall_1
+}
+1237.12.21 = {
+  capital = b_pereyaslavl_ryazanski
+  remove_settlement = b_ryazan
+}
+1700.1.1 = {
+  b_ryazan = castle
+}
+1700.1.1 = {
+  b_lukhovitsy = castle
+}

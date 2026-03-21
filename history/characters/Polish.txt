@@ -1,0 +1,233 @@
+100061 = {
+	name = "August" # Augustus II the Strong
+	religion = protestant
+	culture = german
+	dynasty = 100019
+	father = 100133
+	mother = 100134
+	martial = 4
+	diplomacy = 2
+	intrigue = 2
+	stewardship = 3  
+	disallow_random_traits = yes
+	trait = "skilled_tactician"
+	trait = "ambitious"
+	trait = "strong"
+	trait = "lustful"
+	1670.5.12 = {
+	  birth = yes   
+	}
+	1693.1.20 = {
+		  add_spouse=100130
+	}      
+	1697.1.1={
+	  culture="polish"
+	  religion="catholic"
+	}    
+	1694.1.1 = {  
+	  effect={c_100496={add_lover=ROOT}}    
+	}    
+	1696.1.1 = {  
+	  effect = {remove_lover = 100496}  
+	}   
+	1698.8.1 = {
+	  effect = { add_alliance = { who = 100021 years = 5 } }
+	  add_claim = d_livonia
+	  add_claim = c_jersika
+	  add_claim = c_talava
+	  add_claim = c_riga
+	  add_claim = c_lettigalians
+	  add_claim = c_dorpat
+	}
+  }
+
+100092 = {
+	name = "Teresa Kunegunda" # Theresa Kunegunda Sobieska
+	female = yes
+	religion = catholic
+	culture = polish
+	dynasty = 100034
+	father = 100095
+	mother = 100096
+	1676.3.4 = {
+	  birth = yes   
+	} 
+  }
+
+  100095 = {
+	name = "Jan" # John III Sobieski
+	religion = catholic
+	culture = polish
+	dynasty = 100034
+	1629.8.17 = {
+	  birth = yes  
+	}
+	1670.7.14 = {
+	  add_spouse=100096   
+	}    
+	1696.6.17 = {
+	  death = yes        
+	} 
+  }
+
+  100097 = {
+	name = "Jakub Ludwik Henryk" # James Louis Sobieski
+	religion = catholic
+	culture = polish
+	dynasty = 100034
+	father = 100095
+	mother = 100096
+	1667.11.2 = {
+	  birth = yes   
+	}
+	1691.2.8 = {
+	  add_spouse=100166       
+	} 
+  }
+
+  100098 = {
+	name = "Aleksander Benedykt" # Aleksander Benedykt Sobieski
+	religion = catholic
+	culture = polish
+	dynasty = 100034
+	father = 100095
+	mother = 100096
+	1677.7.9 = {
+	  birth = yes   
+	} 
+  }
+
+  100099 = {
+	name = "Konstanty W?adys?aw" # Konstanty W?adys?aw
+	religion = catholic
+	culture = polish
+	dynasty = 100034
+	father = 100095
+	mother = 100096
+	1680.5.1 = {
+	  birth = yes   
+	} 
+  }
+
+  100162 = {
+	name = "Anna Katarzyna Konstancja" # Anna Catherine Constance Vasa
+	female = yes
+	religion = catholic
+	culture = polish
+	dynasty = 100049
+	father = 100304
+	mother  = 100305
+	1619.8.7 = {
+	  birth = yes
+	} 
+	1651.10.8 = {
+	  death = yes      
+	}
+  }
+
+100167 = {
+	name = "Maria Karolina" # Maria Karolina Sobieska
+	female = yes
+	religion = catholic
+	culture = polish
+	dynasty = 100034
+	father = 100097
+	mother = 100166
+	1697.1.25 = {
+		birth = yes
+	}
+}
+
+  100193 = {
+	name = "Micha? Korybut" # Micha? Korybut Wi?niowiecki
+	religion = catholic
+	culture = polish
+	dynasty = 100052
+	1640.5.31 = {
+	  birth = yes
+	} 
+	1670.2.24 = {
+	   add_spouse = 100191
+	}
+	  1673.2.27 = {
+	  death = yes 
+	}
+  }
+
+  100306 = {
+	name = "Jan Kazimierz" # John II Casimir Vasa
+	religion = catholic
+	culture = polish
+	dynasty = 100049
+	father = 100303
+	mother  = 100305
+	1609.3.22 = {
+	  birth = yes 
+	}
+	1672.12.16 = {
+	 death = yes   
+	}
+  }
+
+  100307 = {
+	name = "W?adys?aw" # W?adys?aw IV Vasa
+	religion = catholic
+	culture = polish
+	dynasty = 100049
+	father = 100304
+	mother  = 100302
+	1595.6.9 = {
+	  birth = yes 
+	}
+	1637.9.12 = {
+	  add_spouse = 100320
+	}
+	1648.5.20 = {
+	 death = yes   
+	}
+  }
+
+  100308 = {
+	name = "Jan Albert" # John Albert Vasa
+	religion = catholic
+	culture = polish
+	dynasty = 100049
+	father = 100304
+	mother  = 100305
+	1612.6.25 = {
+	  birth = yes 
+	}
+	1634.12.29 = {
+	 death = yes   
+	}
+  }
+
+  100309 = {
+	name = "Karol Ferdynand" # Karol Ferdynand Vasa
+	religion = catholic
+	culture = polish
+	dynasty = 100049
+	father = 100304
+	mother  = 100305
+	1613.10.13 = {
+	  birth = yes 
+	}
+	1655.5.9 = {
+	 death = yes    
+	}
+  }
+  
+  100321 = {
+	name = "Zygmunt Kazimierz" # Sigismund Casimir Vasa
+	religion = catholic
+	culture = polish
+	dynasty = 100049
+	father = 100307
+	mother = 100320
+	1640.4.1 = {
+	  birth = yes 
+	}
+	1647.8.9 = {
+	 death = yes   
+	}
+  }

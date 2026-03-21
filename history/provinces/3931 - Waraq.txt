@@ -1,0 +1,13 @@
+# County Title
+title = c_waraq
+
+# Settlements
+max_settlements = 3
+b_waraqq = tribal
+b_waraq-ii = tribal
+
+# Misc
+culture = quechua
+religion = inti
+
+# History

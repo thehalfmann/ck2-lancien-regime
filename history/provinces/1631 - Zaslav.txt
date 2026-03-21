@@ -1,0 +1,23 @@
+title = c_zaslav
+max_settlements = 4
+b_zaslav = tribal
+culture = ruthenian
+religion = slavic_pagan
+867.1.1 = {
+  culture = russian
+}
+988.1.1 = {
+  religion = orthodox
+  b_zaslav = castle
+  b_kremyanets = city
+  b_plisnesk = temple
+}
+1700.1.1 = {
+  b_buzhesk = castle
+}
+1700.1.1 = {
+  culture = ruthenian
+}
+1700.1.1 = {
+  religion = catholic
+}

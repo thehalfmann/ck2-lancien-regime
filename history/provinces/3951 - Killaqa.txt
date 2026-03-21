@@ -1,0 +1,13 @@
+# County Title
+title = c_killaqa
+
+# Settlements
+max_settlements = 3
+b_killaqa = tribal
+b_killaqa-ii = tribal
+
+# Misc
+culture = aimara
+religion = inti
+
+# History

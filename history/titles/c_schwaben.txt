@@ -1,0 +1,4 @@
+1677.6.23 = {
+  liege = d_swabia
+  holder = 100247
+}

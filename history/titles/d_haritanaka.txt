@@ -1,0 +1,50 @@
+1700.1.1 = {
+  vice_royalty = no
+  law = investiture_law_0
+  law = cognatic_succession
+  law = centralization_2
+}
+1815.6.9 = {
+  holder = 115298552
+  liege = e_rajastan
+}
+1818.6.3 = {
+  holder = 116216730
+  liege = k_delhi
+}
+1833.6.3 = {
+  holder = 115913121
+  liege = k_delhi
+}
+1848.6.3 = {
+  holder = 119644060
+  liege = k_delhi
+}
+1863.6.3 = {
+  holder = 112548576
+  liege = k_delhi
+}
+1878.6.3 = {
+  holder = 117833252
+  liege = k_delhi
+}
+1893.6.3 = {
+  holder = 113819168
+  liege = k_delhi
+}
+1908.6.3 = {
+  holder = 111404641
+  liege = k_delhi
+}
+1923.6.3 = {
+  holder = 118954993
+  liege = k_delhi
+}
+1938.6.3 = {
+  holder = 119198841
+  liege = k_delhi
+}
+1947.8.15 = {
+  holder = 0
+  liege = 0
+}

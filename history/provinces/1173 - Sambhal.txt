@@ -1,0 +1,14 @@
+title = c_sambhal
+max_settlements = 5
+b_sambhal = castle
+b_tattandapura = city
+b_ujhani = temple
+b_amroha = castle
+culture = hindustani
+religion = buddhist
+1700.1.1 = {
+  b_sirsi = city
+}
+1700.1.1 = {
+  religion = hindu
+}

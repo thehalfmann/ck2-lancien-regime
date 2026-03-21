@@ -1,0 +1,22 @@
+title = c_medelike
+max_settlements = 4
+b_melk = tribal
+culture = slovieni
+religion = slavic_pagan
+846.1.1 = {
+  culture = german
+  religion = catholic
+  b_zelking = castle
+  b_melk = city
+  b_stpolten = city
+  capital = b_zelking
+}
+930.1.1 = {
+  b_zelking = tribal
+}
+950.1.1 = {
+  b_zelking = castle
+}
+1700.1.1 = {
+  b_ybbs = temple
+}

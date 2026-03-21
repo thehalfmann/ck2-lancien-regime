@@ -1,0 +1,70 @@
+
+decisions = {
+
+	form_united_kingdom = {
+		is_high_prio = yes
+			potential = {
+				OR = {
+					has_landed_title = k_england
+					has_landed_title = k_wales
+					has_landed_title = k_scotland
+					has_landed_title = k_ireland
+				}
+				e_britannia = {
+					has_holder = no
+				}
+				is_feudal = yes
+			}
+			
+			allow = {
+				prestige = 1000
+				wealth = 500	
+				is_council_content = yes	
+				war = no
+				prisoner = no
+				in_revolt = no	
+				ROOT = {
+					has_regent = no
+				}
+				OR = {
+					has_landed_title = k_england
+					completely_controls = k_england
+				}
+				OR = {
+					has_landed_title = k_wales
+					completely_controls = k_wales
+				}
+				OR = {	
+					has_landed_title = k_scotland
+					completely_controls = k_scotland
+				}
+				OR = {
+					has_landed_title = k_ireland
+					completely_controls = k_ireland
+				}
+				hidden_tooltip = {
+					NOT = {
+						ROOT = {
+							has_character_flag = event_pause
+						}
+					}
+				}
+			}
+			effect = {
+				wealth = -500	
+				prestige = 500
+				narrative_event = { id = ck2expanded.0003}
+				hidden_tooltip = {
+					set_character_flag = event_pause
+				}
+			}
+	
+			revoke_allowed = {
+			always = no #Not used in vanilla
+			}
+		
+			ai_will_do = {
+				factor = 1
+				}
+			}
+		}

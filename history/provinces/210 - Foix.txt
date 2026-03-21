@@ -1,0 +1,16 @@
+title = c_foix
+max_settlements = 4
+b_foix = castle
+b_stgaudens = temple
+b_mirepoix = city
+religion = catholic
+culture = visigothic
+867.1.1 = {
+  culture = occitan
+}
+1244.3.16 = {
+  religion = catholic
+}
+1700.1.1 = {
+  b_pamiers = castle
+}

@@ -1,0 +1,26 @@
+#trade_route = {
+#   wealth = 197
+#	}
+#	trade_post_display_trigger = {
+#		OR = {
+#			province_id = 32
+#			province_id = 3631
+#		}
+#	}
+#	modifier = {
+#	castle_tax_modifier = 0.10
+#	city_tax_modifier = 0.10
+#	temple_tax_modifier = 0.10
+#	tribal_tax_modifier = 0.10
+#	trade_route_value = 15
+#	local_movement_speed = 0.20
+#	tech_growth_modifier = 0.20
+#	icon = 4
+#}
+#	start = {
+#        32
+#}
+#	# London Boston path
+#	path = {
+#            32 965 966 967 968 991 3004 3005 3083 4052 3082 3080 2999 3631
+#}

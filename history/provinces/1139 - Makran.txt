@@ -1,0 +1,15 @@
+title = c_makran
+max_settlements = 4
+b_al_haur = castle
+b_kiz = city
+culture = baloch
+religion = zoroastrian
+800.1.1 = {
+  religion = sunni
+}
+1700.1.1 = {
+  b_ormara = temple
+}
+1700.1.1 = {
+  b_kannazbun = castle
+}

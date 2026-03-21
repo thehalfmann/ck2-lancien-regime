@@ -1,0 +1,10 @@
+title = c_sagar
+max_settlements = 3
+b_bagavadi = castle
+b_sagar = city
+culture = kannada
+religion = hindu
+terrain = jungle
+1700.1.1 = {
+  b_pattadakal = temple
+}

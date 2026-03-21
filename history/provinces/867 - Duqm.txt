@@ -1,0 +1,11 @@
+title = c_duqm
+max_settlements = 3
+b_nizwa = castle
+culture = bedouin_arabic
+religion = ibadi
+1700.1.1 = {
+  b_duqm = city
+}
+1700.1.1 = {
+  b_aljazir = temple
+}

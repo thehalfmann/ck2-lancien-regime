@@ -1,0 +1,13 @@
+# County Title
+title = c_punu
+
+# Settlements
+max_settlements = 4
+b_punu = tribal
+b_punu-ii = tribal
+
+# Misc
+culture = aimara
+religion = inti
+
+# History

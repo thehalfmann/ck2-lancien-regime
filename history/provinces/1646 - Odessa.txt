@@ -1,0 +1,21 @@
+title = c_odessa
+max_settlements = 1
+b_odessa = tribal
+culture = volhynian
+religion = slavic_pagan
+892.1.1 = {
+  culture = pecheneg
+  religion = tengri_pagan
+}
+1171.1.1 = {
+  culture = kazakh
+}
+1238.1.1 = {
+  culture = russian
+}
+1238.1.1 = {
+  religion = orthodox
+}
+1700.1.1 = {
+  culture = ruthenian
+}

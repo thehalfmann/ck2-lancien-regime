@@ -1,0 +1,51 @@
+832.1.1 = {
+  holder = 163097
+}
+871.1.1 = {
+  holder = 0
+}
+1450.1.1 = {
+  liege = 0
+  holder = 0
+}
+1700.1.1 = {
+  name = Algeria
+  adjective = Algerian
+  vice_royalty = no
+  law = investiture_law_0
+  law = cognatic_succession
+  law = centralization_2
+}
+1962.4.8 = {
+  holder = 115090012
+}
+1962.9.25 = {
+  holder = 114414651
+}
+1963.9.15 = {
+  holder = 114963247
+}
+1965.6.19 = {
+  holder = 117438741
+}
+1978.12.27 = {
+  holder = 112616085
+}
+1979.2.9 = {
+  holder = 119250169
+}
+1992.1.11 = {
+  holder = 119081917
+}
+1992.1.14 = {
+  holder = 111711978
+}
+1992.6.29 = {
+  holder = 115485486
+}
+1994.1.31 = {
+  holder = 116978698
+}
+1999.4.27 = {
+  holder = 117899567
+}

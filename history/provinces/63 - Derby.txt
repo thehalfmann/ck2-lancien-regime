@@ -1,0 +1,16 @@
+title = c_derby
+max_settlements = 4
+b_derby = castle
+b_chesterfield = city
+b_burton = temple
+culture = saxon
+religion = catholic
+1100.11.11 = {
+  culture = english
+}
+1700.1.1 = {
+  b_bakewell = castle
+}
+1700.1.1 = {
+  religion = protestant
+}

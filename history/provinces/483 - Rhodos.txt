@@ -1,0 +1,13 @@
+title = c_rhodos
+max_settlements = 3
+b_rhodos = castle
+b_kos = city
+culture = greek
+religion = orthodox
+terrain = mountain
+1166.1.1 = {
+  trade_post = b_morosini
+}
+1700.1.1 = {
+  b_lindos = temple
+}

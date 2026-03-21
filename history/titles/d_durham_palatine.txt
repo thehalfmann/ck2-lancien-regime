@@ -1,0 +1,71 @@
+1071.1.1 = {
+  liege = k_england
+  holder = 129016
+}
+1080.5.14 = {
+  holder = 129017
+}
+1099.5.1 = {
+  holder = 129018
+}
+1128.9.5 = {
+  holder = 129019
+}
+1141.5.1 = {
+  liege = k_scotland
+}
+1141.5.11 = {
+  holder = 129020
+}
+1143.1.1 = {
+  liege = k_england
+}
+1143.3.14 = {
+  holder = 129021
+}
+1153.1.22 = {
+  holder = 129024
+}
+1195.11.1 = {
+  holder = 129025
+}
+1208.4.22 = {
+  holder = 129026
+}
+1226.5.1 = {
+  holder = 129027
+}
+1237.4.15 = {
+  holder = 129028
+}
+1249.4.21 = {
+  holder = 129029
+}
+1260.9.30 = {
+  holder = 129030
+}
+1274.9.24 = {
+  holder = 129031
+}
+1283.7.9 = {
+  holder = 129032
+}
+1311.3.31 = {
+  holder = 129033
+}
+1316.10.9 = {
+  holder = 129034
+}
+1333.9.24 = {
+  holder = 129035
+}
+1450.1.1 = {
+  liege = 0
+  holder = 0
+}
+1700.1.1 = {
+  vice_royalty = no
+  law = investiture_law_0
+  law = cognatic_succession
+  law = centralization_2
+}

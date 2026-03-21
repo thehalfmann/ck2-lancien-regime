@@ -1,0 +1,16 @@
+title = c_nilagiri
+max_settlements = 4
+b_nilagiri = castle
+b_avulagadda = city
+culture = telugu
+religion = jain
+terrain = jungle
+1066.1.1 = {
+  religion = hindu
+}
+1700.1.1 = {
+  b_panagallu = temple
+}
+1700.1.1 = {
+  b_maheshwaram = castle
+}

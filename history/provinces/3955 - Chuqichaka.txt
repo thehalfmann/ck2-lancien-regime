@@ -1,0 +1,13 @@
+# County Title
+title = c_chuqichaka
+
+# Settlements
+max_settlements = 3
+b_chuqichaka = tribal
+b_chuqichaka-ii = tribal
+
+# Misc
+culture = aimara
+religion = inti
+
+# History

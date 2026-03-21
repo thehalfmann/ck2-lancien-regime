@@ -1,0 +1,4 @@
+1696.12.18 = {
+  holder = 100590
+  liege = e_newcolonymexico
+}

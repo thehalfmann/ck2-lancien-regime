@@ -1,0 +1,8 @@
+1066.1.1 = {
+  holder = 73700
+  liege = c_genoa
+}
+1450.1.1 = {
+  holder = 0
+  liege = c_noli
+}

@@ -1,0 +1,15 @@
+title = c_kuban
+max_settlements = 3
+b_khumar = tribal
+culture = khazar
+religion = tengri_pagan
+1227.1.1 = {
+  religion = sunni
+}
+1238.1.1 = {
+  culture = mongol
+}
+1700.1.1 = {
+  culture = russian
+  religion = orthodox
+}

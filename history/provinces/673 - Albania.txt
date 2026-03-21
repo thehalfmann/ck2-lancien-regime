@@ -1,0 +1,37 @@
+title = c_albania
+max_settlements = 4
+b_chukhurkabala = castle
+b_ganja = city
+culture = armenian
+religion = miaphysite
+500.1.1 = {
+  b_barda = temple
+}
+1066.1.1 = {
+  remove_settlement = b_barda
+  b_shaki = temple
+  religion = sunni
+  culture = persian
+}
+1124.1.1 = {
+  remove_settlement = b_shaki
+  culture = armenian
+  religion = miaphysite
+  b_barda = temple
+}
+1245.1.1 = {
+  remove_settlement = b_barda
+  culture = persian
+  religion = sunni
+  b_shaki = temple
+}
+1320.1.1 = {
+  religion = shiite
+  b_barda = castle
+}
+1700.1.1 = {
+  culture = georgian
+}
+1700.1.1 = {
+  religion = orthodox
+}

@@ -1,0 +1,17 @@
+title = c_lahur
+max_settlements = 6
+b_lahur = castle
+b_sangla = city
+b_kasur = temple
+b_samnabad = city
+culture = panjabi
+religion = hindu
+1700.1.1 = {
+  b_mehdiabad = castle
+}
+1700.1.1 = {
+  b_chunian = castle
+}
+1700.1.1 = {
+  religion = sunni
+}

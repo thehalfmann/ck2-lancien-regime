@@ -1,0 +1,14 @@
+title = c_dendi
+max_settlements = 3
+b_niamey = tribal
+culture = songhay
+religion = west_african_pagan
+1300.1.1 = {
+  b_niamey = castle
+}
+1700.1.1 = {
+  b_bura = city
+}
+1700.1.1 = {
+  b_say = temple
+}

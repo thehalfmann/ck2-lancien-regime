@@ -1,0 +1,16 @@
+title = c_bhumilka
+max_settlements = 5
+b_vamanasthali = castle
+b_bhumilka = city
+b_girnar = temple
+culture = gujurati
+religion = jain
+1700.1.1 = {
+  b_uperkot = castle
+}
+1700.1.1 = {
+  b_bhavnat = city
+}
+1700.1.1 = {
+  religion = hindu
+}

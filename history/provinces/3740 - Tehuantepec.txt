@@ -1,0 +1,13 @@
+# County Title
+title = c_tehuantepec
+
+# Settlements
+max_settlements = 3
+b_tehuantepec = tribal
+b_tehuantepec-ii = tribal
+
+# Misc
+culture = zapotek
+religion = aztec
+
+# History

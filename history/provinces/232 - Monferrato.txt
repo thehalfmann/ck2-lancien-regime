@@ -1,0 +1,16 @@
+title = c_monferrato
+max_settlements = 5
+b_monferrato = castle
+b_asti = city
+b_casale = temple
+culture = lombard
+religion = catholic
+982.1.1 = {
+  culture = italian
+}
+1700.1.1 = {
+  b_acqui = castle
+}
+1700.1.1 = {
+  b_tortona = city
+}

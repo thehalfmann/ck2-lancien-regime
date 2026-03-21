@@ -1,0 +1,13 @@
+title = c_chieti
+max_settlements = 4
+b_crecchio = castle
+b_chieti = city
+b_san_salvo = temple
+culture = lombard
+religion = catholic
+849.1.1 = {
+  culture = italian
+}
+1700.1.1 = {
+  b_vasto = castle
+}

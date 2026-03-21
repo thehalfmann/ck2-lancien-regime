@@ -1,0 +1,13 @@
+# County Title
+title = c_popayan
+
+# Settlements
+max_settlements = 4
+b_popayan = tribal
+# b_popayan-ii = tribal
+
+# Misc
+culture = muisca
+religion = south_american
+
+# History

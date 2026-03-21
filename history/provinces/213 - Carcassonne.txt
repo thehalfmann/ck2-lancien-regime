@@ -1,0 +1,19 @@
+title = c_carcassonne
+max_settlements = 5
+b_carcassonne = castle
+b_saissac = city
+b_alet = temple
+religion = catholic
+culture = visigothic
+867.1.1 = {
+  culture = occitan
+}
+1187.1.1 = {
+  b_lastours = castle
+}
+1244.3.16 = {
+  religion = catholic
+}
+1700.1.1 = {
+  b_termes = city
+}

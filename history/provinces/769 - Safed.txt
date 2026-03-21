@@ -1,0 +1,13 @@
+title = c_safed
+max_settlements = 4
+b_safed = castle
+b_chastelet = city
+b_banyas = temple
+culture = levantine_arabic
+religion = monothelite
+867.1.1 = {
+  religion = sunni
+}
+1700.1.1 = {
+  b_toron = castle
+}

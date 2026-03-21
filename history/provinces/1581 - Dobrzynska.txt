@@ -1,0 +1,15 @@
+title = c_dobrzynska
+max_settlements = 3
+b_dobrzyn = tribal
+culture = polish
+religion = slavic_pagan
+969.1.1 = {
+  religion = catholic
+  b_dobrzyn = castle
+}
+1700.1.1 = {
+  b_wloclawek = city
+}
+1700.1.1 = {
+  b_lipno = temple
+}

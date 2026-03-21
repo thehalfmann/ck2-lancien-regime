@@ -1,0 +1,9 @@
+title = c_barasuru
+max_settlements = 2
+b_barasuru = castle
+culture = oriya
+religion = hindu
+terrain = jungle
+1700.1.1 = {
+  b_dantewada = city
+}

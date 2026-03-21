@@ -1,0 +1,14 @@
+title = c_sarasvata_mandala
+max_settlements = 6
+b_anahilapataka = castle
+b_vadnagar = temple
+b_siddhapura = city
+b_kamboika = temple
+culture = gujurati
+religion = jain
+1700.1.1 = {
+  b_modhera = castle
+}
+1700.1.1 = {
+  b_kheralu = city
+}

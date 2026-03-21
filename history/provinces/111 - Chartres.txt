@@ -1,0 +1,10 @@
+title = c_chartres
+max_settlements = 4
+b_bretigny = castle
+b_chartres = temple
+b_dreux = city
+culture = french
+religion = catholic
+1700.1.1 = {
+  b_nogent = castle
+}

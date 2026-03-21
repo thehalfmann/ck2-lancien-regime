@@ -1,0 +1,12 @@
+title = c_kalat
+max_settlements = 2
+b_kalat = castle
+culture = afghan
+religion = buddhist
+800.1.1 = {
+  culture = baloch
+  religion = sunni
+}
+1700.1.1 = {
+  b_talq = city
+}

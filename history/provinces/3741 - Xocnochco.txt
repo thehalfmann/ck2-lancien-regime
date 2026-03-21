@@ -1,0 +1,13 @@
+# County Title
+title = c_xocnochco
+
+# Settlements
+max_settlements = 3
+b_xocnochco = tribal
+b_xocnochco-ii = tribal
+
+# Misc
+culture = zapotek
+religion = aztec
+
+# History

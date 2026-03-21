@@ -1,0 +1,18 @@
+title = c_kusinagara
+max_settlements = 5
+b_kusinagara = castle
+b_padrauna = city
+culture = bengali
+religion = buddhist
+1700.1.1 = {
+  b_ramagrama = temple
+}
+1700.1.1 = {
+  b_pava = castle
+}
+1700.1.1 = {
+  b_chapra = city
+}
+1700.1.1 = {
+  religion = hindu
+}

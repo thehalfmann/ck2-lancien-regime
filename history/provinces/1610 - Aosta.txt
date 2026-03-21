@@ -1,0 +1,19 @@
+title = c_aosta
+max_settlements = 4
+b_fenis = castle
+b_aosta = city
+b_st_jacqueme = temple
+culture = lombard
+religion = catholic
+760.1.1 = {
+  capital = b_aosta
+}
+829.1.1 = {
+  culture = italian
+}
+1230.1.1 = {
+  capital = b_fenis
+}
+1700.1.1 = {
+  b_st_ours = castle
+}

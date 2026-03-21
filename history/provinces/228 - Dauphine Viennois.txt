@@ -1,0 +1,13 @@
+title = c_dauphine_viennois
+max_settlements = 5
+b_albon = castle
+b_vienne = temple
+b_grenoble = city
+culture = occitan
+religion = catholic
+1297.1.1 = {
+  b_stantoine = temple
+}
+1700.1.1 = {
+  b_montelimar = castle
+}

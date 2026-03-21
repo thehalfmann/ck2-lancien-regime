@@ -1,0 +1,10 @@
+title = c_constantine
+max_settlements = 4
+b_constantine = castle
+b_elkhroub = temple
+b_guelma = city
+culture = maghreb_arabic
+religion = sunni
+1700.1.1 = {
+  b_tijis = castle
+}

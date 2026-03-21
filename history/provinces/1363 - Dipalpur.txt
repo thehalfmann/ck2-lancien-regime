@@ -1,0 +1,15 @@
+title = c_dipalpur
+max_settlements = 5
+b_pancapura = castle
+b_dipalpur = temple
+b_abohar = city
+b_ajodhan = castle
+culture = panjabi
+religion = hindu
+terrain = jungle
+1700.1.1 = {
+  b_satghara = city
+}
+1700.1.1 = {
+  religion = sunni
+}

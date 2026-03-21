@@ -1,0 +1,16 @@
+title = c_herat
+max_settlements = 5
+b_herat = castle
+b_karukh = city
+b_kushk = temple
+culture = persian
+religion = zoroastrian
+1187.1.1 = {
+  religion = sunni
+}
+1700.1.1 = {
+  b_gulran = castle
+}
+1700.1.1 = {
+  b_obe = city
+}

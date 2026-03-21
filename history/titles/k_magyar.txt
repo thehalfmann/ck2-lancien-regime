@@ -1,0 +1,38 @@
+20.1.1 = {
+  historical_nomad = yes
+}
+764.1.1 = {
+  holder = 146214
+}
+803.1.1 = {
+  holder = 146229
+}
+826.1.1 = {
+  holder = 146230
+}
+845.1.1 = {
+  holder = 159137
+}
+895.1.1 = {
+  holder = 159136
+}
+907.1.1 = {
+  holder = 0
+  effect = {
+    activate_title = {
+      title = k_magyar
+      status = no
+    }
+  }
+}
+1450.1.1 = {
+  liege = 0
+  holder = 0
+}
+1700.1.1 = {
+  vice_royalty = no
+  law = investiture_law_0
+  law = cognatic_succession
+  law = crown_authority_1
+  law = centralization_2
+}

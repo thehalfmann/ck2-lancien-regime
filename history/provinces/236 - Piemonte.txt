@@ -1,0 +1,16 @@
+title = c_piemonte
+max_settlements = 5
+b_novara = castle
+b_torino = city
+b_settimo = temple
+culture = lombard
+religion = catholic
+829.1.1 = {
+  culture = italian
+}
+1700.1.1 = {
+  b_auriate = castle
+}
+1700.1.1 = {
+  b_ferrero = city
+}

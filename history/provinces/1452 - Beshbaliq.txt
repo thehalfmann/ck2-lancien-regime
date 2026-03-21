@@ -1,0 +1,26 @@
+title = c_beshbaliq
+max_settlements = 3
+b_beshbalik = tribal
+culture = uyghur
+religion = manichean
+900.1.1 = {
+  religion = buddhist
+}
+1227.1.1 = {
+  culture = mongol
+}
+1227.1.1 = {
+  religion = tengri_pagan
+}
+1278.1.1 = {
+  b_beshbalik = castle
+}
+1700.1.1 = {
+  b_gucheng = city
+}
+1700.1.1 = {
+  b_jiangjunmiao = temple
+}
+1700.1.1 = {
+  religion = buddhist
+}

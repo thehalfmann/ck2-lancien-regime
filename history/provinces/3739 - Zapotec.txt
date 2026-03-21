@@ -1,0 +1,14 @@
+# County Title
+title = c_zapotec
+
+# Settlements
+max_settlements = 4
+b_zapotec = tribal
+b_zapotec-ii = tribal
+b_zapotec-iv = temple
+
+# Misc
+culture = zapotek
+religion = aztec
+
+# History

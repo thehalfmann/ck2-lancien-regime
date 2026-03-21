@@ -1,0 +1,13 @@
+# County Title
+title = c_xicaque
+
+# Settlements
+max_settlements = 3
+b_xicaque = tribal
+b_xicaque-ii = tribal
+
+# Misc
+culture = highland_mayan
+religion = mayan
+
+# History

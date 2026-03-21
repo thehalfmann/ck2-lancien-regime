@@ -1,0 +1,14 @@
+title = c_gower
+max_settlements = 4
+b_dinefwr = castle
+b_llandeilo = temple
+b_carmarthen = city
+culture = welsh
+religion = catholic
+terrain = hills
+1700.1.1 = {
+  b_kidwelly = castle
+}
+1700.1.1 = {
+  religion = protestant
+}

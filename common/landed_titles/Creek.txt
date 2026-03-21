@@ -1,0 +1,548 @@
+e_creek = {
+
+	color={ 125 24 157 }
+	color2={ 220 220 220 }
+
+	capital = 3706 # Muskogee
+
+	k_creek = {
+
+		color={ 25 44 97 }
+		color2={ 220 220 220 }
+
+		capital = 3706 # Muskogee
+
+		d_georgia2 = {
+
+			color={ 75 124 189 }
+			color2={ 220 220 220 }
+			
+			capital = 3706 # Muskogee
+			
+			c_muskogee = {
+
+				color={ 95 144 149 }
+				color2={ 220 220 220 }
+				
+				b_muskogee = {
+				}
+				b_saksoktenw = {
+				}
+				b_ventispinkeks = {
+				}
+				b_wabeaashe = {
+				}
+			}
+			c_hitchiti = {
+
+				color={ 15 34 209 }
+				color2={ 220 220 220 }
+				
+				b_hitchiti = {
+				}
+				b_hicucahkian = {
+				}
+				b_liliiskearo = {
+				}
+			}
+			c_yamasee = {
+
+				color={ 175 124 103 }
+				color2={ 220 220 220 }
+				
+				b_yamasee = {
+				}
+				b_animikiawenni = {
+				}
+				b_masksutsuqqu = {
+				}
+			}
+			c_coweta = {
+
+				color={ 55 174 19 }
+				color2={ 220 220 220 }
+				
+				b_coweta = {
+				}
+				b_vezalengaen = {
+				}
+				b_aburuksuqlant = {
+				}
+			}
+			c_guale = {
+
+				color={ 35 11 138 }
+				color2={ 220 220 220 }
+				
+				b_guale = {
+				}
+				b_ingommitistes = {
+				}
+				b_eawwekkitekren = {
+				}
+			}
+			c_mocama = {
+
+				color={ 215 171 46 }
+				color2={ 220 220 220 }
+				
+				b_mocama = {
+				}
+				b_aguguahici = {
+				}
+				b_eawhaccikkario = {
+				}
+			}
+		}
+		d_florida = {
+
+			color={ 115 64 219 }
+			color2={ 220 220 220 }
+
+			capital = 3714 # Mayaimi
+			
+			c_mayaimi = {
+
+				color={ 195 44 89 }
+				color2={ 220 220 220 }
+				
+				b_mayaimi = {
+				}
+				b_moeenawwomi = {
+				}
+				b_tucktakpekke = {
+				}
+			}
+			c_ais = {
+
+				color={ 45 134 69 }
+				color2={ 220 220 220 }
+				
+				b_ais = {
+				}
+				b_surashamidotta = {
+				}
+				b_mnakkurttisse = {
+				}
+			}
+			c_calusa = {
+
+				color={ 15 194 223 }
+				color2={ 220 220 220 }
+				
+				b_calusa = {
+				}
+				b_ewweqeqkene = {
+				}
+				b_iistenpillent = {
+				}
+			}
+			c_potano = {
+
+				color={ 58 74 29 }
+				color2={ 220 220 220 }
+				
+				b_potano = {
+				}
+				b_ikaitpawwanes = {
+				}
+				b_duzzuklenquqle = {
+				}
+			}
+			c_mayaca = {
+
+				color={ 215 24 99 }
+				color2={ 220 220 220 }
+				
+				b_mayaca = {
+				}
+				b_buesnlanetren = {
+				}
+				b_adaerinpemeoyta = {
+				}
+			}
+			c_timucua = {
+
+				color={ 75 164 49 }
+				color2={ 220 220 220 }
+				
+				b_timucua = {
+				}
+				b_baielkanteptleb = {
+				}
+				b_jklententej = {
+				}
+			}
+			c_yustaga = {
+
+				color={ 65 94 129 }
+				color2={ 220 220 220 }
+				
+				b_yustaga = {
+				}
+				b_hovleanipotranna = {
+				}
+				b_vizenlenkoplaen = {
+				}
+			}
+			c_apalachee = {
+
+				color={ 2 214 189 }
+				color2={ 220 220 220 }
+				
+				b_apalachee = {
+				}
+				b_hialenpekntekkijke = {
+				}
+				b_vuzelanpuenna = {
+				}
+			}
+
+		}
+		d_carolina = {
+
+			color={ 215 14 179 }
+			color2={ 220 220 220 }
+			
+			capital = 3693 # Santee
+			
+			c_santee = {
+
+				color={ 85 24 69 }
+				color2={ 220 220 220 }
+				
+				b_santee = {
+				}
+				b_duzkjelenpe = {
+				}
+				b_liklenmejekt = {
+				}
+			}
+			c_cusabo = {
+
+				color={ 145 204 169 }
+				color2={ 220 220 220 }
+				
+				b_cusabo = {
+				}
+				b_sawsupiggent = {
+				}
+				b_skamarneanta = {
+				}
+			}
+			c_waccamaw = {
+
+				color={ 85 144 199 }
+				color2={ 220 220 220 }
+				
+				b_waccamaw = {
+				}
+				b_tyullaggentme = {
+				}
+				b_amujjelenleren = {
+				}
+			}
+			c_chicora = {
+
+				color={ 85 214 129 }
+				color2={ 220 220 220 }
+				
+				b_chicora = {
+				}
+				b_szeplenktegke = {
+				}
+				b_suvmelomayoe = {
+				}
+			}
+		}
+              }
+
+	k_vandalia = {
+
+		color={ 95 14 54 }
+		color2={ 220 220 220 }
+
+		capital = 3686 # Manahoac
+
+		d_piedmont = {
+
+			color={ 35 51 83 }
+			color2={ 220 220 220 }
+			
+			capital = 3698 # Catawba
+			
+			c_catawba = {
+
+				color={ 225 124 74 }
+				color2={ 220 220 220 }
+				
+				b_catawba = {
+				}
+				b_eokaplentmenktew = {
+				}
+				b_afdeppeglenii = {
+				}
+			}
+			c_saluda = {
+
+				color={ 35 141 224 }
+				color2={ 220 220 220 }
+				
+				b_saluda = {
+				}
+				b_iammekslaen = {
+				}
+				b_punbeinrenja = {
+				}
+			}
+			c_cheraw = {
+
+				color={ 115 29 73 }
+				color2={ 220 220 220 }
+				
+				b_cheraw = {
+				}
+				b_deklinameoon = {
+			              }
+				b_haylienetigga = {
+				}
+			}
+			c_waxhaw = {
+
+				color={ 195 144 34 }
+				color2={ 220 220 220 }
+				
+				b_waxhaw = {
+				}
+				b_najhenleqqew = {
+				}
+				b_juallentenmenwek = {
+				}
+			}
+			c_yadkin = {
+
+				color={ 65 81 33 }
+				color2={ 220 220 220 }
+				
+				b_yadkin = {
+				}
+				b_acselanmerente = {
+				}
+				b_askiantmenlekee = {
+				}
+			}
+			c_tuscarora = {
+
+				color={ 215 15 188 }
+				color2={ 220 220 220 }
+				
+				b_tuscarora = {
+				}
+				b_hasashtodda = {
+				}
+				b_gniabbenkit = {
+				}
+			}
+		}
+		d_vandalia = {
+
+			color={ 145 121 85 }
+			color2={ 220 220 220 }
+			
+			capital = 3686 # Manahoac
+			
+			c_manahoac = {
+
+				color={ 35 17 96 }
+				color2={ 220 220 220 }
+				
+				b_manahoac = {
+				}
+				b_purriqqujlenktee = {
+				}
+				b_ohfleanpikki = {
+				}
+			}
+			c_kanawha = {
+
+				color={ 45 75 216 }
+				color2={ 220 220 220 }
+				
+				b_kanawha = {
+				}
+				b_hussuppuwwee = {
+				}
+				b_egelendenpen = {
+				}
+			}
+			c_tutelo = {
+
+				color={ 88 14 36 }
+				color2={ 220 220 220 }
+				
+				b_tutelo = {
+				}
+				b_saksilcikeree = {
+			              }
+				b_wankeyrnee = {
+				}
+			}
+			c_monacan = {
+
+				color={ 215 174 147 }
+				color2={ 220 220 220 }
+				
+				b_monacan = {
+				}
+				b_saenpikkiioyn = {
+				}
+				b_kamsunvokkie = {
+				}
+			}
+			c_shenandoah = {
+
+				color={ 125 31 89 }
+				color2={ 220 220 220 }
+				
+				b_shenandoah = {
+				}
+				b_amkameinovve = {
+				}
+				b_serpellenterewwe = {
+				}
+			}
+			c_monongahela = {
+
+				color={ 185 211 64 }
+				color2={ 220 220 220 }
+				
+				b_monongahela = {
+				}
+				b_mnaslentikkee = {
+				}
+				b_vugguelanber = {
+				}
+			}
+			c_potomac = {
+
+				color={ 15 91 189 }
+				color2={ 220 220 220 }
+				
+				b_potomac = {
+				}
+				b_guylenkepqeene = {
+				}
+				b_yuvbititgithey = {
+				}
+			}
+		}
+		d_virginia = {
+
+			color={ 165 81 53 }
+			color2={ 220 220 220 }
+			
+			capital = 3639 # Powhatan
+			
+			c_powhatan = {
+
+				color={ 5 57 66 }
+				color2={ 220 220 220 }
+				
+				b_powhatan = {
+				}
+				b_lisenpitun = {
+				}
+				b_dibunheyn = {
+				}
+				b_vequkruah = {
+				}
+				b_piquinpaa = {
+				}
+			}
+			c_moratok = {
+
+				color={ 116 173 104 }
+				color2={ 220 220 220 }
+				
+				b_moratok = {
+				}
+				b_hiyundenn = {
+				}
+				b_inyuheena = {
+				}
+				b_oelanmekee = {
+				}
+				b_tpujuyyua = {
+				}
+			}
+			c_chesapeake = {
+
+				color={ 58 84 58 }
+				color2={ 220 220 220 }
+				
+				b_chesapeake = {
+				}
+				b_dirzunyunta = {
+			              }
+				b_sektemeugra = {
+				}
+				b_zahemoyta = {
+				}
+				b_vabbejaenee = {
+				}
+			}
+			c_roanoke = {
+
+				color={ 25 54 157 }
+				color2={ 220 220 220 }
+				
+				b_roanoke = {
+				}
+				b_fikdumnahh = {
+				}
+				b_eanthpikku = {
+				}
+				b_bnalenimae = {
+				}
+				b_battidekhom = {
+				}
+			}
+		}
+		d_north_carolina = {
+
+			color={ 124 53 90 }
+			color2={ 220 220 220 }
+			
+			capital = 3639 # Powhatan
+
+			c_pamlico = {
+
+				color={ 45 41 186 }
+				color2={ 220 220 220 }
+				
+				b_pamlico = {
+				}
+				b_meyicigge = {
+				}
+				b_jeuqkantiroe = {
+				}
+				b_ayqinsivuoo = {
+				}
+				b_sendiyoviflee = {
+				}
+			}
+			c_bermuda = {
+
+				color={ 85 21 147 }
+				color2={ 220 220 220 }
+				
+				b_bermuda = {
+				}
+				b_bermuda-ii = {
+				}
+				b_bermuda-iii = {
+				}
+			}
+		}
+	}
+}

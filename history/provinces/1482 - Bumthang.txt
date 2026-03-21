@@ -1,0 +1,10 @@
+title = c_bumthang
+max_settlements = 4
+b_bumthang = castle
+b_jambay = temple
+b_trongsa = city
+culture = bodpa
+religion = buddhist
+1700.1.1 = {
+  b_kongchogsum = castle
+}

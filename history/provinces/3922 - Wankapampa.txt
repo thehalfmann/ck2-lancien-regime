@@ -1,0 +1,13 @@
+# County Title
+title = c_wankapampa
+
+# Settlements
+max_settlements = 3
+b_wankapampa = tribal
+b_wankapampa-ii = tribal
+
+# Misc
+culture = quechua
+religion = inti
+
+# History

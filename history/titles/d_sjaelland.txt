@@ -1,0 +1,25 @@
+700.1.1 = {
+  holder = 194035
+}
+729.1.1 = {
+  holder = 194003
+}
+860.1.1 = {
+  holder = 163110
+}
+917.1.1 = {
+  holder = 0
+}
+934.1.1 = {
+  holder = 101500
+  liege = k_denmark
+}
+1699.8.25 = {
+  holder = 100021
+}
+1700.1.1 = {
+  vice_royalty = no
+  law = investiture_law_0
+  law = cognatic_succession
+  law = centralization_2
+}

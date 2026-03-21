@@ -1,0 +1,16 @@
+title = c_bahrein
+max_settlements = 4
+b_batn_ardasir = castle
+b_al_masqar = city
+b_murwab = temple
+culture = bedouin_arabic
+religion = shiite
+894.1.1 = {
+  religion = qarmatian
+}
+1077.1.1 = {
+  religion = shiite
+}
+1700.1.1 = {
+  b_zubarah = castle
+}

@@ -1,0 +1,12 @@
+100240 = {
+	name = "Jelena"
+	female = yes
+	religion = catholic
+	culture = croatian
+	dynasty = 100055
+	trait = "erudite"
+	trait = "fair"
+	1649.3.20 = {
+	  birth = yes
+	}
+  }

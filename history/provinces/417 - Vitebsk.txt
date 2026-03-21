@@ -1,0 +1,24 @@
+title = c_vitebsk
+max_settlements = 3
+b_vitebsk = tribal
+culture = ilmenian
+religion = slavic_pagan
+867.1.1 = {
+  culture = russian
+}
+947.1.1 = {
+  b_vitebsk = tb_hillfort_1
+}
+988.1.1 = {
+  religion = orthodox
+}
+1150.1.1 = {
+  b_vitebsk = castle
+  b_sianno = city
+}
+1700.1.1 = {
+  b_beshankovichy = temple
+}
+1700.1.1 = {
+  culture = ruthenian
+}

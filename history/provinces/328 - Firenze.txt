@@ -1,0 +1,22 @@
+title = c_firenze
+max_settlements = 6
+b_fiesole = castle
+b_firenze = city
+b_impruneta = temple
+culture = italian
+religion = catholic
+1115.7.24 = {
+  capital = b_firenze
+}
+1700.1.1 = {
+  b_prato = castle
+}
+1700.1.1 = {
+  b_certaldo = city
+}
+1700.1.1 = {
+  b_empoli = castle
+}
+1700.1.1 = {
+  capital = b_fiesole
+}

@@ -1,0 +1,9 @@
+title = c_passau
+max_settlements = 3
+b_passau = castle
+b_ortenburg = city
+culture = german
+religion = catholic
+1700.1.1 = {
+  b_schaumberg = temple
+}

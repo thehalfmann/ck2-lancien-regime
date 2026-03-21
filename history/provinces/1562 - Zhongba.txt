@@ -1,0 +1,17 @@
+title = c_zhongba
+max_settlements = 3
+b_labrang = castle
+culture = zhangzhung
+religion = bon
+800.1.1 = {
+  culture = bodpa
+}
+1045.1.1 = {
+  religion = buddhist
+}
+1700.1.1 = {
+  b_paryang = city
+}
+1700.1.1 = {
+  b_gela_b = temple
+}

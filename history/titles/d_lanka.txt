@@ -1,0 +1,56 @@
+741.1.1 = {
+  holder = 189005
+}
+781.1.1 = {
+  holder = 0
+}
+1450.1.1 = {
+  liege = 0
+  holder = 0
+}
+1700.1.1 = {
+  vice_royalty = no
+  law = investiture_law_0
+  law = cognatic_succession
+  law = centralization_2
+}
+1815.6.9 = {
+  holder = 115520798
+  liege = e_britannia
+}
+1830.6.9 = {
+  holder = 110064977
+  liege = e_britannia
+}
+1845.6.9 = {
+  holder = 117011574
+  liege = e_britannia
+}
+1860.6.9 = {
+  holder = 118104095
+  liege = e_britannia
+}
+1875.6.9 = {
+  holder = 118337608
+  liege = e_britannia
+}
+1890.6.9 = {
+  holder = 116054949
+  liege = e_britannia
+}
+1905.6.9 = {
+  holder = 119847981
+  liege = e_britannia
+}
+1920.6.9 = {
+  holder = 110443516
+  liege = e_britannia
+}
+1935.6.9 = {
+  holder = 119210990
+  liege = e_britannia
+}
+1948.2.4 = {
+  holder = 0
+  liege = 0
+}

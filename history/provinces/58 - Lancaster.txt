@@ -1,0 +1,16 @@
+title = c_lancaster
+max_settlements = 4
+b_lancaster = castle
+b_preston = city
+b_furness = temple
+culture = saxon
+religion = catholic
+1100.11.11 = {
+  culture = english
+}
+1305.1.1 = {
+  b_clitheroe = castle
+}
+1700.1.1 = {
+  religion = protestant
+}

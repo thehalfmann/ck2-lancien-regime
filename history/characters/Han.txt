@@ -1,0 +1,9 @@
+100548 = {
+	name = "Kangxi"
+	religion = buddhist
+	culture = han
+	dynasty = 100190
+	1654.5.4 = {
+	  birth = yes
+	}
+  }

@@ -1,0 +1,20 @@
+title = c_usora
+max_settlements = 3
+b_banjaluka = tribal
+culture = croatian
+religion = slavic_pagan
+terrain = mountain
+800.1.1 = {
+  religion = catholic
+  b_banjaluka = castle
+  b_bihac = temple
+}
+800.1.1 = {
+  culture = bosnian
+}
+1000.1.1 = {
+  religion = orthodox
+}
+1700.1.1 = {
+  b_jajce = city
+}

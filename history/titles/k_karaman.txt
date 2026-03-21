@@ -1,0 +1,32 @@
+1256.1.1 = {
+  holder = 71875
+}
+1261.1.1 = {
+  holder = 71876
+}
+1277.9.1 = {
+  holder = 71877
+}
+1300.1.1 = {
+  holder = 71878
+}
+1308.1.1 = {
+  holder = 71879
+}
+1312.1.1 = {
+  holder = 71880
+}
+1333.1.1 = {
+  holder = 476300
+}
+1450.1.1 = {
+  liege = 0
+  holder = 0
+}
+1700.1.1 = {
+  vice_royalty = no
+  law = investiture_law_0
+  law = cognatic_succession
+  law = crown_authority_1
+  law = centralization_2
+}

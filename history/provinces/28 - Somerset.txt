@@ -1,0 +1,16 @@
+title = c_somerset
+max_settlements = 4
+b_taunton = castle
+b_glastonbury = temple
+b_ilchester = city
+culture = saxon
+religion = catholic
+1100.11.11 = {
+  culture = english
+}
+1700.1.1 = {
+  b_muchelney = castle
+}
+1700.1.1 = {
+  religion = protestant
+}

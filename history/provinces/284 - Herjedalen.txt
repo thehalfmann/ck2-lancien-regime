@@ -1,0 +1,23 @@
+title = c_herjedalen
+max_settlements = 2
+b_sveg = tribal
+culture = norse
+religion = norse_pagan
+1066.1.1 = {
+  culture = norwegian
+}
+1090.1.1 = {
+  religion = catholic
+}
+1300.1.1 = {
+  b_sveg = castle
+}
+1700.1.1 = {
+  b_hogvalen = city
+}
+1700.1.1 = {
+  culture = swedish
+}
+1700.1.1 = {
+  religion = protestant
+}

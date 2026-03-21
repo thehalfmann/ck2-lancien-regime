@@ -1,0 +1,37 @@
+1450.1.1 = {
+  liege = 0
+  holder = 0
+}
+1700.1.1 = {
+  vice_royalty = no
+  law = investiture_law_0
+  law = cognatic_succession
+  law = centralization_2
+}
+1815.6.9 = {
+  holder = 117048850
+}
+1832.8.28 = {
+  holder = 111516571
+}
+1840.5.8 = {
+  holder = 111832396
+}
+1845.11.5 = {
+  holder = 118198064
+}
+1853.7.28 = {
+  holder = 119239396
+}
+1870.7.16 = {
+  holder = 119896578
+}
+1888.1.2 = {
+  holder = 110954507
+}
+1898.6.28 = {
+  holder = 119310802
+}
+1900.7.23 = {
+  holder = 0
+}

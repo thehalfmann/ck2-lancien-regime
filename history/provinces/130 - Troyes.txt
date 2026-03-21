@@ -1,0 +1,11 @@
+title = c_troyes
+max_settlements = 5
+b_troyes = castle
+b_brienne = city
+b_langres = temple
+b_chaumont = castle
+culture = french
+religion = catholic
+1700.1.1 = {
+  b_clairvaux = city
+}

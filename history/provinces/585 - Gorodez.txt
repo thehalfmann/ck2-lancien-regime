@@ -1,0 +1,25 @@
+title = c_gorodez
+max_settlements = 3
+b_gorodez = tribal
+culture = mordvin
+religion = orthodox
+terrain = plains
+988.1.1 = {
+  religion = orthodox
+}
+1087.1.2 = {
+  culture = russian
+}
+1172.1.1 = {
+  b_gorodez = castle
+  b_kitezh = city
+}
+1239.1.1 = {
+  remove_settlement = b_kitezh
+}
+1700.1.1 = {
+  b_kitezh = city
+}
+1700.1.1 = {
+  b_bor = temple
+}

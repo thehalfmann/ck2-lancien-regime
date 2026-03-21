@@ -1,0 +1,21 @@
+title = c_anxi
+max_settlements = 5
+b_anxi = castle
+culture = han
+religion = taoist
+1032.1.1 = {
+  culture = tangut
+  religion = buddhist
+}
+1700.1.1 = {
+  b_guazhou = city
+}
+1700.1.1 = {
+  b_xincheng = temple
+}
+1700.1.1 = {
+  b_yuanquan = castle
+}
+1700.1.1 = {
+  b_yulin = city
+}

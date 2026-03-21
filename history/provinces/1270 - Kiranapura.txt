@@ -1,0 +1,8 @@
+title = c_kiranapura
+max_settlements = 2
+b_kiranapura = castle
+culture = marathi
+religion = hindu
+1700.1.1 = {
+  b_balaghat = city
+}

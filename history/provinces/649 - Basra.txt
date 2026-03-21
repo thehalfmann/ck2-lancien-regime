@@ -1,0 +1,18 @@
+title = c_basra
+max_settlements = 6
+b_ummqasr = castle
+b_basra = city
+b_azzubayr = temple
+b_arah = castle
+b_mohammera = castle
+culture = bedouin_arabic
+religion = nestorian
+850.1.1 = {
+  religion = shiite
+}
+1187.1.1 = {
+  b_arah = castle
+}
+1700.1.1 = {
+  b_sukelsheyuhk = city
+}

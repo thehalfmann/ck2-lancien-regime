@@ -1,0 +1,17 @@
+title = c_sthanisvara
+max_settlements = 5
+b_saharanpur = castle
+b_sthanisvara = city
+b_shakumbhri_devi = temple
+culture = hindustani
+religion = buddhist
+terrain = jungle
+1700.1.1 = {
+  b_sirhind = castle
+}
+1700.1.1 = {
+  b_karnal = city
+}
+1700.1.1 = {
+  religion = hindu
+}

@@ -1,0 +1,12 @@
+
+1652.2.18 = {
+  liege = k_hungary
+  holder = 100239
+}
+1690.9.22 = {
+  holder = 100241
+}
+1690.10.25 = {
+  liege = k_hungary
+  holder = 100362
+}

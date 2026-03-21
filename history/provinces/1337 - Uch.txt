@@ -1,0 +1,21 @@
+title = c_uch
+max_settlements = 4
+b_uch = castle
+b_chachran = city
+culture = panjabi
+religion = hindu
+800.1.1 = {
+  religion = sunni
+}
+1000.1.1 = {
+  religion = shiite
+}
+1180.1.1 = {
+  religion = sunni
+}
+1700.1.1 = {
+  b_mithankot = temple
+}
+1700.1.1 = {
+  b_derawar = castle
+}

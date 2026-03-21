@@ -1,0 +1,17 @@
+title = c_vidin
+max_settlements = 4
+b_vidin = castle
+b_viseslav = temple
+b_kula = city
+culture = romanian
+religion = slavic_pagan
+870.1.1 = {
+  religion = orthodox
+}
+892.1.1 = {
+  culture = bulgarian
+}
+1700.1.1 = {
+  culture = serbian  
+  b_srvljig = castle
+}

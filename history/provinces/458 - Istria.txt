@@ -1,0 +1,14 @@
+title = c_istria
+max_settlements = 4
+b_mitterburg = castle
+b_pula = city
+b_fiume = temple
+culture = croatian
+religion = catholic
+1110.1.1 = {
+  trade_post = b_contarini
+}
+1700.1.1 = {
+  culture = italian
+  b_lovrana = castle
+}

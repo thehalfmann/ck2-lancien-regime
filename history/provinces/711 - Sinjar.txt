@@ -1,0 +1,19 @@
+title = c_sinjar
+max_settlements = 4
+b_sinjar = castle
+b_telassar = city
+b_hatra = temple
+culture = assyrian
+religion = nestorian
+867.1.1 = {
+  religion = sunni
+}
+867.1.1 = {
+  culture = kurdish
+}
+1235.1.1 = {
+  religion = yazidi
+}
+1700.1.1 = {
+  b_nineveh = castle
+}

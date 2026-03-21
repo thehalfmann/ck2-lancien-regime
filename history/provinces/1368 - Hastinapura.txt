@@ -1,0 +1,18 @@
+title = c_hastinapura
+max_settlements = 6
+b_hastinapura = castle
+b_pandeshwar = temple
+b_indrasthana = city
+b_pankot = castle
+culture = hindustani
+religion = buddhist
+terrain = jungle
+1700.1.1 = {
+  b_mirath = city
+}
+1700.1.1 = {
+  b_baran = castle
+}
+1700.1.1 = {
+  religion = hindu
+}

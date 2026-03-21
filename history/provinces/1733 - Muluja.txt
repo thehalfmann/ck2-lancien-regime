@@ -1,0 +1,19 @@
+title = c_muluja
+max_settlements = 2
+b_missour = castle
+culture = maghreb_arabic
+religion = shiite
+767.1.1 = {
+  religion = ibadi
+}
+867.1.1 = {
+  b_missour = ca_keep_1
+  b_missour = ca_wall_1
+  b_missour = ca_wall_2
+}
+947.1.1 = {
+  religion = sunni
+}
+1700.1.1 = {
+  b_benitajjit = city
+}

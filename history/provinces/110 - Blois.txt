@@ -1,0 +1,10 @@
+title = c_blois
+max_settlements = 4
+b_blois = castle
+b_staignan = temple
+b_beaugency = city
+culture = french
+religion = catholic
+1700.1.1 = {
+  b_chaumontsurloire = castle
+}

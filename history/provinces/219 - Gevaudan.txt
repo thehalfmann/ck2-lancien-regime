@@ -1,0 +1,19 @@
+title = c_gevaudan
+max_settlements = 4
+b_grezes = castle
+b_mende = temple
+b_marvejols = city
+culture = visigothic
+religion = catholic
+867.1.1 = {
+  culture = occitan
+}
+1307.1.1 = {
+  capital = b_mende
+}
+1700.1.1 = {
+  b_lepuy = castle
+}
+1700.1.1 = {
+  capital = b_grezes
+}

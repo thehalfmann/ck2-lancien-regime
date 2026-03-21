@@ -1,0 +1,153 @@
+911.1.1 = {
+  liege = k_france
+  holder = 242
+}
+927.1.1 = {
+  holder = 244
+}
+942.12.17 = {
+  holder = 246
+}
+996.11.20 = {
+  holder = 248
+}
+1026.8.28 = {
+  holder = 250
+}
+1027.2.3 = {
+  holder = 252
+}
+1035.7.3 = {
+  holder = 140
+}
+1066.10.14 = {
+  liege = k_england
+}
+1087.9.9 = {
+  holder = 142
+}
+1106.1.1 = {
+  holder = 202992
+}
+1135.12.2 = {
+  holder = 205851
+}
+1144.1.1 = {
+  holder = 204506
+}
+1151.9.7 = {
+  holder = 204500
+}
+1189.7.6 = {
+  holder = 204510
+}
+1199.4.6 = {
+  holder = 204514
+}
+1204.1.1 = {
+  liege = k_france
+  holder = 205506
+}
+1212.1.1 = {
+  holder = 91030
+}
+1223.7.14 = {
+  holder = 455402
+}
+1226.11.8 = {
+  holder = 455404
+}
+1270.8.25 = {
+  holder = 455528
+}
+1285.10.5 = {
+  holder = 455526
+}
+1314.11.29 = {
+  holder = 455836
+}
+1316.6.5 = {
+  holder = 70137
+}
+1316.11.19 = {
+  holder = 455509
+}
+1322.1.3 = {
+  holder = 455414
+}
+1328.2.1 = {
+  holder = 455500
+}
+1332.1.1 = {
+  holder = 455502
+}
+1450.1.1 = {
+  liege = 0
+  holder = 0
+}
+1700.1.1 = {
+  vice_royalty = no
+  law = investiture_law_0
+  law = cognatic_succession
+  law = centralization_2
+}
+1815.6.9 = {
+  holder = 119185703
+  liege = e_france
+}
+1830.6.9 = {
+  holder = 110792749
+  liege = e_france
+}
+1845.6.9 = {
+  holder = 111832814
+  liege = e_france
+}
+1860.6.9 = {
+  holder = 113511517
+  liege = e_france
+}
+1875.6.9 = {
+  holder = 119627130
+  liege = e_france
+}
+1890.6.9 = {
+  holder = 115523940
+  liege = e_france
+}
+1905.6.9 = {
+  holder = 118901405
+  liege = e_france
+}
+1920.6.9 = {
+  holder = 112211709
+  liege = e_france
+}
+1935.6.9 = {
+  holder = 119135233
+  liege = e_france
+}
+1950.6.9 = {
+  holder = 119192614
+  liege = e_france
+}
+1965.6.9 = {
+  holder = 112151154
+  liege = e_france
+}
+1980.6.9 = {
+  holder = 113257045
+  liege = e_france
+}
+1995.6.9 = {
+  holder = 114303900
+  liege = e_france
+}
+2010.6.9 = {
+  holder = 117909732
+  liege = e_france
+}
+2020.12.31 = {
+  holder = 0
+  liege = 0
+}

@@ -1,0 +1,13 @@
+# County Title
+title = c_moran
+
+# Settlements
+max_settlements = 3
+b_moran = tribal
+b_moran-ii = tribal
+
+# Misc
+culture = putun
+religion = mayan
+
+# History

@@ -1,0 +1,24 @@
+title = c_pskov
+max_settlements = 4
+b_pskov = tribal
+culture = ilmenian
+religion = slavic_pagan
+867.1.1 = {
+  culture = russian
+}
+988.1.1 = {
+  religion = orthodox
+  b_pskov = castle
+}
+1200.1.1 = {
+  b_ostrov = city
+}
+1700.1.1 = {
+  b_golubovo = temple
+}
+1700.1.1 = {
+  b_porkhov = castle
+}
+1700.1.1 = {
+  capital = b_pskov
+}

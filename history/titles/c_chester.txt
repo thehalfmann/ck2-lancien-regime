@@ -1,0 +1,73 @@
+758.1.1 = {
+  liege = d_hereford
+  holder = 205081
+}
+852.1.1 = {
+  holder = 163102
+}
+936.1.1 = {
+  holder = 260537
+}
+1066.1.1 = {
+  liege = d_lancaster
+  holder = 5644
+}
+1066.12.6 = {
+  liege = k_england
+  holder = 167007
+}
+1071.2.22 = {
+  holder = 41251
+}
+1101.7.27 = {
+  holder = 82085
+}
+1120.11.25 = {
+  holder = 82062
+}
+1129.1.10 = {
+  holder = 204687
+}
+1153.1.28 = {
+  holder = 204685
+}
+1181.6.30 = {
+  liege = d_lancaster
+  holder = 204680
+}
+1232.10.26 = {
+  liege = k_england
+  holder = 204681
+}
+1232.11.21 = {
+  holder = 7459
+}
+1237.6.6 = {
+  holder = 454522
+}
+1264.1.1 = {
+  holder = 7465
+}
+1265.8.5 = {
+  holder = 454522
+}
+1272.11.16 = {
+  holder = 454520
+}
+1301.1.1 = {
+  holder = 454510
+}
+1312.11.13 = {
+  holder = 454500
+}
+1337.1.1 = {
+  holder = 454501
+}
+1450.1.1 = {
+  liege = 0
+  holder = 107030482
+}
+1683.3.14 = {
+  holder = 100498
+  liege = k_england
+}

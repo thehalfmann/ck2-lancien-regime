@@ -1,0 +1,11 @@
+title = c_banavasi
+max_settlements = 4
+b_vaijayanti = castle
+b_hangal = city
+b_balligavi = temple
+culture = kannada
+religion = hindu
+terrain = mountain
+1700.1.1 = {
+  b_vankapura = castle
+}

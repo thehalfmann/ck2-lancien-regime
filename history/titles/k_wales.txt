@@ -1,0 +1,58 @@
+999.1.1 = {
+  holder = 0
+}
+1137.1.1 = {
+  holder = 214710
+}
+1170.1.1 = {
+  holder = 0
+}
+1301.2.9 = {
+  holder = 454520
+}
+1307.7.8 = {
+  holder = 454510
+}
+1327.2.1 = {
+  holder = 454500
+}
+1450.1.1 = {
+  liege = 0
+  holder = 0
+}
+1603.3.24 = {
+  holder = 100215
+}
+1625.3.27 = {
+  holder = 100033
+}
+1653.12.16 = {
+  holder = 100035
+}
+1660.5.29 = {
+  holder = 100034
+}
+1685.2.6 = {
+  holder = 100004
+}
+1689.4.11 = {
+  holder = 100000
+}
+1688.7.4 = {
+  liege = k_england
+  holder = 100031
+}  
+1700.1.1 = {
+  vice_royalty = no
+  law = vassal_wars_law_2
+  law = ze_administration_laws_1  
+  law = investiture_law_0
+  law = succ_primogeniture
+  law = cognatic_succession
+  law = crown_authority_1
+  law = centralization_2
+  law = revoke_title_law_1
+  law = law_voting_power_1
+  law = war_voting_power_1
+  law = succession_voting_power_1
+}

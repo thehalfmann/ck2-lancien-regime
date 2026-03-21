@@ -1,0 +1,13 @@
+# County Title
+title = c_tochtepec
+
+# Settlements
+max_settlements = 3
+b_tochtepec = tribal
+b_tochtepec-ii = tribal
+
+# Misc
+culture = chontales
+religion = aztec
+
+# History

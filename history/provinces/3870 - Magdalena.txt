@@ -1,0 +1,14 @@
+# County Title
+title = c_magdalena
+
+# Settlements
+max_settlements = 4
+b_magdalena = tribal
+# b_magdalena-ii = tribal
+# b_magdalena-iii = tribal
+
+# Misc
+culture = muisca
+religion = south_american
+
+# History

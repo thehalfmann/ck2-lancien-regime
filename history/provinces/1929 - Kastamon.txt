@@ -1,0 +1,12 @@
+title = c_kastamon
+max_settlements = 4
+b_kastamon = castle
+b_pompeiopolis = city
+religion = sunni
+culture = turkish
+1700.1.1 = {
+  b_germanicopolis = temple
+}
+1700.1.1 = {
+  b_aboniteichos = castle
+}

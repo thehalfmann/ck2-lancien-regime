@@ -1,0 +1,15 @@
+654.1.1 = {
+  reset_name = yes
+  reset_adjective = yes
+  set_global_flag = bernicia_renamed
+}
+1683.4.6 = {
+  liege = k_england
+  holder = 100441
+}
+1700.1.1 = {
+  vice_royalty = no
+  law = investiture_law_0
+  law = cognatic_succession
+  law = centralization_2
+}

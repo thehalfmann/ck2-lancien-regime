@@ -1,0 +1,9 @@
+100062 = {
+	name = "Grigalius Antanas"
+	religion = catholic
+	culture = lithuanian
+	dynasty = 100020
+	1654.6.23 = {
+	  birth = yes   
+	}
+  }

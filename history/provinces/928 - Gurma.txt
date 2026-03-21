@@ -1,0 +1,14 @@
+title = c_gurma
+max_settlements = 3
+b_gurma = tribal
+culture = songhay
+religion = west_african_pagan
+1300.1.1 = {
+  b_gurma = castle
+}
+1700.1.1 = {
+  b_bilanga = city
+}
+1700.1.1 = {
+  b_nungu = temple
+}

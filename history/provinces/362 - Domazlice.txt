@@ -1,0 +1,28 @@
+title = c_domazlice
+max_settlements = 5
+b_prachen = tribal
+culture = bohemian
+religion = slavic_pagan
+883.1.1 = {
+  religion = catholic
+}
+900.1.1 = {
+  b_prachen = castle
+  b_doudleby = city
+  b_hohenfurth = temple
+}
+1243.1.1 = {
+  b_pisek = castle
+  capital = b_pisek
+  remove_settlement = b_prachen
+}
+1250.1.1 = {
+  b_resenberg = castle
+}
+1265.1.1 = {
+  b_budejovice = city
+  remove_settlement = b_doudleby
+}
+1700.1.1 = {
+  b_prachen = city
+}

@@ -1,0 +1,23 @@
+title = c_olomouc
+max_settlements = 5
+b_olomouc = tribal
+b_velehrad = temple
+culture = slovieni
+religion = slavic_pagan
+853.1.1 = {
+  religion = catholic
+  b_olomouc = castle
+  b_hradiste = city
+}
+955.1.1 = {
+  remove_settlement = b_velehrad
+  b_svaty_kopecek = temple
+  b_prerov = castle
+}
+1055.1.1 = {
+  culture = bohemian
+}
+1700.1.1 = {
+  b_velehrad = city
+  capital = b_svaty_kopecek
+}

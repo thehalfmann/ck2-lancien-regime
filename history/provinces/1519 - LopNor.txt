@@ -1,0 +1,11 @@
+title = c_lopnor
+max_settlements = 2
+b_lopnor = castle
+culture = tocharian
+religion = buddhist
+900.1.1 = {
+  culture = uyghur
+}
+1700.1.1 = {
+  b_qitun = city
+}

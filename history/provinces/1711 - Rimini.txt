@@ -1,0 +1,13 @@
+title = c_rimini
+max_settlements = 4
+b_pesaro = temple
+b_rimini = city
+b_gabicce = castle
+culture = italian
+religion = catholic
+1137.1.1 = {
+  capital = b_rimini
+}
+1700.1.1 = {
+  b_gatteo = castle
+}

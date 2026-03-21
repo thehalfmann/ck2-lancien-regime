@@ -1,0 +1,15 @@
+title = c_nyingchi
+max_settlements = 5
+b_nyingchi = castle
+b_drakchi = city
+b_lamaling = temple
+culture = tangut
+religion = bon
+645.1.1 = {
+  culture = bodpa
+  religion = buddhist
+  b_buchasergyi_lakang = temple
+}
+1700.1.1 = {
+  b_beba = castle
+}

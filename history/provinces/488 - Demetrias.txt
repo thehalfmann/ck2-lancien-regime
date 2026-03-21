@@ -1,0 +1,19 @@
+title = c_demetrias
+max_settlements = 3
+b_demetrias = castle
+b_neopatras = city
+culture = greek
+religion = orthodox
+1147.1.1 = {
+  trade_post = b_dandolo
+}
+1205.1.1 = {
+  b_boudonitza = castle
+  capital = b_boudonitza
+}
+1205.1.1 = {
+  remove_settlement = b_demetrias
+}
+1700.1.1 = {
+  b_lebadea = temple
+}

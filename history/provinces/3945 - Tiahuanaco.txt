@@ -1,0 +1,13 @@
+# County Title
+title = c_tiahuanaco
+
+# Settlements
+max_settlements = 3
+b_tiahuanaco = tribal
+b_tiahuanaco-ii = tribal
+
+# Misc
+culture = aimara
+religion = inti
+
+# History

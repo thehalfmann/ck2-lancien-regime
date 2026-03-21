@@ -1,0 +1,98 @@
+1037.1.1 = {
+  holder = 1059986
+  liege = 0
+}
+1100.1.1 = {
+  holder = 1059985
+}
+1130.1.1 = {
+  holder = 1059984
+}
+1180.1.1 = {
+  holder = 1059983
+}
+1210.1.1 = {
+  holder = 1059982
+}
+1250.1.1 = {
+  holder = 1059981
+}
+1251.1.1 = {
+  liege = k_sakya_trizin
+}
+1280.1.1 = {
+  holder = 1059980
+}
+1310.1.1 = {
+  holder = 1059979
+}
+1450.1.1 = {
+  liege = 0
+  holder = 0
+}
+1700.1.1 = {
+  vice_royalty = no
+  law = investiture_law_0
+  law = cognatic_succession
+  law = centralization_2
+}
+1815.6.9 = {
+  holder = 112023501
+  liege = e_china_west_governor
+}
+1830.6.9 = {
+  holder = 119860060
+  liege = e_china_west_governor
+}
+1845.6.9 = {
+  holder = 117494286
+  liege = e_china_west_governor
+}
+1860.6.9 = {
+  holder = 116348307
+  liege = e_china_west_governor
+}
+1875.6.9 = {
+  holder = 112285893
+  liege = e_china_west_governor
+}
+1890.6.9 = {
+  holder = 117890042
+  liege = e_china_west_governor
+}
+1905.6.9 = {
+  holder = 113736637
+  liege = e_china_west_governor
+}
+1920.6.9 = {
+  holder = 116411721
+  liege = e_china_west_governor
+}
+1935.6.9 = {
+  holder = 111298762
+  liege = e_china_west_governor
+}
+1950.6.9 = {
+  holder = 111273539
+  liege = e_china_west_governor
+}
+1965.6.9 = {
+  holder = 110422308
+  liege = e_china_west_governor
+}
+1980.6.9 = {
+  holder = 110310206
+  liege = e_china_west_governor
+}
+1995.6.9 = {
+  holder = 111457231
+  liege = e_china_west_governor
+}
+2010.6.9 = {
+  holder = 118312433
+  liege = e_china_west_governor
+}
+2020.12.31 = {
+  holder = 0
+  liege = 0
+}

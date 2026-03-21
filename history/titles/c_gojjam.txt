@@ -1,0 +1,4 @@
+1682.7.19 = {
+  liege = k_abyssinia
+  holder = 100554
+}

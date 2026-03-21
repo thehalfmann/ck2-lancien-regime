@@ -1,0 +1,14 @@
+title = c_qwivir
+max_settlements = 5
+b_semnan = castle
+b_darvar = city
+b_damqan = temple
+b_dehnamak = castle
+culture = persian
+religion = zoroastrian
+864.1.1 = {
+  religion = shiite
+}
+1700.1.1 = {
+  b_sangsar = city
+}

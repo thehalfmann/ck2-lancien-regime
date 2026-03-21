@@ -1,0 +1,4 @@
+1697.9.20 = {
+  liege = c_nordgau
+  holder = 100041
+}

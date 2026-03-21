@@ -1,0 +1,16 @@
+title = c_frankfurt
+max_settlements = 4
+b_frankfurt = city
+b_katzenelnbogen = city
+b_wiesbaden = city
+culture = french
+religion = catholic
+790.1.1 = {
+  culture = german
+}
+1700.1.1 = {
+  b_rheinfels = castle
+}
+1700.1.1 = {
+  capital = b_frankfurt
+}

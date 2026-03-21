@@ -1,0 +1,21 @@
+title = c_magdeburg
+max_settlements = 4
+b_magdeburg = tribal
+culture = old_saxon
+religion = norse_pagan
+790.1.1 = {
+  culture = german
+  religion = catholic
+  b_magdeburg = castle
+  b_mansfeld = city
+  b_haldensleben = castle
+}
+1187.1.1 = {
+  b_haldensleben = city
+}
+1700.1.1 = {
+  b_arnstein = temple
+}
+1700.1.1 = {
+  religion = protestant
+}

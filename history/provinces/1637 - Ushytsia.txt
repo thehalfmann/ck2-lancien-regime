@@ -1,0 +1,24 @@
+title = c_ushytsia
+max_settlements = 3
+b_ushytsia = tribal
+culture = volhynian
+religion = slavic_pagan
+867.1.1 = {
+  culture = russian
+}
+988.1.1 = {
+  religion = orthodox
+}
+1144.1.1 = {
+  b_ushytsia = city
+  b_kamianets = castle
+}
+1700.1.1 = {
+  b_litnivtsi = temple
+}
+1700.1.1 = {
+  culture = ruthenian
+}
+1700.1.1 = {
+  religion = catholic
+}

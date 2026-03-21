@@ -1,0 +1,13 @@
+title = c_sripatha
+max_settlements = 4
+b_sripatha = castle
+b_bayana = city
+b_dhavalapuri = castle
+culture = hindustani
+religion = jain
+1700.1.1 = {
+  b_dholeshwar_mahadev = temple
+}
+1700.1.1 = {
+  religion = hindu
+}

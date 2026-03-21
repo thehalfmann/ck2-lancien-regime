@@ -1,0 +1,22 @@
+title = c_ikonion
+max_settlements = 5
+b_ikonion = castle
+b_gaspadale = city
+b_lisdra = temple
+culture = greek
+religion = orthodox
+720.1.1 = {
+  religion = iconoclast
+}
+1091.8.26 = {
+  culture = turkish
+}
+1091.8.26 = {
+  religion = sunni
+}
+1091.8.26 = {
+  b_terpe = castle
+}
+1700.1.1 = {
+  b_isauria = city
+}

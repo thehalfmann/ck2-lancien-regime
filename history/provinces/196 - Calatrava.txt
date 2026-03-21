@@ -1,0 +1,28 @@
+title = c_calatrava
+max_settlements = 4
+b_calatrava = castle
+b_caracuel = temple
+b_villareal = city
+culture = visigothic
+religion = catholic
+812.1.1 = {
+  religion = sunni
+}
+934.1.1 = {
+  culture = andalusian_arabic
+}
+1162.1.1 = {
+  culture = castillan
+  religion = catholic
+}
+1210.1.1 = {
+  culture = andalusian_arabic
+  religion = sunni
+}
+1227.1.1 = {
+  culture = castillan
+  religion = catholic
+}
+1700.1.1 = {
+  b_alcazardesanjuan = castle
+}

@@ -1,0 +1,12 @@
+# County Title
+title = c_cuetlaxtlan
+
+# Settlements
+max_settlements = 3
+b_cuetlaxtlan = tribal
+
+# Misc
+culture = totonac
+religion = aztec
+
+# History

@@ -1,0 +1,13 @@
+title = c_anjou
+max_settlements = 5
+b_angers = castle
+b_lude = city
+b_graon = castle
+culture = french
+religion = catholic
+1700.1.1 = {
+  b_montsoreau = temple
+}
+1700.1.1 = {
+  b_vihiers = city
+}

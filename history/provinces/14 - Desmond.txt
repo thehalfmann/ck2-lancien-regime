@@ -1,0 +1,13 @@
+title = c_desmond
+max_settlements = 4
+b_dunasead = tribal
+b_clone = temple
+culture = irish
+religion = catholic
+1000.1.1 = {
+  b_dunasead = castle
+  b_cork = city
+}
+1700.1.1 = {
+  b_youghal = castle
+}

@@ -1,0 +1,8 @@
+1700.1.1 = {
+  de_jure_liege = e_germany
+  vice_royalty = no
+  law = investiture_law_0
+  law = cognatic_succession
+  law = crown_authority_1
+  law = centralization_2
+}

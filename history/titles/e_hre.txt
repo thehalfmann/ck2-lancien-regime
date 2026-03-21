@@ -1,0 +1,37 @@
+1508.2.4 = {
+  holder = 100414
+}
+1519.6.28 = {
+  holder = 100270
+}
+1556.8.27 = {
+  holder = 100287
+}
+1564.7.25 = {
+  holder = 100277
+}
+1576.10.12 = {
+  holder = 100345
+}
+1612.6.13 = {
+  holder = 100055
+}
+1619.8.28 = {
+  holder = 100313
+}
+1637.8.28 = {
+  holder = 100055
+}
+1658.11.18 = {
+  holder = 100022
+}
+1700.1.1 = {
+  vice_royalty = no
+  law = investiture_law_0
+	law = succ_hre_elective
+	law = agnatic_succession
+  law = crown_authority_1
+  law = centralization_0
+  law = grant_title_voting_power_0
+  law = succession_voting_power_1
+}

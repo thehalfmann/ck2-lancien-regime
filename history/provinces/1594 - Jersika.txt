@@ -1,0 +1,25 @@
+title = c_jersika
+max_settlements = 4
+b_jersika = tribal
+culture = lettigallish
+religion = baltic_pagan
+1202.1.1 = {
+  b_jersika = castle
+  b_koknese = temple
+  b_alene = city
+  b_jersika = ca_keep_1
+  b_jersika = ca_militia_barracks_1
+  b_jersika = ca_wall_1
+  b_jersika = ca_wall_q_1
+  b_alene = ct_barracks_1
+  b_koknese = tp_barracks_1
+}
+1290.1.1 = {
+  religion = catholic
+}
+1700.1.1 = {
+  b_marciena = castle
+}
+1700.1.1 = {
+  religion = orthodox
+}

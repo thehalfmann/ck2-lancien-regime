@@ -1,0 +1,18 @@
+title = c_orava
+max_settlements = 4
+b_arvavara = tribal
+b_liptovskymikulas = temple
+culture = slovieni
+religion = slavic_pagan
+900.1.1 = {
+  b_arvavara = castle
+  b_rozsahegy = city
+  religion = catholic
+}
+1700.1.1 = {
+  b_nameszto = castle
+}
+1700.1.1 = {
+  religion = reformed
+  culture = slovieni
+}

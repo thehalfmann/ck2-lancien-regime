@@ -1,0 +1,15 @@
+title = c_warzazat
+max_settlements = 3
+b_warzazat = tribal
+culture = maghreb_arabic
+religion = shiite
+947.1.1 = {
+  religion = sunni
+}
+1062.1.1 = {
+  b_warzazat = castle
+  b_tasagdah = city
+}
+1700.1.1 = {
+  b_shwan = temple
+}

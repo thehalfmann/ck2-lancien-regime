@@ -1,0 +1,15 @@
+title = c_schwyz
+max_settlements = 4
+b_altdorf = castle
+b_schwyz = city
+b_disentis = temple
+culture = german
+religion = catholic
+1291.7.15 = {
+  capital = b_schwyz
+}
+1700.1.1 = {
+  religion = reformed
+  b_engelberg = castle
+  capital = b_altdorf
+}

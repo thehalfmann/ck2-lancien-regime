@@ -1,0 +1,18 @@
+title = c_kumul
+max_settlements = 5
+b_kumul = castle
+b_piqan = temple
+culture = tocharian
+religion = buddhist
+900.1.1 = {
+  culture = uyghur
+}
+1700.1.1 = {
+  b_yiwu = city
+}
+1700.1.1 = {
+  b_dahe = castle
+}
+1700.1.1 = {
+  b_yanghai = city
+}

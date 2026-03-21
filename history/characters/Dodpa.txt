@@ -1,0 +1,8 @@
+100547 = {
+	name = "Tenzin Wangchuk"
+	religion = buddhist
+	culture = bodpa
+	1650.1.1 = {
+	  birth = yes
+	}
+  }

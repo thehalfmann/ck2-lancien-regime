@@ -1,0 +1,16 @@
+title = c_daylam
+max_settlements = 5
+b_khunaj = castle
+b_soltaniyeh = city
+b_zanjan = city
+culture = persian
+religion = zoroastrian
+1050.1.1 = {
+  religion = shiite
+}
+1700.1.1 = {
+  b_gheydar = temple
+}
+1700.1.1 = {
+  b_tarom = castle
+}

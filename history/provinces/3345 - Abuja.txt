@@ -1,0 +1,13 @@
+# County Title
+title = c_abuja
+
+# Settlements
+max_settlements = 5
+
+b_abuja = tribal
+b_minnaa = tribal
+# Misc
+culture = nigger
+religion = west_african_pagan
+
+# History

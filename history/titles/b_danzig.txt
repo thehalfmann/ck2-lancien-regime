@@ -1,0 +1,4 @@
+1692.1.1 = {
+  liege = c_danzing
+  holder = 100538
+}

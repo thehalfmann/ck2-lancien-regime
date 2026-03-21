@@ -1,0 +1,63 @@
+1037.9.4 = {
+  holder = 107510
+  law = crown_authority_1
+  law = investiture_law_1
+  effect = {
+    insert_title_history = k_leon
+  }
+  capital = 197
+}
+1065.12.27 = {
+  holder = 107500
+}
+1072.10.7 = {
+  holder = 108500
+}
+1109.6.30 = {
+  holder = 207660
+}
+1126.3.8 = {
+  holder = 207500
+}
+1157.8.21 = {
+  holder = 207520
+}
+1158.8.31 = {
+  holder = 207510
+}
+1214.10.8 = {
+  holder = 70230
+}
+1217.6.6 = {
+  holder = 457651
+}
+1217.8.31 = {
+  holder = 457620
+}
+1252.5.30 = {
+  holder = 457540
+}
+1284.4.4 = {
+  holder = 457530
+  law = succ_primogeniture
+}
+1295.4.25 = {
+  holder = 457520
+}
+1312.9.7 = {
+  holder = 457500
+}
+1504.11.26 = {
+  holder = 100265
+}
+1516.3.14 = {
+  liege = e_spain
+  holder = 100270
+}
+1700.1.1 = {
+  vice_royalty = no
+  law = investiture_law_0
+  law = cognatic_succession
+  law = crown_authority_1
+  law = centralization_2
+}

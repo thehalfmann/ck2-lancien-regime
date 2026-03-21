@@ -1,0 +1,31 @@
+title = c_szekezfehervar
+max_settlements = 4
+b_szekezfehervar = tribal
+culture = avar
+religion = tengri_pagan
+800.1.1 = {
+  b_szekezfehervar = castle
+  b_kaposvar = city
+  b_csurgo = temple
+}
+856.1.1 = {
+  culture = slovieni
+  religion = catholic
+}
+895.1.1 = {
+  remove_settlement = b_kaposvar
+  b_szekezfehervar = tribal
+}
+930.1.1 = {
+  culture = hungarian
+  religion = tengri_pagan
+}
+950.1.1 = {
+  religion = catholic
+  b_szekezfehervar = castle
+  b_kaposvar = city
+}
+1700.1.1 = {
+  religion = protestant
+  b_szigetvar = castle
+}

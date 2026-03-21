@@ -1,0 +1,13 @@
+title = c_shorkot
+max_settlements = 4
+b_bhirr = castle
+b_shorkot = city
+b_kamalia = temple
+culture = panjabi
+religion = hindu
+1700.1.1 = {
+  b_chandrod = castle
+}
+1700.1.1 = {
+  religion = sunni
+}

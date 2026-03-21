@@ -1,0 +1,13 @@
+# County Title
+title = c_tarija
+
+# Settlements
+max_settlements = 3
+b_tarija = tribal
+b_tarija-ii = tribal
+
+# Misc
+culture = aimara
+religion = inti
+
+# History

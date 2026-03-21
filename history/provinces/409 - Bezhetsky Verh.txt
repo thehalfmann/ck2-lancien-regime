@@ -1,0 +1,22 @@
+title = c_bezhetsky_verh
+max_settlements = 3
+b_ladoga = tribal
+culture = ugricbaltic
+religion = finnish_pagan
+terrain = forest
+862.1.1 = {
+  culture = russian
+  religion = slavic_pagan
+  b_ladoga = tb_hillfort_1
+  b_ladoga = tb_market_town_1
+}
+988.1.1 = {
+  religion = orthodox
+  b_ladoga = castle
+}
+1700.1.1 = {
+  b_lyuban = city
+}
+1700.1.1 = {
+  b_tosno = temple
+}

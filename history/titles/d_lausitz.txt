@@ -1,0 +1,4 @@
+1694.4.27 = {
+  liege = d_saxony
+  holder = 0
+}

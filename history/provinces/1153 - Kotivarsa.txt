@@ -1,0 +1,11 @@
+title = c_kotivarsa
+max_settlements = 5
+b_ramavati = castle
+b_devkot = temple
+b_bangarh = city
+b_jagaddala = temple
+culture = bengali
+religion = buddhist
+1700.1.1 = {
+  b_korat = castle
+}

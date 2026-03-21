@@ -1,0 +1,15 @@
+title = c_bikrampur
+max_settlements = 4
+b_bikrampur = castle
+b_sutrapur = city
+culture = bengali
+religion = buddhist
+1700.1.1 = {
+  b_dhakeshwari_jatiya_mandir = temple
+}
+1700.1.1 = {
+  b_loricol = castle
+}
+1700.1.1 = {
+  religion = sunni
+}

@@ -1,0 +1,22 @@
+title = c_clydesdale
+max_settlements = 4
+b_dumbarton = tribal
+b_st_kentigern = temple
+culture = welsh
+religion = catholic
+1000.1.1 = {
+  b_dumbarton = castle
+  b_glasgow = city
+}
+1054.1.1 = {
+  culture = scottish
+  b_lanark = castle
+  capital = b_lanark
+  remove_settlement = b_dumbarton
+}
+1700.1.1 = {
+  b_renfrew = castle
+}
+1700.1.1 = {
+  religion = reformed
+}

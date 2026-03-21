@@ -1,0 +1,35 @@
+100.1.1 = {
+  pentarch = b_jerusalem
+}
+1450.1.1 = {
+  liege = 0
+  holder = 0
+}
+1700.1.1 = {
+  vice_royalty = no
+  law = investiture_law_0
+  law = cognatic_succession
+  law = crown_authority_1
+  law = centralization_2
+}
+1918.11.11 = {
+  holder = 119065911
+}
+1953.11.9 = {
+  holder = 116892814
+}
+1964.11.2 = {
+  holder = 118621414
+}
+1975.3.25 = {
+  holder = 113663138
+}
+1982.6.13 = {
+  holder = 111354603
+}
+2005.8.1 = {
+  holder = 119809883
+}
+2015.1.23 = {
+  holder = 110925884
+}

@@ -1,0 +1,8 @@
+title = c_north_dvina
+max_settlements = 1
+b_kholmogory = tribal
+culture = samoyed
+religion = finnish_pagan
+1700.1.1 = {
+  religion = orthodox
+}

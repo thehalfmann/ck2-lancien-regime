@@ -1,0 +1,15 @@
+title = c_vijayapura
+max_settlements = 5
+b_vijayapura = castle
+b_begunia = temple
+culture = bengali
+religion = buddhist
+1700.1.1 = {
+  b_patuli = city
+}
+1700.1.1 = {
+  b_kalna = castle
+}
+1700.1.1 = {
+  b_churulia = city
+}

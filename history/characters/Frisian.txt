@@ -1,0 +1,9 @@
+100440 = {
+	name = "Christiaan Everhard"  
+	religion = protestant
+	culture = frisian
+	dynasty = 100101
+	1665.10.1 = {
+	  birth = yes    
+	 } 
+   }

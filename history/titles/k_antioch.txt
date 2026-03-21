@@ -1,0 +1,55 @@
+1098.6.3 = {
+  holder = 1140
+  law = succ_primogeniture
+  law = cognatic_succession
+}
+1105.1.1 = {
+  holder = 30871
+}
+1112.12.5 = {
+  holder = 30877
+}
+1119.6.27 = {
+  holder = 223700
+}
+1130.1.5 = {
+  holder = 223525
+}
+1136.4.1 = {
+  holder = 223740
+}
+1149.6.28 = {
+  holder = 223720
+}
+1153.1.1 = {
+  holder = 223590
+}
+1160.1.1 = {
+  holder = 223750
+}
+1201.3.20 = {
+  holder = 223755
+}
+1216.1.1 = {
+  holder = 31018
+}
+1219.1.1 = {
+  holder = 223755
+}
+1233.3.1 = {
+  holder = 31024
+}
+1252.1.1 = {
+  holder = 31031
+}
+1450.1.1 = {
+  liege = 0
+  holder = 0
+}
+1700.1.1 = {
+  vice_royalty = no
+  law = investiture_law_0
+  law = cognatic_succession
+  law = crown_authority_1
+  law = centralization_2
+}

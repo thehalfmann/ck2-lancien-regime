@@ -1,0 +1,438 @@
+e_maya = {
+
+	color={ 185 44 125 }
+	color2={ 220 220 220 }
+
+	capital = 3759 # Tikal
+
+	k_yokotan = {
+
+		color={ 45 74 227 }
+		color2={ 220 220 220 }
+
+		capital = 3762 # Campeche
+
+		d_tzotzil = {
+
+			color={ 155 14 209 }
+			color2={ 220 220 220 }
+
+			capital = 3745 # Tzotzil
+			
+			c_chiapas = {
+
+				color={ 55 44 89 }
+				color2={ 220 220 220 }
+				
+				b_chiapas = {
+				}
+				b_chiapas-ii = {
+				}
+				b_chiapas-iii = {
+				}
+				b_chiapas-iv = {
+				}
+			}
+			c_jakaltek = {
+
+				color={ 65 134 69 }
+				color2={ 220 220 220 }
+				
+				b_jakaltek = {
+				}
+				b_jakaltek-ii = {
+				}
+				b_jakaltek-iii = {
+				}
+			}
+			c_tzotzil = {
+
+				holy_site=mayan
+				holy_site=mayan_reformed
+
+				color={ 75 194 223 }
+				color2={ 220 220 220 }
+				
+				b_tzotzil = {
+				}
+				b_tzotzil-ii = {
+				}
+				b_tzotzil-iii = {
+				}
+				b_tzotzil-iv = {
+				}
+			}
+		}
+		d_yokotan = {
+
+			color={ 205 84 189 }
+			color2={ 220 220 220 }
+			
+			capital = 3762 # Campeche
+			
+			c_campeche = {
+
+				color={ 95 24 69 }
+				color2={ 220 220 220 }
+				
+				b_campeche = {
+				}
+				b_campeche-ii = {
+				}
+				b_campeche-iii = {
+				}
+				b_campeche-iv = {
+				}
+			}
+			c_champutun = {
+
+				color={ 105 204 169 }
+				color2={ 220 220 220 }
+				
+				b_champutun = {
+				}
+				b_champutun-ii = {
+				}
+				b_champutun-iii = {
+				}
+			}
+			c_xicallanco = {
+
+				color={ 115 144 199 }
+				color2={ 220 220 220 }
+				
+				b_xicallanco = {
+				}
+				b_xicallanco-ii = {
+				}
+				b_xicallanco-iii = {
+				}
+			}
+			c_mixe = {
+
+				color={ 125 214 129 }
+				color2={ 220 220 220 }
+				
+				b_mixe = {
+				}
+				b_mixe-ii = {
+				}
+				b_mixe-iii = {
+				}
+			}
+			c_mitla = {
+
+				color={ 123 171 129 }
+				color2={ 220 220 220 }
+				
+				b_mitla = {
+				}
+				b_mitla-ii = {
+				}
+				b_mitla-iii = {
+				}
+			}
+		}
+              }
+
+	k_maya = {
+
+		color={ 45 21 94 }
+		color2={ 220 220 220 }
+
+		capital = 3759 # Tikal
+
+		d_kaminaljuyu = {
+
+			color={ 95 57 129 }
+			color2={ 220 220 220 }
+			
+			capital = 3748 # Guatemala
+			
+			c_guatemala = {
+
+				color={ 15 144 149 }
+				color2={ 220 220 220 }
+
+				holy_site = aztec
+				holy_site = aztec_reformed
+				
+				b_guatemala = {
+				}
+				b_guatemala-ii = {
+				}
+				b_guatemala-iii = {
+				}
+				b_guatemala-iv = {
+				}
+			}
+			c_xelaju = {
+
+				color={ 35 124 103 }
+				color2={ 220 220 220 }
+				
+				b_xelaju = {
+				}
+				b_xelaju-ii = {
+				}
+				b_xelaju-iii = {
+				}
+			}
+			c_qumarkaj = {
+
+				color={ 45 174 19 }
+				color2={ 220 220 220 }
+				
+				b_qumarkaj = {
+				}
+				b_qumarkaj-ii = {
+				}
+				b_qumarkaj-iii = {
+				}
+				b_qumarkaj-iv = {
+				}
+			}
+		}
+
+		d_yucatan = {
+
+			color={ 35 51 83 }
+			color2={ 220 220 220 }
+			
+			capital = 3767 # Sotuta
+			
+			c_sotuta = {
+
+				color={ 145 124 74 }
+				color2={ 220 220 220 }
+				
+				b_sotuta = {
+				}
+				b_sotuta-ii = {
+				}
+				b_sotuta-iii = {
+				}
+				b_sotuta-iv = {
+				}
+				b_sotuta-v = {
+				}
+			}
+			c_ah_canul = {
+
+				color={ 155 141 224 }
+				color2={ 220 220 220 }
+				
+				b_ah_canul = {
+				}
+				b_ah_canul-ii = {
+				}
+				b_ah_canul-iii = {
+				}
+			}
+			c_xiu = {
+
+				color={ 165 29 73 }
+				color2={ 220 220 220 }
+				
+				b_xiu = {
+				}
+				b_xiu-ii = {
+			              }
+				b_xiu-iii = {
+				}
+			}
+			c_mani = {
+
+				color={ 175 144 34 }
+				color2={ 220 220 220 }
+				
+				b_mani = {
+				}
+				b_mani-ii = {
+				}
+				b_mani-iii = {
+				}
+				b_mani-iv = {
+				}
+			}
+			c_ecab = {
+
+				color={ 135 58 34 }
+				color2={ 220 220 220 }
+				
+				b_ecab = {
+				}
+				b_ecab-ii = {
+				}
+				b_ecab-iii = {
+				}
+			}
+			c_chikinchel = {
+
+				color={ 225 88 34 }
+				color2={ 220 220 220 }
+				
+				b_chikinchel = {
+				}
+				b_chikinchel-ii = {
+				}
+				b_chikinchel-iii = {
+				}
+			}
+			c_uaymil = {
+
+				color={ 235 28 34 }
+				color2={ 220 220 220 }
+				
+				b_uaymil = {
+				}
+				b_uaymil-ii = {
+				}
+				b_uaymil-iii = {
+				}
+			}
+		}
+		d_tikal = {
+
+			color={ 125 131 57 }
+			color2={ 220 220 220 }
+			
+			capital = 3759 # Tikal
+
+			c_tikal = {
+
+				color={ 139 194 34 }
+				color2={ 220 220 220 }
+
+				holy_site=mayan
+				holy_site=mayan_reformed
+				holy_site = aztec
+				holy_site = aztec_reformed
+				
+				b_tikal = {
+				}
+				b_tikal-ii = {
+				}
+				b_tikal-iii = {
+				}
+				b_tikal-iv = {
+				}
+				b_tikal-v = {
+				}
+				b_tikal-vi = {
+				}
+			}			
+			c_peten = {
+
+				color={ 235 17 96 }
+				color2={ 220 220 220 }
+				
+				b_peten = {
+				}
+				b_peten-ii = {
+				}
+				b_peten-iii = {
+				}
+				b_peten-iv = {
+				}
+			}
+			c_belize = {
+
+				color={ 245 75 216 }
+				color2={ 220 220 220 }
+				
+				b_belize = {
+				}
+				b_belize-ii = {
+				}
+				b_belize-iii = {
+				}
+			}
+			c_moran = {
+
+				color={ 88 24 36 }
+				color2={ 220 220 220 }
+				
+				b_moran = {
+				}
+				b_moran-ii = {
+			              }
+				b_moran-iii = {
+				}
+			}
+			c_tzul = {
+
+				color={ 5 37 66 }
+				color2={ 220 220 220 }
+				
+				b_tzul = {
+				}
+				b_tzul-ii = {
+				}
+				b_tzul-iii = {
+				}
+				b_tzul-iv = {
+				}
+			}
+		}
+		d_chorti = {
+
+			color={ 185 121 223 }
+			color2={ 220 220 220 }
+			
+			capital = 3754 # Chortli
+			
+			c_chacujal = {
+
+				color={ 116 43 104 }
+				color2={ 220 220 220 }
+				
+				b_chacujal = {
+				}
+				b_chacujal-ii = {
+				}
+				b_chacujal-iii = {
+				}
+			}
+			c_chortli = {
+
+				color={ 58 54 58 }
+				color2={ 220 220 220 }
+
+				holy_site=mayan
+				holy_site=mayan_reformed
+				
+				b_chortli = {
+				}
+				b_chortli-ii = {
+			              }
+				b_chortli-iii = {
+				}
+			}
+			c_pipil = {
+
+				color={ 25 34 209 }
+				color2={ 220 220 220 }
+				
+				b_pipil  = {
+				}
+				b_pipil-ii = {
+				}
+				b_pipil-iii = {
+				}
+			}
+			c_xicaque = {
+
+				color={ 25 64 157 }
+				color2={ 220 220 220 }
+				
+				b_xicaque = {
+				}
+				b_xicaque-ii = {
+				}
+				b_xicaque-iii = {
+				}
+			}
+		}
+	}
+}

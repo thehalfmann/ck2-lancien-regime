@@ -1,0 +1,22 @@
+title = c_beersheb
+terrain = hills
+max_settlements = 3
+b_beersheb = castle
+b_massada = temple
+culture = levantine_arabic
+religion = sunni
+1700.1.1 = {
+  b_estemon = city
+}
+1700.1.1 = {
+  culture = levantine_arabic
+}
+1918.11.11 = {
+  culture = ashkenazi
+}
+1700.1.1 = {
+  religion = sunni
+}
+1918.11.11 = {
+  religion = jewish
+}

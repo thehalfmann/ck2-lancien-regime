@@ -1,0 +1,18 @@
+title = c_kashin
+max_settlements = 2
+b_kashin = tribal
+culture = meshchera
+religion = finnish_pagan
+867.1.1 = {
+  culture = russian
+  religion = slavic_pagan
+}
+988.1.1 = {
+  religion = orthodox
+}
+1200.1.1 = {
+  b_kashin = castle
+}
+1700.1.1 = {
+  b_kaliazin = city
+}

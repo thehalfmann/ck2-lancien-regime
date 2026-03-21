@@ -1,0 +1,20 @@
+title = c_vukovar
+max_settlements = 3
+b_vukovar = tribal
+culture = croatian
+religion = slavic_pagan
+800.1.1 = {
+  religion = catholic
+  b_vukovar = castle
+  b_ilko = city
+}
+930.1.1 = {
+  b_vukovar = tribal
+}
+950.1.1 = {
+  b_vukovar = castle
+}
+1700.1.1 = {
+  religion = protestant
+  b_posga = temple
+}

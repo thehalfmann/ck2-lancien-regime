@@ -1,0 +1,26 @@
+1050.1.1={
+	holder=1016000011 #Nyeleti
+              liege=e_big_african_empire
+}
+1080.1.1={
+	holder=1016000012 #Ntosvelo
+}
+1110.1.1={
+	holder=1016000013 #Nyeleti
+}
+1140.1.1={
+	holder=1016000014 #Minkateko
+}
+1170.1.1={
+	holder=1016000015 #Nsuku
+}
+1200.1.1={
+	holder=1016000016 #Rhulani
+              liege=0
+}
+1230.1.1={
+	holder=1016000017 #Rhulani
+}
+1260.1.1={
+	holder=1016000018 #Nyeleti
+}

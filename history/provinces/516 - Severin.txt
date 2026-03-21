@@ -1,0 +1,13 @@
+title = c_severin
+max_settlements = 4
+b_severin = castle
+b_mehadia = city
+b_orsova = temple
+culture = romanian
+religion = slavic_pagan
+870.1.1 = {
+  religion = orthodox
+}
+1700.1.1 = {
+  b_drobeta = castle
+}

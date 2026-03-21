@@ -1,0 +1,17 @@
+title = c_lorraine
+max_settlements = 5
+b_nancy = castle
+b_sarrebourg = city
+b_toul = temple
+culture = french
+religion = catholic
+790.1.1 = {
+  culture = german
+}
+1187.1.1 = {
+  b_luneville = castle
+}
+1700.1.1 = {
+  culture = french
+  b_epinal = city
+}

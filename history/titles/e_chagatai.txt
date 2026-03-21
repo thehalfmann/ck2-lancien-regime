@@ -1,0 +1,13 @@
+20.1.1 = {
+  historical_nomad = yes
+}
+1697.1.1 = {
+  holder = 100385
+}
+1700.1.1 = {
+  vice_royalty = no
+  law = investiture_law_0
+  law = cognatic_succession
+  law = crown_authority_1
+  law = centralization_0
+}

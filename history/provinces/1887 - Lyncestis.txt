@@ -1,0 +1,16 @@
+title = c_lyncestis
+max_settlements = 3
+b_bitola = castle
+b_lyncestis = temple
+culture = serbian
+religion = orthodox
+930.1.1 = {
+  culture = bulgarian
+}
+1066.1.1 = {
+  culture = serbian
+}
+1700.1.1 = {
+  culture = bulgarian  
+  b_heraclea_lyncestis = city
+}

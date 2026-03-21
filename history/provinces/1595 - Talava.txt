@@ -1,0 +1,23 @@
+title = c_talava
+max_settlements = 3
+b_satekle = tribal
+culture = lettigallish
+religion = baltic_pagan
+1202.1.1 = {
+  b_satekle = castle
+  b_metsene = temple
+  b_satekle = ca_keep_1
+  b_satekle = ca_militia_barracks_1
+  b_satekle = ca_wall_1
+  b_satekle = ca_wall_q_1
+  b_metsene = tp_barracks_1
+}
+1290.1.1 = {
+  religion = catholic
+}
+1700.1.1 = {
+  b_trikata = city
+}
+1700.1.1 = {
+  religion = orthodox
+}

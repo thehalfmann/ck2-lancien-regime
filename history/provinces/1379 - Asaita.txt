@@ -1,0 +1,14 @@
+title = c_asayita
+max_settlements = 3
+b_asayita = castle
+culture = ethiopian
+religion = miaphysite
+840.1.1 = {
+  religion = sunni
+}
+1700.1.1 = {
+  b_afambo = city
+}
+1700.1.1 = {
+  b_serdo = temple
+}

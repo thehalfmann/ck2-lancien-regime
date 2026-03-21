@@ -1,0 +1,8 @@
+1845.6.9 = {
+  holding_dynasty = 713
+  liege = d_provence
+  holder = 113880325
+}
+1860.6.9 = {
+  holder = 0
+}

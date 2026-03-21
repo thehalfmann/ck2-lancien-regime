@@ -1,0 +1,26 @@
+title = c_wolgast
+max_settlements = 4
+b_wolgast = tribal
+culture = german
+religion = slavic_pagan
+800.1.1 = {
+  b_wolgast = castle
+  b_usedom = city
+  b_anklam = temple
+  b_wolgast = ca_keep_1
+  b_wolgast = ca_militia_barracks_1
+  b_wolgast = ca_wall_1
+  b_wolgast = ca_wall_q_1
+  b_usedom = ct_barracks_1
+  b_anklam = tp_barracks_1
+}
+1168.1.1 = {
+  religion = catholic
+}
+1290.1.1 = {
+  trade_post = b_bardewik
+}
+1700.1.1 = {
+  religion = protestant
+  b_ueckermunde = castle
+}

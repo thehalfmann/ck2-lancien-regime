@@ -1,0 +1,715 @@
+100036 = {
+	name = "Henriette Marie" # Henrietta Maria of France
+	female = yes
+	religion = catholic
+	culture = french
+	dynasty = 100013
+	father = 100298
+	mother = 100297  
+	1609.9.10 = {
+		birth = yes
+	}
+	1669.9.13 = {
+		death = yes    
+	}
+}
+
+100038 = {
+	name = "Philippe" # Philippe I, Duke of Orléans
+	religion = catholic
+	culture = french
+	dynasty = 100013
+	father = 100039
+	mother = 100040
+	trait = "skilled_tactician"
+	trait = "homosexual"
+	trait = "hedonist"
+	1640.9.21 = {
+		birth = yes
+	}
+	1660.6.9 = {
+		add_spouse=100145
+	}
+	1671.11.16 = {
+		add_spouse=100149    
+	}
+}
+
+100039 = {
+	name = "Louis" # Louis XIII
+	religion = catholic
+	culture = french
+	give_nickname = nick_the_just
+	dynasty = 100013
+	father = 100298
+	mother = 100297
+	trait = "homosexual"
+	1601.9.27 = {
+		birth = yes
+	}
+	1660.6.9 = {
+		add_spouse=100040
+	}  
+	1643.5.14 = {
+		death = yes  
+	}
+}
+
+100041 = {
+	name = "Louis" # Louis XIV
+	religion = catholic
+	culture = french
+	dna="0aaak0j0ab0"
+	properties="0e0b0k00000000000000000000000000000000"
+	give_nickname = nick_the_great
+	dynasty = 100013
+	father = 100039
+	mother = 100040
+	trait = "grey_eminence"
+	trait = "is_fat"
+	trait = "lustful"
+	trait = "zealous"
+	martial = 8
+	diplomacy = 9
+	intrigue = 10
+	stewardship = 8
+	learning = 8
+	health = 10
+	1638.9.5 = {
+		birth = yes
+	}
+	1660.6.3 = {
+		add_spouse=100042 
+	}
+	1661.1.1 = {  
+		effect = { add_lover = 100603 } # Louise de La Vallière
+	}    
+	1667.1.1 = {  
+		effect = { remove_lover = 100603}
+	}    
+	1667.1.1 = {
+		effect = { add_lover = 100154 } # Madame de Montespan
+	}
+	1668.5.2 = { # War of Devolution
+        effect = {add_rival = 100022 }
+	}
+	1697.9.20 = {
+		add_claim = c_bar
+		add_claim = c_lorraine
+	}
+}
+
+100043 = {
+	name = "Louis" # Louis, Grand Dauphin
+	religion = catholic
+	culture = french
+	dynasty = 100013
+	father = 100041
+	mother = 100042
+	trait = "grey_eminence"
+	trait = "slothful"
+	trait = "is_fat"
+	trait = "dull"
+	trait = "kind"
+	1661.11.1 = {
+		birth = yes
+	}
+	1680.3.7 = {
+		add_spouse=100044     
+	}
+}
+
+100045 = {
+	name = "Louis" # Louis, Duke of Burgundy
+	religion = catholic
+	culture = french
+	dynasty = 100013
+	father = 100043
+	mother = 100044  
+	1682.8.6 = {
+		birth = yes  
+	}
+	1697.12.7 = {
+		add_spouse=100046    
+	}
+}
+
+100047 = {
+	name = "Philippe" # Philip V of Spain
+	religion = catholic
+	culture = french
+	dynasty = 100013
+	father = 100043
+	mother = 100044  
+	trait = "depressed"
+	trait = "ambitious"
+	1683.12.19 = {
+		birth = yes
+	}     
+	1700.1.1 = {
+		effect = {
+			add_pressed_claim = e_spain
+		}
+	}
+}
+
+100048 = {
+	name = "Charles" # Charles, Duke of Berry
+	religion = catholic
+	culture = french
+	dynasty = 100013
+	father = 100043
+	mother = 100044  
+	1686.7.31 = {
+		birth = yes
+	}
+}
+
+100053 = {
+	name = "Élisabeth" # Elisabeth of France, Queen of Spain
+	female = yes
+	religion = catholic
+	culture = french
+	dynasty = 100013
+	father = 100298
+	mother = 100297
+	1602.11.22 = {
+		birth = yes
+	}
+	1644.10.6 = {
+		death = yes         
+	}
+}
+
+100096 = {
+	name = "Marie Casimire"  # Marie Casimire d'Arquien
+	female = yes
+	religion = catholic
+	culture = french
+	dynasty = 100035
+	1641.6.28 = {
+		birth = yes         
+	} 
+}
+
+100136 = {
+	name = "Charles Maurice" # Charles Maurice Le Tellier
+	religion = catholic
+	culture = french
+	dynasty = 100040
+	1642.7.18 = {
+		birth = yes          
+	}   
+}
+
+100138 = {
+	name = "Marie Louise" # Marie Louise d'Orléans
+	female = yes
+	religion = catholic
+	culture = french
+	dynasty = 100013
+	father = 100038
+	mother = 100145
+	1662.3.26 = {
+		birth = yes  
+	}
+	1689.2.12 = {
+		death = {
+			death_reason = death_murder_unknown_poison
+		}  
+	}
+}
+
+100146 = {
+	name = "Anne Marie" # Anne Marie d'Orléans
+	female = yes
+	religion = catholic
+	culture = french
+	dynasty = 100013
+	father = 100038
+	mother = 100145
+	1669.8.27 = {
+		birth = yes
+	}
+}
+
+100150 = {
+	name = "Élisabeth Charlotte" # Élisabeth Charlotte d'Orléans
+	female = yes
+	religion = catholic
+	culture = french
+	dynasty = 100014
+	father = 100038
+	mother = 100149
+	1676.9.13 = {
+		birth = yes
+	}
+}
+
+100151 = {
+	name = "Leopold" # Leopold, Duke of Lorraine
+	religion = catholic
+	culture = french
+	dynasty = 100047
+	father = 100194
+	mother = 100191
+	1679.9.11 = {
+		birth = yes
+	} 
+	1698.10.13 = {
+		add_spouse = 100150
+	}
+}
+
+100152 = {
+	name = "Philippe" # Philippe II, Duke of Orléans
+	religion = catholic
+	culture = french
+	dynasty = 100013
+	father = 100038
+	mother = 100149
+	1674.8.2 = {
+		birth = yes
+	} 
+	1692.2.18 = {
+		add_spouse = 100153
+	}
+}
+
+100153 = {
+	name = "Francoise Marie" # Françoise Marie de Bourbon
+	female = yes
+	religion = catholic
+	culture = french
+	dynasty = 100013
+	father = 100041
+	mother = 100154
+	trait = "bastard"  
+	1677.4.5 = {
+		birth = yes
+	}
+	1681.11.22 = {
+		remove_trait="bastard"
+		add_trait="legit_bastard"
+	}
+}
+
+100154 = {
+	name = "Françoise Athénaïs" # Madame de Montespan
+	female = yes
+	religion = catholic
+	culture = french
+	dynasty = 100185
+	1640.10.5 = {
+		birth = yes
+	}
+}
+
+100155 = {
+	name = "Marie Louise Élisabeth" # Marie Louise Élisabeth d'Orléans
+	female = yes
+	religion = catholic
+	culture = french
+	dynasty = 100013
+	father = 100152
+	mother = 100153
+	1695.8.20 = {
+		birth = yes
+	}
+}
+
+100156 = {
+	name = "Louise Adélaïde" # Louise Adélaïde d'Orléans
+	female = yes
+	religion = catholic
+	culture = french
+	dynasty = 100013
+	father = 100152
+	mother = 100153
+	1698.8.13 = {
+		birth = yes
+	}
+}
+
+100194 = {
+	name = "Charles Léopold" # Charles V, Duke of Lorraine
+	religion = catholic
+	culture = french
+	dynasty = 100047
+	1643.4.3 = {
+		birth = yes
+	} 
+	1678.2.4 = {
+		add_spouse = 100191
+	}
+	1690.4.18 = {
+		death = yes 
+	}
+}
+
+
+100195 = {
+	name = "Charles Joseph" # Charles Joseph of Lorraine
+	religion = catholic
+	culture = french
+	dynasty = 100047
+	father = 100194
+	mother = 100191
+	1680.11.24 = {
+		birth = yes
+	} 
+}
+
+100268 = {
+	name = "François" # Francis I of France
+	religion = catholic
+	culture = french
+	dynasty = 100073
+	1494.9.12 = {
+		birth = yes
+	}
+	1518.7.16 = {  
+		add_spouse = 100249
+	}
+	1547.3.31 = {
+		death = yes   
+	}
+}
+
+100298 = {
+	name = "Henri" # Henry IV of France
+	religion = reformed
+	culture = french
+	dynasty = 100013
+	1553.13.12 = {
+		birth = yes 
+	}
+	1593.7.25 = {
+		religion = catholic 
+	}
+	1600.12.17 = {
+		add_spouse = 100297
+	}
+	1610.5.14 = {
+		death={
+			death_reason = death_murder
+			killer = 100299
+		}
+	}
+}
+
+100299 = {
+	name = "François Ravaillac"
+	religion = catholic
+	culture = french
+	1578.1.1 = {
+		birth = yes 
+	}
+	1610.5.27 = {
+		death={
+			death_reason = death_execution
+		}
+	}
+}
+
+100342 = {
+	name = "Élisabeth" # Elisabeth of Valois
+	female = yes
+	religion = catholic
+	culture = french
+	dynasty = 100073
+	1546.4.2 = {
+		birth = yes 
+	}
+	1568.10.3 = {
+		death = yes   
+	}
+}
+
+100352 = {
+	name = "François" # Francis I, Duke of Lorraine
+	religion = catholic
+	culture = french
+	dynasty = 100047
+	1517.8.23 = {
+		birth = yes 
+	}
+	1541.7.10 = {
+		add_spouse = 100339
+	}
+	1545.6.12 = {
+		death = yes   
+	}
+}
+
+100367 = {
+	name = "Louis-Auguste" # Louis Auguste, Duke of Maine
+	religion = catholic
+	culture = french
+	dynasty = 100013
+	father = 100041
+	mother = 100154
+	trait = "bastard"
+	1670.3.31 = {
+		birth = yes  
+	}
+	1673.12.19 = {
+		remove_trait="bastard"
+		add_trait="legit_bastard"
+	}
+	1692.5.19 = {
+		add_spouse = 100368
+	}
+}
+
+100368 = {
+	name = "Louise Bénédicte" # Louise Bénédicte de Bourbon
+	female = yes
+	religion = catholic
+	culture = french
+	dynasty = 100013
+	trait = "fair"
+	1676.11.8 = {
+		birth = yes 
+	}
+}
+
+100397 = {
+	name = "Louis Joseph" # Louis Joseph, Duke of Vendôme
+	religion = catholic
+	culture = french
+	dynasty = 100013
+	trait = "homosexual"
+	1654.7.1 = {
+		birth = yes
+	}
+}
+
+100398 = {
+	name = "Marie" # Marie de Nemours
+	female = yes
+	religion = catholic
+	culture = french
+	dynasty = 100089
+	1625.3.5 = {
+		birth = yes
+	}
+}
+
+100399 = {
+	name = "Louis" # Louis III, Prince of Condé
+	religion = catholic
+	culture = french
+	dynasty = 100013
+	1668.11.10 = {
+		birth = yes
+	}
+	1685.1.1 = {
+		add_spouse = 100602
+	}
+}
+
+100400 = {
+	name = "Louis Alexandre" # Louis Alexandre, Count of Toulouse
+	religion = catholic
+	culture = french
+	dynasty = 100013
+	father = 100041
+	mother = 100154
+	trait = "bastard"
+	1678.8.6 = {
+		birth = yes  
+	}
+	1681.1.1 = {
+		remove_trait="bastard"
+		add_trait="legit_bastard"
+	}
+}
+
+100424 = {
+	name = "Éléonore" # Éléonore de Bourbon
+	female = yes
+	religion = catholic
+	culture = french
+	dynasty = 100013
+	1587.4.30 = {
+		birth = yes    
+	}
+	1619.1.20 = {
+		death = yes
+	} 
+}
+
+100430 = {
+	name = "Balthasar Gerard"  
+	religion = catholic
+	culture = french
+	1557.1.1 = {
+		birth = yes    
+	}
+	1584.7.14 = {
+		death = {
+			death_reason = death_execution
+		}
+	}
+}
+
+100431 = {
+	name = "Charlotte" # Charlotte of Bourbon
+	female = yes
+	religion = reformed
+	culture = french
+	dynasty = 100099
+	1546.1.1 = {
+		birth = yes    
+	}
+	1582.5.5 = {
+		death = yes
+	} 
+}
+
+100439 = {
+	name = "Louise" # Louise de Coligny
+	female = yes
+	religion = reformed
+	culture = french
+	dynasty = 100100
+	1555.9.23 = {
+		birth = yes    
+	}
+	1620.11.9 = {
+		death = yes
+	} 
+}
+
+100508 = {
+	name = "Marguerite Louise" # Marguerite Louise d'Orléans
+	female = yes
+	religion = catholic
+	culture = french
+	dynasty = 100013
+	1645.7.28 = {
+		birth = yes 
+	}
+}
+
+100584 = {
+	name = "Pierre-Eléonor" # Pierre-Eléonor de La Ville de Férolles
+	dynasty = 100166
+	religion = catholic
+	culture = french
+	1650.1.1 = {
+		birth = yes 
+	}
+}
+
+100589 = {
+	name = "Louis-Hector" # Louis-Hector de Callière
+	dynasty = 100172
+	religion = catholic
+	culture = french
+	1648.11.12 = {
+		birth = yes 
+	}
+}
+
+100596 = {
+	name = "Louis" # Louis Phélypeaux 
+	dna="0bhfa0c0000"
+    properties="0h0000000000000000000000000000000000"
+	dynasty = 100177
+	religion = catholic
+	culture = french
+	1643.3.29 = {
+		birth = yes 
+    }
+    1699.9.5 = {
+        employer = 100041
+        effect = {
+            give_job_title = job_chancellor
+        }
+    }
+}
+
+100602 = {
+	name = "Louise Françoise" # Louise Françoise, Princess of Condé
+	female = yes
+	religion = catholic
+	culture = french
+	dynasty = 100013
+	father = 100041
+	mother = 100154
+	trait = "bastard"
+	1670.6.1 = {
+		birth = yes  
+	}
+	1673.12.19 = {
+		remove_trait="bastard"
+		add_trait="legit_bastard"
+	}
+}
+
+100603 = {
+	name = "Françoise Louise" # Louise de La Vallière
+	female = yes
+	religion = catholic
+	culture = french
+	dynasty = 100181
+	1644.8.6 = {
+		birth = yes  
+	}
+}
+
+100604 = {
+	name = "Marie Anne" # Marie Anne de Bourbon
+	female = yes
+	religion = catholic
+	culture = french
+	dynasty = 100013
+	father = 100041
+	mother = 100603
+	trait = "bastard"
+	1666.10.2 = {
+		birth = yes  
+	}
+	1667.5.14 = {
+		remove_trait="bastard"
+		add_trait="legit_bastard"
+	}
+}
+
+100605 = {
+	name = "Louis Armand" # Louis Armand I, Prince of Conti
+	religion = catholic
+	culture = french
+	dynasty = 100013
+	1661.4.30 = {
+		birth = yes  
+	}
+	1680.1.13 = {
+		add_spouse = 100604
+	}
+	1685.11.9 = {
+		death = yes    
+	}
+}
+
+100606 = {
+	name = "Louis" # Louis, Count of Vermandois
+	religion = catholic
+	culture = french
+	dynasty = 100013
+	father = 100041
+	mother = 100603
+	trait = "bastard"
+	1667.10.2 = {
+		birth = yes  
+	}
+	1669.1.1 = {
+		remove_trait="bastard"
+		add_trait="legit_bastard"
+	}
+	1683.11.18 = {
+		death = yes    
+	}
+}

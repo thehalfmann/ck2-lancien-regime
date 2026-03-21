@@ -1,0 +1,15 @@
+title = c_pettau
+max_settlements = 4
+b_pettau = tribal
+culture = slovene
+religion = slavic_pagan
+800.1.1 = {
+  religion = catholic
+  b_marburg_pettau = castle
+  b_pettau = city
+  b_friedau = temple
+  capital = b_marburg_pettau
+}
+1700.1.1 = {
+  b_bistrica = castle
+}

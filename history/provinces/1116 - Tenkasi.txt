@@ -1,0 +1,9 @@
+title = c_tenkasi
+max_settlements = 3
+b_dindigul = castle
+b_tenkasi = temple
+culture = tamil
+religion = hindu
+1700.1.1 = {
+  b_sankaranayinarkovil = city
+}

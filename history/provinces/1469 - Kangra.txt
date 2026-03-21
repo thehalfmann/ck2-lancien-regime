@@ -1,0 +1,13 @@
+title = c_kangra
+max_settlements = 4
+b_kangra = castle
+b_shimla = city
+b_nurpur = temple
+culture = panjabi
+religion = buddhist
+810.1.1 = {
+  religion = hindu
+}
+1700.1.1 = {
+  b_chamba = castle
+}

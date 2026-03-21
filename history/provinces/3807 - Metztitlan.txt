@@ -1,0 +1,13 @@
+# County Title
+title = c_metztitlan
+
+# Settlements
+max_settlements = 3
+b_metztitlan = tribal
+b_metztitlan-ii = tribal
+
+# Misc
+culture = chichimecan
+religion = aztec
+
+# History

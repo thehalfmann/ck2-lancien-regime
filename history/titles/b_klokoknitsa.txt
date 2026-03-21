@@ -1,0 +1,10 @@
+936.1.1 = {
+  liege = d_strymon
+}
+976.1.1 = {
+  liege = c_philippopolis
+}
+1450.1.1 = {
+  holder = 0
+  liege = c_philippopolis
+}

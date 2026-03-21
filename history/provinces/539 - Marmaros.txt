@@ -1,0 +1,26 @@
+title = c_marmaros
+max_settlements = 4
+b_maramarossziget = tribal
+culture = avar
+religion = tengri_pagan
+800.1.1 = {
+  b_maramarossziget = castle
+  b_nagykaroly = city
+  b_nagybanya = temple
+}
+895.1.1 = {
+  b_maramarossziget = tribal
+  remove_settlement = b_nagykaroly
+}
+930.1.1 = {
+  culture = hungarian
+}
+950.1.1 = {
+  religion = catholic
+  b_maramarossziget = castle
+  b_nagykaroly = city
+}
+1700.1.1 = {
+  culture = ruthenian
+  b_huszt = castle
+}

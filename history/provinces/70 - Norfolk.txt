@@ -1,0 +1,20 @@
+title = c_norfolk
+max_settlements = 4
+b_thetford = castle
+b_elmham = temple
+b_lynn = city
+culture = saxon
+religion = catholic
+1094.1.1 = {
+  remove_settlement = b_elmham
+  b_norwich = temple
+}
+1100.11.11 = {
+  culture = english
+}
+1700.1.1 = {
+  b_buckenham = castle
+}
+1700.1.1 = {
+  religion = protestant
+}

@@ -1,0 +1,14 @@
+title = c_sieradzka
+max_settlements = 4
+b_sieradz = tribal
+culture = polish
+religion = slavic_pagan
+969.1.1 = {
+  religion = catholic
+  b_sieradz = castle
+  b_piotrkow = temple
+  b_przedborz = city
+}
+1700.1.1 = {
+  b_szadek = castle
+}

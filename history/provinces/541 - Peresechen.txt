@@ -1,0 +1,20 @@
+title = c_peresechen
+max_settlements = 4
+b_soroca = tribal
+culture = volhynian
+religion = slavic_pagan
+867.1.1 = {
+  culture = russian
+  b_soroca = castle
+  b_orhei = city
+  b_butuceni = temple
+}
+988.1.1 = {
+  religion = orthodox
+}
+1700.1.1 = {
+  b_balti = castle
+}
+1700.1.1 = {
+  culture = romanian
+}

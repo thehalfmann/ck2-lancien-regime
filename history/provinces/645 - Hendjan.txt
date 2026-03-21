@@ -1,0 +1,16 @@
+title = c_hendjan
+max_settlements = 4
+b_bandaremashoor = castle
+b_susa = temple
+b_argan = city
+culture = persian
+religion = zoroastrian
+800.1.1 = {
+  religion = sunni
+}
+1337.1.1 = {
+  b_ramhormoz = castle
+}
+1700.1.1 = {
+  religion = shiite
+}

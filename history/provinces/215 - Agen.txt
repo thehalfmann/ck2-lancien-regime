@@ -1,0 +1,19 @@
+title = c_agen
+max_settlements = 4
+b_agen = temple
+b_cahors = city
+b_luzech = castle
+religion = catholic
+culture = occitan
+936.1.1 = {
+  capital = b_luzech
+}
+1066.1.1 = {
+  capital = b_agen
+}
+1700.1.1 = {
+  b_penne = castle
+}
+1700.1.1 = {
+  capital = b_luzech
+}

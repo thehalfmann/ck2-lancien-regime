@@ -1,0 +1,6 @@
+1680.1.1 = {
+  holding_dynasty = 100179
+  liege = e_hre
+  holder = 100598
+  law = succ_patrician_elective
+}

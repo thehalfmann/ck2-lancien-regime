@@ -1,0 +1,13 @@
+title = c_chanderi
+max_settlements = 5
+b_chanderi = castle
+b_jhansi = city
+b_luacchagiri = temple
+culture = hindustani
+religion = hindu
+1700.1.1 = {
+  b_garh_kundar = castle
+}
+1700.1.1 = {
+  b_jarai_ka_math = city
+}

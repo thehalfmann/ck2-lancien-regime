@@ -1,0 +1,4 @@
+1676.7.23 = {
+  liege = c_trier
+  holder = 100255
+}

@@ -1,0 +1,10 @@
+title = c_geneve
+max_settlements = 4
+b_geneve = castle
+b_aubonne = temple
+b_nyon = city
+culture = french
+religion = catholic
+1700.1.1 = {
+  b_yvoire = castle
+}

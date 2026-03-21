@@ -1,0 +1,21 @@
+title = c_metz
+max_settlements = 4
+b_thionville = castle
+b_metz = temple
+b_briey = city
+culture = french
+religion = catholic
+790.1.1 = {
+  culture = german
+}
+1171.1.2 = {
+  capital = b_metz
+}
+1187.1.1 = {
+  b_saintjulien = temple
+}
+1999.1.1 = {
+}
+1700.1.1 = {
+  capital = b_thionville
+}

@@ -1,0 +1,24 @@
+title = c_lepiel
+max_settlements = 4
+b_lukoml = tribal
+culture = ilmenian
+religion = slavic_pagan
+867.1.1 = {
+  culture = russian
+}
+988.1.1 = {
+  religion = orthodox
+}
+1078.1.1 = {
+  b_lukoml = castle
+  b_dokshytsy = temple
+}
+1700.1.1 = {
+  b_lepiel = city
+}
+1700.1.1 = {
+  b_novalukoml = castle
+}
+1700.1.1 = {
+  culture = ruthenian
+}

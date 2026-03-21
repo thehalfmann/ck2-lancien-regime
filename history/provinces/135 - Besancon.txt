@@ -1,0 +1,13 @@
+title = c_besancon
+max_settlements = 5
+b_morteau = castle
+b_besancon = city
+b_bellevaux = temple
+culture = french
+religion = catholic
+1700.1.1 = {
+  b_marchaux = castle
+}
+1700.1.1 = {
+  b_pontarlier = city
+}

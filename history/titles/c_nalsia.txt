@@ -1,0 +1,4 @@
+1682.5.7 = {
+  liege = d_lithuanians
+  holder = 100061
+}

@@ -1,0 +1,16 @@
+title = c_sussex
+max_settlements = 4
+b_arundel = castle
+b_chichester = temple
+b_lewes = city
+culture = saxon
+religion = catholic
+1100.11.11 = {
+  culture = english
+}
+1700.1.1 = {
+  b_hastings = castle
+}
+1700.1.1 = {
+  religion = protestant
+}

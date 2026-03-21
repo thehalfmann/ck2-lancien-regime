@@ -1,0 +1,27 @@
+title = c_sunnlendingafjordungur
+max_settlements = 2
+b_reykjavik = tribal
+culture = norse
+religion = norse_pagan
+terrain = arctic
+650.1.1 = {
+  culture = irish
+  religion = catholic
+  b_reykjavik = temple
+}
+867.1.1 = {
+  b_reykjavik = tribal
+  b_reykjavik = tb_shipyard_1
+  culture = norse
+  religion = norse_pagan
+}
+1000.1.1 = {
+  b_reykjavik = castle
+  b_reykjavik = ca_shipyard_1
+  b_alftanes = city
+  culture = norwegian
+  religion = catholic
+}
+1700.1.1 = {
+  religion = protestant
+}

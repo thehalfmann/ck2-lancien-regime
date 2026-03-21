@@ -1,0 +1,4 @@
+1699.2.9 = {
+  liege = c_wurzburg
+  holder = 100251
+}

@@ -1,0 +1,12 @@
+title = c_ui_fiachrach
+max_settlements = 3
+b_mayo = tribal
+b_aughagower = temple
+culture = irish
+religion = catholic
+1000.1.1 = {
+  b_mayo = castle
+}
+1700.1.1 = {
+  b_ballintubber = city
+}

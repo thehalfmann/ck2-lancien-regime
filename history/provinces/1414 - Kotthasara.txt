@@ -1,0 +1,12 @@
+title = c_kotthasara
+max_settlements = 4
+b_pulatthinagara = castle
+b_gokanna = city
+culture = sinhala
+religion = buddhist
+1700.1.1 = {
+  b_sigiriya = temple
+}
+1700.1.1 = {
+  b_vatagiri = castle
+}

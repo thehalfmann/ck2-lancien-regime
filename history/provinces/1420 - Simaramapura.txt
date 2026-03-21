@@ -1,0 +1,14 @@
+title = c_simaramapura
+max_settlements = 5
+b_simaramapura = castle
+b_kesaria = temple
+b_bhaktagrama = city
+b_pattana = temple
+culture = bengali
+religion = buddhist
+1700.1.1 = {
+  b_bettiah = castle
+}
+1700.1.1 = {
+  religion = hindu
+}

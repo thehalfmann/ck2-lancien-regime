@@ -1,0 +1,11 @@
+title = c_sens
+max_settlements = 4
+b_sens = castle
+b_montargis = temple
+b_nemours = city
+culture = french
+religion = catholic
+1700.1.1 = {
+  b_nemours = castle
+  b_chateaulandon = castle
+}

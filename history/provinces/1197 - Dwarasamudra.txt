@@ -1,0 +1,14 @@
+title = c_dwarasamudra
+max_settlements = 5
+b_dwarasamudra = castle
+b_belur = temple
+b_sosavur = city
+culture = kannada
+religion = jain
+terrain = mountain
+1700.1.1 = {
+  b_hassan = castle
+}
+1700.1.1 = {
+  b_koravangala = city
+}

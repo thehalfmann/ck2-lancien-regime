@@ -1,0 +1,14 @@
+title = c_kubera
+max_settlements = 3
+b_kubera = castle
+culture = tocharian
+religion = buddhist
+900.1.1 = {
+  culture = uyghur
+}
+1700.1.1 = {
+  b_axiyan = city
+}
+1700.1.1 = {
+  b_toqsu = temple
+}

@@ -1,0 +1,22 @@
+title = c_ross
+max_settlements = 4
+b_tain = tribal
+b_rosemarkie = temple
+culture = pictish
+religion = catholic
+terrain = hills
+848.1.1 = {
+  culture = scottish_gaels
+}
+1000.1.1 = {
+  b_tain = castle
+}
+1700.1.1 = {
+  b_applecross = city
+}
+1700.1.1 = {
+  b_dingwall = castle
+}
+1700.1.1 = {
+  religion = reformed
+}

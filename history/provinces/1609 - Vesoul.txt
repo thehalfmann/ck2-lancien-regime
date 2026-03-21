@@ -1,0 +1,12 @@
+title = c_vesoul
+max_settlements = 4
+b_vesoul = castle
+b_luxeuil = temple
+culture = french
+religion = catholic
+1700.1.1 = {
+  b_belfort = city
+}
+1700.1.1 = {
+  b_beaucourt = castle
+}

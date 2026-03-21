@@ -1,0 +1,16 @@
+title = c_mandapika
+max_settlements = 5
+b_mandapika = castle
+b_bawangaja = temple
+b_maheshwar = city
+culture = hindustani
+religion = jain
+1700.1.1 = {
+  b_borgarh = castle
+}
+1700.1.1 = {
+  b_avasgarh = city
+}
+1700.1.1 = {
+  religion = hindu
+}

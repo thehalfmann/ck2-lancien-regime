@@ -1,0 +1,13 @@
+title = c_orleans
+max_settlements = 5
+b_orleans = castle
+b_sully = city
+b_fleury = temple
+culture = french
+religion = catholic
+1187.1.1 = {
+  b_lepuiset = castle
+}
+1700.1.1 = {
+  b_meung = city
+}

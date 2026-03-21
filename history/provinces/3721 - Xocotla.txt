@@ -1,0 +1,13 @@
+# County Title
+title = c_xocotla
+
+# Settlements
+max_settlements = 3
+b_xocotla = tribal
+b_xocotla-ii = temple
+
+# Misc
+culture = nahuatl
+religion = aztec
+
+# History

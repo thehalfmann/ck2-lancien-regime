@@ -1,0 +1,22 @@
+title = c_minsk
+max_settlements = 5
+b_minsk = tribal
+culture = ilmenian
+religion = slavic_pagan
+terrain = forest
+867.1.1 = {
+  culture = russian
+}
+988.1.1 = {
+  religion = orthodox
+}
+1150.1.1 = {
+  b_minsk = castle
+  b_zaslawye = city
+  b_lahoysk = temple
+  b_barysaw = castle
+  b_koidanova = castle
+}
+1700.1.1 = {
+  culture = ruthenian
+}

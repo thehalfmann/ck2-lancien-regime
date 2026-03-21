@@ -1,0 +1,13 @@
+# County Title
+title = c_caqueta
+
+# Settlements
+max_settlements = 4
+b_caqueta = tribal
+#b_caqueta-ii = tribal
+
+# Misc
+culture = jivaro
+religion = south_american
+
+# History

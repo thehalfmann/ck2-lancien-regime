@@ -1,0 +1,8 @@
+title = c_gorgol
+max_settlements = 3
+b_gorgol = tribal
+culture = kirghiz
+religion = tengri_pagan
+1700.1.1 = {
+  religion = buddhist
+}

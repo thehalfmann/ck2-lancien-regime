@@ -1,0 +1,13 @@
+title = c_vaud
+max_settlements = 4
+b_lausanne = castle
+b_echallens = city
+b_romainmotier = temple
+culture = french
+religion = catholic
+1700.1.1 = {
+  b_yverdon = castle
+}
+1700.1.1 = {
+  religion = reformed
+}

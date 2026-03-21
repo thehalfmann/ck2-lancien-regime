@@ -1,0 +1,35 @@
+title = c_lori
+max_settlements = 3
+b_lori_berd = castle
+b_dzegh = city
+culture = georgian
+religion = orthodox
+867.1.1 = {
+  culture = armenian
+}
+867.1.1 = {
+  religion = miaphysite
+}
+1084.1.1 = {
+  culture = kurdish
+}
+1084.1.1 = {
+  religion = sunni
+}
+1219.1.1 = {
+  culture = armenian
+  religion = miaphysite
+}
+1320.1.1 = {
+  culture = kurdish
+  religion = sunni
+}
+1700.1.1 = {
+  b_dmanis = temple
+}
+1700.1.1 = {
+  culture = armenian
+}
+1700.1.1 = {
+  religion = orthodox
+}

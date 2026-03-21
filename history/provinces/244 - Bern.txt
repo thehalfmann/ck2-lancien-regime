@@ -1,0 +1,14 @@
+title = c_bern
+max_settlements = 4
+b_unterseen = castle
+b_bern = city
+b_thun = temple
+culture = german
+religion = catholic
+1187.1.1 = {
+  b_luzern = city
+}
+1700.1.1 = {
+  capital = b_bern
+  religion = reformed
+}

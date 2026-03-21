@@ -1,0 +1,71 @@
+914.1.1 = {
+  de_jure_liege = e_bulgaria
+}
+1018.1.1 = {
+  de_jure_liege = e_carpathia
+}
+1310.1.1 = {
+  liege = 0
+  holder = 475550
+}
+1450.1.1 = {
+  liege = 0
+  holder = 0
+}
+1700.1.1 = {
+  name = Romania
+  adjective = Romanian
+  vice_royalty = no
+  law = investiture_law_0
+  law = cognatic_succession
+  law = crown_authority_1
+  law = centralization_2
+}
+1878.7.13 = {
+  holder = 110396525
+}
+1914.10.10 = {
+  holder = 113143368
+}
+1927.7.20 = {
+  holder = 116541402
+}
+1930.6.8 = {
+  holder = 119486647
+}
+1940.9.6 = {
+  holder = 116541402
+}
+1947.12.30 = {
+  holder = 115075841
+}
+1952.6.12 = {
+  holder = 111097541
+}
+1958.1.7 = {
+  holder = 116857508
+}
+1961.3.21 = {
+  holder = 119652802
+}
+1965.3.19 = {
+  holder = 119242797
+}
+1967.12.9 = {
+  holder = 112808910
+}
+1989.12.22 = {
+  holder = 116558061
+}
+1996.11.29 = {
+  holder = 113311333
+}
+2000.12.20 = {
+  holder = 116558061
+}
+2004.12.20 = {
+  holder = 114867587
+}
+2014.12.21 = {
+  holder = 117900149
+}

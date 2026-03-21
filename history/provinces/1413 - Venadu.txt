@@ -1,0 +1,13 @@
+title = c_venadu
+max_settlements = 5
+b_vizhinjam = castle
+b_kollam = city
+b_kanya_kumari = temple
+culture = tamil
+religion = hindu
+1700.1.1 = {
+  b_anantasayanam = castle
+}
+1700.1.1 = {
+  b_kandalur = city
+}

@@ -1,0 +1,25 @@
+title = c_amisos
+max_settlements = 5
+b_amisos = castle
+b_amasia = city
+b_thermodon = temple
+culture = greek
+religion = orthodox
+terrain = mountain
+740.1.1 = {
+  religion = iconoclast
+}
+843.1.1 = {
+  religion = orthodox
+}
+1231.1.1 = {
+  trade_post = b_spinola
+}
+1291.1.1 = {
+  b_eupatoria = castle
+}
+1700.1.1 = {
+  religion = sunni
+  culture = turkish
+  b_neokaisarea = city
+}

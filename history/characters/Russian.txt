@@ -1,0 +1,255 @@
+100060 = {
+	name = "Pyotr" # Peter the Great
+	religion = orthodox
+	culture = russian
+	dynasty = 100018
+	father = 100524
+	mother = 100534
+	dna="chckg00faa0"
+	properties="0d00gb000000000000000000000000000000"
+	martial = 9
+	diplomacy = 9
+	intrigue = 8
+	stewardship = 8  
+	learning = 8
+	1672.6.9 = {
+	  birth = yes   
+	}
+	1689.1.1 = {
+		  add_spouse=100157
+	}
+	1698.1.1 = {
+		  remove_spouse = 100157
+	}
+	1698.8.1 = {
+	  effect = { add_alliance = { who = 100061 years = 5 } }
+	  effect = { add_alliance = { who = 100021 years = 5 } }
+		  add_claim = c_kexholm
+		  add_claim = c_sordavala
+		  add_claim = c_vodi
+		  add_claim = c_narva
+		  add_claim = c_reval
+		  add_claim = c_livs
+		  add_claim = c_jarva
+		  add_claim = c_osel
+	}
+  }
+
+  100157 = {
+	name = "Eudoxia" # Eudoxia Lopukhina
+	female = yes
+	religion = orthodox
+	culture = russian
+	dynasty = 100048
+	1669.8.9 = {
+	  birth = yes
+	}
+  }
+
+  100158 = {
+	name = "Alexei Petrovich" # Alexei Petrovich, Tsarevich of Russia
+	religion = orthodox
+	culture = russian
+	dynasty = 100018
+	father = 100060
+	mother = 100157
+	1690.2.28 = {
+	  birth = yes
+	}
+  }
+
+  100524 = {
+	name = "Alexis" # Alexis of Russia
+	religion = orthodox
+	culture = russian
+	dynasty = 100018
+	1629.3.29 = {
+	  birth = yes
+	}
+	1648.1.15 = {
+	 add_spouse = 100525
+	}
+	1671.2.1 = {
+	 add_spouse = 100534
+	}   
+	1676.2.8 = {
+	  death = yes
+	}
+  }
+
+  100525 = {
+	name = "Maria" # Maria Miloslavskaya
+	female = yes
+	religion = orthodox
+	culture = russian
+	dynasty = 100134
+	1624.4.1 = {
+	  birth = yes
+	}  
+	1669.8.18 = {
+	  death = yes
+	}
+  }
+
+  100526 = {
+	name = "Yevdokia" # Yevdokia Alekseyevna of Russia
+	female = yes
+	religion = orthodox
+	culture = russian
+	dynasty = 100018
+	father = 100524
+	mother = 100525
+	1650.2.17 = {
+	  birth = yes
+	}
+  }
+
+  100527 = {
+	name = "Marfa" # Marfa Alekseyevna of Russia
+	female = yes
+	religion = orthodox
+	culture = russian
+	dynasty = 100018
+	father = 100524
+	mother = 100525
+	1650.8.26 = {
+	  birth = yes
+	}
+  }
+
+  100528 = {
+	name = "Alexei" # Tsarevich Alexei Alexeyevich of Russia
+	religion = orthodox
+	culture = russian
+	dynasty = 100018
+	father = 100524
+	mother = 100525
+	1654.1.15 = {
+	  birth = yes
+	}   
+	1670.1.17 = {
+	  death = yes
+	}
+  }
+
+  100529 = {
+	name = "Sofia" # Sophia Alekseyevna of Russia
+	female = yes
+	religion = orthodox
+	culture = russian
+	dynasty = 100018
+	father = 100524
+	mother = 100525
+	1657.9.27 = {
+	  birth = yes
+	}
+  }
+
+  100530 = {
+	name = "Ekaterina" # Catherine Alekseyevna of Russia
+	female = yes
+	religion = orthodox
+	culture = russian
+	dynasty = 100018
+	father = 100524
+	mother = 100525
+	1658.11.27 = {
+	  birth = yes
+	}
+  }
+
+  100531 = {
+	name = "Maria" # Maria Alekseyevna of Russia
+	female = yes
+	religion = orthodox
+	culture = russian
+	dynasty = 100018
+	father = 100524
+	mother = 100525
+	1660.1.18 = {
+	  birth = yes
+	}
+  }
+
+  100532 = {
+	name = "Ivan" # Ivan V of Russia
+	religion = orthodox
+	culture = russian
+	dynasty = 100018
+	father = 100524
+	mother = 100525
+	1666.9.6 = {
+	  birth = yes
+	}  
+	1696.2.8 = {
+	  death = yes
+	}
+  }
+
+  100533 = {
+	name = "Natalya" # Tsarevna Natalya Alexeyevna of Russia
+	female = yes
+	religion = orthodox
+	culture = russian
+	dynasty = 100018
+	father = 100524
+	mother = 100534
+	1673.8.22 = {
+	  birth = yes
+	}
+  }
+
+  100534 = {
+	name = "Natalya" # Natalya Naryshkina
+	female = yes
+	religion = orthodox
+	culture = russian
+	dynasty = 100135
+	1651.9.1 = {
+	  birth = yes
+	}   
+	1694.2.4 = {
+	  death = yes
+	}
+  }
+
+  100535 = {
+	name = "Maria" # Maria Alekseyevna of Russia
+	female = yes
+	religion = orthodox
+	culture = russian
+	dynasty = 100018
+	father = 100524
+	mother = 100525
+	1660.1.18 = {
+	  birth = yes
+	}
+  }
+
+  100536 = {
+	name = "Fyodor" # Feodor III of Russia
+	religion = orthodox
+	culture = russian
+	dynasty = 100018
+	father = 100524
+	mother = 100525
+	1661.6.9 = {
+	  birth = yes
+	}   
+	1682.5.7 = {
+	  death = yes
+	}
+  }
+  
+  100540 = {
+	name = "Feodosia" # Feodosia Alekseyevna of Russia
+	female = yes
+	religion = orthodox
+	culture = russian
+	dynasty = 100018
+	father = 100524
+	mother = 100525
+	1662.3.29 = {
+	  birth = yes
+	}
+  }

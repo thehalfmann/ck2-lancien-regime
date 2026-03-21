@@ -1,0 +1,4 @@
+1692.1.1 = {
+  liege = d_oman
+  holder = 100549
+}

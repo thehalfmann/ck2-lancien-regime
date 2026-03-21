@@ -1,0 +1,15 @@
+title = c_doti
+max_settlements = 4
+b_dullu = castle
+b_dailekh = city
+culture = nepali
+religion = buddhist
+1041.1.1 = {
+  religion = hindu
+}
+1700.1.1 = {
+  b_gularia = temple
+}
+1700.1.1 = {
+  b_mahendranagar = castle
+}

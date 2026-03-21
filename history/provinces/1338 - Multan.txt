@@ -1,0 +1,21 @@
+title = c_multan
+max_settlements = 6
+b_multan = castle
+b_mulasthana = temple
+b_kabirwala = city
+b_tulamba = castle
+b_prahladpuri = temple
+culture = panjabi
+religion = hindu
+800.1.1 = {
+  religion = sunni
+}
+1000.1.1 = {
+  religion = shiite
+}
+1180.1.1 = {
+  religion = sunni
+}
+1700.1.1 = {
+  b_alipur = city
+}

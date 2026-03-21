@@ -1,0 +1,18 @@
+title = c_pereyaslavl_zalessky
+max_settlements = 3
+b_pereyaslavlzalessky = tribal
+culture = meshchera
+religion = finnish_pagan
+988.1.1 = {
+  religion = orthodox
+}
+1152.1.1 = {
+  b_pereyaslavlzalessky = castle
+  b_sergiyevposad = temple
+}
+1200.1.1 = {
+  culture = russian
+}
+1700.1.1 = {
+  b_aleksandrov = city
+}

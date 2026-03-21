@@ -1,0 +1,15 @@
+title = c_bannu
+max_settlements = 4
+b_bannu = castle
+b_hangu = city
+culture = panjabi
+religion = buddhist
+1700.1.1 = {
+  b_karrak = temple
+}
+1700.1.1 = {
+  b_kohat = castle
+}
+1700.1.1 = {
+  religion = sunni
+}

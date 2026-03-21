@@ -1,0 +1,19 @@
+title = c_gottingen
+max_settlements = 5
+b_gottingen = tribal
+b_paderborn = temple
+culture = old_saxon
+religion = norse_pagan
+790.1.1 = {
+  culture = german
+  religion = catholic
+  b_gottingen = castle
+  b_goslar = castle
+}
+1337.1.1 = {
+  b_lippe = city
+}
+1700.1.1 = {
+  religion = protestant
+  capital = b_paderborn
+}

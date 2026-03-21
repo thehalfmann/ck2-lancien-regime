@@ -1,0 +1,14 @@
+title = c_mingoi
+terrain = mountain
+max_settlements = 4
+b_mingoi = castle
+b_shorshuq = city
+b_qigexing = temple
+culture = tocharian
+religion = buddhist
+900.1.1 = {
+  culture = uyghur
+}
+1700.1.1 = {
+  b_shikshin = castle
+}

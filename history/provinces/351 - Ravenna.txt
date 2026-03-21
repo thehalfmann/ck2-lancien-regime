@@ -1,0 +1,28 @@
+title = c_ravenna
+max_settlements = 5
+b_cervia = castle
+b_ravenna = temple
+b_cesena = city
+culture = italian
+religion = catholic
+936.1.1 = {
+  capital = b_ravenna
+}
+1130.1.1 = {
+  trade_post = b_contarini
+}
+1218.1.1 = {
+  capital = b_cervia
+}
+1248.1.1 = {
+  capital = b_ravenna
+}
+1275.1.1 = {
+  capital = b_cervia
+}
+1700.1.1 = {
+  b_russi = castle
+}
+1700.1.1 = {
+  b_alfonsine = city
+}

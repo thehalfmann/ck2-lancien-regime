@@ -1,0 +1,19 @@
+title = c_gloucester
+max_settlements = 4
+b_gloucester = castle
+b_cirencester = city
+b_winchcombe = temple
+culture = saxon
+religion = catholic
+1100.11.11 = {
+  culture = english
+}
+1700.1.1 = {
+  b_sudeley = castle
+}
+1700.1.1 = {
+  capital = b_cirencester
+}
+1700.1.1 = {
+  religion = protestant
+}

@@ -1,0 +1,17 @@
+title = c_vairata
+max_settlements = 5
+b_harshnath = castle
+b_vairata = city
+b_sanganer = temple
+b_jhunjhunu = castle
+culture = rajput
+religion = jain
+768.1.1 = {
+  capital = b_jhunjhunu
+}
+988.1.1 = {
+  capital = b_harshnath
+}
+1700.1.1 = {
+  b_amer = city
+}

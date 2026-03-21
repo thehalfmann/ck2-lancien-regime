@@ -1,0 +1,20 @@
+title = c_kursk
+max_settlements = 3
+b_kursk = tribal
+culture = turkish
+religion = slavic_pagan
+867.1.1 = {
+  culture = russian
+}
+988.1.1 = {
+  religion = orthodox
+}
+1150.1.1 = {
+  b_kursk = castle
+}
+1152.1.1 = {
+  b_olgov = city
+}
+1700.1.1 = {
+  b_sukovo = temple
+}

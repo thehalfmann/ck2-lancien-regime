@@ -1,0 +1,5 @@
+1658.7.18 = {
+  de_jure_liege = k_switzerland
+  liege = k_switzerland
+  holder = 0
+}

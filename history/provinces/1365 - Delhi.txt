@@ -1,0 +1,18 @@
+title = c_delhi
+max_settlements = 7
+b_indraprastha = castle
+b_dhilika = city
+b_mehrauli = temple
+b_lalkot = castle
+b_narela = city
+culture = hindustani
+religion = buddhist
+1700.1.1 = {
+  b_siri = castle
+}
+1700.1.1 = {
+  b_jahanpanah = city
+}
+1700.1.1 = {
+  religion = hindu
+}

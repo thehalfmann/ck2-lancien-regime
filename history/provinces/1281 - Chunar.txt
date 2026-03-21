@@ -1,0 +1,12 @@
+title = c_chunar
+max_settlements = 3
+b_chunar = castle
+b_vindhyachal = city
+culture = hindustani
+religion = buddhist
+1193.1.1 = {
+  b_kantit = castle
+}
+1700.1.1 = {
+  religion = hindu
+}

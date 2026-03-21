@@ -1,0 +1,9 @@
+title = c_dulan
+max_settlements = 3
+b_dulan = castle
+b_reshui = temple
+culture = tangut
+religion = buddhist
+1700.1.1 = {
+  b_xiariha = city
+}

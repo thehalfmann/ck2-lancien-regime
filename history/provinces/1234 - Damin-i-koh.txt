@@ -1,0 +1,12 @@
+title = c_damin_i_koh
+max_settlements = 2
+b_deogarh2 = castle
+culture = bengali
+religion = buddhist
+terrain = jungle
+1700.1.1 = {
+  b_shikarji = city
+}
+1700.1.1 = {
+  religion = hindu
+}

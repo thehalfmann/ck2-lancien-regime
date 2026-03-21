@@ -1,0 +1,15 @@
+title = c_steiermark
+max_settlements = 3
+b_steyr = tribal
+culture = slovene
+religion = slavic_pagan
+826.1.1 = {
+  culture = german
+  religion = catholic
+  b_losenstein = castle
+  b_steyr = city
+  capital = b_losenstein
+}
+1700.1.1 = {
+  b_garstina = temple
+}

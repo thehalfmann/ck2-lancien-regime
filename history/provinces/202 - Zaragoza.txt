@@ -1,0 +1,16 @@
+title = c_zaragoza
+max_settlements = 5
+b_zaragoza = castle
+b_alagon = city
+b_caspe = temple
+culture = aragonese
+religion = catholic
+1133.1.1 = {
+  religion = catholic
+}
+1337.1.1 = {
+  b_borja = castle
+}
+1700.1.1 = {
+  b_veruela = city
+}

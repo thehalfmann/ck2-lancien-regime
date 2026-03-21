@@ -1,0 +1,15 @@
+title = c_paraetonium
+max_settlements = 3
+b_zygis = castle
+b_paraetonium = city
+culture = egyptian_arabic
+religion = sunni
+909.1.1 = {
+  religion = shiite
+}
+1171.1.1 = {
+  religion = sunni
+}
+1700.1.1 = {
+  b_apis = temple
+}

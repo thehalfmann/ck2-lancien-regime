@@ -1,0 +1,15 @@
+# County Title
+title = c_cuauhtochco
+
+# Settlements
+max_settlements = 4
+b_cuauhtochco = tribal
+b_cuauhtochco-ii = tribal
+b_cuauhtochco-iii = temple
+b_cuauhtochco-iv = temple
+
+# Misc
+culture = nahuatl
+religion = aztec
+
+# History

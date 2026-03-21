@@ -1,0 +1,9 @@
+100392 = {
+	name = "Ivan"
+	religion = orthodox
+	culture = ruthenian
+	dynasty = 100087
+	1639.3.30 = {
+	  birth = yes     
+	}
+  }

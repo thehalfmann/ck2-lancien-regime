@@ -1,0 +1,16 @@
+title = c_ochrid
+max_settlements = 3
+b_debar = castle
+b_ohrid = temple
+culture = serbian
+religion = orthodox
+930.1.1 = {
+  culture = bulgarian
+}
+1066.1.1 = {
+  culture = serbian
+}
+1700.1.1 = {
+  culture = bulgarian  
+  b_kicevo = city
+}

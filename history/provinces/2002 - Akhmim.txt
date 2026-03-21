@@ -1,0 +1,13 @@
+title = c_akhmim
+max_settlements = 4
+b_akhmim = castle
+b_al_minya = city
+b_cynopolis = temple
+culture = coptic
+religion = miaphysite
+1700.1.1 = {
+  b_antinoe = castle
+}
+1700.1.1 = {
+  religion = sunni
+}

@@ -1,0 +1,456 @@
+100000 = {
+	name = "Willem Hendrik" #William III of England
+	religion = reformed
+	culture = dutch
+	dynasty = 100000
+	dna="bcgff0dc0d0"
+	properties="dd000k00000000000000000000000000000000"
+	martial = 4
+	diplomacy = 4
+	intrigue = 5
+	stewardship = 4  
+	learning = 5
+	trait = "skilled_tactician"
+	trait = "homosexual"
+	father = 100006
+	mother = 100009
+	1650.11.4 = {
+	  birth = yes
+	  }
+	1677.11.4 = {
+	  add_spouse = 100002
+	  }
+	1695.3.5 = {
+	  capital = c_middlesex
+	  religion = "protestant"
+	  effect = { add_alliance = { who = 100137 years = 1000 } }
+	} 
+  }
+  
+  100006 = {
+	name = "Willem" #William II, Prince of Orange
+	religion = reformed
+	culture = dutch
+	dynasty = 100000
+	father = 100204
+	mother = 100205  
+	1626.5.27 = {
+	  birth = yes
+	  }
+	  1641.5.12 = {
+		  add_spouse=100009
+	}    
+	1651.3.8 = {
+	  death = yes
+	}
+  }
+
+  100010 = {
+	name = "Anthonie" # Anthonie Heinsius
+	religion = reformed
+	culture = dutch
+	dynasty = 100003
+	1641.11.23 = {
+	  birth = yes
+	}
+	1641.11.23 = {  
+	  capital =  c_holland
+	}
+  }
+
+  100051 = {
+	name = "Johan Willem Friso"
+	religion = reformed
+	culture = dutch
+	dynasty = 100000
+	father = 100210
+	mother = 100209
+	1687.8.14 = {
+	  birth = yes
+	}
+  }
+
+  100074 = {
+	name = "Emilia" # Emilia Butler, Countess of Ossory
+	female = yes
+	religion = protestant
+	culture = dutch
+	dynasty = 100000
+	1635.3.4 = {
+	  birth = yes 
+	}
+	1688.12.12 = {
+	  death = yes    
+	} 
+  }
+
+  100105 = {
+	name = "Louise Henriëtte" # Countess Louise Henriette of Nassau
+	female = yes 
+	religion = reformed
+	culture = dutch
+	dynasty = 100000
+	father = 100204
+	mother = 100205
+	1627.12.7 = {
+	  birth = yes   
+	}    
+	1667.6.18 = {
+	  death = yes            
+	} 
+  }
+
+  100204 = {
+	name = "Frederik Hendrik" # Frederick Henry, Prince of Orange
+	religion = reformed
+	culture = dutch
+	dynasty = 100000
+	father = 100421
+	mother = 100439
+	1584.1.29 = {
+	  birth = yes
+	}
+	1625.4.4 = {  
+	  add_spouse = 100205
+	} 
+	1647.3.14 = {
+	  death = yes    
+	}
+  }
+
+  100206 = {
+	name = "Henriëtte Catharina" # Countess Henriette Catharina of Nassau
+	female = yes
+	religion = reformed
+	culture = dutch
+	dynasty = 100000
+	father = 100204
+	mother = 100205
+	1637.2.10 = {
+	  birth = yes
+	}
+  }
+
+  100212 = {
+	name = "Albertine Agnes" # Albertine Agnes of Nassau
+	female = yes
+	religion = reformed
+	culture = dutch
+	dynasty = 100000
+	father = 100204
+	mother = 100205
+	1634.4.9 = {
+	  birth = yes
+	} 
+	1696.5.26 = {
+	  death = yes    
+	}
+  }
+
+  100213 = {
+	name = "Willem Frederik" # William Frederick, Prince of Nassau-Dietz
+	religion = reformed
+	culture = dutch
+	dynasty = 100000
+	1613.8.7 = {
+	  birth = yes
+	}
+	1652.1.1 = {  
+	  add_spouse = 100212
+	} 
+	1664.10.31 = {
+	  death = yes    
+	}
+  }
+
+  100214 = {
+	name = "Maria" # Maria of Orange-Nassau
+	female = yes
+	religion = reformed
+	culture = dutch
+	dynasty = 100000
+	father = 100204
+	mother = 100205
+	1642.9.5 = {
+	  birth = yes
+	} 
+	1688.3.20 = {
+	  death = yes    
+	}
+  }
+
+  100415 = {
+	name = "Maria"  
+	female = yes
+	religion = catholic
+	culture = dutch
+	dynasty = 100073
+	1457.2.13 = {
+	  birth = yes    
+	}    
+	1482.3.27 = {
+	  death = yes     
+	} 
+  }
+
+  100419 = {
+	name = "Karel" # Charles II, Duke of Guelders
+	religion = catholic
+	culture = dutch
+	dynasty = 100097
+	1467.11.9 = {
+	  birth = yes    
+	}    
+	1538.6.30 = {
+	  death = yes     
+	} 
+  }
+
+  100421 = {
+	name = "Willem" # William the Silent
+	religion = reformed
+	culture = dutch
+	dynasty = 100000
+	give_nickname = nick_the_silent
+	1533.3.24 = {
+	  birth = yes    
+	}
+	1551.7.8 = {  
+	  add_spouse = 100422
+	}
+	1561.6.2 = {  
+	  add_spouse = 100426
+	}
+	1572.10.1 = {
+	  effect = { imprison = 100426 }
+	}
+	1575.6.24 = {  
+	  add_spouse = 100431
+	}
+	1583.4.24 = {  
+	  add_spouse = 100439
+	}
+	1584.7.10 = {
+	  death={
+		death_reason = death_murder
+		killer = 100430
+	  }
+	}
+  }
+
+  100422 = {
+	name = "Anna" # Anna van Egmont
+	female = yes
+	religion = reformed
+	culture = dutch
+	dynasty = 100097
+	1533.3.1 = {
+	  birth = yes    
+	}    
+	1558.3.24 = {
+	  death = yes
+	} 
+  }
+
+  100423 = {
+	name = "Filips Willem" # Philip William, Prince of Orange
+	religion = catholic
+	culture = dutch
+	dynasty = 100000
+	father = 100421
+	mother = 100422
+	1554.12.19 = {
+	  birth = yes    
+	}
+	1568.2.1 = {
+	  employer=100273
+	}
+	1606.11.23 = {  
+	  add_spouse = 100424
+	} 
+	1618.2.20 = {
+	  death = yes
+	} 
+  }
+
+  100425 = {
+	name = "Maria" # Countess Maria of Nassau
+	female = yes
+	religion = reformed
+	culture = dutch
+	dynasty = 100000
+	father = 100421
+	mother = 100422
+	1556.2.7 = {
+	  birth = yes    
+	}
+	1616.10.10 = {
+	  death = yes
+	} 
+  }
+
+  100427 = {
+	name = "Anna" # Countess Anna of Nassau
+	female = yes
+	religion = reformed
+	culture = dutch
+	dynasty = 100000
+	father = 100421
+	mother = 100426
+	1563.11.5 = {
+	  birth = yes    
+	}
+	1588.6.13 = {
+	  death = yes
+	} 
+  }
+
+  100428 = {
+	name = "Maurits" # Maurice, Prince of Orange
+	religion = reformed
+	culture = dutch
+	dynasty = 100000
+	father = 100421
+	mother = 100426
+	1567.11.14 = {
+	  birth = yes    
+	}
+	1625.4.23 = {
+	  death = yes
+	} 
+  }
+
+  100429 = {
+	name = "Emilia" # Countess Emilia of Nassau
+	female = yes
+	religion = reformed
+	culture = dutch
+	dynasty = 100000
+	father = 100421
+	mother = 100426
+	1569.4.10 = {
+	  birth = yes    
+	}
+	1629.3.16 = {
+	  death = yes
+	} 
+  }
+
+  100432 = {
+	name = "Louise Juliana" # Countess Louise Juliana of Nassau
+	female = yes
+	religion = reformed
+	culture = dutch
+	dynasty = 100000
+	father = 100421
+	mother = 100431
+	1576.3.1 = {
+	  birth = yes    
+	}
+	1644.3.15 = {
+	  death = yes
+	} 
+  }
+
+  100434 = {
+	name = "Elisabeth Flandrika" # Countess Elisabeth of Nassau
+	female = yes
+	religion = reformed
+	culture = dutch
+	dynasty = 100000
+	father = 100421
+	mother = 100431
+	1577.4.26 = {
+	  birth = yes    
+	}
+	1642.9.3 = {
+	  death = yes
+	} 
+  }
+
+   100435 = {
+	name = "Catharina Belgica" # Countess Catharina Belgica of Nassau
+	female = yes
+	religion = reformed
+	culture = dutch
+	dynasty = 100000
+	father = 100421
+	mother = 100431
+	1578.7.31 = {
+	  birth = yes    
+	}
+	1648.4.12 = {
+	  death = yes
+	} 
+  }
+
+   100436 = {
+	name = "Charlotte Flandrina" # Countess Charlotte Flandrina of Nassau
+	female = yes
+	religion = catholic
+	culture = dutch
+	dynasty = 100000
+	father = 100421
+	mother = 100431
+	trait = "nun"
+	trait = "charitable"
+	1579.8.18 = {
+	  birth = yes    
+	}
+	1640.4.16 = {
+	  death = yes
+	} 
+  }
+
+   100437 = {
+	name = "Charlotte Brabantina" # Countess Charlotte Brabantina of Nassau
+	female = yes
+	religion = reformed
+	culture = dutch
+	dynasty = 100000
+	father = 100421
+	mother = 100431
+	1580.9.17 = {
+	  birth = yes    
+	}
+	1631.8.1 = {
+	  death = yes
+	} 
+  }
+
+   100438 = {
+	name = "Emilia Antwerpiana" # Countess Emilia Antwerpiana of Nassau
+	female = yes
+	religion = reformed
+	culture = dutch
+	dynasty = 100000
+	father = 100421
+	mother = 100431
+	1581.12.9 = {
+	  birth = yes    
+	}
+	1657.9.28 = {
+	  death = yes
+	} 
+  }
+
+  100583 = {
+	name = "Paulus" # Paulus van der Veen
+	dynasty = 100165
+	religion = reformed
+	culture = dutch
+	1660.1.1 = {
+	  birth = yes 
+	}
+  }
+
+  100595 = {
+	name = "Willem Adriaan" # Willem Adriaan van der Stel
+	dynasty = 100176
+	religion = reformed
+	culture = dutch
+	trait = "cruel"
+	1664.8.24 = {
+	  birth = yes 
+	}
+  }  

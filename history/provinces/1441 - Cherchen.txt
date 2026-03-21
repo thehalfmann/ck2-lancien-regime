@@ -1,0 +1,18 @@
+title = c_cherchen
+max_settlements = 4
+b_cherchen = castle
+culture = tocharian
+religion = buddhist
+1006.1.1 = {
+  culture = uyghur
+  religion = sunni
+}
+1700.1.1 = {
+  b_calmandana = city
+}
+1700.1.1 = {
+  b_mocheng = temple
+}
+1700.1.1 = {
+  b_zuomo = castle
+}

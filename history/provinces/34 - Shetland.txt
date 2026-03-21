@@ -1,0 +1,27 @@
+title = c_shetland
+max_settlements = 2
+b_cunningsburgh = tribal
+culture = pictish
+religion = catholic
+terrain = hills
+855.1.1 = {
+  culture = norse
+  religion = norse_pagan
+}
+1000.1.1 = {
+  religion = catholic
+  b_cunningsburgh = castle
+  b_cunningsburgh = ca_shipyard_1
+}
+1066.1.1 = {
+  culture = norwegian
+}
+1334.1.1 = {
+  culture = scottish
+}
+1700.1.1 = {
+  b_scalloway = city
+}
+1700.1.1 = {
+  religion = protestant
+}

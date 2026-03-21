@@ -1,0 +1,11 @@
+title = c_ouled_nail
+max_settlements = 2
+b_al_aghwat = castle
+culture = maghreb_arabic
+religion = ibadi
+909.1.1 = {
+  religion = sunni
+}
+1700.1.1 = {
+  b_tilghemt = city
+}

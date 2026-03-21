@@ -1,0 +1,19 @@
+title = c_mainz
+max_settlements = 5
+b_mainz = temple
+b_eppstein = castle
+b_ingelheim = castle
+culture = french
+religion = catholic
+790.1.1 = {
+  culture = german
+}
+1700.1.1 = {
+  b_mannheim = city
+}
+1700.1.1 = {
+  b_weilburg = city
+}
+1700.1.1 = {
+  capital = b_mainz
+}

@@ -1,0 +1,12 @@
+title = c_montbeliard
+max_settlements = 4
+b_montbeliard = castle
+b_layre = city
+culture = french
+religion = catholic
+1700.1.1 = {
+  b_arbouans = temple
+}
+1700.1.1 = {
+  b_exincourt = castle
+}

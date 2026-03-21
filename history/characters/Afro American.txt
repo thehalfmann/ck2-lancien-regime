@@ -1,0 +1,8 @@
+100581 = {
+	name = "Read Elding"
+	religion = protestant
+	culture = afro_american
+	1650.1.1 = {
+	  birth = yes 
+	}
+  }

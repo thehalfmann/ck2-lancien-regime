@@ -1,0 +1,4 @@
+1688.4.29 = {
+  de_jure_liege = k_pomerania
+  holder = 100056
+}

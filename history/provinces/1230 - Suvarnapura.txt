@@ -1,0 +1,13 @@
+title = c_suvarnapura
+max_settlements = 5
+b_suvarnapura = castle
+b_kalahandi = castle
+b_yajatinagara = city
+culture = oriya
+religion = hindu
+1700.1.1 = {
+  b_vinitapura = temple
+}
+1700.1.1 = {
+  b_agalpur = city
+}

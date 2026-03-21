@@ -1,0 +1,13 @@
+title = c_cremona
+max_settlements = 4
+b_cremona = castle
+b_sospiro = city
+b_crema = temple
+culture = lombard
+religion = catholic
+1045.1.1 = {
+  culture = italian
+}
+1700.1.1 = {
+  b_vescovato = castle
+}

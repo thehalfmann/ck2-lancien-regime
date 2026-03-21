@@ -1,0 +1,14 @@
+title = c_connacht
+max_settlements = 4
+b_roscommon = tribal
+b_tuam = temple
+culture = irish
+religion = catholic
+terrain = hills
+1000.1.1 = {
+  b_roscommon = castle
+  b_galway = city
+}
+1700.1.1 = {
+  b_elphin = castle
+}

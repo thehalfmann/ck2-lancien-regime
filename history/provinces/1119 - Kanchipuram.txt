@@ -1,0 +1,13 @@
+title = c_kanchipuram
+max_settlements = 4
+b_kanchipuram = castle
+b_uttaramerur = temple
+b_mailapur = city
+culture = tamil
+religion = jain
+1066.1.1 = {
+  religion = hindu
+}
+1700.1.1 = {
+  b_rajagiri = castle
+}

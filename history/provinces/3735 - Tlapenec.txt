@@ -1,0 +1,13 @@
+# County Title
+title = c_tlapenec
+
+# Settlements
+max_settlements = 3
+b_tlapenec = tribal
+b_tlapenec-ii = tribal
+
+# Misc
+culture = tlapanec
+religion = aztec
+
+# History

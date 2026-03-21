@@ -1,0 +1,16 @@
+title = c_nassau
+max_settlements = 5
+b_nassau = castle
+b_fritzlar = city
+b_fulda = temple
+culture = german
+religion = catholic
+1700.1.1 = {
+  b_hersfeld = castle
+}
+1700.1.1 = {
+  b_falkenstein = city
+}
+1700.1.1 = {
+  religion = reformed
+}

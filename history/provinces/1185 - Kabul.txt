@@ -1,0 +1,16 @@
+title = c_kabul
+max_settlements = 5
+b_kabul = castle
+b_adinapur = city
+b_nagarahara = temple
+culture = afghan
+religion = buddhist
+1700.1.1 = {
+  b_kapisa = castle
+}
+1700.1.1 = {
+  b_lampara = city
+}
+1700.1.1 = {
+  religion = sunni
+}

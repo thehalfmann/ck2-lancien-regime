@@ -1,0 +1,9 @@
+title = c_kolzum
+max_settlements = 2
+b_kolzum = castle
+b_sokhna = city
+culture = egyptian_arabic
+religion = miaphysite
+1700.1.1 = {
+  religion = sunni
+}

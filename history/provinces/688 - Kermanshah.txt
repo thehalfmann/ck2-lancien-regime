@@ -1,0 +1,20 @@
+title = c_kermanshah
+max_settlements = 6
+b_javanroud = castle
+b_kermanshah = temple
+b_hulwan = city
+b_mahalkufa = city
+culture = kurdish
+religion = nestorian
+900.1.1 = {
+  religion = sunni
+}
+1066.1.1 = {
+  b_paveh = castle
+}
+1700.1.1 = {
+  b_kangavar = castle
+}
+1700.1.1 = {
+  religion = shiite
+}

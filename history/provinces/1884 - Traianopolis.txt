@@ -1,0 +1,13 @@
+title = c_traianopolis
+max_settlements = 4
+b_traianopolis = castle
+b_cypsela = city
+b_samothrace = temple
+culture = greek
+religion = orthodox
+1189.1.1 = {
+  trade_post = b_dandolo
+}
+1700.1.1 = {
+  b_feres = castle
+}

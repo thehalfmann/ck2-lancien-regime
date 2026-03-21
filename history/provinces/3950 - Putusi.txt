@@ -1,0 +1,13 @@
+# County Title
+title = c_putusi
+
+# Settlements
+max_settlements = 4
+b_putusi = tribal
+b_putusi-ii = tribal
+
+# Misc
+culture = aimara
+religion = inti
+
+# History

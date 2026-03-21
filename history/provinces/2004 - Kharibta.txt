@@ -1,0 +1,13 @@
+title = c_kharibta
+max_settlements = 4
+b_kharibta = castle
+b_scetis = temple
+b_naucratis_egypt = city
+culture = coptic
+religion = miaphysite
+1700.1.1 = {
+  b_atfih = castle
+}
+1700.1.1 = {
+  religion = sunni
+}

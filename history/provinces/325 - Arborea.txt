@@ -1,0 +1,28 @@
+title = c_arborea
+max_settlements = 4
+b_tharros = castle
+b_fordongianus = city
+b_santa_giusta = temple
+culture = sardinian
+religion = orthodox
+terrain = mountain
+1015.1.1 = {
+  trade_post = b_caetani
+}
+1054.1.1 = {
+  religion = catholic
+}
+1070.1.1 = {
+  b_oristano = castle
+  capital = b_oristano
+  remove_settlement = b_tharros
+}
+1133.1.1 = {
+  trade_post = b_fieschi
+}
+1145.1.1 = {
+  trade_post = b_della_gherardesca
+}
+1700.1.1 = {
+  b_tharros = castle
+}

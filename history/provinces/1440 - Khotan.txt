@@ -1,0 +1,23 @@
+title = c_khotan
+max_settlements = 6
+b_khotan = castle
+b_jingjue = city
+b_jiandu = temple
+culture = saka
+religion = buddhist
+1006.1.1 = {
+  culture = karluk
+  religion = sunni
+}
+1218.1.1 = {
+  culture = uyghur
+}
+1700.1.1 = {
+  b_qira = castle
+}
+1700.1.1 = {
+  b_weiguan = city
+}
+1700.1.1 = {
+  b_bojiayi = castle
+}

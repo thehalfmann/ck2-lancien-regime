@@ -1,0 +1,23 @@
+title = c_middlesex
+max_settlements = 6
+b_westminster = castle
+b_london = city
+b_st_pauls = temple
+b_tottenham = castle
+culture = saxon
+religion = catholic
+1100.11.11 = {
+  culture = english
+}
+1187.1.1 = {
+  b_fulham = castle
+}
+1290.1.1 = {
+  trade_post = b_vorrade
+}
+1700.1.1 = {
+  b_staines = city
+}
+1700.1.1 = {
+  religion = protestant
+}

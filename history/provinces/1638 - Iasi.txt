@@ -1,0 +1,21 @@
+title = c_iasi
+max_settlements = 5
+b_iasi = tribal
+culture = volhynian
+religion = slavic_pagan
+867.1.1 = {
+  culture = russian
+  b_iasi = castle
+  b_harlau = city
+  b_hotin = temple
+  b_cernauti = castle
+}
+988.1.1 = {
+  religion = orthodox
+}
+1700.1.1 = {
+  b_dorohoi = city
+}
+1700.1.1 = {
+  culture = romanian
+}

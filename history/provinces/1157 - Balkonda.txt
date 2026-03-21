@@ -1,0 +1,12 @@
+title = c_balkonda
+max_settlements = 4
+b_balkonda = castle
+b_mahur = temple
+culture = telugu
+religion = hindu
+1700.1.1 = {
+  b_basara = city
+}
+1700.1.1 = {
+  b_nirmal = castle
+}

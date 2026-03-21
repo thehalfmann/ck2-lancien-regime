@@ -1,0 +1,27 @@
+title = c_upper_silesia
+max_settlements = 5
+b_wroclaw = tribal
+b_brzeg = temple
+culture = polish
+religion = slavic_pagan
+990.1.1 = {
+  religion = catholic
+  b_wroclaw = castle
+  b_legnica = city
+}
+1250.1.1 = {
+  capital = b_brzeg
+  culture = german
+}
+1700.1.1 = {
+  b_boleslawiec = castle
+}
+1700.1.1 = {
+  b_wroclaw = temple
+  b_brzeg = city
+}
+1700.1.1 = {
+  capital = b_wroclaw
+  culture = silesian
+}
+

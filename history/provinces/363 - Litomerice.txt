@@ -1,0 +1,20 @@
+title = c_litomerice
+max_settlements = 6
+b_litomerice = tribal
+culture = bohemian
+religion = slavic_pagan
+883.1.1 = {
+  religion = catholic
+  b_litomerice = castle
+  b_melnik_bohemia = city
+  b_mnichovo_hradiste = temple
+}
+1100.1.1 = {
+  b_zitava = castle
+}
+1700.1.1 = {
+  b_duba_litomerice = city
+}
+1700.1.1 = {
+  b_decin = castle
+}

@@ -1,0 +1,7 @@
+1559.10.3 = {
+  holder = 100359
+}
+1691.7.12 = {
+  holder = 100023
+  liege = k_papal_state
+}

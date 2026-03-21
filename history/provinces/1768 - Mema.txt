@@ -1,0 +1,18 @@
+title = c_mema
+max_settlements = 4
+b_mema = tribal
+culture = soninke
+religion = west_african_pagan
+1090.1.1 = {
+  religion = sunni
+}
+1100.1.1 = {
+  b_mema = castle
+  b_dia = city
+}
+1700.1.1 = {
+  b_kabora = temple
+}
+1700.1.1 = {
+  b_macina = castle
+}

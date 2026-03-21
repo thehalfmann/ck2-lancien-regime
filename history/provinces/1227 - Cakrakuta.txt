@@ -1,0 +1,11 @@
+title = c_cakrakuta
+max_settlements = 3
+b_cakrakuta = castle
+culture = oriya
+religion = hindu
+1700.1.1 = {
+  b_jagdalpur = city
+}
+1700.1.1 = {
+  b_kanker = temple
+}

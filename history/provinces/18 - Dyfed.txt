@@ -1,0 +1,18 @@
+title = c_dyfed
+max_settlements = 3
+b_pembroke = castle
+b_st_davids = temple
+culture = welsh
+religion = catholic
+terrain = hills
+1100.1.1 = {
+  b_pembroke = castle
+  capital = b_pembroke
+  remove_settlement = b_dinefwr
+}
+1700.1.1 = {
+  b_penycwm = city
+}
+1700.1.1 = {
+  religion = protestant
+}

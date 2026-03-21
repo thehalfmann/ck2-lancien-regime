@@ -1,0 +1,7 @@
+1336.1.2 = {
+  holder = 74401
+}
+1450.1.1 = {
+  holder = 0
+  liege = c_alampur
+}

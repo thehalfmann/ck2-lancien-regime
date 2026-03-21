@@ -1,0 +1,13 @@
+title = c_khijjingakota
+max_settlements = 4
+b_khijjinga = castle
+b_asanapat = city
+culture = oriya
+religion = buddhist
+terrain = jungle
+1700.1.1 = {
+  b_sitabhinji = temple
+}
+1700.1.1 = {
+  b_kirianagar = castle
+}

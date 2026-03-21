@@ -1,0 +1,28 @@
+title = c_thessalia
+max_settlements = 4
+b_larissa = castle
+b_neopetra = city
+b_volos = temple
+culture = greek
+religion = orthodox
+1205.1.1 = {
+  remove_settlement = b_neopetra
+}
+1430.1.1 = {
+  culture = turkish
+}
+1430.1.1 = {
+  religion = sunni
+}
+1700.1.1 = {
+  b_neopetra = city
+}
+1700.1.1 = {
+  b_damasis = castle
+}
+1700.1.1 = {
+  culture = greek
+}
+1700.1.1 = {
+  religion = orthodox
+}

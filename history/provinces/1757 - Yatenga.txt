@@ -1,0 +1,18 @@
+title = c_yatenga
+max_settlements = 4
+b_yatenga = tribal
+culture = manden
+religion = west_african_pagan
+1250.1.1 = {
+  religion = sunni
+}
+1300.1.1 = {
+  b_yatenga = castle
+  b_dubare = city
+}
+1700.1.1 = {
+  b_zondoma = temple
+}
+1700.1.1 = {
+  b_giti = castle
+}

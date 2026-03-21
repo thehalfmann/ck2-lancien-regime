@@ -1,0 +1,11 @@
+1589.8.2 = {
+  liege = e_france
+  holder = 100298
+}
+1610.5.14 = {
+  holder = 100039
+}
+1643.5.14 = {
+  holder = 100041
+  liege = d_champagne
+}

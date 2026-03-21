@@ -1,0 +1,22 @@
+# County Title
+title = c_tikal
+
+# Settlements
+max_settlements = 6
+b_tikal = tribal
+b_tikal-ii = tribal
+b_tikal-iii = tribal
+b_tikal-iv = temple
+b_tikal-v = temple
+
+1.1.1 = {
+	build_wonder = wonder_maya_pyramid
+	set_wonder_stage = 4
+# 	set_wonder_name = "Maya Pyramid"
+}
+
+# Misc
+culture = putun
+religion = mayan
+
+# History

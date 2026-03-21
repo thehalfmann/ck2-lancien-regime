@@ -1,0 +1,9 @@
+title = c_kastoria
+max_settlements = 3
+b_kastoria = castle
+b_chlerinon = city
+culture = greek
+religion = orthodox
+1700.1.1 = {
+  b_kailara = temple
+}

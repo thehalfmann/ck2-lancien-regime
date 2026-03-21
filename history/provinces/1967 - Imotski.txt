@@ -1,0 +1,16 @@
+title = c_imotski
+max_settlements = 3
+b_topana = tribal
+culture = croatian
+religion = slavic_pagan
+800.1.1 = {
+  religion = orthodox
+  b_topana = castle
+  b_imotski = city
+}
+1000.1.1 = {
+  culture = bosnian
+}
+1700.1.1 = {
+  b_grude = temple
+}

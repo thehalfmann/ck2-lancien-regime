@@ -1,0 +1,21 @@
+1477.1.5 = {
+  de_jure_liege = k_frisia
+  liege = k_frisia
+  holder = 100415
+}
+1516.3.14 = {
+  liege = e_spain
+  holder = 100270
+}
+1556.1.16 = {
+  holder = 100273
+}
+1598.9.13 = {
+  holder = 100102
+}
+1621.3.31 = {
+  holder = 100052
+}
+1665.9.17 = {
+  holder = 0
+}

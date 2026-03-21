@@ -1,0 +1,10 @@
+title = c_kerak
+terrain = hills
+max_settlements = 3
+b_krakdemoab = castle
+b_kerak = city
+culture = levantine_arabic
+religion = sunni
+1700.1.1 = {
+  b_kirhaseset = temple
+}

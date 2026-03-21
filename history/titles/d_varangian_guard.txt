@@ -1,0 +1,17 @@
+20.1.1 = {
+  active = no
+}
+950.1.1 = {
+  liege = e_byzantium
+  active = yes
+  set_global_flag = varangian_guard_founded
+}
+1204.1.1 = {
+  active = no
+}
+1700.1.1 = {
+  vice_royalty = no
+  law = investiture_law_0
+  law = cognatic_succession
+  law = centralization_2
+}

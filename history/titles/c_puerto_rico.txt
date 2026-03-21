@@ -1,0 +1,4 @@
+1699.10.17 = {
+  holder = 100580
+  liege = e_spain
+}

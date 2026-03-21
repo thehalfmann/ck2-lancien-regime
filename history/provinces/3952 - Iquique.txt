@@ -1,0 +1,13 @@
+# County Title
+title = c_iquique
+
+# Settlements
+max_settlements = 3
+b_iquique = tribal
+b_iquique-ii = tribal
+
+# Misc
+culture = diaguita
+religion = inti
+
+# History

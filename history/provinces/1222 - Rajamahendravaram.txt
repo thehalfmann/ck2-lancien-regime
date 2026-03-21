@@ -1,0 +1,12 @@
+title = c_rajamahendravaram
+max_settlements = 3
+b_rajamahendravaram = castle
+culture = telugu
+religion = hindu
+terrain = jungle
+1700.1.1 = {
+  b_kuwakonda = city
+}
+1700.1.1 = {
+  b_kirandul = temple
+}

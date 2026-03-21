@@ -1,0 +1,28 @@
+title = c_sopron
+max_settlements = 4
+b_sopron = tribal
+culture = slovieni
+religion = slavic_pagan
+797.1.1 = {
+  religion = catholic
+  b_sopron = castle
+  b_csorna = city
+  b_gyor = temple
+}
+895.1.1 = {
+  remove_settlement = b_csorna
+  b_sopron = tribal
+}
+930.1.1 = {
+  culture = hungarian
+  religion = tengri_pagan
+}
+950.1.1 = {
+  religion = catholic
+  b_sopron = castle
+  b_csorna = city
+}
+1700.1.1 = {
+  religion = protestant
+  b_borsmonostor = castle
+}

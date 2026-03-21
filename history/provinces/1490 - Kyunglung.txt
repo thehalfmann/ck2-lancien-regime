@@ -1,0 +1,14 @@
+title = c_kyunglung
+max_settlements = 5
+b_kyunglung = castle
+b_gurugem = temple
+b_monicer = city
+b_tirthapuri = temple
+culture = zhangzhung
+religion = bon
+1100.1.1 = {
+  culture = bodpa
+}
+1700.1.1 = {
+  b_dolchu = castle
+}

@@ -1,0 +1,34 @@
+title = c_pecs
+max_settlements = 5
+b_pecs = tribal
+culture = avar
+religion = tengri_pagan
+800.1.1 = {
+  b_pecs = castle
+  b_mohacs = city
+  b_kalocsa = temple
+}
+856.1.1 = {
+  culture = slovieni
+  religion = catholic
+}
+895.1.1 = {
+  remove_settlement = b_mohacs
+  b_pecs = tribal
+}
+930.1.1 = {
+  culture = hungarian
+  religion = tengri_pagan
+}
+950.1.1 = {
+  religion = catholic
+  b_pecs = castle
+  b_mohacs = city
+}
+1187.1.1 = {
+  b_pecsvarad = castle
+}
+1700.1.1 = {
+  religion = protestant
+  b_sasd = city
+}

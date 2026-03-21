@@ -1,0 +1,13 @@
+# County Title
+title = c_wanuku
+
+# Settlements
+max_settlements = 3
+b_wanuku = tribal
+b_wanuku-ii = tribal
+
+# Misc
+culture = quechua
+religion = inti
+
+# History

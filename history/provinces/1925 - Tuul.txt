@@ -1,0 +1,14 @@
+title = c_tuul
+max_settlements = 2
+b_tuul = tribal
+culture = uyghur
+religion = manichean
+840.1.1 = {
+  culture = mongol
+}
+840.1.1 = {
+  religion = tengri_pagan
+}
+1700.1.1 = {
+  religion = buddhist
+}

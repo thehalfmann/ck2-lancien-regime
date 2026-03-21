@@ -1,0 +1,15 @@
+title = c_pithapuram
+max_settlements = 4
+b_pithapuram = temple
+b_mandapeta = city
+culture = telugu
+religion = hindu
+1700.1.1 = {
+  b_draksharama = castle
+}
+1700.1.1 = {
+  b_somarama = castle
+}
+1700.1.1 = {
+  capital = b_draksharama
+}

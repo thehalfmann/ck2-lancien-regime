@@ -1,0 +1,13 @@
+# County Title
+title = c_naska
+
+# Settlements
+max_settlements = 3
+b_naska = tribal
+b_naska-ii = tribal
+
+# Misc
+culture = quechua
+religion = inti
+
+# History

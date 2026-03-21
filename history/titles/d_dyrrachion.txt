@@ -1,0 +1,120 @@
+330.1.1 = {
+  liege = e_byzantium
+  vice_royalty = yes
+}
+759.1.1 = {
+  holder = 145817
+}
+865.1.1 = {
+  holder = 145124
+}
+936.1.1 = {
+  holder = 262230
+}
+1050.1.1 = {
+  holder = 20487
+}
+1060.1.1 = {
+  holder = 20488
+}
+1070.1.1 = {
+  holder = 90035
+}
+1081.10.18 = {
+  holder = 42014
+}
+1108.1.1 = {
+  holder = 34441
+}
+1143.1.1 = {
+  holder = 34442
+}
+1168.1.1 = {
+  holder = 34281
+}
+1203.1.1 = {
+  holder = 34282
+}
+1204.5.16 = {
+  liege = k_venice
+  vice_royalty = no
+  holder = 167602
+}
+1215.1.1 = {
+  holder = 0
+}
+1230.1.1 = {
+  liege = k_bulgaria
+  holder = 31160
+}
+1241.6.24 = {
+  holder = 31165
+}
+1246.8.1 = {
+  liege = k_serbia
+  holder = 34088
+}
+1276.1.1 = {
+  holder = 34117
+}
+1282.1.1 = {
+  holder = 468505
+}
+1321.10.29 = {
+  holder = 34122
+}
+1322.6.1 = {
+  holder = 468510
+}
+1331.11.3 = {
+  holder = 468500
+}
+1450.1.1 = {
+  liege = 0
+  holder = 0
+}
+1700.1.1 = {
+  de_jure_liege = k_serbia
+  name = Albania
+  adjective = Albanian
+  vice_royalty = no
+  law = investiture_law_0
+  law = cognatic_succession
+  law = centralization_2
+}
+1913.5.30 = {
+  holder = 111857394
+}
+1914.1.22 = {
+  holder = 115172024
+}
+1914.3.7 = {
+  holder = 111222912
+}
+1925.2.1 = {
+  holder = 117753078
+}
+1939.4.12 = {
+  holder = 0
+}
+1945.5.8 = {
+  holder = 110697190
+}
+1985.4.11 = {
+  holder = 112326528
+}
+1992.4.9 = {
+  holder = 115351092
+}
+1997.7.24 = {
+  holder = 116301375
+}
+2002.7.24 = {
+  holder = 114707179
+}
+2007.7.24 = {
+  holder = 113753226
+}
+2012.7.24 = {
+  holder = 118865755
+}

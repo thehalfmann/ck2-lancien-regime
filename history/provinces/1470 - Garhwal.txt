@@ -1,0 +1,13 @@
+title = c_garhwal
+max_settlements = 4
+b_devalghar = castle
+b_badrinath = temple
+b_srinagar = city
+culture = hindustani
+religion = buddhist
+810.1.1 = {
+  religion = hindu
+}
+1700.1.1 = {
+  b_tehri = castle
+}

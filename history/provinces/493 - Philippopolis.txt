@@ -1,0 +1,31 @@
+title = c_philippopolis
+max_settlements = 3
+b_philippopolis = castle
+b_klokoknitsa = city
+b_prodromos = temple
+culture = greek
+religion = orthodox
+752.1.1 = {
+  religion = paulician
+}
+1082.1.1 = {
+  religion = orthodox
+}
+1205.1.1 = {
+  remove_settlement = b_klokoknitsa
+}
+1337.1.1 = {
+  b_klokoknitsa = city
+}
+1384.1.1 = {
+  culture = turkish
+}
+1384.1.1 = {
+  religion = sunni
+}
+1700.1.1 = {
+  culture = bulgarian
+}
+1700.1.1 = {
+  religion = orthodox
+}

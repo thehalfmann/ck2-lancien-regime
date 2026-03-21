@@ -1,0 +1,16 @@
+title = c_atholl
+max_settlements = 3
+b_blair_atholl = tribal
+b_fortingall = temple
+culture = pictish
+religion = catholic
+848.1.1 = {
+  culture = scottish_gaels
+}
+1000.1.1 = {
+  b_blair_atholl = castle
+  b_pitlochry = city
+}
+1700.1.1 = {
+  religion = reformed
+}

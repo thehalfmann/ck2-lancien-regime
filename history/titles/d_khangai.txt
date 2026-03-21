@@ -1,0 +1,170 @@
+20.1.1 = {
+  historical_nomad = yes
+}
+860.1.1 = {
+  liege = k_mongolia
+  holder = 34873
+}
+1055.8.28 = {
+  holder = 217178
+}
+1092.5.12 = {
+  holder = 217335
+}
+1110.6.5 = {
+  holder = 217336
+}
+1125.3.26 = {
+  holder = 217223
+  liege = 0
+}
+1148.2.3 = {
+  holder = 217224
+}
+1183.3.6 = {
+  holder = 217225
+}
+1196.1.1 = {
+  holder = 125501
+  liege = k_mongolia
+}
+1227.12.2 = {
+  holder = 172005
+}
+1234.2.10 = {
+  holder = 244010
+}
+1241.12.11 = {
+  holder = 244010
+}
+1248.1.1 = {
+  holder = 217265
+}
+1248.4.20 = {
+  holder = 244010
+}
+1259.8.11 = {
+  holder = 217266
+}
+1260.5.5 = {
+  holder = 244010
+}
+1264.12.10 = {
+  holder = 244011
+}
+1294.2.18 = {
+  holder = 244011
+}
+1307.2.10 = {
+  holder = 244011
+}
+1311.1.27 = {
+  holder = 244011
+}
+1320.3.1 = {
+  holder = 244011
+}
+1323.9.4 = {
+  holder = 244011
+}
+1328.8.15 = {
+  holder = 217280
+}
+1328.11.14 = {
+  holder = 244011
+}
+1329.2.27 = {
+  holder = 217282
+}
+1329.4.3 = {
+  holder = 244011
+}
+1329.8.30 = {
+  holder = 217281
+}
+1329.9.8 = {
+  holder = 244011
+}
+1332.9.2 = {
+  holder = 244011
+}
+1332.12.14 = {
+  holder = 244011
+}
+1334.1.1 = {
+  holder = 244012
+}
+1450.1.1 = {
+  liege = 0
+  holder = 0
+}
+1700.1.1 = {
+  vice_royalty = no
+  law = investiture_law_0
+  law = cognatic_succession
+  law = centralization_2
+}
+1815.6.9 = {
+  holder = 117324184
+  liege = e_china_west_governor
+}
+1830.6.9 = {
+  holder = 114073666
+  liege = e_china_west_governor
+}
+1845.6.9 = {
+  holder = 116267342
+  liege = e_china_west_governor
+}
+1860.6.9 = {
+  holder = 116654721
+  liege = e_china_west_governor
+}
+1875.6.9 = {
+  holder = 110699346
+  liege = e_china_west_governor
+}
+1890.6.9 = {
+  holder = 111048125
+  liege = e_china_west_governor
+}
+1905.6.9 = {
+  holder = 111984297
+  liege = e_china_west_governor
+}
+1920.6.9 = {
+  holder = 112348827
+  liege = e_china_west_governor
+}
+1924.11.26 = {
+  holder = 118774965
+  liege = k_mongolia
+}
+1939.11.26 = {
+  holder = 115932705
+  liege = k_mongolia
+}
+1954.11.26 = {
+  holder = 118252147
+  liege = k_mongolia
+}
+1969.11.26 = {
+  holder = 113800635
+  liege = k_mongolia
+}
+1984.11.26 = {
+  holder = 112175999
+  liege = k_mongolia
+}
+1999.11.26 = {
+  holder = 115101147
+  liege = k_mongolia
+}
+2014.11.26 = {
+  holder = 118893059
+  liege = k_mongolia
+}
+2020.12.31 = {
+  holder = 0
+  liege = 0
+}

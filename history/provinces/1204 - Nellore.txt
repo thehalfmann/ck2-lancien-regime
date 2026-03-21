@@ -1,0 +1,18 @@
+title = c_nellore
+max_settlements = 5
+b_nellore = castle
+b_kalahasti = temple
+culture = telugu
+religion = jain
+1066.1.1 = {
+  religion = hindu
+}
+1700.1.1 = {
+  b_kandukura = city
+}
+1700.1.1 = {
+  b_addanki = castle
+}
+1700.1.1 = {
+  b_tripurantakam = city
+}

@@ -1,0 +1,16 @@
+d_protestant = {
+      color={ 180 137 97 }
+      color2={ 220 220 0 }
+      capital = 333 # Rome
+      title = "PROTESTANT_PRIMATE"
+      foa = "POPE_FOA"
+      short_name = yes
+      # Always exists
+      landless = yes
+      # Controls a religion
+      controls_religion = protestant
+      religion = protestant
+      # Cannot be held as a secondary title
+      primary = yes
+      dynasty_title_names = no # Will not be named "Seljuk", etc.
+    }

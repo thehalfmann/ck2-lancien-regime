@@ -1,0 +1,10 @@
+title = c_hijaz
+max_settlements = 4
+b_al_ola = castle
+b_leuke_kome = city
+b_tayma = temple
+culture = bedouin_arabic
+religion = sunni
+1700.1.1 = {
+  b_higra = castle
+}

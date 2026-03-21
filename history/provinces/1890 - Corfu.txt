@@ -1,0 +1,15 @@
+title = c_corfu
+max_settlements = 1
+b_korkyra = castle
+culture = greek
+religion = orthodox
+terrain = mountain
+1207.1.1 = {
+  religion = catholic
+}
+1207.1.1 = {
+  culture = italian
+}
+1700.1.1 = {
+  culture = greek
+}

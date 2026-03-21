@@ -1,0 +1,19 @@
+title = c_nice
+max_settlements = 4
+b_nizza = temple
+b_mentone = city
+b_monaco = castle
+culture = lombard
+religion = catholic
+829.1.1 = {
+  culture = italian
+}
+1066.1.1 = {
+  trade_post = b_spinola
+}
+1700.1.1 = {
+  b_antibes = castle
+}
+1700.1.1 = {
+  capital = b_monaco
+}

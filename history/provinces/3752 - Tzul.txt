@@ -1,0 +1,13 @@
+# County Title
+title = c_tzul
+
+# Settlements
+max_settlements = 3
+b_tzul = tribal
+b_tzul-ii = temple
+
+# Misc
+culture = putun
+religion = mayan
+
+# History

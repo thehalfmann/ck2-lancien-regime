@@ -1,0 +1,13 @@
+title = c_senlis
+max_settlements = 5
+b_senlis = castle
+b_beaumont_IdF = city
+b_compiegne = temple
+culture = french
+religion = catholic
+1700.1.1 = {
+  b_crepy = castle
+}
+1700.1.1 = {
+  b_creil = city
+}

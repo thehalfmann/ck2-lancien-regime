@@ -1,0 +1,21 @@
+title = c_opole
+max_settlements = 5
+b_opole = tribal
+culture = polish
+religion = slavic_pagan
+990.1.1 = {
+  religion = catholic
+  b_opole = castle
+  b_lubliniec = temple
+  b_kozle = city
+}
+1250.1.1 = {
+  culture = german
+}
+1700.1.1 = {
+  b_strzelce = castle
+}
+1700.1.1 = {
+  culture = silesian
+  b_rybnik = city
+}

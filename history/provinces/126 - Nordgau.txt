@@ -1,0 +1,14 @@
+title = c_nordgau
+max_settlements = 4
+b_egisheim = castle
+b_lauterburg = city
+b_strassburg = temple
+culture = french
+religion = catholic
+790.1.1 = {
+  culture = german
+}
+1700.1.1 = {
+  capital = b_strassburg
+  b_selz = castle
+}

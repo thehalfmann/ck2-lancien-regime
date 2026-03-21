@@ -1,0 +1,4 @@
+1668.11.10 = {
+  holder = 100399
+  liege = e_france
+}

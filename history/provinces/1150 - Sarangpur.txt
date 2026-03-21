@@ -1,0 +1,13 @@
+title = c_sarangpur
+max_settlements = 4
+b_sarangpur = castle
+b_ashta = city
+b_sidhhapur = temple
+culture = hindustani
+religion = jain
+1066.1.1 = {
+  religion = hindu
+}
+1700.1.1 = {
+  b_gagraun = castle
+}

@@ -1,0 +1,117 @@
+284.1.1 = {
+  holder = 247346
+}
+317.1.1 = {
+  holder = 247347
+}
+329.1.1 = {
+  holder = 247348
+}
+351.1.1 = {
+  holder = 247349
+}
+371.1.1 = {
+  holder = 247350
+}
+390.1.1 = {
+  holder = 247351
+}
+400.1.1 = {
+  holder = 247352
+}
+405.1.1 = {
+  holder = 247353
+}
+417.1.1 = {
+  holder = 247355
+}
+424.1.1 = {
+  holder = 247357
+}
+436.1.1 = {
+  holder = 247358
+}
+452.1.1 = {
+  holder = 247368
+}
+481.1.1 = {
+  holder = 247371
+}
+490.1.1 = {
+  holder = 247373
+}
+529.1.1 = {
+  holder = 247375
+}
+530.1.1 = {
+  holder = 247376
+}
+534.1.1 = {
+  holder = 247377
+}
+540.1.1 = {
+  holder = 247378
+}
+591.1.1 = {
+  holder = 247381
+}
+597.1.1 = {
+  holder = 247382
+}
+635.1.1 = {
+  holder = 247384
+}
+635.11.1 = {
+  holder = 247385
+}
+672.1.1 = {
+  holder = 0
+}
+1032.1.1 = {
+  holder = 206650
+  law = succ_primogeniture
+}
+1048.1.19 = {
+  holder = 206651
+}
+1067.1.1 = {
+  holder = 206653
+}
+1086.1.1 = {
+  holder = 206654
+}
+1139.7.8 = {
+  holder = 206657
+}
+1193.1.1 = {
+  holder = 206659
+}
+1206.1.1 = {
+  holder = 206660
+}
+1211.1.1 = {
+  holder = 206666
+}
+1223.1.1 = {
+  holder = 206668
+}
+1226.1.1 = {
+  holder = 206670
+}
+1227.1.1 = {
+  liege = e_mongol_empire
+}
+1227.2.1 = {
+  holder = 0
+}
+1450.1.1 = {
+  liege = 0
+  holder = 0
+}
+1700.1.1 = {
+  vice_royalty = no
+  law = investiture_law_0
+  law = cognatic_succession
+  law = crown_authority_1
+  law = centralization_2
+}

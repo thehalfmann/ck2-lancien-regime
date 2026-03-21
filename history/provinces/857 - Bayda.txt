@@ -1,0 +1,14 @@
+title = c_bayda
+max_settlements = 3
+b_bayda = castle
+culture = bedouin_arabic
+religion = sunni
+1700.1.1 = {
+  b_habban = city
+}
+1700.1.1 = {
+  b_ashshubaykah = temple
+}
+1700.1.1 = {
+  religion = shiite
+}

@@ -1,0 +1,20 @@
+title = c_starodub
+max_settlements = 2
+b_starodub = tribal
+culture = severian
+religion = slavic_pagan
+867.1.1 = {
+  culture = russian
+}
+988.1.1 = {
+  religion = orthodox
+}
+1088.1.1 = {
+  b_starodub = castle
+}
+1700.1.1 = {
+  b_vyshenky = city
+}
+1700.1.1 = {
+  culture = ruthenian
+}

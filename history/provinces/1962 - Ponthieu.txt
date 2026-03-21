@@ -1,0 +1,10 @@
+title = c_ponthieu
+max_settlements = 4
+b_abbeville = castle
+b_saint-valery = city
+b_le_treport = temple
+culture = french
+religion = catholic
+1700.1.1 = {
+  b_montreuil_PdC = castle
+}

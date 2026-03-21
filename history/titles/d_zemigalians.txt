@@ -1,0 +1,13 @@
+1682.1.1 = {
+  liege = d_courland
+  holder = 100116
+}
+1698.1.22 = {
+  holder = 100116
+}
+1700.1.1 = {
+  vice_royalty = no
+  law = investiture_law_0
+  law = cognatic_succession
+  law = centralization_2
+}

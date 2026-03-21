@@ -1,0 +1,21 @@
+title = c_minden
+max_settlements = 3
+b_minden = tribal
+culture = old_saxon
+religion = norse_pagan
+790.1.1 = {
+  culture = german
+  religion = catholic
+  b_auburg = castle
+  b_minden = temple
+  b_petershagen = temple
+}
+803.1.1 = {
+  capital = b_minden
+}
+1700.1.1 = {
+  capital = b_auburg
+}
+1700.1.1 = {
+  religion = protestant
+}

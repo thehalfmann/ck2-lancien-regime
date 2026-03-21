@@ -1,0 +1,19 @@
+title = c_bath
+max_settlements = 5
+b_bath = castle
+b_burnham = city
+b_wells = temple
+culture = saxon
+religion = catholic
+1000.1.1 = {
+  b_bristol = city
+}
+1100.11.11 = {
+  culture = english
+}
+1700.1.1 = {
+  b_cleeve = castle
+}
+1700.1.1 = {
+  religion = protestant
+}

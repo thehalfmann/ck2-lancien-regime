@@ -1,0 +1,16 @@
+title = c_northumberland
+max_settlements = 4
+b_bamburgh = castle
+b_st_aidans = temple
+b_newcastle = city
+culture = saxon
+religion = catholic
+1100.11.11 = {
+  culture = english
+}
+1309.1.1 = {
+  b_alnwick = castle
+}
+1700.1.1 = {
+  religion = protestant
+}

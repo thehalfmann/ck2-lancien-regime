@@ -1,0 +1,5 @@
+1675.6.12 = {
+  de_jure_liege = d_savoie
+  liege = d_savoie
+  holder = 100147
+}

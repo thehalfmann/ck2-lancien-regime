@@ -1,0 +1,11 @@
+title = c_durdzukia
+max_settlements = 3
+b_durdzukia = tribal
+culture = turkish
+religion = tengri_pagan
+860.1.1 = {
+  religion = orthodox
+}
+1700.1.1 = {
+  religion = sunni
+}

@@ -1,0 +1,12 @@
+title = c_candradvipa
+max_settlements = 3
+b_candradvipa = castle
+b_khulna = city
+culture = bengali
+religion = buddhist
+1700.1.1 = {
+  b_sathkira = temple
+}
+1700.1.1 = {
+  religion = sunni
+}

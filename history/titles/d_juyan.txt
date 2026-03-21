@@ -1,0 +1,79 @@
+936.1.1 = {
+  holder = 261081
+  liege = k_liao
+  historical_nomad = yes
+}
+1450.1.1 = {
+  liege = 0
+  holder = 0
+}
+1700.1.1 = {
+  vice_royalty = no
+  law = investiture_law_0
+  law = cognatic_succession
+  law = centralization_2
+}
+1815.6.9 = {
+  holder = 110304145
+  liege = e_china_west_governor
+}
+1830.6.9 = {
+  holder = 113509845
+  liege = e_china_west_governor
+}
+1845.6.9 = {
+  holder = 112311423
+  liege = e_china_west_governor
+}
+1860.6.9 = {
+  holder = 114171240
+  liege = e_china_west_governor
+}
+1875.6.9 = {
+  holder = 117445568
+  liege = e_china_west_governor
+}
+1890.6.9 = {
+  holder = 116277429
+  liege = e_china_west_governor
+}
+1905.6.9 = {
+  holder = 116860566
+  liege = e_china_west_governor
+}
+1920.6.9 = {
+  holder = 114332174
+  liege = e_china_west_governor
+}
+1924.11.26 = {
+  holder = 115691238
+  liege = k_mongolia
+}
+1939.11.26 = {
+  holder = 118605675
+  liege = k_mongolia
+}
+1954.11.26 = {
+  holder = 112651063
+  liege = k_mongolia
+}
+1969.11.26 = {
+  holder = 111299776
+  liege = k_mongolia
+}
+1984.11.26 = {
+  holder = 114206604
+  liege = k_mongolia
+}
+1999.11.26 = {
+  holder = 117831249
+  liege = k_mongolia
+}
+2014.11.26 = {
+  holder = 111265414
+  liege = k_mongolia
+}
+2020.12.31 = {
+  holder = 0
+  liege = 0
+}

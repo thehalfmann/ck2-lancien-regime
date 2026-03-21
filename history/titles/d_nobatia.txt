@@ -1,0 +1,119 @@
+536.1.1 = {
+  liege = 0
+  holder = 166183
+}
+555.1.1 = {
+  holder = 166184
+}
+559.1.1 = {
+  holder = 166185
+}
+574.1.1 = {
+  holder = 166184
+}
+575.1.1 = {
+  holder = 166185
+}
+577.1.1 = {
+  holder = 166184
+}
+578.1.1 = {
+  holder = 166185
+}
+590.1.1 = {
+  holder = 0
+}
+1312.6.1 = {
+  holder = 166145
+}
+1327.1.1 = {
+  holder = 166146
+}
+1334.1.1 = {
+  holder = 166147
+}
+1397.1.1 = {
+  holder = 166148
+}
+1410.1.1 = {
+  holder = 166149
+}
+1430.1.1 = {
+  holder = 166150
+}
+1450.1.1 = {
+  liege = 0
+  holder = 0
+}
+1460.1.1 = {
+  holder = 166151
+}
+1484.1.1 = {
+  holder = 166152
+}
+1700.1.1 = {
+  vice_royalty = no
+  law = investiture_law_0
+  law = cognatic_succession
+  law = centralization_2
+}
+1815.6.9 = {
+  holder = 116488080
+  liege = k_nubia
+}
+1830.6.9 = {
+  holder = 112494672
+  liege = k_nubia
+}
+1845.6.9 = {
+  holder = 116995632
+  liege = k_nubia
+}
+1860.6.9 = {
+  holder = 111236575
+  liege = k_nubia
+}
+1875.6.9 = {
+  holder = 119574138
+  liege = k_nubia
+}
+1890.6.9 = {
+  holder = 119762719
+  liege = k_nubia
+}
+1905.6.9 = {
+  holder = 118975767
+  liege = k_nubia
+}
+1920.6.9 = {
+  holder = 110479289
+  liege = k_nubia
+}
+1935.6.9 = {
+  holder = 111153597
+  liege = k_nubia
+}
+1950.6.9 = {
+  holder = 116600350
+  liege = k_nubia
+}
+1965.6.9 = {
+  holder = 110705517
+  liege = k_nubia
+}
+1980.6.9 = {
+  holder = 118848256
+  liege = k_nubia
+}
+1995.6.9 = {
+  holder = 118775056
+  liege = k_nubia
+}
+2010.6.9 = {
+  holder = 113950643
+  liege = k_nubia
+}
+2020.12.31 = {
+  holder = 0
+  liege = 0
+}

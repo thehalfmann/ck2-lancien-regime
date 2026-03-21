@@ -1,0 +1,13 @@
+title = c_bira
+max_settlements = 4
+b_bira = castle
+b_resaina = city
+b_tella = temple
+culture = kurdish
+religion = orthodox
+1164.1.1 = {
+  religion = sunni
+}
+1700.1.1 = {
+  b_qalarebete = castle
+}

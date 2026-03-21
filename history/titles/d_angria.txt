@@ -1,0 +1,74 @@
+762.1.1 = {
+  holder = 190466
+  liege = k_saxony
+}
+782.1.1 = {
+  de_jure_liege = k_germany
+  holder = 0
+}
+1450.1.1 = {
+  liege = 0
+  holder = 0
+}
+1700.1.1 = {
+  vice_royalty = no
+  law = investiture_law_0
+  law = cognatic_succession
+  law = centralization_2
+}
+1866.8.23 = {
+  holder = 114998412
+  liege = k_pomerania
+}
+1871.1.18 = {
+  holder = 112732892
+  liege = e_germany
+}
+1886.1.18 = {
+  holder = 112963451
+  liege = e_germany
+}
+1901.1.18 = {
+  holder = 113601003
+  liege = e_germany
+}
+1916.1.18 = {
+  holder = 111228789
+  liege = e_germany
+}
+1931.1.18 = {
+  holder = 115356996
+  liege = e_germany
+}
+1945.5.8 = {
+  holder = 117008786
+  liege = k_germany
+}
+1960.5.8 = {
+  holder = 116058068
+  liege = k_germany
+}
+1975.5.8 = {
+  holder = 113789482
+  liege = k_germany
+}
+1990.5.8 = {
+  holder = 114389978
+  liege = k_germany
+}
+1990.9.29 = {
+  holder = 117547168
+  liege = e_germany
+}
+2005.9.29 = {
+  holder = 115500386
+  liege = e_germany
+}
+2020.9.29 = {
+  holder = 112174659
+  liege = e_germany
+}
+2020.12.31 = {
+  holder = 0
+  liege = 0
+}

@@ -1,0 +1,13 @@
+# County Title
+title = c_guayaquil
+
+# Settlements
+max_settlements = 3
+b_guayaquil = tribal
+b_guayaquil-ii = tribal
+
+# Misc
+culture = caran
+religion = inti
+
+# History

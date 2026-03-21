@@ -1,0 +1,4 @@
+1695.2.6 = {
+  liege = e_arabia
+  holder = 100057
+}

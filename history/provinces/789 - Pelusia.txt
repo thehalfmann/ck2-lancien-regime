@@ -1,0 +1,26 @@
+title = c_pelusia
+max_settlements = 5
+b_pelusia = castle
+b_said = city
+b_alsalihiyah = temple
+b_ismaillia = castle
+culture = egyptian_arabic
+religion = sunni
+767.1.1 = {
+  religion = miaphysite
+}
+909.1.1 = {
+  religion = shiite
+}
+1171.1.1 = {
+  religion = sunni
+}
+1187.1.1 = {
+  b_ismaillia = castle
+}
+1209.1.1 = {
+  trade_post = b_faliero
+}
+1700.1.1 = {
+  b_sile = city
+}

@@ -1,0 +1,13 @@
+# County Title
+title = c_kamana
+
+# Settlements
+max_settlements = 4
+b_kamana = tribal
+b_kamana-ii = tribal
+
+# Misc
+culture = quechua
+religion = inti
+
+# History

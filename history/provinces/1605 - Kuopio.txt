@@ -1,0 +1,18 @@
+title = c_kuopio
+max_settlements = 2
+b_kuopio = tribal
+culture = finnish
+religion = finnish_pagan
+terrain = forest
+1292.1.1 = {
+  religion = catholic
+}
+1300.1.1 = {
+  b_kuopio = castle
+}
+1337.1.1 = {
+  b_vaajasalo = city
+}
+1700.1.1 = {
+  religion = protestant
+}

@@ -1,0 +1,24 @@
+title = c_kaliopolis
+max_settlements = 4
+b_gallipoli = castle
+b_heraclea = temple
+b_madyta = city
+culture = greek
+religion = orthodox
+765.1.1 = {
+  religion = orthodox
+}
+1194.1.1 = {
+  trade_post = b_ziani
+}
+1305.1.1 = {
+  remove_settlement = b_heraclea
+}
+1337.1.1 = {
+  b_selymbria = castle
+}
+1700.1.1 = {
+  culture = turkish
+  religion = sunni
+  b_heraclea = temple
+}

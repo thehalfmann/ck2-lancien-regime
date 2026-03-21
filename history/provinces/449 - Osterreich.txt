@@ -1,0 +1,25 @@
+title = c_osterreich
+max_settlements = 5
+b_wien = tribal
+culture = slovieni
+religion = slavic_pagan
+846.1.1 = {
+  culture = german
+  religion = catholic
+  b_klosterneuburg = castle
+  b_wien = city
+  b_korneuburg = temple
+  capital = b_klosterneuburg
+}
+930.1.1 = {
+  b_klosterneuburg = tribal
+}
+950.1.1 = {
+  b_klosterneuburg = castle
+}
+1700.1.1 = {
+  b_wagram = castle
+}
+1700.1.1 = {
+  b_baden_wien = city
+}

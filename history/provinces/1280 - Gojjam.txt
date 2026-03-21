@@ -1,0 +1,13 @@
+title = c_gojjam
+max_settlements = 4
+b_gojjam = tribal
+culture = ethiopian
+religion = miaphysite
+1050.1.1 = {
+  b_gojjam = castle
+  b_eliyas = city
+  b_godana_mikael = temple
+}
+1700.1.1 = {
+  b_mankorar = castle
+}

@@ -1,0 +1,10 @@
+title = c_charolais
+max_settlements = 4
+b_charolles = castle
+b_semurenbrionnais = city
+b_perrecy = temple
+culture = french
+religion = catholic
+1700.1.1 = {
+  b_montstvincent = castle
+}

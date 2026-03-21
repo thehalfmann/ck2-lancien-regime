@@ -1,0 +1,13 @@
+title = c_oberbayern
+max_settlements = 4
+b_freising = temple
+b_andechs = castle
+b_dachau = city
+culture = german
+religion = catholic
+1158.1.1 = {
+  b_munchen = city
+}
+1700.1.1 = {
+  capital = b_andechs
+}

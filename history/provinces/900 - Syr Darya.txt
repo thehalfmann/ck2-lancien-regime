@@ -1,0 +1,18 @@
+title = c_syr_darya
+max_settlements = 4
+b_kyzylorda = tribal
+b_syganak = temple
+culture = turkish
+religion = manichean
+775.1.1 = {
+  religion = tengri_pagan
+}
+1227.1.1 = {
+  religion = sunni
+}
+1230.1.1 = {
+  culture = mongol
+}
+1700.1.1 = {
+  culture = kazakh
+}

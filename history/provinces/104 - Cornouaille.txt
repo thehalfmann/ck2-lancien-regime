@@ -1,0 +1,10 @@
+title = c_cornouaille
+max_settlements = 4
+b_quimper = castle
+b_quimperle = city
+b_landevennec = temple
+culture = breton
+religion = catholic
+1700.1.1 = {
+  b_lezergue = castle
+}

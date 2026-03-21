@@ -1,0 +1,25 @@
+title = c_gwynedd
+max_settlements = 5
+b_degannwy = castle
+b_bangor_fawr = temple
+b_caernarfon = city
+culture = welsh
+religion = catholic
+terrain = hills
+1159.1.1 = {
+  b_conwy = castle
+}
+1215.1.1 = {
+  b_abergwyngregyn = castle
+  capital = b_abergwyngregyn
+}
+1263.1.1 = {
+  remove_settlement = b_degannwy
+}
+1286.1.1 = {
+  max_settlements = 6
+  b_harlech = castle
+}
+1700.1.1 = {
+  religion = protestant
+}

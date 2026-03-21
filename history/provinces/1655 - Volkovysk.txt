@@ -1,0 +1,24 @@
+title = c_volkovysk
+max_settlements = 4
+b_volkovysk = tribal
+culture = volhynian
+religion = slavic_pagan
+867.1.1 = {
+  culture = russian
+}
+988.1.1 = {
+  religion = orthodox
+}
+1150.1.1 = {
+  b_volkovysk = castle
+  b_klotsk = city
+}
+1252.1.1 = {
+  b_ouslonim = temple
+}
+1700.1.1 = {
+  b_studzieniki = castle
+}
+1700.1.1 = {
+  culture = ruthenian
+}

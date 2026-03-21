@@ -1,0 +1,20 @@
+title = c_yelets
+max_settlements = 3
+b_yelets = tribal
+culture = turkish
+religion = finnish_pagan
+terrain = plains
+867.1.1 = {
+  culture = russian
+  religion = slavic_pagan
+}
+988.1.1 = {
+  religion = orthodox
+}
+1150.1.1 = {
+  b_yelets = castle
+  b_voronej = city
+}
+1700.1.1 = {
+  b_zadonsk = temple
+}

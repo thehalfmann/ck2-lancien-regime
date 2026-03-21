@@ -1,0 +1,17 @@
+title = c_udabhanda
+max_settlements = 6
+b_udabhanda = castle
+b_charsada = city
+b_oddiyana = temple
+b_attak = castle
+culture = panjabi
+religion = buddhist
+1700.1.1 = {
+  b_mankiala = city
+}
+1700.1.1 = {
+  b_rawal = castle
+}
+1700.1.1 = {
+  religion = sunni
+}

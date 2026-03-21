@@ -1,0 +1,12 @@
+title = c_nagadipa
+max_settlements = 4
+b_sukaratittha = castle
+b_yapapatuna = city
+culture = tamil
+religion = buddhist
+1700.1.1 = {
+  b_vallipuram = temple
+}
+1700.1.1 = {
+  b_nallur = castle
+}

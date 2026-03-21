@@ -1,0 +1,10 @@
+title = c_qalqut
+max_settlements = 4
+b_calicut = castle
+b_nediyiruppu = city
+b_kannur = temple
+culture = tamil
+religion = hindu
+1700.1.1 = {
+  b_urakam = castle
+}

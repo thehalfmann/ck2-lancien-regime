@@ -1,0 +1,17 @@
+title = c_brugge
+max_settlements = 7
+b_sluys = castle
+b_brugge = city
+b_damme = temple
+b_nieuwpoort = city
+culture = flemish
+religion = catholic
+1187.1.1 = {
+  b_male = castle
+}
+1337.1.1 = {
+  b_oostende = city
+}
+1700.1.1 = {
+  b_torhout = castle
+}

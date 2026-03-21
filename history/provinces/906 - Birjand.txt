@@ -1,0 +1,13 @@
+title = c_birjand
+max_settlements = 5
+b_nehbandan = castle
+b_furg = castle
+b_birjand = city
+culture = persian
+religion = sunni
+1700.1.1 = {
+  b_toon = temple
+}
+1700.1.1 = {
+  b_sarayan = city
+}

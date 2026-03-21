@@ -1,0 +1,24 @@
+title = c_qom
+max_settlements = 5
+b_khourabad = castle
+b_qom = city
+b_jamkaran = temple
+b_salafchegan = city
+b_kahak = castle
+culture = persian
+religion = zoroastrian
+867.1.1 = {
+  b_khourabad = ca_keep_1
+  b_khourabad = ca_training_grounds_1
+  b_khourabad = ca_keep_2
+  b_khourabad = ca_barracks_1
+  b_khourabad = ca_militia_barracks_1
+  b_khourabad = ca_wall_1
+  b_khourabad = ca_wall_2
+}
+900.1.1 = {
+  religion = sunni
+}
+1700.1.1 = {
+  religion = shiite
+}

@@ -1,0 +1,14 @@
+title = c_brabant
+max_settlements = 6
+b_leuven = castle
+b_brussel = city
+b_mechelen = temple
+b_aarschot = castle
+culture = flemish
+religion = catholic
+1187.1.1 = {
+  b_antwerpen = city
+}
+1700.1.1 = {
+  b_grimbergen = castle
+}

@@ -1,0 +1,19 @@
+title = c_gao
+max_settlements = 5
+b_gao = tribal
+b_gaosaney = temple
+culture = songhay
+religion = west_african_pagan
+900.1.1 = {
+  b_gao = castle
+  b_sarnah = city
+}
+1100.1.1 = {
+  religion = sunni
+}
+1700.1.1 = {
+  b_bourem = castle
+}
+1700.1.1 = {
+  b_menaka = city
+}

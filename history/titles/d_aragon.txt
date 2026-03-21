@@ -1,0 +1,6 @@
+1699.1.1 = {
+  vice_royalty = yes
+  de_jure_liege = k_aragon
+  liege = e_spain
+  holder = 100574
+}

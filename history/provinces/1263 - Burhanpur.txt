@@ -1,0 +1,12 @@
+title = c_burhanpur
+max_settlements = 4
+b_burhanpur = castle
+b_erandol = temple
+culture = marathi
+religion = hindu
+1700.1.1 = {
+  b_vaghli = city
+}
+1700.1.1 = {
+  b_changdev = castle
+}

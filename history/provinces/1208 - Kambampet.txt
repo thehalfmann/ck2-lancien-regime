@@ -1,0 +1,12 @@
+title = c_kambampet
+max_settlements = 4
+b_kambampet = castle
+b_bhadrachalam = temple
+culture = telugu
+religion = hindu
+1700.1.1 = {
+  b_nelakondapalli = city
+}
+1700.1.1 = {
+  b_penuballi = castle
+}

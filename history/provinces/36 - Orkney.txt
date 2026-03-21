@@ -1,0 +1,27 @@
+title = c_orkney
+max_settlements = 3
+b_birsay = tribal
+b_kirkwall = temple
+culture = pictish
+religion = catholic
+terrain = hills
+855.1.1 = {
+  culture = norse
+  religion = norse_pagan
+}
+1000.1.1 = {
+  b_birsay = castle
+  b_birsay = ca_shipyard_1
+  b_kirkwall = tp_town_1
+  b_kirkwall = tp_shipyard_1
+  religion = catholic
+}
+1066.1.1 = {
+  culture = scottish
+}
+1700.1.1 = {
+  b_orphir = city
+}
+1700.1.1 = {
+  religion = protestant
+}

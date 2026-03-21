@@ -1,0 +1,9 @@
+title = c_palencia
+max_settlements = 3
+b_palencia = castle
+b_saint_antolin = temple
+culture = leonese
+religion = catholic
+1700.1.1 = {
+  b_san_salvador = city
+}

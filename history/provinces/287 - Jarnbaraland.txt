@@ -1,0 +1,24 @@
+title = c_dalarna
+max_settlements = 3
+b_borganas = tribal
+culture = norse
+religion = norse_pagan
+terrain = forest
+1000.1.1 = {
+  b_borganas = castle
+}
+1066.1.1 = {
+  culture = swedish
+}
+1085.1.1 = {
+  religion = catholic
+}
+1187.1.1 = {
+  b_hedemora = city
+}
+1700.1.1 = {
+  b_kopparberg = temple
+}
+1700.1.1 = {
+  religion = protestant
+}

@@ -1,0 +1,15 @@
+title = c_limbuwan
+max_settlements = 4
+b_taplejung = castle
+b_tambar = city
+culture = nepali
+religion = buddhist
+1041.1.1 = {
+  religion = hindu
+}
+1700.1.1 = {
+  b_gograha = temple
+}
+1700.1.1 = {
+  b_dhankuta = castle
+}

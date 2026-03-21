@@ -1,0 +1,16 @@
+title = c_gurjaratra
+max_settlements = 5
+b_gurjaratra = castle
+b_jhelum = city
+b_kharian = temple
+culture = panjabi
+religion = buddhist
+1700.1.1 = {
+  b_kunjah = castle
+}
+1700.1.1 = {
+  b_hakla = city
+}
+1700.1.1 = {
+  religion = sunni
+}

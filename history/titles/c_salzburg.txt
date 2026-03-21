@@ -1,0 +1,4 @@
+1687.6.30 = {
+  holder = 100089
+  liege = d_salzburg
+}

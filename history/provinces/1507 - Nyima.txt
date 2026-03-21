@@ -1,0 +1,16 @@
+title = c_nyima
+max_settlements = 5
+b_chugtsodropo = castle
+b_nyima = city
+b_khyungdzong = castle
+culture = zhangzhung
+religion = bon
+800.1.1 = {
+  culture = bodpa
+}
+1700.1.1 = {
+  b_jiwa = temple
+}
+1700.1.1 = {
+  b_tanglai = city
+}

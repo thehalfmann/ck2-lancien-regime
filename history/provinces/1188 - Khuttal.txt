@@ -1,0 +1,25 @@
+title = c_khuttal
+max_settlements = 5
+b_kulob = castle
+b_halaward = city
+b_washjird = temple
+culture = sogdian
+religion = buddhist
+900.1.1 = {
+  culture = persian
+}
+1100.1.1 = {
+  religion = sunni
+}
+1230.1.1 = {
+  culture = mongol
+}
+1700.1.1 = {
+  b_vakash = castle
+}
+1700.1.1 = {
+  b_qobadhiyan = city
+}
+1700.1.1 = {
+  culture = persian
+}

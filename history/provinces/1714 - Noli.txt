@@ -1,0 +1,13 @@
+title = c_noli
+max_settlements = 4
+b_noli = city
+b_savona = city
+b_albenga = castle
+culture = lombard
+religion = catholic
+849.1.1 = {
+  culture = italian
+}
+1700.1.1 = {
+  b_ventimiglia = temple
+}

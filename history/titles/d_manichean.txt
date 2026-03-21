@@ -1,0 +1,15 @@
+240.1.1 = {
+  holder = 248201
+}
+274.2.3 = {
+  holder = 248202
+}
+753.1.1 = {
+  holder = 248203
+}
+1700.1.1 = {
+  vice_royalty = no
+  law = investiture_law_0
+  law = cognatic_succession
+  law = centralization_2
+}

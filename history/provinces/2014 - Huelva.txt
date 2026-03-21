@@ -1,0 +1,19 @@
+title = c_huelva
+max_settlements = 4
+b_huelva = castle
+b_ayamonte = city
+culture = visigothic
+religion = sunni
+934.1.1 = {
+  culture = andalusian_arabic
+}
+1279.1.1 = {
+  culture = castillan
+  religion = catholic
+}
+1700.1.1 = {
+  b_lepe = temple
+}
+1700.1.1 = {
+  b_gibraleon = castle
+}

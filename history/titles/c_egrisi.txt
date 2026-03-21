@@ -1,0 +1,4 @@
+1676.1.10 = {
+  liege = k_georgia
+  holder = 100503
+}

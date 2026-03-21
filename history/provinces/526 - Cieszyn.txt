@@ -1,0 +1,15 @@
+title = c_cieszyn
+max_settlements = 3
+b_cieszyn = tribal
+culture = polish
+religion = slavic_pagan
+990.1.1 = {
+  religion = catholic
+}
+1000.1.1 = {
+  b_cieszyn = castle
+  b_zywiec = city
+}
+1700.1.1 = {
+  b_oswiecim = temple
+}

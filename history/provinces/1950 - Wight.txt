@@ -1,0 +1,15 @@
+title = c_wight
+max_settlements = 3
+b_carisbrooke = castle
+b_bonchurch = temple
+culture = saxon
+religion = catholic
+1100.11.11 = {
+  culture = english
+}
+1700.1.1 = {
+  b_newport_wight = city
+}
+1700.1.1 = {
+  religion = protestant
+}

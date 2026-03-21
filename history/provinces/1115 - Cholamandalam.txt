@@ -1,0 +1,18 @@
+title = c_cholamandalam
+max_settlements = 7
+b_tanjavur = castle
+b_uraiyur = city
+b_nagapattinam = temple
+b_kannanur = castle
+b_gangaikondacolapuram = city
+culture = tamil
+religion = jain
+1066.1.1 = {
+  religion = hindu
+}
+1700.1.1 = {
+  b_srirangam = castle
+}
+1700.1.1 = {
+  b_tiruccirapalli = city
+}

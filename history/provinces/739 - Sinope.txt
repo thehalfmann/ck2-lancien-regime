@@ -1,0 +1,13 @@
+title = c_sinope
+max_settlements = 4
+b_talaura = castle
+b_sinope = city
+b_themiscyra = temple
+religion = sunni
+culture = turkish
+1222.1.1 = {
+  trade_post = b_spinola
+}
+1700.1.1 = {
+  b_carusus = castle
+}

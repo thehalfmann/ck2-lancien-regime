@@ -1,0 +1,48 @@
+769.1.1 = {
+  liege = c_mandavyapura
+}
+994.1.1 = {
+  holder = 191809
+  liege = c_godwad
+}
+1030.1.1 = {
+  holder = 191810
+}
+1065.1.1 = {
+  holder = 191811
+}
+1080.1.1 = {
+  holder = 191812
+}
+1100.1.1 = {
+  holder = 191813
+}
+1116.1.1 = {
+  holder = 191814
+}
+1140.1.1 = {
+  holder = 191816
+}
+1158.1.1 = {
+  liege = 0
+}
+1161.1.1 = {
+  holder = 191730
+}
+1182.1.1 = {
+  holder = 191740
+}
+1222.1.1 = {
+  holder = 191750
+}
+1295.1.1 = {
+  holder = 191808
+}
+1310.6.23 = {
+  holder = 0
+  liege = c_mandavyapura
+}
+1450.1.1 = {
+  holder = 0
+  liege = c_mandavyapura
+}

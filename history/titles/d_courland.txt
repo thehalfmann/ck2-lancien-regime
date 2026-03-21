@@ -1,0 +1,10 @@
+1642.8.17 = {
+  liege = e_commonwealth
+  holder = 100119
+}
+1682.1.1 = {
+  holder = 100116
+}
+1698.1.22 = {
+  holder = 100117
+}

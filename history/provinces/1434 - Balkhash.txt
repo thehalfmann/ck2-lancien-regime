@@ -1,0 +1,17 @@
+title = c_balkhash
+max_settlements = 2
+b_balkhash = tribal
+culture = kazakh
+religion = tengri_pagan
+1227.1.1 = {
+  culture = mongol
+}
+1227.1.1 = {
+  religion = tengri_pagan
+}
+1313.1.1 = {
+  religion = sunni
+}
+1700.1.1 = {
+  culture = kazakh
+}

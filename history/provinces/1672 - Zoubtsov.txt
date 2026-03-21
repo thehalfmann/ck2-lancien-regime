@@ -1,0 +1,17 @@
+title = c_zoubtsov
+max_settlements = 2
+b_zoubtsov = tribal
+culture = ilmenian
+religion = slavic_pagan
+867.1.1 = {
+  culture = russian
+}
+988.1.1 = {
+  religion = orthodox
+}
+1200.1.1 = {
+  b_zoubtsov = castle
+}
+1700.1.1 = {
+  b_yesinka = city
+}

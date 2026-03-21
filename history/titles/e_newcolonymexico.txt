@@ -1,0 +1,6 @@
+1696.12.18 = {
+  holder = 100590
+	vice_royalty = yes
+  set_tribute_suzerain = { who = e_spain type = permanent }
+}
+

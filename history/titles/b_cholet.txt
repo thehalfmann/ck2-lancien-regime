@@ -1,0 +1,11 @@
+735.1.1 = {
+  liege = c_anjou
+  holder = 91479
+}
+790.1.1 = {
+  holder = 0
+}
+1450.1.1 = {
+  holder = 0
+  liege = c_saumur
+}

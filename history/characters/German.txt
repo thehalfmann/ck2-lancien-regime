@@ -1,0 +1,2865 @@
+100022 = {
+	name = "Leopold I" # Leopold I, Holy Roman Emperor
+	religion = catholic
+	culture = german
+	dna="0hdia0bb000"
+	properties="0n00dk00000000000000000000000000000000"
+	dynasty = 100006
+	father = 100055
+	mother = 100101
+	martial = 7
+	diplomacy = 7
+	intrigue = 5
+	stewardship = 6  
+	disallow_random_traits = yes
+	trait = "scholarly_theologian"
+	trait = "erudite"
+	trait = "theologian"
+	trait = "shy"
+	trait = "zealous"
+	trait = "feeble"
+	1640.6.9 = {
+		birth = yes
+	}
+	1667.4.25 = {
+		add_spouse=100100
+	}
+	1673.10.15 = {
+		add_spouse=100159    
+	}
+	1676.12.14 = {
+		add_spouse=100160  
+	}
+	1686.7.9 = {
+		effect = { add_alliance = { who = 100088 years = 5 } }     
+		effect = { add_alliance = { who = 100049 years = 5 } }     
+	}
+	1689.12.20 = {
+		effect = { add_alliance = { who = 100000 years = 5 } }     
+		effect = { add_alliance = { who = 100010 years = 5 } }     
+	}
+}
+
+100044 = {
+	name = "Maria Anna Victoria" # Maria Anna Victoria of Bavaria
+	female = yes  
+	religion = catholic
+	culture = german
+	dynasty = 100014
+	father = 100317
+	mother = 100318
+	trait = "erudite"
+	trait = "depressed"
+	trait = "ugly"
+	1660.11.28 = {
+		birth = yes
+	}
+	1690.4.20 = {
+		death = yes         
+	}
+}
+
+100054 = {
+	name = "Maria Anna" # Mariana of Austria
+	female = yes
+	religion = catholic
+	culture = german
+	dynasty = 100006
+	father = 100055
+	mother = 100101
+	1634.12.23 = {
+		birth = yes
+	}
+	1696.5.16 = {
+		death = yes    
+	}
+}
+
+100055 = {
+	name = "Ferdinand" # Ferdinand III, Holy Roman Emperor
+	religion = catholic
+	culture = german
+	dynasty = 100006
+	father = 100313
+	mother = 100314
+	1608.7.13 = {
+		birth = yes
+	}
+	1631.2.20 = {
+		add_spouse=100101
+	}
+	1648.7.2 = {
+		add_spouse=100188
+	}
+	1651.4.30 = {
+		add_spouse=100190
+	}
+	1657.4.2 = {
+		death = yes         
+	}
+}
+
+100056 = {
+	name = "Friedrich" # Frederick I of Prussia
+	religion = reformed
+	culture = german
+	dynasty = 100016
+	father = 100104
+	mother = 100107  
+	1657.7.11 = {
+		birth = yes
+	} 
+	1684.10.8 = {
+		add_spouse=100222
+	}
+	1688.4.29 = {
+		capital = c_brandenburg
+	} 
+}
+
+100058 = {
+	name = "Georg" # George I of Great Britain
+	religion = protestant
+	culture = german
+	dynasty = 100017
+	father = 100220
+	mother = 100219
+	1660.5.28 = {
+		birth = yes   
+	}
+	1682.11.21 = {
+		add_spouse=100233
+	}
+	1694.12.28 = {
+		remove_spouse = 100233
+	}
+}
+
+100088 = {
+	name = "Maximilian" # Maximilian II Emanuel
+	religion = catholic
+	culture = german
+	dynasty = 100014
+	father = 100317
+	mother = 100318
+	1662.7.11 = {
+		birth = yes   
+	}
+	1685.7.15 = {
+		add_spouse=100090   
+	}
+	1694.8.15 = {
+		add_spouse=100092       
+	} 
+}
+
+100090 = {
+	name = "Maria Antonia" # Maria Antonia of Austria
+	female = yes
+	religion = catholic
+	culture = german
+	dynasty = 100006
+	father = 100022
+	mother = 100100
+	trait = "inbred"
+	1669.1.18 = {
+		birth = yes   
+	}
+	1692.12.25 = {
+		death = yes    
+	} 
+}
+
+100091 = {
+	name = "Joseph Ferdinand" # Joseph Ferdinand of Bavaria
+	religion = catholic
+	culture = german
+	dynasty = 100014
+	father = 100088
+	mother = 100090
+	1692.10.28 = {
+		birth = yes   
+	}
+	1699.2.6 = {
+		death = yes    
+	} 
+}
+
+100093 = {
+	name = "Karl" # Charles VII, Holy Roman Emperor
+	religion = catholic
+	culture = german
+	dynasty = 100014
+	father = 100088
+	mother = 100092
+	1697.8.6 = {
+		birth = yes   
+	} 
+}
+
+100094 = {
+	name = "Ferdinand Maria Innocenz" # Ferdinand Maria Innocenz of Bavaria
+	religion = catholic
+	culture = german
+	dynasty = 100014
+	father = 100088
+	mother = 100092
+	1699.8.5 = {
+		birth = yes   
+	} 
+}
+
+100103 = {
+	name = "Margarete" # Margaret of Austria, Queen of Spain
+	female = yes 
+	religion = catholic
+	culture = german
+	dynasty = 100006
+	father = 100301
+	mother = 100302
+	1584.12.25 = {
+		birth = yes   
+	}    
+	1611.10.3 = {
+		death = yes            
+	} 
+}
+
+100104 = {
+	name = "Friedrich Wilhelm" # Frederick William, the Great Elector
+	religion = reformed
+	culture = german
+	dynasty = 100016
+	trait = "is_fat"
+	1620.2.16 = {
+		birth = yes   
+	}
+	1646.12.7 = {
+		add_spouse=100105   
+	}
+	1668.6.14 = {
+		add_spouse=100107   
+	}       
+	1688.4.29 = {
+		death = yes            
+	} 
+}
+
+100106 = {
+	name = "Karl Emil" # Charles, Electoral Prince of Brandenburg
+	religion = reformed
+	culture = german
+	dynasty = 100016
+	1655.2.16 = {
+		birth = yes   
+	}    
+	1674.12.7 = {
+		death = yes            
+	} 
+}
+
+100107 = {
+	name = "Dorothea Sophie" # Princess Dorothea Sophie of Schleswig-Holstein-Sonderburg-Glücksburg
+	female = yes
+	religion = protestant
+	culture = german
+	dynasty = 100036
+	1636.8.28 = {
+		birth = yes   
+	}
+	1668.6.14 = {
+		religion="reformed"
+	}
+	1689.8.6 = {
+		death = yes            
+	} 
+}
+
+100108 = {
+	name = "Philipp Wilhelm" # Philip William, Margrave of Brandenburg-Schwedt
+	religion = reformed
+	culture = german
+	dynasty = 100016
+	father = 100104
+	mother = 100107
+	1669.5.19 = {
+		birth = yes          
+	}
+	1699.1.25 = {
+		add_spouse=100211   
+	}   
+}
+
+100109 = {
+	name = "Johanna Charlotte" # Princess Johanna Charlotte of Anhalt-Dessau
+	religion = reformed
+	culture = german
+	1682.4.6 = {
+		birth = yes          
+	} 
+}
+
+100110 = {
+	name = "Marie Amalie" # Marie Amalie of Brandenburg
+	female = yes
+	religion = reformed
+	culture = german
+	dynasty = 100016
+	father = 100104
+	mother = 100107
+	1670.11.26 = {
+		birth = yes          
+	}   
+}
+
+100111 = {
+	name = "Karl" # Karl, Hereditary Prince of Mecklenburg-Güstrow
+	religion = protestant
+	culture = german
+	dynasty = 100037
+	1682.4.6 = {
+		birth = yes          
+	}
+	1687.8.10 = {
+		add_spouse=100110   
+	}    
+	1688.3.15 = {
+		death = yes     
+	}   
+}
+
+100112 = {
+	name = "Moritz Wilhelm" # Moritz Wilhelm, Duke of Saxe-Zeitz
+	religion = protestant
+	culture = german
+	dynasty = 100019
+	1664.3.12 = {
+		birth = yes          
+	}
+	1689.6.25 = {
+		add_spouse=100110   
+	}   
+}
+
+100113 = {
+	name = "Dorothea Wilhelmine" # Princess Dorothea Wilhelmine of Saxe-Zeitz
+	female = yes
+	religion = protestant
+	culture = german
+	dynasty = 100019
+	father = 100112
+	mother = 100110
+	1691.3.20 = {
+		birth = yes           
+	}   
+}
+
+100114 = {
+	name = "Albrecht Friedrich" # Albert Frederick of Brandenburg-Schwedt
+	religion = reformed
+	culture = german
+	dynasty = 100016
+	father = 100104
+	mother = 100107
+	trait = "tough_soldier"
+	1672.1.24 = {
+		birth = yes          
+	}   
+}
+
+100115 = {
+	name = "Elisabeth Sophie" # Princess Elisabeth Sophie of Brandenburg
+	female = yes
+	religion = reformed
+	culture = german
+	dynasty = 100016
+	father = 100104
+	mother = 100107
+	1674.4.5 = {
+		birth = yes          
+	}   
+}
+
+100116 = {
+	name = "Friedrich Casimir" # Frederick Casimir Kettler
+	religion = protestant
+	culture = german
+	dynasty = 100038
+	father = 100119
+	mother = 100129
+	1650.7.6 = {
+		birth = yes          
+	}
+	1691.1.1 = {
+		add_spouse=100115   
+	}    
+	1698.1.22 = {
+		death = yes     
+	} 
+}
+
+100117 = {
+	name = "Friedrich Wilhelm" # Frederick William, Duke of Courland
+	religion = protestant
+	culture = german
+	dynasty = 100038
+	father = 100116
+	mother = 100115
+	1692.7.19 = {
+		birth = yes          
+	}   
+}
+
+100118 = {
+	name = "Christian Ludwig" # Margrave Christian Ludwig of Brandenburg-Schwedt
+	religion = reformed
+	culture = german
+	dynasty = 100016
+	father = 100104
+	mother = 100107
+	trait = "erudite"
+	1677.3.14 = {
+		birth = yes          
+	}   
+}
+
+100119 = {
+	name = "Jakob" # Jacob Kettler
+	religion = protestant
+	culture = german
+	dynasty = 100038
+	1610.10.28 = {
+		birth = yes          
+	}
+	1645.10.9 = {
+		add_spouse=100129   
+	}    
+	1682.1.1 = {
+		death = yes     
+	} 
+}
+
+100120 = {
+	name = "Ferdinand" # Ferdinand Kettler
+	religion = protestant
+	culture = german
+	dynasty = 100038
+	father = 100119
+	mother = 100129
+	1655.11.1 = {
+		birth = yes          
+	}   
+}
+
+100121 = {
+	name = "Luise Elisabeth" # Louise Elisabeth of Courland
+	female = yes
+	religion = reformed
+	culture = german
+	dynasty = 100038
+	father = 100119
+	mother = 100129
+	1646.8.23 = {
+		birth = yes      
+	}    
+	1690.12.16 = {
+		death = yes           
+	}   
+}
+
+100122 = {
+	name = "Maria Amalia" # Maria Amalia of Courland
+	female = yes
+	religion = protestant
+	culture = german
+	dynasty = 100038
+	father = 100119
+	mother = 100129
+	1653.6.12 = {
+		birth = yes              
+	}   
+}
+
+100123 = {
+	name = "Karl" # Charles I, Landgrave of Hesse-Kassel
+	religion = reformed
+	culture = german
+	dynasty = 100039
+	1654.8.3 = {
+		birth = yes          
+	}
+	1673.1.1 = {
+		add_spouse=100122   
+	}   
+}
+
+100124 = {
+	name = "Friedrich" # Frederick I of Sweden
+	religion = reformed
+	culture = german
+	dynasty = 100039
+	father = 100123
+	mother = 100122
+	1676.4.28 = {
+		birth = yes          
+	}   
+}
+
+100125 = {
+	name = "Sophie Charlotte" # Sophie Charlotte of Hesse-Kassel
+	female = yes
+	religion = reformed
+	culture = german
+	dynasty = 100039
+	father = 100123
+	mother = 100122
+	1678.7.16 = {
+		birth = yes          
+	}   
+}
+
+100126 = {
+	name = "Marie Luise" # Marie Louise of Hesse-Kassel
+	female = yes
+	religion = reformed
+	culture = german
+	dynasty = 100039
+	father = 100123
+	mother = 100122
+	1688.2.7 = {
+		birth = yes          
+	}   
+}
+
+100127 = {
+	name = "Maximilian" # Maximilian of Hesse-Kassel
+	religion = reformed
+	culture = german
+	dynasty = 100039
+	father = 100123
+	mother = 100122
+	1689.5.28 = {
+		birth = yes          
+	}   
+}
+
+100128 = {
+	name = "Georg Karl" # George Charles of Hesse-Kassel
+	religion = reformed
+	culture = german
+	dynasty = 100039
+	father = 100123
+	mother = 100122
+	1691.1.8 = {
+		birth = yes          
+	}   
+}
+
+100129 = {
+	name = "Luise Charlotte" # Princess Louise Charlotte of Brandenburg
+	female = yes
+	religion = reformed
+	culture = german
+	dynasty = 100016
+	1617.9.13 = {
+		birth = yes          
+	}    
+	1676.8.28 = {
+		death = yes           
+	} 
+}
+
+100130 = {
+	name = "Christiane Eberhardine" # Christiane Eberhardine of Brandenburg-Bayreuth
+	female = yes
+	religion = protestant
+	culture = german
+	dynasty = 100016
+	father = 100132
+	trait = "zealous"
+	1671.12.19 = {
+		birth = yes          
+	}   
+}
+
+100131 = {
+	name = "August" # Augustus III of Poland
+	religion = protestant
+	culture = german
+	dynasty = 100019
+	father = 100061
+	mother = 100130
+	1696.10.17 = {
+		birth = yes  
+		effect={ set_guardian = 100134 }      
+	}   
+}
+
+100132 = {
+	name = "Christian Ernst" # Christian Ernst, Margrave of Brandenburg-Bayreuth
+	religion = reformed
+	culture = german
+	dynasty = 100016
+	1644.8.6 = {
+		birth = yes          
+	}   
+}
+
+100133 = {
+	name = "Johann Georg" # John George III, Elector of Saxony
+	religion = protestant
+	culture = german
+	dynasty = 100019
+	1647.6.20 = {
+		birth = yes          
+	}
+	1664.10.9 = {
+		add_spouse=100134   
+	}    
+	1691.9.12 = {
+		death = yes     
+	} 
+}
+
+100135 = {
+	name = "Johann Georg" # John George IV
+	religion = protestant
+	culture = german
+	dynasty = 100019
+	father = 100133
+	mother = 100134
+	1668.6.20 = {
+		birth = yes          
+	}
+	1694.4.27 = {
+		death = yes     
+	} 
+}
+
+100139 = {
+	name = "Alexander Sigismund" # Alexander Sigismund von der Pfalz-Neuburg
+	religion = catholic
+	culture = german
+	dynasty = 100014
+	father = 100161
+	mother = 100163  
+	1663.4.16 = {
+		birth = yes
+	}   
+}
+
+100140 = {
+	name = "Leopold" # Leopold I, Prince of Anhalt-Dessau
+	religion = reformed
+	culture = german
+	dynasty = 100043
+	father = 100207
+	mother = 100206
+	1676.7.3 = {
+		birth = yes          
+	}   
+}
+
+100149 = {
+	name = "Elisabeth Charlotte" # Elizabeth Charlotte, Madame Palatine
+	female = yes
+	religion = catholic
+	culture = german
+	dynasty = 100014
+	1652.5.27 = {
+		birth = yes
+	}
+}
+
+100159 = {
+	name = "Claudia Felizitas" # Claudia Felicitas of Austria
+	female = yes
+	religion = catholic
+	culture = german
+	dynasty = 100006
+	father = 100327
+	trait = "zealous"
+	1653.5.30 = {
+		birth = yes
+	}
+	1676.4.8 = {
+		death = yes          
+	}
+}
+
+100160 = {
+	name = "Eleonore Magdalene" # Eleonore Magdalene of Neuburg
+	female = yes
+	religion = catholic
+	culture = german
+	dynasty = 100014
+	father = 100161
+	mother = 100163
+	trait = "zealous"
+	trait = "erudite"
+	trait = "scholarly_theologian"
+	1655.1.6 = {
+		birth = yes
+	}
+}
+
+100161 = {
+	name = "Philipp Wilhelm" # Philip William, Elector Palatine
+	religion = catholic
+	culture = german
+	dynasty = 100014
+	father = 100375
+	mother = 100376  
+	1615.11.24 = {
+		birth = yes
+	} 
+	1642.6.8 = {
+	   add_spouse = 100162
+	} 
+	1653.9.3 = {
+	   add_spouse = 100163
+	}
+	1690.9.2 = {
+		death = yes      
+	}
+}
+
+100163 = {
+	name = "Elisabeth Amalie Magdalene" # Princess Elisabeth Amalie of Hesse-Darmstadt
+	female = yes
+	religion = protestant
+	culture = german
+	dynasty = 100050
+	1635.3.20 = {
+		birth = yes   
+	}
+	1653.11.1 = {
+		religion = "catholic"
+	}
+}
+
+100164 = {
+	name = "Johann Wilhelm" # Johann Wilhelm, Elector Palatine
+	religion = catholic
+	culture = german
+	dynasty = 100014
+	father = 100161
+	mother = 100163
+	1658.4.19 = {
+		birth = yes
+	} 
+	1678.10.25 = {
+	   add_spouse = 100192
+	} 
+	1691.4.29 = {
+	   add_spouse = 100510
+	}
+}
+
+100165 = {
+	name = "Maria Anna" # Maria Anna of Neuburg
+	female = yes
+	religion = catholic
+	culture = german
+	dynasty = 100014
+	father = 100161
+	mother = 100163
+	1667.10.28 = {
+		birth = yes
+	}
+}
+
+100166 = {
+	name = "Hedwig Elisabeth" # Countess Palatine Hedwig Elisabeth of Neuburg
+	female = yes
+	religion = catholic
+	culture = german
+	dynasty = 100014
+	father = 100161
+	mother = 100163
+	1673.7.16 = {
+		birth = yes
+	}
+}
+
+100168 = {
+	name = "Maria Sophia" # Maria Sophia of Neuburg
+	female = yes
+	religion = catholic
+	culture = german
+	dynasty = 100014
+	father = 100161
+	mother = 100163
+	1666.8.6 = {
+		birth = yes
+	} 
+	1699.8.4 = {
+		death = yes 
+	}
+}
+
+100169 = {
+	name = "Karl" # Charles III Philip
+	religion = catholic
+	culture = german
+	dynasty = 100014
+	father = 100161
+	mother = 100163
+	1661.11.4 = {
+		birth = yes
+	}
+}
+
+100170 = {
+	name = "Ludwig Anton" # Ludwig Anton von Pfalz-Neuburg
+	religion = catholic
+	culture = german
+	dynasty = 100014
+	father = 100161
+	mother = 100163
+	1660.5.9 = {
+		birth = yes
+	}
+}
+
+100171 = {
+	name = "Franz Ludwig" # Francis Louis of Palatinate-Neuburg
+	religion = catholic
+	culture = german
+	dynasty = 100014
+	father = 100161
+	mother = 100163
+	1664.7.18 = {
+		birth = yes
+	}
+}
+
+100172 = {
+	name = "Friedrich Wilhelm" # Frederick Wilhelm von Pfalz-Neuburg
+	religion = catholic
+	culture = german
+	dynasty = 100014
+	father = 100161
+	mother = 100163
+	1665.6.20 = {
+		birth = yes
+	} 
+	1689.7.23 = {
+		death = yes 
+	}
+}
+
+100173 = {
+	name = "Philipp Wilhelm August" # Philip William August, Count Palatine of Neuburg
+	religion = catholic
+	culture = german
+	dynasty = 100014
+	father = 100161
+	mother = 100163
+	1668.11.19 = {
+		birth = yes
+	} 
+	1690.10.29 = {
+	   add_spouse = 100174
+	}
+	1693.4.5 = {
+		death = yes 
+	}
+}
+
+100174 = {
+	name = "Anna Maria Franziska" # Anna Maria Franziska of Saxe-Lauenburg
+	female = yes
+	religion = catholic
+	culture = german
+	dynasty = 100043
+	1672.6.13 = {
+		birth = yes
+	}
+}
+
+100175 = {
+	name = "Maria Anna" # Countess Palatine Maria Anna of Neuburg
+	female = yes
+	religion = catholic
+	culture = german
+	dynasty = 100014
+	father = 100173
+	mother = 100174
+	1693.1.30 = {
+		birth = yes
+	}
+}
+
+100177 = {
+	name = "Dorothea Sophie" # Countess Palatine Dorothea Sophie of Neuburg
+	female = yes
+	religion = catholic
+	culture = german
+	dynasty = 100014
+	father = 100161
+	mother = 100163
+	1670.7.5 = {
+		birth = yes
+	}
+}
+
+100178 = {
+	name = "Leopoldine Eleonore" # Countess Palatine Leopoldine Eleonore of Neuburg
+	female = yes
+	religion = catholic
+	culture = german
+	dynasty = 100014
+	father = 100161
+	mother = 100163
+	1679.5.27 = {
+		birth = yes
+	}
+	1693.3.1 = { 
+		effect = {
+  			add_betrothal = 100088
+   		}
+	}
+	1693.3.8 = {
+		birth = yes
+	}
+}
+
+100179 = {
+	name = "Joseph" # Joseph I, Holy Roman Emperor
+	religion = catholic
+	culture = german
+	dynasty = 100006
+	father = 100022
+	mother = 100160
+	1678.7.26 = {
+		birth = yes
+	} 
+	1699.2.24 = {
+	   add_spouse = 100180
+	}
+}
+
+100180 = {
+	name = "Wilhelmine Amalie" # Wilhelmine Amalie of Brunswick-Lüneburg
+	female = yes
+	religion = catholic
+	culture = german
+	dynasty = 100017
+	father = 100518
+	mother = 100519
+	1673.4.21 = {
+		birth = yes
+	}
+}
+
+100181 = {
+	name = "Maria Josepha" # Maria Josepha of Austria
+	female = yes
+	religion = catholic
+	culture = german
+	dynasty = 100006
+	father = 100179
+	mother = 100180
+	1699.12.8 = {
+		birth = yes
+	}
+}
+
+100182 = {
+	name = "Maria Elisabeth" # Archduchess Maria Elisabeth of Austria
+	female = yes
+	religion = catholic
+	culture = german
+	dynasty = 100006
+	father = 100022
+	mother = 100160
+	1680.12.13 = {
+		birth = yes
+	}
+}
+
+100183 = {
+	name = "Maria Anna" # Maria Anna of Austria
+	female = yes
+	religion = catholic
+	culture = german
+	dynasty = 100006
+	father = 100022
+	mother = 100160
+	1683.9.7 = {
+		birth = yes
+	}
+}
+
+100184 = {
+	name = "Maria Theresa" # Archduchess Maria Theresa of Austria
+	female = yes
+	religion = catholic
+	culture = german
+	dynasty = 100006
+	father = 100022
+	mother = 100160
+	1684.9.7 = {
+		birth = yes
+	}
+	1696.9.28 = {
+	death = {
+	  death_reason = death_poor_health
+	  }  
+	}
+}
+
+100185 = {
+	name = "Karl" # Charles VI, Holy Roman Emperor
+	religion = catholic
+	culture = german
+	dynasty = 100006
+	father = 100022
+	mother = 100160
+	1685.10.1 = {
+		birth = yes
+	}     
+	1700.1.1 = {
+		effect = {
+			add_pressed_claim = e_spain
+		}
+	}
+}
+
+100186 = {
+	name = "Maria Josepha" # Archduchess Maria Josepha of Austria
+	female = yes
+	religion = catholic
+	culture = german
+	dynasty = 100006
+	father = 100022
+	mother = 100160
+	1687.3.6 = {
+		birth = yes
+	}
+}
+
+100187 = {
+	name = "Maria Magdalena" # Archduchess Maria Magdalena of Austria
+	female = yes
+	religion = catholic
+	culture = german
+	dynasty = 100006
+	father = 100022
+	mother = 100160
+	1689.3.26 = {
+		birth = yes
+	}
+}
+
+100188 = {
+	name = "Maria Leopoldine" # Maria Leopoldine of Austria
+	female = yes
+	religion = catholic
+	culture = german
+	dynasty = 100006
+	father = 100325
+	mother = 100326
+	1632.4.6 = {
+		birth = yes
+	} 
+	1649.8.7 = {
+		death = yes 
+	}
+}
+
+100189 = {
+	name = "Karl Joseph" # Archduke Charles Joseph of Austria
+	religion = catholic
+	culture = german
+	dynasty = 100006
+	father = 100055
+	mother = 100188
+	1649.7.7 = {
+		birth = yes
+	} 
+	1664.1.27 = {
+		death = yes 
+	}
+}
+
+100191 = {
+	name = "Eleonora" # Eleonore of Austria, Queen of Poland
+	female = yes
+	religion = catholic
+	culture = german
+	dynasty = 100006
+	father = 100055
+	mother = 100190
+	1653.5.21 = {
+		birth = yes
+	} 
+	1697.12.17 = {
+		death = yes 
+	}
+}
+
+100192 = {
+	name = "Maria Anna Josepha" # Archduchess Maria Anna Josepha of Austria
+	female = yes
+	religion = catholic
+	culture = german
+	dynasty = 100006
+	father = 100055
+	mother = 100190
+	1654.12.20 = {
+		birth = yes
+	} 
+	1689.4.4 = {
+		death = yes 
+	}
+}
+
+100197 = {
+	name = "Sophie Amalie" # Sophie Amalie of Brunswick-Calenberg
+	female = yes
+	religion = protestant
+	culture = german
+	dynasty = 100017
+	1628.3.24 = {
+		birth = yes
+	} 
+	1685.2.20 = {
+		death = yes 
+	}
+}
+
+100198 = {
+	name = "Charlotte Amalie" # Charlotte Amalie of Hesse-Kassel
+	female = yes
+	religion = reformed
+	culture = german
+	dynasty = 100039
+	1650.4.27 = {
+		birth = yes
+	}
+}
+
+100205 = {
+	name = "Amalia" # Amalia of Solms-Braunfels
+	female = yes
+	religion = protestant
+	culture = german
+	dynasty = 100031
+	1602.8.31 = {
+		birth = yes
+	} 
+	1675.9.8 = {
+		death = yes    
+	}
+}
+
+100207 = {
+	name = "Johann Georg" # John George II, Prince of Anhalt-Dessau
+	religion = reformed
+	culture = german
+	dynasty = 100043
+	1627.11.17 = {
+		birth = yes
+	}
+	1659.9.9 = {  
+		add_spouse = 100206
+	} 
+	1693.8.7 = {
+		death = yes    
+	}
+}
+
+100208 = {
+	name = "Elisabeth Albertine" # Princess Elisabeth Albertine of Anhalt-Dessau
+	female = yes
+	religion = reformed
+	culture = german
+	dynasty = 100043
+	father = 100207
+	mother = 100206
+	1664.5.1 = {
+		birth = yes  
+	}
+}
+
+100209 = {
+	name = "Henriette Amalie" # Henriette Amalie of Anhalt-Dessau
+	female = yes
+	religion = reformed
+	culture = german
+	dynasty = 100043
+	father = 100207
+	mother = 100206
+	1666.8.16 = {
+		birth = yes  
+	}
+}
+
+100210 = {
+	name = "Heinrich Casimir" # Henry Casimir II, Prince of Nassau-Dietz
+	religion = protestant
+	culture = german
+	dynasty = 100000
+	father = 100213
+	mother = 100212
+	1657.1.18 = {
+		birth = yes  
+	}
+	1683.1.1 = {  
+		add_spouse = 100209
+	} 
+	1696.3.25 = {
+		death = yes    
+	}
+}
+
+100211 = {
+	name = "Johanna Charlotte" # Princess Johanna Charlotte of Anhalt-Dessau
+	female = yes
+	religion = reformed
+	culture = german
+	dynasty = 100043
+	father = 100207
+	mother = 100206
+	1682.4.6 = {
+		birth = yes  
+	}
+}
+
+100218 = {
+	name = "Friedrich" # Frederick V of the Palatinate
+	religion = reformed
+	culture = german
+	dynasty = 100014
+	father = 100433
+	mother = 100432
+	1596.8.19 = {
+		birth = yes
+	}
+	1613.2.14 = {  
+		add_spouse = 100217
+	} 
+	1632.11.29 = {
+		death = yes    
+	}
+}
+
+100219 = {
+	name = "Sophie" # Sophia of Hanover
+	female = yes
+	religion = reformed
+	culture = german
+	dynasty = 100014
+	father = 100218
+	mother = 100217
+	1630.10.14 = {
+		birth = yes
+	}
+}
+
+100220 = {
+	name = "Ernst August" # Ernest Augustus, Elector of Hanover
+	religion = protestant
+	culture = german
+	dynasty = 100017
+	1629.11.20 = {
+		birth = yes
+	}
+	1658.9.30 = {  
+		add_spouse = 100219
+	}
+	1698.1.23 = {
+		death = yes    
+	}
+}  
+
+100221 = {
+	name = "Maximilian Wilhelm" # Maximilian William of Brunswick-Lüneburg 
+	religion = protestant
+	culture = german
+	dynasty = 100017
+	father = 100220
+	mother = 100219
+	1664.12.13 = {
+		birth = yes
+	} 
+	1692.1.1 = { 
+	 religion="catholic"
+	}
+}    
+
+100222 = {
+	name = "Sophia Charlotte" # Sophia Charlotte of Hanover
+	female = yes
+	religion = protestant
+	culture = german
+	dynasty = 100017
+	father = 100220
+	mother = 100219
+	1668.10.30 = {
+		birth = yes
+	}
+}    
+
+100223 = {
+	name = "Ernst August" # Ernest Augustus, Duke of York and Albany
+	religion = protestant
+	culture = german
+	dynasty = 100017
+	father = 100220
+	mother = 100219
+	1674.9.17 = {
+		birth = yes
+	}
+}   
+
+100224 = {
+	name = "Heinrich Friedrich" # Frederick Henry, Hereditary Prince of the Palatinate
+	religion = reformed
+	culture = german
+	dynasty = 100014
+	father = 100218
+	mother = 100217
+	1614.1.1 = {
+		birth = yes
+	} 
+	1629.1.7 = {
+		death = yes    
+	}
+}
+
+100225 = {
+	name = "Karl" # Charles I Louis
+	religion = reformed
+	culture = german
+	dynasty = 100014
+	father = 100218
+	mother = 100217
+	1617.12.22 = {
+		birth = yes
+	} 
+	1680.8.28 = {
+		death = yes    
+	}
+}
+
+100226 = {
+	name = "Moritz" # Maurice of the Palatinate
+	religion = reformed
+	culture = german
+	dynasty = 100014
+	father = 100218
+	mother = 100217
+	1621.1.16 = {
+		birth = yes
+	} 
+	1652.9.1 = {
+		death = yes    
+	}
+}
+
+100227 = {
+	name = "Louise Hollandine" # Louise Hollandine of the Palatinate
+	religion = reformed
+	culture = german
+	dynasty = 100014
+	father = 100218
+	mother = 100217
+	1622.4.8 = {
+		birth = yes
+	} 
+	1657.12.1 = {
+	  effect = {add_friend = 100036} 
+	  employer = 100041
+	  religion = catholic	
+	}
+}
+
+100228 = {
+	name = "Eduard" # Edward, Count Palatine of Simmern
+	religion = reformed
+	culture = german
+	dynasty = 100014
+	father = 100218
+	mother = 100217
+	1625.10.5 = {
+		birth = yes
+	} 
+	1645.1.1 = {
+	  religion = catholic	
+	} 
+	1663.3.10 = {
+		death = yes   
+	}
+}
+
+100229 = {
+	name = "Henriette Marie" # Henriette Marie of the Palatinate
+	female = yes
+	religion = reformed
+	culture = german
+	dynasty = 100014
+	father = 100218
+	mother = 100217
+	1626.7.17 = {
+		birth = yes
+	} 
+	1651.9.18 = {
+		death = yes   
+	}
+}
+
+100230 = {
+	name = "Philipp" # Philip Frederick of the Palatinate
+	religion = reformed
+	culture = german
+	dynasty = 100014
+	father = 100218
+	mother = 100217
+	1627.9.16 = {
+		birth = yes
+	} 
+	1649.1.30 = {
+		death = {
+		death_reason = death_battle
+	    }
+	}
+}
+
+100231 = {
+   name = "Charlotte" # Charlotte of the Palatinate
+   female = yes
+   religion = reformed
+   culture = german
+   dynasty = 100014
+   father = 100218
+   mother = 100217
+   1628.12.19 = {
+	 birth = yes
+   } 
+   1631.1.14 = {
+	death = yes   
+   }
+}
+
+100232 = {
+  name = "Gustavus Adolphus" # Gustavus Adolphus of the Palatinate
+  religion = reformed
+  culture = german
+  dynasty = 100014
+  father = 100218
+  mother = 100217
+  1632.12.19 = {
+	birth = yes
+  } 
+  1641.1.9 = {
+   death = yes   
+   }
+}
+
+100233 = {
+  name = "Sophia Dorothea" # Sophia Dorothea of Celle
+  female = yes
+  religion = protestant
+  culture = german
+  dynasty = 100017
+  1666.9.15 = {
+	birth = yes
+  }
+  1694.12.28 = {
+   effect = { imprison = 100058 }
+   }
+}
+
+100234 = {
+  name = "Georg August" # George II of Great Britain
+  religion = protestant
+  culture = german
+  father = 100058
+  mother = 100233
+  dynasty = 100017
+  1683.10.30 = {
+	birth = yes
+	}
+}
+
+100235 = {
+  name = "Sophia Dorothea" # Sophia Dorothea of Hanover
+  female = yes
+  religion = protestant
+  culture = german
+  father = 100058
+  mother = 100233
+  dynasty = 100017
+  1687.4.16 = {
+	birth = yes
+	}
+}
+
+100237 = {
+	name = "Joseph Clemens" # Joseph Clemens of Bavaria
+	religion = catholic
+	culture = german
+	dynasty = 100014
+	father = 100317
+	mother = 100318
+	1671.12.3 = {
+		birth = yes
+	}
+}
+
+100242 = {
+	name = "Charlotte Amalie" # Charlotte Amalie of Hesse-Wanfried
+	female = yes
+	religion = protestant
+	culture = german
+	dynasty = 100057
+	1679.3.8 = {
+		birth = yes
+	 }
+}
+
+100247 = {
+	name = "Eberhard Ludwig" # Eberhard Louis, Duke of Württemberg
+	religion = protestant
+	culture = german
+	dynasty = 100058
+	1676.9.18 = {
+		birth = yes
+	 }
+}
+
+100248 = {
+	name = "Ludwig Wilhelm" # Louis William, Margrave of Baden-Baden
+	religion = catholic
+	culture = german
+	dynasty = 100059
+	1655.4.8 = {
+		birth = yes
+	}
+	1690.3.27 = {  
+		add_spouse = 100249
+	}
+}
+
+100249 = {
+	name = "Franziska Sibylla" # Sibylle of Saxe-Lauenburg
+	female = yes
+	religion = catholic
+	culture = german
+	dynasty = 100043
+	1655.4.8 = {
+		birth = yes
+	}
+}
+
+100250 = {
+	name = "Moritz Wilhelm" # Moritz Wilhelm, Duke of Saxe-Zeitz
+	religion = protestant
+	culture = german
+	dynasty = 100019
+	1664.3.12 = {
+		birth = yes
+	}
+}
+
+100251 = {
+	name = "Johann Philipp" # Johann Philipp von Greifenclau zu Vollraths
+	religion = catholic
+	culture = german
+	dynasty = 100065
+	1652.2.13 = {
+		birth = yes
+	}
+}
+
+100252 = {
+	name = "Friedrich Wilhelm" # Frederick William, Duke of Mecklenburg-Schwerin
+	religion = protestant
+	culture = german
+	dynasty = 100037
+	1675.3.28 = {
+		birth = yes
+	}
+}
+
+100253 = {
+	name = "Frederick Christian" # Friedrich Christian von Plettenberg
+	religion = catholic
+	culture = german
+	dynasty = 100060
+	1644.8.8 = {
+		birth = yes
+	}
+}
+
+100254 = {
+	name = "Hermann Werner"
+	religion = catholic
+	culture = german
+	dynasty = 100061
+	1625.8.16 = {
+		birth = yes
+	}
+}
+
+100255 = {
+	name = "Johann Hugo" # Johann Hugo von Orsbeck
+	religion = catholic
+	culture = german
+	dynasty = 100062
+	1634.1.30 = {
+		birth = yes
+	}
+}
+
+100256 = {
+	name = "Johann Erasmus Seyffart"
+	religion = catholic
+	culture = german
+	dynasty = 100063
+	1634.1.30 = {
+		birth = yes
+	}
+}
+
+100257 = {
+    name = "Lothar Franz" # Lothar Franz von Schönborn
+    religion = catholic
+    culture = german
+    dynasty = 100064
+    1655.10.4 = {
+        birth = yes
+    }
+    1695.10.11 = {
+        employer = 100022
+        effect = {
+            give_job_title = job_chancellor
+        }
+    }
+}
+
+100258 = {
+	name = "Wilhelm Egon" # Wilhelm Egon von Fürstenberg
+	religion = catholic
+	culture = german
+	dynasty = 100066
+	1629.12.2 = {
+		birth = yes
+	}
+}
+
+100264 = {
+	name = "Felipe" # Philip the Handsome
+	religion = catholic
+	culture = german
+	dynasty = 100006
+	father = 100414
+	mother = 100415
+	give_nickname = nick_the_handsome
+	1478.7.22 = {
+		birth = yes
+	}
+	1496.10.20 = {  
+		add_spouse = 100265
+	}
+	1506.9.25 = {
+	 death = yes   
+	}
+}
+
+100270 = {
+	name = "Karl" # Charles V, Holy Roman Emperor
+	religion = catholic
+	culture = german
+	dynasty = 100006
+	father = 100264
+	mother = 100265
+	1500.2.24 = {
+		birth = yes
+	}
+	1526.3.10 = {  
+		add_spouse = 100271
+	}
+	1558.9.31 = {
+		death = yes   
+	}
+}
+
+100273 = {
+	name = "Felipe" # Philip II of Spain
+	religion = catholic
+	culture = german
+	dynasty = 100006
+	father = 100270
+	mother = 100272
+	1527.5.21 = {
+		birth = yes
+	}
+	1543.11.12 = {  
+		add_spouse = 100281
+	}
+	1559.1.1 = {  
+		add_spouse = 100342
+	}
+	1570.6.4 = {  
+		add_spouse = 100288
+	}
+	1598.9.13 = {
+	 death = yes   
+	}
+}
+
+100274 = {
+	name = "Maria" # Maria of Austria, Holy Roman Empress
+	female = yes
+	religion = catholic
+	culture = german
+	dynasty = 100006
+	father = 100270
+	mother = 100272
+	1528.6.21 = {
+		birth = yes
+	}
+	1603.2.26 = {
+		death = yes   
+	}
+}
+
+100275 = {
+	name = "Johanna" # Joanna of Austria, Princess of Portugal
+	religion = catholic
+	culture = german
+	dynasty = 100006
+	father = 100270
+	mother = 100272
+	1535.6.24 = {
+		birth = yes
+	}
+	1573.9.7 = {
+		death = yes   
+	}
+}
+
+100276 = {
+	name = "Isabella" # Isabella of Austria
+	female = yes
+	religion = catholic
+	culture = german
+	dynasty = 100006
+	father = 100264
+	mother = 100265
+	1501.7.18 = {
+		birth = yes
+	}
+	1526.1.19 = {
+	 death = yes   
+	}
+}
+
+100277 = {
+	name = "Ferdinand" # Ferdinand I, Holy Roman Emperor
+	religion = catholic
+	culture = german
+	dynasty = 100006
+	father = 100264
+	mother = 100265
+	1503.3.10 = {
+		birth = yes
+	}
+	1521.5.26 = {
+		add_spouse = 100285
+	}
+	1564.7.25 = {
+		death = yes   
+	}
+}
+
+100278 = {
+	name = "Mary" # Mary of Hungary
+	female = yes
+	religion = catholic
+	culture = german
+	dynasty = 100006
+	father = 100264
+	mother = 100265
+	1505.9.15 = {
+		birth = yes
+	}
+	1558.10.18 = {
+		death = yes   
+	}
+}
+
+100279 = {
+	name = "Catherine" # Catherine of Austria, Queen of Portugal
+	female = yes
+	religion = catholic
+	culture = german
+	dynasty = 100006
+	father = 100264
+	mother = 100265
+	1507.1.14 = {
+		birth = yes
+	}   
+	1557.6.11 = {
+		effect = {ROOT={ give_minor_title = title_regent }}    
+	}   
+	1578.2.12 = {
+		death = yes   
+	}
+}
+
+100286 = {
+	name = "Elizabeth" # Elizabeth of Austria
+	female = yes
+	religion = catholic
+	culture = german
+	dynasty = 100006
+	father = 100277
+	mother  = 100285
+	1526.6.9 = {
+		birth = yes 
+	}  
+	1545.6.15 = {
+	 death = yes   
+	}
+}
+
+100287 = {
+	name = "Maximilian" # Maximilian II, Holy Roman Emperor
+	religion = catholic
+	culture = german
+	dynasty = 100006
+	father = 100277
+	mother  = 100285
+	1527.7.31 = {
+		birth = yes 
+	}
+	1548.9.15 = {
+	 add_spouse = 100274
+	}  
+	1576.10.12 = {
+	 death = yes   
+	}
+}
+
+100288 = {
+	name = "Anna" # Anna of Austria, Queen of Spain
+	female = yes
+	religion = catholic
+	culture = german
+	dynasty = 100006
+	father = 100287
+	mother  = 100274
+	1549.11.2 = {
+		birth = yes 
+	}
+	1580.10.26 = {
+	 death = yes   
+	}
+}
+
+100289 = {
+	name = "Ernest" # Archduke Ernest of Austria
+	religion = catholic
+	culture = german
+	dynasty = 100006
+	father = 100287
+	mother  = 100274
+	1553.6.15 = {
+		birth = yes 
+	}
+	1595.2.20 = {
+	 death = yes   
+	}
+}
+
+100290 = {
+	name = "Elisabeth" # Elisabeth of Austria, Queen of France
+	female = yes
+	religion = catholic
+	culture = german
+	dynasty = 100006
+	father = 100287
+	mother  = 100274
+	1554.7.5 = {
+		birth = yes 
+	}
+	1592.1.22 = {
+	 death = yes   
+	}
+}
+
+100291 = {
+	name = "Albrecht" # Albert VII, Archduke of Austria
+	religion = catholic
+	culture = german
+	dynasty = 100006
+	father = 100287
+	mother  = 100274
+	1559.11.13 = {
+		birth = yes 
+	}
+	1599.4.18 = {  
+	 add_spouse = 100343
+	}
+	1621.7.13 = {
+	 death = yes   
+	}
+}
+
+100292 = {
+	name = "Wenzel" # Archduke Wenceslaus of Austria
+	religion = catholic
+	culture = german
+	dynasty = 100006
+	father = 100287
+	mother  = 100274
+	1561.3.9 = {
+		birth = yes 
+	}
+	1578.9.22 = {
+	 death = yes   
+	}
+}
+
+100293 = {
+	name = "Margaret" # Archduchess Margaret of Austria
+	female = yes
+	religion = catholic
+	culture = german
+	dynasty = 100006
+	father = 100287
+	mother  = 100274
+	trait = "nun"
+	1567.1.25 = {
+		birth = yes 
+	}
+	1633.7.5 = {
+	 death = yes   
+	}
+}
+
+100294 = {
+	name = "Johanna" # Joanna of Austria, Grand Duchess of Tuscany
+	female = yes
+	religion = catholic
+	culture = german
+	dynasty = 100006
+	father = 100277
+	mother  = 100285
+	1547.1.24 = {
+		birth = yes 
+	}
+	1578.4.11 = {
+	 death = yes   
+	}
+}
+
+100300 = {
+	name = "Helena" # Archduchess Helena of Austria
+	female = yes
+	religion = catholic
+	culture = german
+	dynasty = 100006
+	father = 100277
+	mother  = 100285
+	trait = "nun"
+	1543.1.7 = {
+		birth = yes 
+	}
+	1574.3.5 = {
+	 death = yes   
+	}
+}
+
+100301 = {
+	name = "Karl" # Charles II, Archduke of Austria
+	religion = catholic
+	culture = german
+	dynasty = 100006
+	father = 100277
+	mother  = 100285
+	1540.6.3 = {
+		birth = yes 
+	}
+	1571.8.26 = {
+	   add_spouse = 100302
+	}
+	1590.7.10 = {
+	 death = yes   
+	}
+}
+
+100302 = {
+	name = "Maria Anna" # Maria Anna of Bavaria
+	female = yes
+	religion = catholic
+	culture = german
+	dynasty = 100014
+	trait = "charitable"
+	1551.3.21 = {
+		birth = yes 
+	}
+	1608.4.29 = {
+	 death = yes   
+	}
+}
+
+100303 = {
+	name = "Anne" # Anne of Austria, Queen of Poland
+	female = yes
+	religion = catholic
+	culture = german
+	dynasty = 100006
+	father = 100301
+	mother  = 100302
+	1573.8.16 = {
+		birth = yes 
+	}
+	1598.2.10 = {
+	 death = yes   
+	}
+}
+
+100305 = {
+	name = "Konstanza" # Constance of Austria
+	female = yes
+	religion = catholic
+	culture = german
+	dynasty = 100006
+	father = 100301
+	mother  = 100302
+	1588.12.24 = {
+		birth = yes 
+	}
+	1631.7.10 = {
+	 death = yes   
+	}
+}
+
+100310 = {
+	name = "Maria Christina" # Maria Christina, Princess of Transylvania
+	female = yes
+	religion = catholic
+	culture = german
+	dynasty = 100006
+	father = 100301
+	mother  = 100302
+	1574.11.10 = {
+		birth = yes 
+	}
+	1621.4.6 = {
+	 death = yes   
+	}
+}
+
+100311 = {
+	name = "Gregoria Maximiliana" # Archduchess Gregoria Maximiliana of Austria
+	female = yes
+	religion = catholic
+	culture = german
+	dynasty = 100006
+	father = 100301
+	mother  = 100302
+	1581.5.22 = {
+		birth = yes 
+	}
+	1597.9.20 = {
+	 death = yes   
+	}
+}
+
+100312 = {
+	name = "Catherine Renata" # Archduchess Catherine Renata of Austria
+	female = yes
+	religion = catholic
+	culture = german
+	dynasty = 100006
+	father = 100301
+	mother  = 100302
+	1576.1.4 = {
+		birth = yes 
+	}
+	1599.6.29 = {
+	 death = yes   
+	}
+}
+
+100313 = {
+	name = "Ferdinand" # Ferdinand II, Holy Roman Emperor
+	religion = catholic
+	culture = german
+	dynasty = 100006
+	father = 100301
+	mother  = 100302
+	1578.7.9 = {
+		birth = yes 
+	}
+	1600.4.23 = {
+		add_spouse = 100314
+	}
+	1637.2.15 = {
+	 death = yes   
+	}
+}
+
+100314 = {
+	name = "Maria Anna" # Maria Anna of Bavaria
+	female = yes
+	religion = catholic
+	culture = german
+	dynasty = 100014
+	father = 100349
+	mother = 100351
+	1574.12.18 = {
+		birth = yes 
+	}
+	1616.3.8 = {
+	 death = yes   
+	}
+}
+
+100315 = {
+	name = "Maria Anna" # Archduchess Maria Anna of Austria
+	female = yes
+	religion = catholic
+	culture = german
+	dynasty = 100006
+	father = 100313
+	mother = 100314
+	1610.1.13 = {
+		birth = yes 
+	}
+	1665.9.25 = {
+	 death = yes   
+	}
+}
+
+100316 = {
+	name = "Maximilian" # Maximilian I, Elector of Bavaria
+	religion = catholic
+	culture = german
+	dynasty = 100014
+	father = 100349
+	mother = 100351
+	give_nickname = nick_the_great
+	1573.4.17 = {
+		birth = yes 
+	}
+	1595.2.9 = {
+		add_spouse = 100341
+	}
+	1635.7.15 = {
+		add_spouse = 100315
+	}
+	1651.9.27 = {
+	 death = yes   
+	}
+}
+
+100317 = {
+	name = "Ferdinand Maria" # Ferdinand Maria, Elector of Bavaria
+	religion = catholic
+	culture = german
+	dynasty = 100014
+	father = 100316
+	mother = 100315
+	1636.10.31 = {
+		birth = yes 
+	}
+	1650.12.8 = {
+		add_spouse = 100318
+	}
+	1679.5.26 = {
+	 death = yes   
+	}
+}
+
+100319 = {
+	name = "Violante Beatrix" # Violante Beatrice of Bavaria
+	female = yes
+	religion = catholic
+	culture = german
+	dynasty = 100015
+	father = 100317
+	mother = 100318
+	1673.1.23 = {
+		birth = yes 
+	}
+}
+
+100320 = {
+	name = "Cecilia Renata" # Cecilia Renata of Austria
+	female = yes
+	religion = catholic
+	culture = german
+	dynasty = 100006
+	father = 100313
+	mother = 100314
+	1611.7.16 = {
+		birth = yes 
+	}
+	1644.3.24 = {
+	 death = yes   
+	}
+}
+
+100322 = {
+	name = "Leopold Wilhelm" # Archduke Leopold Wilhelm of Austria
+	religion = catholic
+	culture = german
+	dynasty = 100006
+	father = 100313
+	mother = 100314
+	trait = "skilled_tactician"
+	trait = "erudite"
+	trait = "zealous"
+	1614.1.5 = {
+		birth = yes 
+	}
+	1662.11.20 = {
+	 death = yes   
+	}
+}
+
+100323 = {
+	name = "Eleanor" # Archduchess Eleanor of Austria
+	female = yes
+	religion = catholic
+	culture = german
+	dynasty = 100006
+	father = 100301
+	mother  = 100302
+	1582.9.25 = {
+		birth = yes 
+	}
+	1620.1.28 = {
+	 death = yes   
+	}
+}
+
+100324 = {
+	name = "Maximilian Ernest" # Archduke Maximilian Ernest of Austria
+	religion = catholic
+	culture = german
+	dynasty = 100006
+	father = 100301
+	mother  = 100302
+	1583.11.17 = {
+		birth = yes 
+	}
+	1616.2.18 = {
+	 death = yes   
+	}
+}
+
+100325 = {
+	name = "Leopold" # Leopold V, Archduke of Austria
+	religion = catholic
+	culture = german
+	dynasty = 100006
+	father = 100301
+	mother  = 100302
+	1586.10.9 = {
+		birth = yes 
+	}
+	1626.4.19 = {
+		add_spouse = 100326
+	}
+	1632.9.13 = {
+	 death = yes   
+	}
+}
+
+100327 = {
+	name = "Ferdinand Karl" # Ferdinand Charles, Archduke of Austria
+	religion = catholic
+	culture = german
+	father = 100325
+	mother = 100326
+	dynasty = 100006
+	1628.5.17 = {
+		birth = yes 
+	}
+	1662.12.30 = {
+	 death = yes   
+	}
+}
+
+100329 = {
+	name = "Isabella Clara" # Archduchess Isabella Clara of Austria
+	female = yes
+	religion = catholic
+	culture = german
+	father = 100325
+	mother = 100326
+	dynasty = 100006
+	1629.8.12 = {
+		birth = yes 
+	  }
+	1685.2.24 = {
+	 death = yes   
+	}
+}
+
+100332 = {
+	name = "Sigismund Franz" # Sigismund Francis, Archduke of Austria
+	religion = catholic
+	culture = german
+	father = 100325
+	mother = 100326
+	dynasty = 100021
+	1630.11.27 = {
+		birth = yes 
+	}
+	1664.6.25 = {
+	 death = yes   
+	}
+}
+
+100333 = {
+	name = "Maria Maddalena" # Archduchess Maria Maddalena of Austria
+	female = yes
+	religion = catholic
+	culture = german
+	dynasty = 100006
+	father = 100303
+	mother = 100302
+	1589.10.7 = {
+		birth = yes 
+	}
+	1631.11.1 = {
+	 death = yes   
+	}
+}
+
+100335 = {
+	name = "Karl" # Charles of Austria, Bishop of Wroclaw
+	religion = catholic
+	culture = german
+	dynasty = 100006
+	father = 100303
+	mother = 100302
+	1590.8.7 = {
+		birth = yes 
+	}
+	1624.12.28 = {
+	 death = yes   
+	}
+}
+
+100340 = {
+	name = "Katharina" # Catherine of Austria, Queen of Poland
+	female = yes
+	religion = catholic
+	culture = german
+	dynasty = 100006
+	father = 100277
+	mother  = 100285
+	1533.9.15 = {
+		birth = yes 
+	}
+	1572.2.28 = {
+	 death = yes   
+	}
+}
+
+100341 = {
+	name = "Elisabeth" # Elisabeth of Lorraine, Electress of Bavaria
+	female = yes
+	religion = catholic
+	culture = german
+	dynasty = 100047
+	1574.10.9 = {
+		birth = yes 
+	}
+	1635.1.4 = {
+	 death = yes   
+	}
+}
+
+100345 = {
+	name = "Rudolf" # Rudolf II, Holy Roman Emperor
+	religion = catholic
+	culture = german
+	dynasty = 100006
+	father = 100287
+	mother  = 100274  
+	1552.7.18 = {
+		birth = yes 
+	}
+	1612.1.20 = {
+	 death = yes   
+	}
+}
+
+100346 = {
+	name = "Matthias" # Matthias, Holy Roman Emperor
+	religion = catholic
+	culture = german
+	dynasty = 100006
+	father = 100287
+	mother  = 100274  
+	1557.2.24 = {
+		birth = yes 
+	}
+	1619.3.20 = {
+	 death = yes   
+	}
+}
+
+100347 = {
+	name = "Maximilian" # Maximilian III, Archduke of Austria
+	religion = catholic
+	culture = german
+	dynasty = 100006
+	father = 100287
+	mother  = 100274  
+	1558.10.12 = {
+		birth = yes 
+	}
+	1618.10.2 = {
+	 death = yes   
+	}
+}
+
+100348 = {
+	name = "Anna" # Archduchess Anna of Austria
+	female = yes
+	religion = catholic
+	culture = german
+	dynasty = 100006
+	father = 100277
+	mother  = 100285  
+	1528.7.7 = {
+		birth = yes 
+	}
+	1590.10.16 = {
+	 death = yes   
+	}
+}
+
+100349 = {
+	name = "Wilhelm" # William V, Duke of Bavaria
+	religion = catholic
+	culture = german
+	dynasty = 100014
+	father = 100350
+	mother = 100348
+	1548.9.29 = {
+		birth = yes 
+	}
+	1568.2.22 = {
+	 add_spouse = 100351
+	}  
+	1626.2.7 = {
+	 death = yes   
+	}
+}
+
+100350 = {
+	name = "Albrecht" # Albert V, Duke of Bavaria
+	religion = catholic
+	culture = german
+	dynasty = 100014
+	1528.2.29 = {
+		birth = yes 
+	}
+	1546.7.4 = {
+	  add_spouse = 100348
+	}
+	1579.10.24 = {
+	 death = yes   
+	}
+}
+
+100351 = {
+	name = "Renata" # Renata of Lorraine
+	female = yes
+	religion = catholic
+	culture = german
+	dynasty = 100047
+	father = 100352
+	mother  = 100339  
+	1544.4.20 = {
+		birth = yes 
+	}
+	1602.5.22 = {
+	 death = yes   
+	}
+}
+
+100353 = {
+	name = "Philipp" # Philipp of Bavaria
+	religion = catholic
+	culture = german
+	dynasty = 100014
+	father = 100349
+	mother = 100351
+	1576.9.22 = {
+		birth = yes 
+	}
+	1598.5.18 = {
+	 death = yes   
+	}
+}
+
+100354 = {
+	name = "Albrecht" # Albert VI, Duke of Bavaria
+	religion = catholic
+	culture = german
+	dynasty = 100014
+	father = 100349
+	mother = 100351
+	1584.2.26 = {
+		birth = yes 
+	}
+	1666.7.5 = {
+	 death = yes   
+	}
+}
+
+100355 = {
+	name = "Ferdinand" # Ferdinand of Bavaria
+	religion = catholic
+	culture = german
+	dynasty = 100014
+	father = 100349
+	mother = 100351
+	1577.10.8 = {
+		birth = yes 
+	}
+	1650.9.13 = {
+	 death = yes   
+	}
+}
+
+100356 = {
+	name = "Maria" # Maria of Austria, Duchess of Jülich-Cleves-Berg
+	female = yes
+	religion = catholic
+	culture = german
+	dynasty = 100006
+	father = 100277
+	mother  = 100285
+	1531.5.15 = {
+		birth = yes 
+	}
+	1581.12.11 = {
+	 death = yes   
+	}
+}
+
+100357 = {
+	name = "Magdalena" # Archduchess Magdalena of Austria
+	female = yes
+	religion = catholic
+	culture = german
+	dynasty = 100006
+	father = 100277
+	mother  = 100285
+	1532.8.14 = {
+		birth = yes 
+	}
+	1590.9.10 = {
+	 death = yes   
+	}
+}
+
+100358 = {
+	name = "Barbara" # Archduchess Barbara of Austria
+	female = yes
+	religion = catholic
+	culture = german
+	dynasty = 100006
+	father = 100277
+	mother  = 100285
+	1539.4.30 = {
+		birth = yes 
+	  }
+	1572.9.19 = {
+	 death = yes   
+	}
+}
+
+100361 = {
+	name = "Eleonore" # Eleonore Batthyány-Strattmann
+	female = yes
+	religion = catholic
+	culture = german
+	dynasty = 100077
+	1673.5.29 = {
+		birth = yes 
+	  }
+}
+
+100366 = {
+	name = "Charles Henri" # Charles Henri, Prince of Commercy
+	religion = catholic
+	culture = german
+	dynasty = 100047
+	1649.4.17 = {
+		birth = yes 
+	}
+}
+
+100371 = {
+	name = "Ludwig Kraft" # Louis Crato, Count of Nassau-Saarbrücken
+	religion = catholic
+	culture = german
+	dynasty = 100086
+	1663.3.28 = {
+		birth = yes 
+	}
+}
+
+100375 = {
+	name = "Wolfgang Wilhelm" # Wolfgang Wilhelm, Count Palatine of Neuburg
+	religion = protestant
+	culture = german
+	dynasty = 100014
+	1578.11.4 = {
+		birth = yes 
+	}
+	1613.1.1 = {
+	 religion = catholic
+	}
+	1613.11.11 = {
+	  add_spouse = 100376
+	}
+	1653.9.14 = {
+	 death = yes    
+	}
+}
+
+100376 = {
+	name = "Magdalena" # Magdalene of Bavaria
+	female = yes
+	religion = catholic
+	culture = german
+	dynasty = 100014
+	father = 100287
+	mother = 100274
+	1587.7.4 = {
+		birth = yes 
+	}
+	1628.9.25 = {
+	 death = yes   
+	}
+}
+
+100389 = {
+	name = "Georg" # George of Hesse-Darmstadt
+	religion = protestant
+	culture = german
+	dynasty = 100050
+	trait = "skilled_tactician"
+	1669.4.25 = {
+		birth = yes    
+	}
+	1692.1.1 = {
+	  religion = "catholic"
+	}
+}
+
+100414 = {
+	name = "Maximilian" # Maximilian I, Holy Roman Emperor
+	religion = catholic
+	culture = german
+	dynasty = 100006
+	1459.3.22 = {
+		birth = yes    
+	}
+	1477.8.19 = {  
+		add_spouse = 100415
+	}
+	1490.12.19 = {  
+		add_spouse = 100416
+	}
+	1494.3.16 = {  
+		add_spouse = 100417
+	} 
+	1487.1.1 = {  
+		effect = { imprison = 100419 } 
+	} 
+	1492.1.1 = {  
+		effect = { reverse_imprison = 100419 } 
+	}
+	1519.1.12 = {
+		death = yes     
+	} 
+}
+
+100418 = {
+	name = "Margarete" # Margaret of Austria, Duchess of Savoy
+	female = yes
+	religion = catholic
+	culture = german
+	dynasty = 100006
+	father = 100414
+	mother = 100415
+	1480.1.10 = {
+		birth = yes    
+	}    
+	1530.12.1 = {
+		death = yes     
+	} 
+}
+
+100420 = {
+	name = "Wilhelm" # William, Duke of Jülich-Cleves-Berg
+	religion = catholic
+	culture = german
+	dynasty = 100098
+	1516.7.28 = {
+		birth = yes    
+	}    
+	1592.1.5 = {
+		death = yes     
+	} 
+}
+
+100426 = {
+	name = "Anna" # Anna of Saxony
+	female = yes
+	religion = protestant
+	culture = german
+	dynasty = 100019
+	1544.12.23 = {
+		birth = yes    
+	}
+	1577.12.18 = {
+		death = yes
+	} 
+}
+
+100433 = {
+	name = "Friedrich" # Frederick IV, Elector Palatine
+	religion = reformed
+	culture = german
+	dynasty = 100014
+	1574.3.5 = {
+		birth = yes    
+	}
+	1593.6.23 = {  
+		add_spouse = 100432
+	} 
+	1610.9.19 = {
+		death = yes
+	 } 
+}
+
+100497 = {
+	name = "Moritz" # Maurice de Saxe
+	religion = protestant
+	culture = german
+	dynasty = 100019
+	father = 100061
+	mother = 100496
+	trait = "bastard"  
+	1696.10.28 = {
+		birth = yes
+	}
+} 
+   
+100517 = {
+	name = "Charlotte Felicitas" # Duchess Charlotte Felicitas of Brunswick-Lüneburg
+	female = yes
+	religion = catholic
+	culture = german
+	dynasty = 100017
+	father = 100518
+	mother = 100519
+	1671.3.6 = {
+		birth = yes
+	}
+}
+
+100518 = {
+	name = "Johann Friedrich" # John Frederick, Duke of Brunswick
+	religion = protestant
+	culture = german
+	dynasty = 100017
+	1625.4.25 = {
+		birth = yes
+	}
+	1651.1.1 = {
+	  religion = "catholic"
+	}
+	1668.11.30 = {
+	 add_spouse = 100519
+	}  
+	1679.12.18 = {
+		death = yes
+	}
+}
+
+100519 = {
+	name = "Benedicta Henrietta" # Benedicta Henrietta of the Palatinate
+	female = yes
+	religion = catholic
+	culture = german
+	dynasty = 100133
+	1652.3.14 = {
+		birth = yes
+	} 
+}
+
+100537 = {
+	name = "John"
+	religion = reformed
+	culture = german
+	1650.1.1 = {
+	  birth = yes
+	}   
+	1682.5.7 = {
+	  death = yes
+	}
+  }
+
+100538 = {
+	name = "Johann Ernst"
+	dynasty = 100136
+	religion = protestant
+	culture = german
+	1650.9.22 = {
+	  birth = yes
+	}
+  }
+
+100539 = {
+	name = "Louise"
+	female = yes
+	dynasty = 100037
+	religion = protestant
+	culture = german
+	1667.8.28 = {
+	  birth = yes
+	}
+  }
+
+  100598 = {
+	name = "Johann"
+	dynasty = 100179
+	religion = protestant
+	culture = german
+	1639.9.22 = {
+	  birth = yes
+	}
+  }
+  
+  100600 = {
+	name = "Karl"
+	religion = catholic
+	culture = german
+	1640.1.1 = {
+	  birth = yes
+	}   
+	1670.1.1 = {
+	  death = yes
+	} 
+}

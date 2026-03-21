@@ -1,0 +1,13 @@
+# County Title
+title = c_tlapacoyan
+
+# Settlements
+max_settlements = 3
+b_tlapacoyan = tribal
+b_tlapacoyan-ii = temple
+
+# Misc
+culture = nahuatl
+religion = aztec
+
+# History

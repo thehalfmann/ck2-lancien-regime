@@ -1,0 +1,20 @@
+title = c_sticht
+max_settlements = 4
+b_utrecht = temple
+b_dorestad = city
+b_ijsselstein = castle
+culture = frisian
+religion = catholic
+790.1.1 = {
+  culture = dutch
+}
+1311.1.1 = {
+  trade_post = b_warendorp
+}
+1700.1.1 = {
+  b_woerden = castle
+}
+1700.1.1 = {
+  capital = b_dorestad
+  religion = reformed
+}

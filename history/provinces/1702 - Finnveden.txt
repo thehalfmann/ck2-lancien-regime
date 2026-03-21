@@ -1,0 +1,23 @@
+title = c_finnveden
+max_settlements = 3
+b_piksborg = tribal
+culture = norse
+religion = norse_pagan
+1000.1.1 = {
+  b_piksborg = castle
+}
+1066.1.1 = {
+  culture = swedish
+}
+1123.1.1 = {
+  religion = catholic
+}
+1700.1.1 = {
+  b_markaryd = city
+}
+1700.1.1 = {
+  b_bolmso = temple
+}
+1700.1.1 = {
+  religion = protestant
+}

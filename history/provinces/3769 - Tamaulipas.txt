@@ -1,0 +1,13 @@
+# County Title
+title = c_tamaulipas
+
+# Settlements
+max_settlements = 4
+b_tamaulipas = tribal
+b_tamaulipas-ii = tribal
+
+# Misc
+culture = wastek
+religion = aztec
+
+# History

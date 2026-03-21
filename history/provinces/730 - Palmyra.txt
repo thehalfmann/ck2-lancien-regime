@@ -1,0 +1,13 @@
+title = c_palmyra
+max_settlements = 4
+b_arak = castle
+b_palmyra = city
+b_arraml = temple
+culture = levantine_arabic
+religion = orthodox
+900.1.1 = {
+  religion = sunni
+}
+1700.1.1 = {
+  b_alqasr = castle
+}

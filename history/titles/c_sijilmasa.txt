@@ -1,0 +1,4 @@
+1672.1.1 = {
+  liege = d_sijilmasa
+  holder = 100443
+}

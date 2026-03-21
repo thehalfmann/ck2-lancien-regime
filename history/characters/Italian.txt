@@ -1,0 +1,569 @@
+100003 = {
+	name = "Maria" # Mary of Modena
+	female = yes
+	religion = catholic
+	culture = italian
+	dynasty = 100010
+	father = 100026
+	mother = 100027
+	1658.10.5 = {
+	  birth = yes
+	}
+  }
+
+  100023 = {
+	name = "Innocentius" # Pope Innocent XII
+	religion = catholic
+	culture = italian
+	dynasty = 100007
+	1615.3.13 = {
+	  birth = yes
+	}
+  }
+
+  100026 = {
+	name = "Alfonso" # Alfonso IV d'Este
+	religion = catholic
+	culture = italian
+	dynasty = 100010
+	father = 100030
+	mother = 100511
+	1634.2.2 = {
+	  birth = yes
+	}
+	1655.5.27 = {
+	  add_spouse=100027
+	}
+	1662.7.16 = {
+	  death = yes
+	}
+  }
+
+  100027 = {
+	name = "Laura" # Laura Martinozzi
+	female = yes
+	religion = catholic
+	culture = italian
+	dynasty = 100011
+	1639.4.22 = {
+	  birth = yes
+	}
+	1687.7.19 = {
+	  death = yes    
+	}
+  }
+
+  100028 = {
+	name = "Francesco" # Francesco II d'Este
+	religion = catholic
+	culture = italian
+	father = 100026
+	mother = 100027
+	dynasty = 100010
+	1660.3.6 = {
+	  birth = yes
+	}
+	1694.9.6 = {
+	  death = yes    
+	}
+  }
+
+  100029 = {
+	name = "Rinaldo" # Rinaldo d'Este
+	religion = catholic
+	culture = italian
+	dynasty = 100010
+	father = 100030  
+	mother = 100516
+	1655.4.26 = {
+	  birth = yes
+	}
+	1696.2.11 = {
+	  add_spouse = 100517
+	}
+  }
+
+  100030 = {
+	name = "Francesco" # Francesco I d'Este
+	religion = catholic
+	culture = italian
+	dynasty = 100010
+	1610.9.6 = {
+	  birth = yes
+	}
+	1631.1.11 = {
+	  add_spouse = 100511
+	}
+	1648.2.12 = {
+	  add_spouse = 100515
+	}
+	1654.10.14 = {
+	  add_spouse = 100516
+	}
+	1658.10.14 = {
+	  death = yes
+	}
+  }
+
+  100046 = {
+	name = "Maria Adelaide" # Marie Adélaïde of Savoy
+	female = yes
+	religion = catholic
+	culture = italian
+	dynasty = 100015
+	father = 100147
+	mother = 100146 
+	1685.12.6 = {
+	  birth = yes  
+	}
+  }
+
+  100063 = {
+	name = "Cosimo" # Cosimo III de' Medici
+	religion = catholic
+	culture = italian
+	dynasty = 100021
+	1642.8.14 = {
+	  birth = yes   
+	}
+	1661.4.19 = {
+	  add_spouse = 100508
+	}
+  }
+
+  100147 = {
+	name = "Vittorio Amedeo" # Vittorio Amedeo I
+	religion = catholic
+	culture = italian
+	dynasty = 100015
+	1666.5.14 = {
+	  birth = yes
+	} 
+	1684.4.10 = {
+	   add_spouse = 100146
+	}
+  }
+
+  100148 = {
+	name = "Maria Luisa Gabriella" # Maria Luisa Gabriella of Savoy
+	female = yes
+	religion = catholic
+	culture = italian
+	dynasty = 100015
+	father = 100147
+	mother = 100146
+	1688.9.17 = {
+	  birth = yes
+	}
+  }
+
+  100176 = {
+	name = "Gian Gastone" # Gian Gastone de' Medici
+	religion = catholic
+	culture = italian
+	dynasty = 100021
+	father = 100063
+	mother = 100508
+	trait = "homosexual"
+	1671.5.25 = {
+	  birth = yes
+	} 
+	1697.7.2 = {
+	   add_spouse = 100174
+	}
+  }
+
+  100190 = {
+	name = "Eleonora" # Eleonora Gonzaga
+	female = yes
+	religion = italian
+	culture = german
+	dynasty = 100051
+	1630.11.18 = {
+		birth = yes
+	} 
+	1686.12.6 = {
+		death = yes 
+	}
+  }
+
+  100263 = {
+	name = "Silvestro" # Silvestro Valier
+	religion = catholic
+	culture = italian
+	dynasty = 100070
+	1630.3.28 = {
+	  birth = yes
+	}
+  }
+
+  100295 = {
+	name = "Francesco" # Francesco I de' Medici
+	religion = catholic
+	culture = italian
+	dynasty = 100021
+	1541.3.25 = {
+	  birth = yes 
+	}
+	1565.12.18 = {
+	   add_spouse = 100294
+	}
+	1587.10.19 = {
+	 death = yes   
+	}
+  }
+
+  100296 = {
+	name = "Eleanor" # Eleanor de' Medici
+	female = yes
+	religion = catholic
+	culture = italian
+	dynasty = 100021
+	father = 100295
+	mother = 100294
+	1567.2.28 = {
+	  birth = yes 
+	}
+	1611.9.9 = {
+	 death = yes   
+	}
+  }
+
+  100297 = {
+	name = "Maria" # Marie de' Medici
+	female = yes
+	religion = catholic
+	culture = italian
+	dynasty = 100021
+	father = 100295
+	mother = 100294
+	1575.4.26 = {
+	  birth = yes 
+	}
+	1642.7.3 = {
+	 death = yes   
+	}
+  }
+
+  100318 = {
+	name = "Henriette Adelaide" # Henriette Adelaide of Savoy
+	female = yes
+	religion = catholic
+	culture = italian
+	dynasty = 100015
+	trait = "twin"
+	1636.11.6 = {
+	  birth = yes 
+	}
+	1676.6.13 = {
+	 death = yes   
+	}
+  }
+
+  100326 = {
+	name = "Claudia" # Claudia de' Medici
+	female = yes
+	religion = catholic
+	culture = italian
+	dynasty = 100021
+	1604.6.4 = {
+	  birth = yes 
+	}
+	1648.12.25 = {
+	 death = yes   
+	}
+  }
+
+  100328 = {
+	name = "Anna" # Anna de' Medici, Archduchess of Austria
+	female = yes
+	religion = catholic
+	culture = italian
+	dynasty = 100021
+	1616.7.21 = {
+	  birth = yes 
+	}
+	1676.9.11 = {
+	 death = yes   
+	}
+  }
+
+  100330 = {
+	name = "Carlo" # Charles II Gonzaga, Duke of Mantua and Montferrat
+	religion = catholic
+	culture = italian
+	dynasty = 100051
+	trait = "homosexual"
+	1629.10.3 = {
+	  birth = yes 
+	}
+	1649.11.7 = {
+	  add_spouse = 100329
+	}
+	1665.8.14 = {
+	  death = yes   
+	}
+  }
+
+  100331 = {
+	name = "Ferdinando Carlo" # Ferdinando Carlo Gonzaga
+	religion = catholic
+	culture = italian
+	dynasty = 100051
+	father = 100330
+	mother = 100329
+	1652.8.31 = {
+	  birth = yes 
+	}
+	1671.1.1 = {
+	  add_spouse = 100546
+	}
+  }
+
+  100334 = {
+	name = "Cosimo" # Cosimo II de' Medici
+	religion = catholic
+	culture = italian
+	dynasty = 100021
+	1590.5.12 = {
+	  birth = yes 
+	}
+	1608.9.14 = {
+	  add_spouse = 100333
+	}
+	1621.2.28 = {
+	 death = yes   
+	}
+  }
+
+  100359 = {
+	name = "Alfonso" # Alfonso II d'Este
+	religion = catholic
+	culture = italian
+	dynasty = 100010
+	1533.11.22 = {
+	  birth = yes 
+	}
+	1565.12.5 = {
+	   add_spouse = 100358
+	}
+	1597.10.27 = {
+	 death = yes   
+	}
+  }
+
+  100380 = {
+	name = "Francesco Farnese"
+	religion = catholic
+	culture = italian
+	dynasty = 100085
+	1678.5.19 = {
+	  birth = yes 
+	}
+	1696.12.7 = {
+	  add_spouse = 100177
+	}
+  }
+
+  100383 = {
+	name = "Vittorio" # Victor Amadeus, Prince of Piedmont
+	religion = catholic
+	culture = italian
+	dynasty = 100015
+	father = 100147
+	mother = 100146 
+	1699.5.6 = {
+	  birth = yes  
+	}
+  }
+
+  100384 = {
+	name = "Girolamo" # Girolamo De Mari
+	religion = catholic
+	culture = italian
+	dynasty = 100084
+	1644.12.1 = {
+	  birth = yes    
+	}
+  }
+
+  100417 = {
+	name = "Bianca Maria" # Bianca Maria Sforza
+	female = yes
+	religion = catholic
+	culture = italian
+	dynasty = 100096
+	1472.4.5 = {
+	  birth = yes    
+	}    
+	1510.12.31 = {
+	  death = yes     
+	} 
+  }
+
+  100509 = {
+	name = "Ferdinando" # Ferdinando de' Medici, Grand Prince of Tuscany
+	religion = catholic
+	culture = italian
+	dynasty = 100021
+	father = 100063
+	mother = 100508
+	trait = "fair"
+	trait = "genius"
+	1663.8.9 = {
+	  birth = yes 
+	}
+  }
+
+  100510 = {
+	name = "Anna Maria Luisa" # Anna Maria Luisa de' Medici
+	female = yes
+	religion = catholic
+	culture = italian
+	dynasty = 100021
+	father = 100063
+	mother = 100508
+	1667.8.11 = {
+	  birth = yes 
+	}
+  }
+
+  100511 = {
+	name = "Maria Caterina" # Maria Caterina Farnese
+	female = yes
+	religion = catholic
+	culture = italian
+	dynasty = 100131
+	1615.2.18 = {
+	  birth = yes 
+	}
+	1646.7.25 = {
+	  death = yes
+	}
+  }
+
+  100512 = {
+	name = "Isabella" # Isabella d'Este, Duchess of Parma
+	female = yes
+	religion = catholic
+	culture = italian
+	dynasty = 100010
+	father = 100030
+	mother = 100511
+	1635.10.3 = {
+	  birth = yes
+	}
+	1666.8.21 = {
+	  death = yes
+	}
+  }
+
+  100513 = {
+	name = "Eleonora" # Eleonora d'Este 
+	female = yes
+	religion = catholic
+	culture = italian
+	dynasty = 100010
+	father = 100030
+	mother = 100511
+	trait = "scholarly_theologian"
+	1643.2.2 = {
+	  birth = yes
+	}  
+	1674.5.3 = {
+	  add_trait="nun"
+	}
+  }
+
+  100514 = {
+	name = "Maria" # Maria d'Este
+	female = yes
+	religion = catholic
+	culture = italian
+	dynasty = 100010
+	father = 100030
+	mother = 100511
+	1644.12.8 = {
+	  birth = yes
+	}  
+	1684.8.21 = {
+	  death = yes
+	}
+  }
+
+  100515 = {
+	name = "Vittoria" # Vittoria Farnese
+	female = yes
+	religion = catholic
+	culture = italian
+	dynasty = 100131
+	1618.4.29 = {
+	  birth = yes
+	}  
+	1649.8.10 = {
+	  death = yes
+	}
+  }
+
+  100516 = {
+	name = "Lucrezia" # Lucrezia Barberini
+	female = yes
+	religion = catholic
+	culture = italian
+	dynasty = 100131
+	1628.10.24 = {
+	  birth = yes
+	}  
+	1699.8.24 = {
+	  death = yes
+	}
+  }
+
+  100520 = {
+	name = "Benedetta Maria Ernestina" # Princess Benedetta d'Este
+	female = yes
+	religion = catholic
+	culture = italian
+	dynasty = 100010
+	father = 100029
+	mother = 100517
+	1697.8.18 = {
+	  birth = yes
+	} 
+  }
+
+  100521 = {
+	name = "Francesco" # Francesco III d'Este
+	religion = catholic
+	culture = italian
+	dynasty = 100010
+	father = 100029
+	mother = 100517
+	1698.7.2 = {
+	  birth = yes
+	} 
+  }
+
+  100523 = {
+	name = "Amalia Giuseppina" # Princess Amalia d'Este
+	female = yes
+	religion = catholic
+	culture = italian
+	dynasty = 100010
+	father = 100029
+	mother = 100517
+	1699.7.28 = {
+	  birth = yes
+	} 
+  }
+  
+  100546 = {
+	name = "Anna Isabella" # Anna Isabella Gonzaga
+	female = yes
+	religion = catholic
+	culture = italian
+	dynasty = 100051
+	1655.2.12 = {
+	  birth = yes
+	}
+  }

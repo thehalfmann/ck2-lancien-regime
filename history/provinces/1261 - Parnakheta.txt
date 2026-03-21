@@ -1,0 +1,13 @@
+title = c_parnakheta
+max_settlements = 4
+b_parnakheta = castle
+b_akola = city
+culture = marathi
+religion = hindu
+terrain = jungle
+1700.1.1 = {
+  b_mahkar = temple
+}
+1700.1.1 = {
+  b_ambadapura = castle
+}

@@ -1,0 +1,14 @@
+title = c_usturt
+max_settlements = 2
+b_bailjar = tribal
+culture = turkish
+religion = zoroastrian
+1100.1.1 = {
+  religion = sunni
+}
+1221.1.1 = {
+  culture = turkish
+}
+1700.1.1 = {
+  culture = kazakh
+}

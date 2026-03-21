@@ -1,0 +1,13 @@
+title = c_ormond
+max_settlements = 4
+b_waterford = tribal
+b_cashel = temple
+culture = irish
+religion = catholic
+1000.1.1 = {
+  b_waterford = castle
+  b_nenagh = city
+}
+1700.1.1 = {
+  b_cahir = castle
+}

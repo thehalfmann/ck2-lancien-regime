@@ -1,0 +1,8 @@
+100543 = {
+	name = "Ahmad Bakr ibn Musa"
+	religion = sunni
+	culture = daju
+	1650.1.1 = {
+	  birth = yes
+	}
+  }

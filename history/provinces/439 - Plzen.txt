@@ -1,0 +1,16 @@
+title = c_plzen
+max_settlements = 4
+b_plzen = tribal
+culture = bohemian
+religion = slavic_pagan
+883.1.1 = {
+  b_plzen = castle
+  b_plasy = temple
+  b_stribo = city
+}
+883.1.1 = {
+  religion = catholic
+}
+1700.1.1 = {
+  b_klatovy = castle
+}

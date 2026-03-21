@@ -1,0 +1,9 @@
+title = c_syrj
+max_settlements = 1
+b_pyras = tribal
+culture = samoyed
+religion = finnish_pagan
+terrain = arctic
+1700.1.1 = {
+  religion = orthodox
+}

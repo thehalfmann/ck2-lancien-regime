@@ -1,0 +1,18 @@
+title = c_semender
+max_settlements = 4
+b_kumukh = tribal
+culture = turkish
+religion = tengri_pagan
+865.1.1 = {
+  religion = sunni
+  b_kumukh = castle
+  b_semender = temple
+  b_khattibaku = city
+}
+1700.1.1 = {
+  b_khannalkala = castle
+}
+1700.1.1 = {
+  religion = shiite
+  culture = turkish
+}

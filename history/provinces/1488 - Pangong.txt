@@ -1,0 +1,18 @@
+title = c_pangong
+max_settlements = 4
+b_khumak = castle
+b_pangong = city
+culture = zhangzhung
+religion = bon
+850.1.1 = {
+  culture = bodpa
+}
+920.1.1 = {
+  religion = buddhist
+}
+1700.1.1 = {
+  b_spanggur = temple
+}
+1700.1.1 = {
+  b_kizilyeza = castle
+}

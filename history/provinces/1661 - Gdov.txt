@@ -1,0 +1,17 @@
+title = c_gdov
+max_settlements = 2
+b_gdov = tribal
+culture = ilmenian
+religion = slavic_pagan
+867.1.1 = {
+  culture = russian
+}
+988.1.1 = {
+  religion = orthodox
+}
+1200.1.1 = {
+  b_gdov = castle
+}
+1700.1.1 = {
+  b_mda = city
+}

@@ -1,0 +1,13 @@
+500.1.1 = {
+  active = no
+}
+760.1.1 = {
+  liege = k_papal_state
+  active = yes
+}
+1700.1.1 = {
+  vice_royalty = no
+  law = investiture_law_0
+  law = cognatic_succession
+  law = centralization_2
+}

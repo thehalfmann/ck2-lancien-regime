@@ -1,0 +1,20 @@
+title = c_badajoz
+max_settlements = 4
+b_badajoz = castle
+b_jerezdeloscaballeros = temple
+b_merida = city
+culture = visigothic
+religion = catholic
+812.1.1 = {
+  religion = sunni
+}
+934.1.1 = {
+  culture = andalusian_arabic
+}
+1245.3.19 = {
+  culture = castillan
+  religion = catholic
+}
+1700.1.1 = {
+  b_zafra = castle
+}

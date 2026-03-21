@@ -1,0 +1,18 @@
+title = c_split
+max_settlements = 4
+b_trogir = castle
+b_split = city
+b_hvar = temple
+culture = dalmatian
+religion = catholic
+769.1.1 = {
+  capital = b_split
+}
+1066.1.1 = {
+  culture = croatian
+  trade_post = b_dandolo
+}
+1700.1.1 = {
+  culture = italian
+  b_solin = castle
+}

@@ -1,0 +1,15 @@
+title = c_tribandapura
+max_settlements = 5
+b_tribandapura = castle
+b_sunam = city
+culture = hindustani
+religion = hindu
+1700.1.1 = {
+  b_jaintpuri = temple
+}
+1700.1.1 = {
+  b_kartikeya = castle
+}
+1700.1.1 = {
+  b_amin = city
+}

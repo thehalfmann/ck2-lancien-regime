@@ -1,0 +1,15 @@
+title = c_oulu
+max_settlements = 2
+b_oulu = tribal
+culture = finnish
+religion = finnish_pagan
+1158.1.1 = {
+  b_oulu = castle
+}
+1250.1.1 = {
+  b_kokkola = temple
+  religion = catholic
+}
+1700.1.1 = {
+  religion = protestant
+}

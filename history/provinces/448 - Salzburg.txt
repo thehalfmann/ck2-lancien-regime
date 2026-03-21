@@ -1,0 +1,13 @@
+title = c_salzburg
+max_settlements = 4
+b_salzburg = temple
+b_durmberg = city
+b_waging = castle
+culture = german
+religion = catholic
+1100.1.1 = {
+  b_plain = castle
+}
+1700.1.1 = {
+  capital = b_salzburg
+}

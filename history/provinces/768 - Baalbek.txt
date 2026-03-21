@@ -1,0 +1,34 @@
+title = c_baalbek
+max_settlements = 5
+b_baalbek = castle
+b_akkar = city
+b_halbah = temple
+culture = levantine_arabic
+religion = monothelite
+867.1.1 = {
+  religion = sunni
+}
+1016.1.1 = {
+  religion = druze
+}
+1142.1.1 = {
+  b_krakdeschevaliers = castle
+}
+1142.1.1 = {
+  capital = b_krakdeschevaliers
+}
+1187.1.1 = {
+  b_riyaq = castle
+}
+1271.1.1 = {
+  remove_settlement = b_krakdeschevaliers
+}
+1271.1.1 = {
+  b_laboue = castle
+}
+1271.1.1 = {
+  religion = sunni
+}
+1700.1.1 = {
+  religion = shiite
+}

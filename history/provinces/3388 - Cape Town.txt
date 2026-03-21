@@ -1,0 +1,17 @@
+# 1750 - Zamfara
+
+# County Title
+title = c_cape_town
+
+# Settlements
+max_settlements = 5
+
+b_cape_town = city
+b_stellenbosch = city
+b_worcesterr = temple
+
+# Misc
+culture = dutch
+religion = reformed
+
+# History

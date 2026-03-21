@@ -1,0 +1,4 @@
+1699.1.1 = {
+  liege = k_egypt
+  holder = 100599
+}

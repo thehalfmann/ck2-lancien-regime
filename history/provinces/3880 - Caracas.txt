@@ -1,0 +1,14 @@
+# County Title
+title = c_caracas
+
+# Settlements
+max_settlements = 6
+b_caracas = city
+# b_caracas-ii = tribal
+# b_caracas-iii = temple
+
+# Misc
+culture = carib
+religion = south_american
+
+# History

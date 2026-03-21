@@ -1,0 +1,71 @@
+1450.1.1 = {
+  liege = 0
+  holder = 0
+}
+1700.1.1 = {
+  de_jure_liege = k_poland
+  vice_royalty = no
+  law = investiture_law_0
+  law = cognatic_succession
+  law = centralization_2
+}
+1815.6.9 = {
+  holder = 119436700
+  liege = e_carpathia
+}
+1830.6.9 = {
+  holder = 112357485
+  liege = e_carpathia
+}
+1845.6.9 = {
+  holder = 112101590
+  liege = e_carpathia
+}
+1860.6.9 = {
+  holder = 118962597
+  liege = e_carpathia
+}
+1875.6.9 = {
+  holder = 116016685
+  liege = e_carpathia
+}
+1890.6.9 = {
+  holder = 118271119
+  liege = e_carpathia
+}
+1905.6.9 = {
+  holder = 111970515
+  liege = e_carpathia
+}
+1918.11.11 = {
+  holder = 118290544
+  liege = k_poland
+}
+1933.11.11 = {
+  holder = 115861275
+  liege = k_poland
+}
+1948.11.11 = {
+  holder = 116233805
+  liege = k_poland
+}
+1963.11.11 = {
+  holder = 113677389
+  liege = k_poland
+}
+1978.11.11 = {
+  holder = 113040063
+  liege = k_poland
+}
+1993.11.11 = {
+  holder = 115166232
+  liege = k_poland
+}
+2008.11.11 = {
+  holder = 110307151
+  liege = k_poland
+}
+2020.12.31 = {
+  holder = 0
+  liege = 0
+}

@@ -1,0 +1,19 @@
+title = c_dorset
+max_settlements = 5
+b_wareham = castle
+b_sherborne = temple
+b_dorchester = city
+culture = saxon
+religion = catholic
+1100.11.11 = {
+  culture = english
+}
+1187.1.1 = {
+  b_corfe = castle
+}
+1700.1.1 = {
+  b_shaftesbury = city
+}
+1700.1.1 = {
+  religion = protestant
+}

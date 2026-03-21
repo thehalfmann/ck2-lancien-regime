@@ -1,0 +1,28 @@
+title = c_suzdal
+max_settlements = 4
+b_suzdal = tribal
+culture = mordvin
+religion = orthodox
+988.1.1 = {
+  culture = russian
+  religion = orthodox
+}
+999.1.1 = {
+  b_kiev = tb_hillfort_1
+  b_kiev = tb_market_town_1
+}
+1024.1.1 = {
+  b_suzdal = castle
+  b_sudalyvka = temple
+  b_suzdal = ca_keep_1
+  b_suzdal = ca_wall_1
+  b_suzdal = ca_barracks_1
+  b_suzdal = ca_militia_barracks_1
+  b_suzdal = ca_stable_1
+}
+1200.1.1 = {
+  b_shuya = city
+}
+1700.1.1 = {
+  b_kineshma = castle
+}

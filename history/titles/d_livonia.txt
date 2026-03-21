@@ -1,0 +1,5 @@
+1696.1.1 = {
+  liege = k_sweden
+  holder = 100390
+  vice_royalty = yes
+}

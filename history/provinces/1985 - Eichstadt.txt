@@ -1,0 +1,10 @@
+title = c_eichstadt
+max_settlements = 4
+b_abenberg = castle
+b_eichstadt = temple
+b_weissenburg = city
+culture = german
+religion = catholic
+1700.1.1 = {
+  b_lechtgemund = castle
+}

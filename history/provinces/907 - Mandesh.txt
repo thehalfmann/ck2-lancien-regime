@@ -1,0 +1,12 @@
+title = c_mandesh
+max_settlements = 3
+b_chaghcharan = castle
+b_adraskan = city
+culture = persian
+religion = buddhist
+1000.1.1 = {
+  religion = sunni
+}
+1700.1.1 = {
+  b_baluci = temple
+}

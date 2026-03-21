@@ -1,0 +1,10 @@
+title = c_dvaraka
+max_settlements = 4
+b_dvaraka = castle
+b_lalpur = city
+b_dwarakadheesh = temple
+culture = gujurati
+religion = jain
+1700.1.1 = {
+  b_gomati = castle
+}

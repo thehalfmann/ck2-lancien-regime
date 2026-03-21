@@ -1,0 +1,29 @@
+title = c_lykia
+max_settlements = 4
+b_halikarnassos = castle
+b_telmissos = city
+b_myra = temple
+culture = greek
+religion = orthodox
+1.1.1 = {
+  build_wonder = wonder_mausoleum_halicarnassus
+  set_wonder_stage = 4
+  build_wonder_upgrade = upgrade_quadriga_statue
+}
+1200.1.1 = {
+  set_wonder_stage = 2
+  destroy_wonder_upgrade = upgrade_quadriga_statue
+  set_wonder_damaged = yes
+}
+1175.1.1 = {
+  trade_post = b_morosini
+}
+1328.1.1 = {
+  culture = turkish
+}
+1328.1.1 = {
+  religion = sunni
+}
+1700.1.1 = {
+  b_kibyra = castle
+}

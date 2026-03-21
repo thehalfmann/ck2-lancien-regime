@@ -1,0 +1,28 @@
+title = c_tver
+max_settlements = 4
+b_tver = tribal
+culture = ilmenian
+religion = slavic_pagan
+867.1.1 = {
+  culture = russian
+}
+988.1.1 = {
+  religion = orthodox
+  b_tver = tb_hillfort_1
+  b_tver = tb_market_town_1
+}
+1182.1.1 = {
+  b_tver = castle
+  b_klin = city
+  b_tver = ca_keep_1
+  b_tver = ca_wall_1
+  b_tver = ca_barracks_1
+  b_tver = ca_militia_barracks_1
+  b_tver = ca_stable_1
+}
+1700.1.1 = {
+  b_lotoshino = temple
+}
+1700.1.1 = {
+  b_puchka = castle
+}

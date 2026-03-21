@@ -1,0 +1,844 @@
+e_mali = {
+	color = {
+	  138
+	  148
+	  55
+	}
+	color2 = {
+	  255
+	  255
+	  255
+	}
+	capital = 911
+	culture = manden
+	west_african_pagan_reformed = 500
+	allow = {
+	  hidden_tooltip = {
+		OR = {
+		  ai = no
+		  culture_group = west_african
+		}
+	  }
+	}
+	k_mali = {
+	  color = {
+		158
+		188
+		61
+	  }
+	  color2 = {
+		255
+		255
+		255
+	  }
+	  capital = 925
+	  culture = manden
+	  d_mali = {
+		color = {
+		  130
+		  180
+		  61
+		}
+		color2 = {
+		  255
+		  255
+		  255
+		}
+		capital = 925
+		c_mali = {
+		  color = {
+			108
+			170
+			48
+		  }
+		  color2 = {
+			255
+			255
+			255
+		  }
+		  b_niani = {
+		  }
+		  b_selegon = {
+		  }
+		  b_kamaro = {
+		  }
+		  b_tabou = {
+		  }
+		  b_safo = {
+		  }
+		  b_baguineda = {
+		  }
+		  b_dialakoro = {
+		  }
+		  b_bougouni = {
+		  }
+		  b_soussa = {
+		  }
+		}
+		c_bure = {
+		  color = {
+			145
+			195
+			51
+		  }
+		  color2 = {
+			255
+			255
+			255
+		  }
+		  b_bure = {
+		  }
+		  b_siguiri = {
+		  }
+		  b_kouroussa = {
+		  }
+		  b_kankan = {
+		  }
+		  b_kamina = {
+		  }
+		  b_boeganiola = {
+		  }
+		  b_galadiou = {
+		  }
+		}
+		c_dodugu = {
+		  color = {
+			158
+			200
+			84
+		  }
+		  color2 = {
+			255
+			255
+			255
+		  }
+		  b_bamako = {
+		  }
+		  b_sibi_mali = {
+		  }
+		  b_kangaba = {
+		  }
+		  b_ndantari = {
+		  }
+		  b_tichilit = {
+		  }
+		  b_namandiguina = {
+		  }
+		  b_manankoro = {
+		  }
+		}
+		c_kiri = {
+		  color = {
+			92
+			193
+			76
+		  }
+		  color2 = {
+			255
+			255
+			255
+		  }
+		  b_kita = {
+		  }
+		  b_nioro = {
+		  }
+		  b_diakha = {
+		  }
+		  b_dakadiala = {
+		  }
+		  b_dianguinare = {
+		  }
+		  b_serne = {
+		  }
+		  b_kassiola = {
+		  }
+		}
+	  }
+	  d_bambuk = {
+		color = {
+		  80
+		  120
+		  70
+		}
+		color2 = {
+		  255
+		  255
+		  255
+		}
+		capital = 926
+		c_bambuk = {
+		  color = {
+			90
+			138
+			64
+		  }
+		  color2 = {
+			255
+			255
+			255
+		  }
+		  b_bambuk = {
+		  }
+		  b_yaresna = {
+		  }
+		  b_ghiyaru = {
+		  }
+		  b_diouboye = {
+		  }
+		  b_goundafal = {
+		  }
+		  b_sankaran = {
+		  }
+		  b_kiffa = {
+		  }
+		}
+		c_diafunu = {
+		  color = {
+			102
+			117
+			85
+		  }
+		  color2 = {
+			255
+			255
+			255
+		  }
+		  b_diafunu = {
+		  }
+		  b_guidimaka = {
+		  }
+		  b_galam = {
+		  }
+		  b_tinngoba = {
+		  }
+		  b_missiribougou = {
+		  }
+		  b_kokoye = {
+		  }
+		  b_siela = {
+		  }
+		}
+		c_kantor = {
+		  color = {
+			62
+			103
+			54
+		  }
+		  color2 = {
+			255
+			255
+			255
+		  }
+		  b_kantor = {
+		  }
+		  b_goudiourou = {
+		  }
+		  b_ouli = {
+		  }
+		  b_soliko = {
+		  }
+		  b_bidangala = {
+		  }
+		  b_kamindalah = {
+		  }
+		  b_badogo = {
+		  }
+		  b_mandio = {
+		  }
+		}
+	  }
+	  d_yatenga = {
+		color = {
+		  128
+		  163
+		  13
+		}
+		color2 = {
+		  255
+		  255
+		  255
+		}
+		capital = 1757
+		c_yatenga = {
+		  color = {
+			108
+			148
+			13
+		  }
+		  color2 = {
+			255
+			255
+			255
+		  }
+		  b_yatenga = {
+		  }
+		  b_dubare = {
+		  }
+		  b_zondoma = {
+		  }
+		  b_giti = {
+		  }
+		  b_walguyo = {
+		  }
+		  b_direlabe = {
+		  }
+		  b_kotola = {
+		  }
+		}
+		c_bobo_dyulasso = {
+		  color = {
+			95
+			171
+			21
+		  }
+		  color2 = {
+			255
+			255
+			255
+		  }
+		  b_bobo_dyulasso = {
+		  }
+		  b_taba = {
+		  }
+		  b_sikasso = {
+		  }
+		  b_bountoumba = {
+		  }
+		  b_kikele = {
+		  }
+		  b_kongola = {
+		  }
+		  b_awadi = {
+		  }
+		}
+		c_wagadougou = {
+		  color = {
+			138
+			186
+			27
+		  }
+		  color2 = {
+			255
+			255
+			255
+		  }
+		  b_wagadougou = {
+		  }
+		  b_po = {
+		  }
+		  b_gursi = {
+		  }
+		  b_boboye = {
+		  }
+		  b_balangoka = {
+		  }
+		  b_niamalo = {
+		  }
+		  b_diba = {
+		  }
+		}
+	  }
+	}
+	k_ghana = {
+	  color = {
+		78
+		144
+		237
+	  }
+	  color2 = {
+		255
+		255
+		255
+	  }
+	  capital = 913
+	  culture = manden
+	  d_ghana = {
+		color = {
+		  62
+		  150
+		  247
+		}
+		color2 = {
+		  255
+		  255
+		  255
+		}
+		capital = 913
+		c_ghana = {
+		  color = {
+			52
+			130
+			227
+		  }
+		  color2 = {
+			255
+			255
+			255
+		  }
+		  holy_site = west_african_pagan
+		  holy_site = west_african_pagan_reformed
+		  holy_site = pagan
+		  b_el_ghaba = {
+		  }
+		  b_koumbi_saleh = {
+		  }
+		  b_diara = {
+		  }
+		  b_baghena = {
+		  }
+		  b_goumbou = {
+		  }
+		  b_kughah = {
+		  }
+		  b_nema = {
+		  }
+		}
+		c_mema = {
+		  color = {
+			81
+			167
+			241
+		  }
+		  color2 = {
+			255
+			255
+			255
+		  }
+		  b_mema = {
+		  }
+		  b_dia = {
+		  }
+		  b_kabora = {
+		  }
+		  b_macina = {
+		  }
+		  b_bakara = {
+		  }
+		  b_sadiabougouda = {
+		  }
+		  b_perge = {
+		  }
+		}
+		c_djenne = {
+		  color = {
+			75
+			143
+			212
+		  }
+		  color2 = {
+			255
+			255
+			255
+		  }
+		  b_bindugu = {
+		  }
+		  b_djenne = {
+		  }
+		  b_bandiagara = {
+		  }
+		  b_mopti = {
+		  }
+		  b_korienza = {
+		  }
+		  b_pondori = {
+		  }
+		  b_femaye = {
+		  }
+		  b_derary = {
+		  }
+		}
+		c_soso = {
+		  color = {
+			83
+			160
+			241
+		  }
+		  color2 = {
+			255
+			255
+			255
+		  }
+		  b_soso = {
+		  }
+		  b_kirina = {
+		  }
+		  b_sama = {
+		  }
+		  b_segou = {
+		  }
+		  b_diado = {
+		  }
+		  b_koio = {
+		  }
+		  b_sebete = {
+		  }
+		}
+	  }
+	  d_tagant = {
+		color = {
+		  13
+		  98
+		  191
+		}
+		color2 = {
+		  255
+		  255
+		  255
+		}
+		capital = 912
+		c_aoudaghost = {
+		  color = {
+			10
+			88
+			176
+		  }
+		  color2 = {
+			255
+			255
+			255
+		  }
+		  b_hodh = {
+		  }
+		  b_aoudaghost = {
+		  }
+		  b_moudjeria = {
+		  }
+		  b_ksarelbarka = {
+		  }
+		  b_kedama = {
+		  }
+		  b_sarel = {
+		  }
+		  b_ichga = {
+		  }
+		}
+		c_tagant = {
+		  color = {
+			5
+			116
+			182
+		  }
+		  color2 = {
+			255
+			255
+			255
+		  }
+		  b_tagant = {
+		  }
+		  b_tichitt = {
+		  }
+		  b_tibogona = {
+		  }
+		  b_nyinuito = {
+		  }
+		  b_apowa = {
+		  }
+		  b_dawba = {
+		  }
+		  b_bagble = {
+		  }
+		}
+	  }
+	  d_timbuktu = {
+		color = {
+		  45
+		  90
+		  224
+		}
+		color2 = {
+		  255
+		  255
+		  255
+		}
+		capital = 911
+		c_timbuktu = {
+		  color = {
+			35
+			75
+			209
+		  }
+		  color2 = {
+			255
+			255
+			255
+		  }
+		  b_timbuktu = {
+		  }
+		  b_tirakka = {
+		  }
+		  b_sankore = {
+		  }
+		  b_safanqu = {
+		  }
+		  b_kabara = {
+		  }
+		  b_tendirma = {
+		  }
+		  b_dire = {
+		  }
+		  b_gundam = {
+		  }
+		}
+		c_oualata = {
+		  color = {
+			53
+			81
+			203
+		  }
+		  color2 = {
+			255
+			255
+			255
+		  }
+		  b_oualata = {
+		  }
+		  b_biru = {
+		  }
+		  b_neiguiat = {
+		  }
+		  b_konou = {
+		  }
+		  b_birnsara = {
+		  }
+		  b_tizert = {
+		  }
+		  b_tarhalet = {
+		  }
+		  b_fassekra = {
+		  }
+		}
+		c_araouane = {
+		  color = {
+			64
+			108
+			235
+		  }
+		  color2 = {
+			255
+			255
+			255
+		  }
+		  b_araouane = {
+		  }
+		  b_tessalit = {
+		  }
+		  b_aguelhok = {
+		  }
+		  b_abalessa = {
+		  }
+		  b_tinzaouten = {
+		  }
+		  b_guezzam = {
+		  }
+		  b_tamanrasset = {
+		  }
+		  b_tazrouk = {
+		  }
+		}
+	  }
+	}
+	k_songhay = {
+	  color = {
+		178
+		76
+		81
+	  }
+	  color2 = {
+		255
+		255
+		255
+	  }
+	  capital = 914
+	  culture = manden
+	  d_songhay = {
+		color = {
+		  210
+		  82
+		  89
+		}
+		color2 = {
+		  255
+		  255
+		  255
+		}
+		capital = 914
+		c_songhay = {
+		  color = {
+			225
+			92
+			79
+		  }
+		  color2 = {
+			255
+			255
+			255
+		  }
+		  b_ansongo = {
+		  }
+		  b_kukiya = {
+		  }
+		  b_tillaberi = {
+		  }
+		  b_falakoro = {
+		  }
+		  b_tiende = {
+		  }
+		  b_domossela = {
+		  }
+		  b_boumoundo = {
+		  }
+		}
+		c_gao = {
+		  color = {
+			195
+			72
+			64
+		  }
+		  color2 = {
+			255
+			255
+			255
+		  }
+		  holy_site = west_african_pagan
+		  holy_site = west_african_pagan_reformed
+		  b_gao = {
+		  }
+		  b_sarnah = {
+		  }
+		  b_gaosaney = {
+		  }
+		  b_bourem = {
+		  }
+		  b_menaka = {
+		  }
+		  b_gabero = {
+		  }
+		  b_anchawadi = {
+		  }
+		}
+		c_tadmekka = {
+		  color = {
+			205
+			92
+			59
+		  }
+		  color2 = {
+			255
+			255
+			255
+		  }
+		  b_tadmekka = {
+		  }
+		  b_essako = {
+		  }
+		  b_kidal = {
+		  }
+		  b_kidako = {
+		  }
+		  b_eskako = {
+		  }
+		  b_djila = {
+		  }
+		  b_dongossela = {
+		  }
+		}
+		c_kurumba = {
+		  color = {
+			187
+			77
+			98
+		  }
+		  color2 = {
+			255
+			255
+			255
+		  }
+		  b_kissi = {
+		  }
+		  b_aribinda = {
+		  }
+		  b_dori = {
+		  }
+		  b_douentza = {
+		  }
+		  b_ouario_ouario = {
+		  }
+		  b_gourel_bassirou = {
+		  }
+		  b_seriwala = {
+		  }
+		}
+	  }
+	  d_gurma = {
+		color = {
+		  171
+		  121
+		  124
+		}
+		color2 = {
+		  255
+		  255
+		  255
+		}
+		capital = 928
+		c_gurma = {
+		  color = {
+			161
+			101
+			104
+		  }
+		  color2 = {
+			255
+			255
+			255
+		  }
+		  b_gurma = {
+		  }
+		  b_bilanga = {
+		  }
+		  b_nungu = {
+		  }
+		  b_tenkudugo = {
+		  }
+		  b_zorgho = {
+		  }
+		  b_hounde = {
+		  }
+		  b_yrgo = {
+		  }
+		  b_halogo = {
+		  }
+		  b_wagulo = {
+		  }
+		  b_zenande = {
+		  }
+		}
+		c_dendi = {
+		  color = {
+			186
+			106
+			114
+		  }
+		  color2 = {
+			255
+			255
+			255
+		  }
+		  b_niamey = {
+		  }
+		  b_bura = {
+		  }
+		  b_say = {
+		  }
+		  b_jidu = {
+		  }
+		  b_kimtir = {
+		  }
+		  b_isuachara = {
+		  }
+		  b_langay = {
+		  }
+		}
+	  }
+	}
+  }

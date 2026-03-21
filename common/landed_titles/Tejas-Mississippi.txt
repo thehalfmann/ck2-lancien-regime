@@ -1,0 +1,603 @@
+e_tejas-mississippi = {
+
+	color={ 156 84 113 }
+	color2={ 220 220 220 }
+
+	capital = 3780 # Atakapa
+
+	k_tejas = {
+
+		color={ 145 174 52 }
+		color2={ 220 220 220 }
+
+		capital = 3780 # Atakapa
+
+		d_tamaulipas = {
+
+			color={ 55 194 22 }
+			color2={ 220 220 220 }
+			
+			capital = 3769 # Tamaulipas
+			
+			c_tamaulipas = {
+
+				color={ 195 144 119 }
+				color2={ 220 220 220 }
+				
+				b_tamaulipas = {
+				}
+				b_tamaulipas-ii = {
+				}
+				b_tamaulipas-iii = {
+				}
+				b_tamaulipas-iv = {
+				}
+			}
+			c_borrado = {
+
+				color={ 115 34 29 }
+				color2={ 220 220 220 }
+				
+				b_borrado = {
+				}
+				b_borrado-ii = {
+				}
+				b_borrado-iii = {
+				}
+			}
+			c_cotoname = {
+
+				color={ 75 124 33 }
+				color2={ 220 220 220 }
+				
+				b_cotoname = {
+				}
+				b_cotoname-ii = {
+				}
+				b_cotoname-iii = {
+				}
+			}
+			c_coahuilteco = {
+
+				color={ 155 174 49 }
+				color2={ 220 220 220 }
+				
+				b_coahuilteco = {
+				}
+				b_coahuilteco-ii = {
+				}
+				b_coahuilteco-iii = {
+				}
+			}
+			c_metztitlan = {
+
+				color={ 225 134 49 }
+				color2={ 220 220 220 }
+				
+				b_metztitlan = {
+				}
+				b_metztitlan-ii = {
+				}
+				b_metztitlan-iii = {
+				}
+			}
+			c_pame = {
+
+				color={ 95 197 49 }
+				color2={ 220 220 220 }
+				
+				b_pame = {
+				}
+				b_pame-ii = {
+				}
+				b_pame-iii = {
+				}
+			}
+		}
+		d_tejas = {
+
+			color={ 65 44 202 }
+			color2={ 220 220 220 }
+
+			capital = 3780 # Atakapa
+			
+			c_atakapa = {
+
+				color={ 95 54 69 }
+				color2={ 220 220 220 }
+				
+				b_atakapa = {
+				}
+				b_atakapa-ii = {
+				}
+				b_atakapa-iii = {
+				}
+				b_atakapa-iv = {
+				}
+				b_atakapa-v = {
+				}
+				b_atakapa-vi = {
+				}
+			}
+			c_karankawa = {
+
+				color={ 145 144 79 }
+				color2={ 220 220 220 }
+				
+				b_karankawa = {
+				}
+				b_karankawa-ii = {
+				}
+				b_karankawa-iii = {
+				}
+			}
+			c_eyeish = {
+
+				color={ 125 164 83 }
+				color2={ 220 220 220 }
+				
+				b_eyeish = {
+				}
+				b_eyeish-ii = {
+				}
+				b_eyeish-iii = {
+				}
+			}
+			c_tonkawa = {
+
+				color={ 158 64 99 }
+				color2={ 220 220 220 }
+				
+				b_tonkawa = {
+				}
+				b_tonkawa-ii = {
+				}
+				b_tonkawa-iii = {
+				}
+			}
+			c_hasinai = {
+
+				color={ 15 54 109 }
+				color2={ 220 220 220 }
+				
+				b_hasinai = {
+				}
+				b_hasinai-ii = {
+				}
+				b_hasinai-iii = {
+				}
+			}
+
+		}
+		d_coahuila = {
+
+			color={ 14 222 129 }
+			color2={ 220 220 220 }
+			
+			capital = 3773 # Coahuila
+			
+			c_coahuila = {
+
+				color={ 185 67 129 }
+				color2={ 220 220 220 }	
+	
+				b_coahuila1  = {
+				}
+				b_coahuila-ii = {
+				}
+				b_coahuila-iii = {
+				}
+				b_coahuila-iv = {
+				}
+			}
+			c_laguneros = {
+
+				color={ 45 214 129 }
+				color2={ 220 220 220 }
+				
+				b_laguneros = {
+				}
+				b_laguneros-ii = {
+				}
+				b_laguneros-iii = {
+				}
+			}
+			c_chichitames = {
+
+				color={ 95 124 149 }
+				color2={ 220 220 220 }
+				
+				b_chichitames = {
+				}
+				b_chichitames-ii = {
+				}
+				b_chichitames-iii = {
+				}
+			}
+			c_cacaxtes = {
+
+				color={ 125 24 109 }
+				color2={ 220 220 220 }
+				
+				b_cacaxtes = {
+				}
+				b_cacaxtes-ii = {
+				}
+				b_cacaxtes-iii = {
+				}
+			}
+			c_tuintsunde = {
+
+				color={ 148 54 189 }
+				color2={ 220 220 220 }
+				
+				b_tuintsunde = {
+				}
+				b_tuintsunde-ii = {
+				}
+				b_tuintsunde-iii = {
+				}
+			}
+		}
+
+		d_tejas_plains = {
+
+			color={ 94 114 198 }
+			color2={ 220 220 220 }
+			
+			capital = 3779 # Lipan
+			
+			c_lipan = {
+
+				color={ 225 204 129 }
+				color2={ 220 220 220 }	
+	
+				b_lipan = {
+				}
+				b_lipan-ii = {
+				}
+				b_lipan-iii = {
+				}
+				b_lipan-iv = {
+				}
+			}
+			c_tanu = {
+
+				color={ 65 164 129 }
+				color2={ 220 220 220 }
+				
+				b_tanu = {
+				}
+				b_tanu-ii = {
+				}
+				b_tanu-iii = {
+				}
+			}
+			c_querecho = {
+
+				color={ 155 124 189 }
+				color2={ 220 220 220 }
+				
+				b_querecho = {
+				}
+				b_querecho-ii = {
+				}
+				b_querecho-iii = {
+				}
+			}
+			c_waco = {
+
+				color={ 175 34 135 }
+				color2={ 220 220 220 }
+				
+				b_waco = {
+				}
+				b_waco-ii = {
+				}
+				b_waco-iii = {
+				}
+			}
+		}
+              }
+
+	k_mississippi = {
+
+		color={ 145 36 166 }
+		color2={ 220 220 220 }
+
+		capital = 3804 # Chickasaw
+
+		d_louisiana = {
+
+			color={ 25 91 187 }
+			color2={ 220 220 220 }
+			
+			capital = 3791 # Caddo
+			
+			c_caddo = {
+
+				color={ 15 144 187 }
+				color2={ 220 220 220 }
+				
+				b_caddo = {
+				}
+				b_caddo-ii = {
+				}
+				b_caddo-iii = {
+				}
+				b_caddo-iv = {
+				}
+			}
+			c_arkansas = {
+
+				color={ 195 151 126 }
+				color2={ 220 220 220 }
+				
+				b_arkansas = {
+				}
+				b_arkansas-ii = {
+				}
+				b_arkansas-iii = {
+				}
+			}
+			c_natchitoches = {
+
+				color={ 35 89 123 }
+				color2={ 220 220 220 }
+				
+				b_natchitoches = {
+				}
+				b_natchitoches-ii = {
+			              }
+				b_natchitoches-iii = {
+				}
+			}
+			c_adai = {
+
+				color={ 215 104 234 }
+				color2={ 220 220 220 }
+				
+				b_adai = {
+				}
+				b_adai-ii = {
+				}
+				b_adai-iii = {
+				}
+			}
+			c_chitimacha = {
+
+				color={ 19 164 144 }
+				color2={ 220 220 220 }
+				
+				b_chitimacha = {
+				}
+				b_chitimacha-ii = {
+				}
+				b_chitimacha-iii = {
+				}
+			}
+		}
+		d_west_florida = {
+
+			color={ 65 82 99 }
+			color2={ 220 220 220 }
+			
+			capital = 3797 # Mobile
+			
+			c_mobile = {
+
+				color={ 75 47 226 }
+				color2={ 220 220 220 }
+				
+				b_mobile = {
+				}
+				b_mobile-ii = {
+				}
+				b_mobile-iii = {
+				}
+				b_mobile-iv = {
+				}
+			}
+			c_bayougoula = {
+
+				color={ 145 175 126 }
+				color2={ 220 220 220 }
+				
+				b_bayougoula = {
+				}
+				b_bayougoula-ii = {
+				}
+				b_bayougoula-iii = {
+				}
+			}
+			c_biloxi = {
+
+				color={ 48 24 166 }
+				color2={ 220 220 220 }
+				
+				b_biloxi = {
+				}
+				b_biloxi-ii = {
+			              }
+				b_biloxi-iii = {
+				}
+			}
+			c_pensacola = {
+
+				color={ 158 74 111 }
+				color2={ 220 220 220 }
+				
+				b_pensacola = {
+				}
+				b_pensacola-ii = {
+			              }
+				b_pensacola-iii = {
+				}
+			}
+			c_chatot = {
+
+				color={ 99 74 221 }
+				color2={ 220 220 220 }
+				
+				b_chatot = {
+				}
+				b_chatot-ii = {
+			              }
+				b_chatot-iii = {
+				}
+			}
+		}
+		d_tennessee = {
+
+			color={ 175 151 59 }
+			color2={ 220 220 220 }
+			
+			capital = 3796 # Yazoo
+			
+			c_yazoo = {
+
+				color={ 35 97 196 }
+				color2={ 220 220 220 }
+				
+				b_yazoo = {
+				}
+				b_yazoo-ii = {
+				}
+				b_yazoo-iii = {
+				}
+				b_yazoo-iv = {
+				}
+			}
+			c_natchez = {
+
+				color={ 176 111 199 }
+				color2={ 220 220 220 }
+				
+				b_natchez = {
+				}
+				b_natchez-ii = {
+				}
+				b_natchez-iii = {
+				}
+			}
+			c_choctaw = {
+
+				color={ 28 74 128 }
+				color2={ 220 220 220 }
+				
+				b_choctaw = {
+				}
+				b_choctaw-ii = {
+			              }
+				b_choctaw-iii = {
+				}
+			}
+		}
+		d_alabama = {
+
+			color={ 125 49 161 }
+			color2={ 220 220 220 }
+			
+			capital = 3801 # Alabama
+			
+			c_alabama = {
+
+				color={ 95 77 31 }
+				color2={ 220 220 220 }
+				
+				b_alabama = {
+				}
+				b_alabama-ii = {
+				}
+				b_alabama-iii = {
+				}
+				b_alabama-iv = {
+				}
+			}
+			c_tuskegee = {
+
+				color={ 176 103 194 }
+				color2={ 220 220 220 }
+				
+				b_tuskegee = {
+				}
+				b_tuskegee-ii = {
+				}
+				b_tuskegee-iii = {
+				}
+			}
+			c_tohome = {
+
+				color={ 44 88 138 }
+				color2={ 220 220 220 }
+				
+				b_tohome = {
+				}
+				b_tohome-ii = {
+			              }
+				b_tohome-iii = {
+				}
+			}
+			c_napochi = {
+
+				color={ 55 44 87 }
+				color2={ 220 220 220 }
+				
+				b_napochi = {
+				}
+				b_napochi-ii = {
+				}
+				b_napochi-iii = {
+				}
+			}
+		}
+		d_mississippi = {
+
+			color={ 9 231 104 }
+			color2={ 220 220 220 }
+			
+			capital = 3804 # Chickasaw
+			
+			c_chickasaw = {
+
+				color={ 85 217 176 }
+				color2={ 220 220 220 }
+				
+				b_chickasaw = {
+				}
+				b_chickasaw-ii = {
+				}
+				b_chickasaw-iii = {
+				}
+				b_chickasaw-iv = {
+				}
+				b_chickasaw-v = {
+				}
+			}
+			c_tennessee = {
+
+				color={ 126 23 131 }
+				color2={ 220 220 220 }
+				
+				b_tennessee = {
+				}
+				b_tennessee-ii = {
+				}
+				b_tennessee-iii = {
+				}
+			}
+			c_kaskinampo = {
+
+				color={ 188 11 129 }
+				color2={ 220 220 220 }
+				
+				b_kaskinampo = {
+				}
+				b_kaskinampo-ii = {
+			              }
+				b_kaskinampo-iii = {
+				}
+			}
+		}
+	}
+}

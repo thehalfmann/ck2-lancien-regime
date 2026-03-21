@@ -1,0 +1,36 @@
+title = c_ani
+max_settlements = 4
+b_ani = castle
+b_midjnaberd = city
+b_surpasdvadzadzin = temple
+culture = armenian
+religion = miaphysite
+1084.1.1 = {
+  culture = kurdish
+}
+1084.1.1 = {
+  religion = sunni
+}
+1219.1.1 = {
+  culture = armenian
+  religion = miaphysite
+}
+1320.1.1 = {
+  culture = kurdish
+  religion = sunni
+}
+1700.1.1 = {
+  b_karutsberd = castle
+}
+1700.1.1 = {
+  culture = armenian
+}
+1918.11.11 = {
+  culture = kurdish
+}
+1700.1.1 = {
+  religion = orthodox
+}
+1918.11.11 = {
+  religion = sunni
+}

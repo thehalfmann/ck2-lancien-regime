@@ -1,0 +1,14 @@
+title = c_aydhab
+max_settlements = 5
+b_halayeb = castle
+b_aydhab = city
+b_marsaalam = castle
+b_zabargad = temple
+culture = nubian
+religion = miaphysite
+1700.1.1 = {
+  b_troglodytica = city
+}
+1700.1.1 = {
+  religion = sunni
+}

@@ -1,0 +1,20 @@
+title = c_jaunpur
+max_settlements = 6
+b_kerarkot = castle
+b_gadhipuri = city
+b_dohrighat = temple
+culture = hindustani
+religion = buddhist
+terrain = jungle
+1700.1.1 = {
+  b_jaunpur = castle
+}
+1700.1.1 = {
+  b_amethi = city
+}
+1700.1.1 = {
+  b_haldi = castle
+}
+1700.1.1 = {
+  religion = hindu
+}

@@ -1,0 +1,12 @@
+title = c_nanded
+max_settlements = 4
+b_nanded = castle
+b_aurad = temple
+culture = marathi
+religion = hindu
+1700.1.1 = {
+  b_qandhar = city
+}
+1700.1.1 = {
+  b_shelgaon = castle
+}

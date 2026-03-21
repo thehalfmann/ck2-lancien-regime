@@ -1,0 +1,14 @@
+title = c_cuenca
+max_settlements = 4
+b_cuenca = castle
+b_tarancon = city
+b_sisante = temple
+culture = visigothic
+religion = catholic
+terrain = hills
+955.1.1 = {
+  culture = castillan
+}
+1700.1.1 = {
+  b_ucles = castle
+}

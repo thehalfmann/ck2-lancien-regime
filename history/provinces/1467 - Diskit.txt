@@ -1,0 +1,15 @@
+title = c_diskit
+max_settlements = 3
+b_diskit = castle
+b_thirit = city
+culture = zhangzhung
+religion = bon
+850.1.1 = {
+  culture = bodpa
+}
+920.1.1 = {
+  religion = buddhist
+}
+1700.1.1 = {
+  b_hundar = temple
+}

@@ -1,0 +1,13 @@
+# County Title
+title = c_ecab
+
+# Settlements
+max_settlements = 3
+b_ecab = tribal
+b_ecab-ii = tribal
+
+# Misc
+culture = mayanx
+religion = mayan
+
+# History

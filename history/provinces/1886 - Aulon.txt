@@ -1,0 +1,16 @@
+title = c_aulon
+max_settlements = 3
+b_aulon = castle
+b_spinarizza = city
+culture = greek
+religion = orthodox
+terrain = mountain
+930.1.1 = {
+  culture = arberian
+}
+1700.1.1 = {
+  b_kanine = temple
+}
+1700.1.1 = {
+  religion = sunni
+}

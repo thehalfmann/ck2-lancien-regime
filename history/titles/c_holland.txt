@@ -1,0 +1,89 @@
+760.1.1 = {
+  holder = 194170
+  liege = d_holland
+  name = TEISTERBANT
+  adjective = TEISTERBANT_ADJ
+}
+860.1.1 = {
+  holder = 168627
+}
+865.1.1 = {
+  holder = 168628
+}
+874.1.1 = {
+  holder = 31060
+}
+896.1.1 = {
+  holder = 263007
+}
+936.10.1 = {
+  holder = 263021
+}
+939.1.1 = {
+  holder = 106550
+}
+988.5.6 = {
+  holder = 40712
+}
+993.1.20 = {
+  holder = 40713
+}
+1026.1.1 = {
+  name = COUNTY_HOLLAND
+  adjective = COUNTY_HOLLAND_ADJ
+}
+1039.5.27 = {
+  holder = 106523
+}
+1049.1.13 = {
+  holder = 106522
+}
+1061.6.28 = {
+  holder = 106520
+}
+1091.6.17 = {
+  holder = 106555
+}
+1121.3.2 = {
+  holder = 206841
+}
+1157.8.5 = {
+  holder = 206840
+}
+1190.8.1 = {
+  holder = 206842
+}
+1203.11.4 = {
+  holder = 206843
+}
+1222.2.4 = {
+  holder = 106558
+}
+1234.7.19 = {
+  holder = 94003
+}
+1256.1.28 = {
+  holder = 94005
+}
+1296.6.27 = {
+  holder = 94007
+}
+1299.11.10 = {
+  holder = 94008
+}
+1304.8.22 = {
+  holder = 462742
+}
+1337.6.7 = {
+  holder = 487011
+}
+1450.1.1 = {
+  liege = 0
+  holder = 107139917
+}
+1641.11.23 = {
+  holding_dynasty = 100161
+  liege = d_holland
+  holder=100010
+  law = succ_patrician_elective
+}

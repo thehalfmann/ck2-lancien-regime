@@ -1,0 +1,13 @@
+# County Title
+title = c_cuauhnahuac
+
+# Settlements
+max_settlements = 3
+b_cuauhnahuac = tribal
+b_cuauhnahuac-ii = temple
+
+# Misc
+culture = nahuatl
+religion = aztec
+
+# History

@@ -1,0 +1,22 @@
+title = c_treviso
+max_settlements = 4
+b_treviso = castle
+b_bassano = city
+b_oderzo = temple
+culture = lombard
+religion = catholic
+789.1.1 = {
+  culture = italian
+}
+1078.1.1 = {
+  trade_post = b_contarini
+}
+1164.1.1 = {
+  capital = b_bassano
+}
+1283.1.1 = {
+  capital = b_treviso
+}
+1700.1.1 = {
+  b_castelfranco = castle
+}

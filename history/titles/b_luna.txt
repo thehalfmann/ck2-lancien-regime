@@ -1,0 +1,11 @@
+1066.1.1 = {
+  holder = 167537
+  liege = c_genoa
+}
+1318.7.26 = {
+  holder = 461700
+}
+1450.1.1 = {
+  holder = 0
+  liege = c_genoa
+}

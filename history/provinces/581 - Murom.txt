@@ -1,0 +1,18 @@
+title = c_murom
+max_settlements = 3
+b_murom = tribal
+culture = mordvin
+religion = finnish_pagan
+988.1.1 = {
+  religion = orthodox
+}
+1087.1.2 = {
+  culture = russian
+}
+1150.1.1 = {
+  b_murom = castle
+  b_kasimov = city
+}
+1700.1.1 = {
+  b_vyksa = temple
+}

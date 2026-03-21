@@ -1,0 +1,16 @@
+title = c_tarragona
+max_settlements = 4
+b_tarragona = castle
+b_spantortosa = city
+b_sancugat = temple
+culture = visigothic
+religion = catholic
+952.1.1 = {
+  culture = catalan
+}
+1081.1.1 = {
+  trade_post = b_fieschi
+}
+1700.1.1 = {
+  b_cambrils = castle
+}

@@ -1,0 +1,15 @@
+title = c_biskra
+max_settlements = 4
+b_biskra = castle
+b_magra = city
+culture = maghreb_arabic
+religion = ibadi
+1000.1.1 = {
+  religion = sunni
+}
+1700.1.1 = {
+  b_batna = temple
+}
+1700.1.1 = {
+  b_sidiokba = castle
+}

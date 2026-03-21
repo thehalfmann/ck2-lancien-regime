@@ -1,0 +1,20 @@
+title = c_purang
+max_settlements = 6
+b_teglakar = castle
+b_kailash = temple
+b_purang = city
+b_simbiling = temple
+culture = zhangzhung
+religion = bon
+850.1.1 = {
+  culture = bodpa
+}
+920.1.1 = {
+  religion = buddhist
+}
+996.1.1 = {
+  b_khorzhak = temple
+}
+1700.1.1 = {
+  b_zhangja = castle
+}

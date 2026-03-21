@@ -1,0 +1,16 @@
+title = c_kathmandu
+max_settlements = 5
+b_kathmandu = castle
+b_bhaktapur = city
+b_pashupatinath = temple
+culture = nepali
+religion = buddhist
+1041.1.1 = {
+  religion = hindu
+}
+1700.1.1 = {
+  b_lalitpur = castle
+}
+1700.1.1 = {
+  b_patan_yala = city
+}

@@ -1,0 +1,12 @@
+title = c_rayapura
+max_settlements = 4
+b_rayapura = castle
+b_rajim = temple
+culture = oriya
+religion = hindu
+1700.1.1 = {
+  b_shivapura = city
+}
+1700.1.1 = {
+  b_shivadurga = castle
+}

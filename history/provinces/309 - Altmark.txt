@@ -1,0 +1,23 @@
+title = c_altmark
+max_settlements = 4
+b_stendal = tribal
+culture = old_saxon
+religion = norse_pagan
+800.1.1 = {
+  religion = slavic_pagan
+  b_stendal = castle
+  b_walbeck = city
+  b_halberstedt = temple
+}
+1125.1.1 = {
+  religion = catholic
+}
+1125.1.1 = {
+  culture = german
+}
+1181.1.1 = {
+  b_salzwedel = castle
+}
+1700.1.1 = {
+  religion = protestant
+}

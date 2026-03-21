@@ -1,0 +1,5 @@
+1665.9.17 = {
+  liege = d_lombardia
+  holding_dynasty = 100047
+  holder = 100366
+}

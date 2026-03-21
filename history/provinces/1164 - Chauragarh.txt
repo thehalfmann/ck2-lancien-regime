@@ -1,0 +1,11 @@
+title = c_chauragarh
+max_settlements = 2
+b_chauragarh = castle
+culture = hindustani
+religion = jain
+1066.1.1 = {
+  religion = hindu
+}
+1700.1.1 = {
+  b_bohani = city
+}

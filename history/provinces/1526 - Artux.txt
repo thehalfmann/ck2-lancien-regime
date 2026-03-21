@@ -1,0 +1,21 @@
+title = c_artux
+max_settlements = 2
+b_atush = castle
+culture = saka
+religion = buddhist
+1006.1.1 = {
+  culture = karluk
+  religion = sunni
+}
+1218.1.1 = {
+  culture = uyghur
+}
+1233.1.1 = {
+  religion = nestorian
+}
+1360.1.1 = {
+  religion = sunni
+}
+1700.1.1 = {
+  b_poskam = city
+}

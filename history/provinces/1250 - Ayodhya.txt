@@ -1,0 +1,12 @@
+title = c_ayodhya
+max_settlements = 5
+b_ramkot = castle
+b_ayodhya = city
+b_ram_janmabhoomi = temple
+b_nageshwarnath = temple
+b_hanuman_garhi = castle
+culture = hindustani
+religion = buddhist
+1700.1.1 = {
+  religion = hindu
+}

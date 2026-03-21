@@ -1,0 +1,10 @@
+title = c_tabuk
+max_settlements = 4
+b_mariyiat = castle
+b_duba = city
+b_tabuk = temple
+culture = bedouin_arabic
+religion = sunni
+1700.1.1 = {
+  b_muwaylih = castle
+}

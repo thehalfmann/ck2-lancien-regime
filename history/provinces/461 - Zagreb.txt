@@ -1,0 +1,14 @@
+title = c_zagreb
+max_settlements = 4
+b_zagreb = tribal
+culture = croatian
+religion = slavic_pagan
+800.1.1 = {
+  religion = catholic
+  b_zagreb = castle
+  b_karlovac = city
+  b_sisak = temple
+}
+1700.1.1 = {
+  b_cetin = castle
+}

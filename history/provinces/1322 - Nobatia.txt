@@ -1,0 +1,13 @@
+title = c_nobatia
+max_settlements = 4
+b_abri = castle
+b_semna = city
+b_delgo = temple
+culture = nubian
+religion = miaphysite
+1700.1.1 = {
+  b_wawa = castle
+}
+1700.1.1 = {
+  religion = sunni
+}

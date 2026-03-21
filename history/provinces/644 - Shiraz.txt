@@ -1,0 +1,16 @@
+title = c_shiraz
+max_settlements = 4
+b_shiraz = castle
+b_bishapur = city
+b_persepolis = temple
+culture = persian
+religion = zoroastrian
+800.1.1 = {
+  religion = sunni
+}
+1700.1.1 = {
+  b_estakhr = castle
+}
+1700.1.1 = {
+  religion = shiite
+}

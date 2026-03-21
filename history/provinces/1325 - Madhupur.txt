@@ -1,0 +1,11 @@
+title = c_madhupur
+max_settlements = 4
+b_madhupur = castle
+b_pabna = city
+b_bogra = temple
+culture = bengali
+religion = buddhist
+terrain = jungle
+1700.1.1 = {
+  b_baghabarihat = castle
+}

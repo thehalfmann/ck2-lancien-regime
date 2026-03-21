@@ -1,0 +1,12 @@
+title = c_kherla
+max_settlements = 3
+b_kherla = castle
+b_pachmarhi = temple
+culture = marathi
+religion = jain
+1066.1.1 = {
+  religion = hindu
+}
+1700.1.1 = {
+  b_anjangaon = city
+}

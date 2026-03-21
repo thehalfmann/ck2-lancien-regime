@@ -1,0 +1,22 @@
+1493.8.19 = {
+  liege = e_hre
+  holder = 100414
+}
+1519.6.28 = {
+  liege = e_hre
+  holder = 100270
+}
+1521.4.21 = {
+  holder = 100277
+}
+1658.7.18 = {
+  holder = 100022
+}
+1700.1.1 = {
+  vice_royalty = no
+  law = succ_primogeniture
+  law = investiture_law_0
+  law = cognatic_succession
+  law = centralization_2
+}
+

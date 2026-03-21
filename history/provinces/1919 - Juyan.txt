@@ -1,0 +1,21 @@
+title = c_juyan
+max_settlements = 2
+b_juyan = tribal
+culture = uyghur
+religion = tengri_pagan
+869.1.1 = {
+  religion = manichean
+}
+1066.1.1 = {
+  religion = buddhist
+}
+1066.1.1 = {
+  culture = tangut
+}
+1227.1.1 = {
+  culture = mongol
+  religion = tengri_pagan
+}
+1700.1.1 = {
+  religion = buddhist
+}

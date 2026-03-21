@@ -1,0 +1,22 @@
+title = c_karbala
+max_settlements = 4
+b_ainaltamur = castle
+b_hindiya = city
+b_karbala = temple
+culture = levantine_arabic
+religion = nestorian
+1000.1.1 = {
+  religion = sunni
+}
+1086.1.1 = {
+  remove_settlement = b_karbala
+}
+1700.1.1 = {
+  b_karbala = temple
+}
+1700.1.1 = {
+  b_ofak = castle
+}
+1700.1.1 = {
+  religion = shiite
+}

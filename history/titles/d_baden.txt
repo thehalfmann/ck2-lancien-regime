@@ -1,0 +1,11 @@
+1677.5.22 = {
+  de_jure_liege = e_hre
+  liege = e_hre
+  holder = 100248
+}
+1700.1.1 = {
+  vice_royalty = no
+  law = investiture_law_0
+  law = cognatic_succession
+  law = centralization_2
+}

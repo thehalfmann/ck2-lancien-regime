@@ -1,0 +1,21 @@
+title = c_yeruslan
+max_settlements = 2
+b_yeruslan = tribal
+culture = khazar
+religion = tengri_pagan
+822.1.1 = {
+  culture = pecheneg
+}
+1060.1.1 = {
+  culture = kazakh
+}
+1100.1.1 = {
+  religion = sunni
+}
+1227.1.1 = {
+  culture = mongol
+}
+1700.1.1 = {
+  culture = kazakh
+  religion = orthodox
+}

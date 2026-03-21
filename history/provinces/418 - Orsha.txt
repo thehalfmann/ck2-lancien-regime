@@ -1,0 +1,21 @@
+title = c_orsha
+max_settlements = 3
+b_orsha = tribal
+culture = ilmenian
+religion = slavic_pagan
+867.1.1 = {
+  culture = russian
+}
+988.1.1 = {
+  religion = orthodox
+}
+1150.1.1 = {
+  b_orsha = castle
+  b_talachyn = city
+}
+1700.1.1 = {
+  b_dubrowna = temple
+}
+1700.1.1 = {
+  culture = ruthenian
+}

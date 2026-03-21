@@ -1,0 +1,9 @@
+e_newcolonymexico = {
+
+   	color = { 214 214 17 }
+   	color2 = { 255 255 255 }
+
+	capital = 2035 # Sang
+
+	culture = castillan
+}

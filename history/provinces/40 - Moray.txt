@@ -1,0 +1,23 @@
+title = c_moray
+max_settlements = 4
+b_forres = tribal
+b_elgin = temple
+culture = pictish
+religion = catholic
+terrain = hills
+848.1.1 = {
+  culture = scottish_gaels
+}
+1000.1.1 = {
+  b_forres = castle
+  b_inverness = city
+}
+1215.7.1 = {
+  b_lochindorb = castle
+  capital = b_lochindorb
+  remove_settlement = b_forres
+  b_urquhart = castle
+}
+1700.1.1 = {
+  religion = reformed
+}

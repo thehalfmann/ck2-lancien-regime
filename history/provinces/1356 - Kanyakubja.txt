@@ -1,0 +1,16 @@
+title = c_kanyakubja
+max_settlements = 7
+b_kanyakubja = castle
+b_jajmau = city
+b_bithor = temple
+b_etawah = city
+b_swargdwari = castle
+b_kampil = temple
+culture = hindustani
+religion = buddhist
+1700.1.1 = {
+  b_jai_chandra = castle
+}
+1700.1.1 = {
+  religion = hindu
+}

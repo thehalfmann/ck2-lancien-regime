@@ -1,0 +1,22 @@
+
+1170.1.1={
+	holder=1002000036 #Nsuku
+}
+1200.1.1={
+	holder=1002000037 #Rhulani
+}
+1230.1.1={
+	holder=1002000038 #Rhulani
+}
+1260.1.1={
+	holder=1002000039 #Nyeleti
+}
+1290.1.1={
+	holder=1002000040 #Ntosvelo
+}
+1320.1.1={
+	holder=1002000041 #Nyeleti
+}
+1350.1.1={
+	holder=1002000042 #Rhulani
+}

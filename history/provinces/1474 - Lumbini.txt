@@ -1,0 +1,13 @@
+title = c_lumbini
+max_settlements = 5
+b_bhairahawa = castle
+b_lumbini = temple
+b_taulihawa = temple
+culture = nepali
+religion = buddhist
+1700.1.1 = {
+  b_sandhikharka = city
+}
+1700.1.1 = {
+  b_nigrodharama = castle
+}

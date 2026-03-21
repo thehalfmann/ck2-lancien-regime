@@ -1,0 +1,12 @@
+title = c_kumtag
+max_settlements = 3
+b_kumtag = castle
+b_chiting = city
+culture = tocharian
+religion = buddhist
+900.1.1 = {
+  culture = uyghur
+}
+1700.1.1 = {
+  b_luohu = temple
+}

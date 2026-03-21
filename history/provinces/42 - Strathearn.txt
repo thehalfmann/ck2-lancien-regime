@@ -1,0 +1,19 @@
+title = c_strathearn
+max_settlements = 4
+b_crieff = tribal
+b_dunblane = temple
+culture = pictish
+religion = catholic
+848.1.1 = {
+  culture = scottish
+}
+1000.1.1 = {
+  b_crieff = castle
+  b_auchterarder = city
+}
+1700.1.1 = {
+  b_tullibardine = castle
+}
+1700.1.1 = {
+  religion = reformed
+}

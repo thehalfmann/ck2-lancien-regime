@@ -1,0 +1,4 @@
+1683.12.19 = {
+  holder = 100047
+  liege = e_france
+}

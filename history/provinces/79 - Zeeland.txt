@@ -1,0 +1,19 @@
+title = c_zeeland
+max_settlements = 4
+b_middelburg = castle
+b_vlissingen = city
+b_tholen = temple
+culture = frisian
+religion = catholic
+790.1.1 = {
+  culture = dutch
+}
+1325.1.1 = {
+  trade_post = b_warendorp
+}
+1700.1.1 = {
+  capital = b_vlissingen
+}
+1700.1.1 = {
+  religion = reformed
+}

@@ -1,0 +1,21 @@
+title = c_aracena
+max_settlements = 4
+b_aracena = castle
+b_almonasterlareal = city
+b_italica = temple
+culture = visigothic
+religion = sunni
+929.1.1 = {
+  culture = andalusian_arabic
+  religion = sunni
+}
+1246.1.1 = {
+  culture = portuguese
+  religion = catholic
+}
+1255.1.1 = {
+  culture = castillan
+}
+1700.1.1 = {
+  b_calanas = castle
+}

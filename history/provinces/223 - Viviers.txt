@@ -1,0 +1,16 @@
+title = c_viviers
+max_settlements = 4
+b_viviers = temple
+b_aubenas = castle
+b_largentiere = city
+culture = visigothic
+religion = catholic
+867.1.1 = {
+  culture = occitan
+}
+1700.1.1 = {
+  b_tournon = castle
+}
+1700.1.1 = {
+  capital = b_aubenas
+}

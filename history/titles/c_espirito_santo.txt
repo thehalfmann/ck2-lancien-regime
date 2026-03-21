@@ -1,0 +1,4 @@
+1694.5.22 = {
+  holder = 100582
+  liege = k_northern_brazil
+}

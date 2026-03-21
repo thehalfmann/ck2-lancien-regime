@@ -1,0 +1,6947 @@
+e_rebels = {
+  rebel = yes
+  landless = yes
+  primary = yes
+  culture = swedish
+  religion = pagan
+  tribe = yes
+  color = {
+    0
+    0
+    0
+  }
+  color2 = {
+    0
+    0
+    0
+  }
+}
+e_pirates = {
+  pirate = yes
+  landless = yes
+  primary = yes
+  culture = swedish
+  religion = pagan
+  tribe = yes
+  color = {
+    0
+    0
+    0
+  }
+  color2 = {
+    0
+    0
+    0
+  }
+}
+e_outremer = {
+  color = {
+    180
+    180
+    180
+  }
+  color2 = {
+    255
+    255
+    255
+  }
+  capital = 774
+  allow = {
+    conditional_tooltip = {
+      trigger = {
+        NOR = {
+          religion = catholic
+          religion = fraticelli
+        }
+      }
+      OR = {
+        religion = catholic
+        religion = fraticelli
+      }
+    }
+    conditional_tooltip = {
+      trigger = {
+        e_outremer = {
+          is_titular = yes
+        }
+      }
+      e_outremer = {
+        is_titular = no
+      }
+    }
+  }
+}
+e_nicaea = {
+  color = {
+    240
+    17
+    17
+  }
+  color2 = {
+    255
+    255
+    20
+  }
+  capital = 750
+  culture = greek
+  short_name = yes
+  has_top_de_jure_capital = yes
+  allow = {
+    conditional_tooltip = {
+      trigger = {
+        e_nicaea = {
+          is_titular = yes
+        }
+      }
+      e_nicaea = {
+        is_titular = no
+      }
+    }
+  }
+}
+e_lechczechrus = {
+  color = {
+    0
+    90
+    30
+  }
+  color2 = {
+    255
+    255
+    255
+  }
+  short_name = yes
+  capital = 547
+  allow = {
+    conditional_tooltip = {
+      trigger = {
+        e_lechczechrus = {
+          is_titular = yes
+        }
+      }
+      e_lechczechrus = {
+        is_titular = no
+      }
+    }
+  }
+}
+e_bulgaria = {
+  color = {
+    108
+    78
+    110
+  }
+  color2 = {
+    255
+    255
+    255
+  }
+  culture = bulgarian
+  capital = 499
+  allow = {
+    conditional_tooltip = {
+      trigger = {
+        e_bulgaria = {
+          is_titular = yes
+        }
+      }
+      e_bulgaria = {
+        is_titular = no
+      }
+    }
+  }
+}
+k_papal_state = {
+  color = {
+    255
+    249
+    198
+  }
+  color2 = {
+    220
+    220
+    0
+  }
+  capital = 333
+  title = POPE
+  foa = POPE_FOA
+  short_name = yes
+  location_ruler_title = yes
+  landless = yes
+  controls_religion = catholic
+  religion = catholic
+  primary = yes
+  assimilate = no
+  dynasty_title_names = no
+  dignity = 200
+  male_names = {
+    Alexander
+    Anastasius
+    Benedictus
+    Caelestinus
+    Callistus
+    Clemens
+    Eugenius
+    Leo
+    Gregorius
+    Hadrianus
+    Honorius
+    Innocentius
+    Ioannes
+    Lucius
+    Marinus
+    Martinus
+    Nicolaus
+    Sergius
+    Silvester
+    Stephanus
+    Urbanus
+    Victor
+  }
+}
+d_papal_guards = {
+  color = {
+    255
+    240
+    240
+  }
+  color2 = {
+    220
+    220
+    0
+  }
+  capital = 333
+  title = CAPTAIN
+  foa = CAPTAIN_FOA
+  allow = {
+    has_landed_title = k_papal_state
+  }
+  landless = yes
+  mercenary = yes
+  mercenary_type = papal_guard_composition
+  strength_growth_per_century = 1.0
+  religion = catholic
+  primary = yes
+}
+k_hellenic_pagan = {
+  color = {
+    124
+    0
+    175
+  }
+  color2 = {
+    220
+    220
+    0
+  }
+  capital = 333
+  title = PONTIFEX_MAXIMUS
+  title_female = PONTIFEX_MAXIMA
+  foa = POPE_FOA
+  short_name = yes
+  landless = yes
+  creation_requires_capital = no
+  dignity = 100
+  controls_religion = hellenic_pagan_reformed
+  religion = hellenic_pagan_reformed
+  assimilate = no
+  dynasty_title_names = no
+}
+k_orthodox = {
+  color = {
+    183
+    60
+    155
+  }
+  color2 = {
+    220
+    220
+    0
+  }
+  capital = 496
+  title = ECUMENICAL_PATRIARCH
+  foa = ECUMENICAL_PATRIARCH_FOA
+  short_name = yes
+  landless = yes
+  controls_religion = orthodox
+  religion = orthodox
+  primary = yes
+  assimilate = no
+  dynasty_title_names = no
+  male_names = {
+    Alexios
+    Anastasios
+    Arsenios
+    Athanasios
+    Antonios
+    Basileios
+    Dositheos
+    Eustathios
+    Eustratios
+    Euthymios
+    Georgios
+    Gerasimos
+    Germanos
+    Gregorios
+    Ignatios
+    Ioannes
+    Ioseph
+    Isaias
+    Isidoros
+    Kallistos
+    Konstantinos
+    Kosmas
+    Leon
+    Loukas
+    Makarios
+    Manuel
+    Matthaios
+    Maximos
+    Methodios
+    Metrophanes
+    Michael
+    Neophytos
+    Nephon
+    Nikolaos
+    Nikephoros
+    Nilos
+    Pavlos
+    Philotheos
+    Photios
+    Polyeuktos
+    Sergios
+    Sisinnios
+    Stephanos
+    Tarasios
+    Theodoros
+    Theodosios
+    Theodotos
+    Theoleptos
+    Theophanes
+    Theophylaktos
+    Tryphon
+    Zacharias
+  }
+}
+k_antioch = {
+  color = {
+    228
+    53
+    53
+  }
+  color2 = {
+    216
+    216
+    84
+  }
+  capital = 764
+  title = principality_title
+  title_female = principality_title_female
+  foa = principality_foa
+  title_prefix = principality_prefix
+  allow = {
+    conditional_tooltip = {
+      trigger = {
+        k_antioch = {
+          is_titular = yes
+        }
+      }
+      k_antioch = {
+        is_titular = no
+      }
+    }
+    hidden_tooltip = {
+      OR = {
+        ai = no
+        religion = catholic
+      }
+    }
+  }
+}
+k_switzerland = {
+  color = {
+    255
+    80
+    80
+  }
+  color2 = {
+    200
+    50
+    50
+  }
+  capital = 244
+  short_name = yes
+  allow = {
+    conditional_tooltip = {
+      trigger = {
+        k_switzerland = {
+          is_titular = yes
+        }
+      }
+      k_switzerland = {
+        is_titular = no
+      }
+    }
+  }
+}
+e_sunni = {
+  color = {
+    40
+    160
+    40
+  }
+  color2 = {
+    220
+    220
+    0
+  }
+  title = CALIPH
+  title_female = CALIPHA
+  foa = CALIPH_FOA
+  short_name = yes
+  religion = sunni
+  caliphate = yes
+}
+e_shiite = {
+  color = {
+    60
+    190
+    60
+  }
+  color2 = {
+    220
+    220
+    0
+  }
+  title = CALIPH
+  title_female = CALIPHA
+  foa = CALIPH_FOA
+  short_name = yes
+  religion = shiite
+  caliphate = yes
+}
+d_sunni = {
+  color = {
+    40
+    160
+    40
+  }
+  color2 = {
+    220
+    220
+    0
+  }
+  capital = 719
+  creation_requires_capital = no
+  dignity = 100
+  title = CALIPH
+  title_female = CALIPHA
+  foa = CALIPH_FOA
+  short_name = yes
+  religion = sunni
+  controls_religion = sunni
+  allow = {
+    conditional_tooltip = {
+      trigger = {
+        NOT = {
+          has_alternate_start_parameter = {
+            key = religion_names
+            value = random
+          }
+        }
+      }
+      custom_tooltip = {
+        text = sunni_creation_independent
+        hidden_tooltip = {
+          in_revolt = no
+          OR = {
+            independent = yes
+            NOT = {
+              any_liege = {
+                OR = {
+                  in_revolt = yes
+                  NOT = {
+                    religion = sunni
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+      OR = {
+        trait = mirza
+        trait = sayyid
+        piety = 1000
+      }
+      OR = {
+        AND = {
+          trait = sayyid
+          piety = 1000
+        }
+        conditional_tooltip = {
+          trigger = {
+            NOT = {
+              has_global_flag = destroyed_caliphates
+            }
+          }
+          custom_tooltip = {
+            text = controls_mecca_medina
+            hidden_tooltip = {
+              719 = {
+                owner = {
+                  OR = {
+                    is_liege_or_above = ROOT
+                    character = ROOT
+                  }
+                }
+              }
+              718 = {
+                owner = {
+                  OR = {
+                    is_liege_or_above = ROOT
+                    character = ROOT
+                  }
+                }
+              }
+            }
+          }
+        }
+        custom_tooltip = {
+          text = controls_jerusalem_damascus_baghdad
+          hidden_tooltip = {
+            774 = {
+              owner = {
+                OR = {
+                  is_liege_or_above = ROOT
+                  character = ROOT
+                }
+              }
+            }
+            728 = {
+              owner = {
+                OR = {
+                  is_liege_or_above = ROOT
+                  character = ROOT
+                }
+              }
+            }
+            693 = {
+              owner = {
+                OR = {
+                  is_liege_or_above = ROOT
+                  character = ROOT
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+    conditional_tooltip = {
+      trigger = {
+        has_alternate_start_parameter = {
+          key = religion_names
+          value = random
+        }
+      }
+      religion = sunni
+      OR = {
+        trait = mirza
+        trait = sayyid
+        piety = 1000
+      }
+      custom_tooltip = {
+        text = THREE_HOLY_SITES_TT
+        hidden_tooltip = {
+          any_realm_title = {
+            count = 3
+            is_holy_site = ROOT
+          }
+        }
+      }
+    }
+    conditional_tooltip = {
+      trigger = {
+        has_global_flag = destroyed_caliphates
+      }
+      custom_tooltip = {
+        text = controls_mecca_medina
+        hidden_tooltip = {
+          719 = {
+            owner = {
+              OR = {
+                is_liege_or_above = ROOT
+                character = ROOT
+              }
+            }
+          }
+          718 = {
+            owner = {
+              OR = {
+                is_liege_or_above = ROOT
+                character = ROOT
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+  caliphate = yes
+  coat_of_arms = {
+    data = {
+      0
+      0
+      0
+      3
+      0
+      2
+      2
+    }
+    religion = sunni
+  }
+}
+e_cordoba = {
+  color = {
+    255
+    218
+    185
+  }
+  color2 = {
+    255
+    255
+    255
+  }
+  capital = 181
+  title = CALIPH
+  title_female = CALIPHA
+  foa = CALIPH_FOA
+  religion = sunni
+  allow = {
+    always = no
+  }
+  caliphate = yes
+}
+d_shiite = {
+  color = {
+    60
+    190
+    60
+  }
+  color2 = {
+    220
+    220
+    0
+  }
+  capital = 719
+  creation_requires_capital = no
+  dignity = 100
+  title = CALIPH
+  title_female = CALIPHA
+  foa = CALIPH_FOA
+  short_name = yes
+  religion = shiite
+  controls_religion = shiite
+  allow = {
+    conditional_tooltip = {
+      trigger = {
+        NOT = {
+          has_alternate_start_parameter = {
+            key = religion_names
+            value = random
+          }
+        }
+      }
+      religion = shiite
+      custom_tooltip = {
+        text = shia_creation_independent
+        hidden_tooltip = {
+          in_revolt = no
+          OR = {
+            independent = yes
+            NOT = {
+              any_liege = {
+                OR = {
+                  in_revolt = yes
+                  NOT = {
+                    religion = shiite
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+      OR = {
+        trait = mirza
+        trait = sayyid
+        piety = 1000
+        custom_tooltip = {
+          text = shiite_bloodline_TT
+          any_owned_bloodline = {
+            has_bloodline_flag = bloodline_shiite_leader
+            bloodline_is_active_for = PREV
+          }
+        }
+      }
+      custom_tooltip = {
+        text = not_shia_caliphate_revolt_ongoing
+        hidden_tooltip = {
+          NOT = {
+            has_global_flag = shia_caliphate_revolt_ongoing
+          }
+        }
+      }
+      OR = {
+        AND = {
+          trait = sayyid
+          piety = 1000
+        }
+        AND = {
+          custom_tooltip = {
+            text = shiite_bloodline_TT
+            any_owned_bloodline = {
+              has_bloodline_flag = bloodline_shiite_leader
+              bloodline_is_active_for = PREV
+            }
+          }
+          piety = 500
+        }
+        conditional_tooltip = {
+          trigger = {
+            NOT = {
+              has_global_flag = destroyed_caliphates
+            }
+          }
+          custom_tooltip = {
+            text = controls_mecca_medina
+            hidden_tooltip = {
+              719 = {
+                owner = {
+                  OR = {
+                    is_liege_or_above = ROOT
+                    character = ROOT
+                  }
+                }
+              }
+              718 = {
+                owner = {
+                  OR = {
+                    is_liege_or_above = ROOT
+                    character = ROOT
+                  }
+                }
+              }
+            }
+          }
+        }
+        custom_tooltip = {
+          text = controls_jerusalem_damascus_baghdad
+          hidden_tooltip = {
+            774 = {
+              owner = {
+                OR = {
+                  is_liege_or_above = ROOT
+                  character = ROOT
+                }
+              }
+            }
+            728 = {
+              owner = {
+                OR = {
+                  is_liege_or_above = ROOT
+                  character = ROOT
+                }
+              }
+            }
+            693 = {
+              owner = {
+                OR = {
+                  is_liege_or_above = ROOT
+                  character = ROOT
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+    conditional_tooltip = {
+      trigger = {
+        has_alternate_start_parameter = {
+          key = religion_names
+          value = random
+        }
+      }
+      religion = shiite
+      OR = {
+        trait = mirza
+        trait = sayyid
+        piety = 1000
+      }
+      custom_tooltip = {
+        text = THREE_HOLY_SITES_TT
+        hidden_tooltip = {
+          any_realm_title = {
+            count = 3
+            is_holy_site = ROOT
+          }
+        }
+      }
+    }
+    conditional_tooltip = {
+      trigger = {
+        has_global_flag = destroyed_caliphates
+      }
+      religion = shiite
+      OR = {
+        piety = 500
+        custom_tooltip = {
+          text = controls_mecca_medina
+          hidden_tooltip = {
+            719 = {
+              owner = {
+                OR = {
+                  is_liege_or_above = ROOT
+                  character = ROOT
+                }
+              }
+            }
+            718 = {
+              owner = {
+                OR = {
+                  is_liege_or_above = ROOT
+                  character = ROOT
+                }
+              }
+            }
+          }
+        }
+        custom_tooltip = {
+          text = shiite_bloodline_TT
+          any_owned_bloodline = {
+            has_bloodline_flag = bloodline_shiite_leader
+            bloodline_is_active_for = PREV
+          }
+        }
+      }
+    }
+  }
+  caliphate = yes
+  coat_of_arms = {
+    data = {
+      0
+      0
+      0
+      9
+      1
+      7
+      7
+    }
+    religion = shiite
+  }
+}
+d_qarmatian = {
+  color = {
+    60
+    190
+    60
+  }
+  color2 = {
+    220
+    220
+    0
+  }
+  capital = 652
+  creation_requires_capital = no
+  dignity = 100
+  title = CALIPH
+  title_female = CALIPHA
+  foa = CALIPH_FOA
+  short_name = yes
+  religion = qarmatian
+  controls_religion = qarmatian
+  allow = {
+    religion = qarmatian
+    piety = 500
+    OR = {
+      trait = mirza
+      trait = sayyid
+      piety = 1000
+      custom_tooltip = {
+        text = qarmatian_bloodline_TT
+        any_owned_bloodline = {
+          has_bloodline_flag = bloodline_qarmatian_leader
+          bloodline_is_active_for = PREV
+        }
+      }
+    }
+    OR = {
+      custom_tooltip = {
+        text = THREE_HOLY_SITES_TT
+        hidden_tooltip = {
+          any_realm_title = {
+            count = 3
+            is_holy_site = ROOT
+          }
+        }
+      }
+      custom_tooltip = {
+        text = qarmatian_bloodline_TT
+        any_owned_bloodline = {
+          has_bloodline_flag = bloodline_qarmatian_leader
+          bloodline_is_active_for = PREV
+        }
+      }
+    }
+  }
+  caliphate = yes
+  coat_of_arms = {
+    data = {
+      0
+      0
+      0
+      9
+      1
+      7
+      7
+    }
+    religion = qarmatian
+  }
+}
+e_golden_horde = {
+  color = {
+    243
+    180
+    17
+  }
+  short_name = yes
+  capital = 619
+  landless = yes
+  allow = {
+    always = no
+  }
+  culture = mongol
+  religion = tengri_pagan
+}
+e_il-khanate = {
+  color = {
+    140
+    180
+    20
+  }
+  short_name = yes
+  capital = 646
+  landless = yes
+  allow = {
+    always = no
+  }
+  culture = mongol
+  religion = tengri_pagan
+}
+e_mongol_empire = {
+  color = {
+    130
+    180
+    240
+  }
+  color2 = {
+    255
+    20
+    20
+  }
+  short_name = yes
+  capital = 1457
+  landless = yes
+  allow = {
+    always = no
+  }
+  culture = mongol
+  religion = tengri_pagan
+}
+e_chagatai = {
+  color = {
+    200
+    200
+    200
+  }
+  color2 = {
+    0
+    250
+    250
+  }
+  capital = 903
+  allow = {
+    always = no
+  }
+  culture = mongol
+  religion = tengri_pagan
+}
+e_timurids = {
+  color = {
+    120
+    20
+    20
+  }
+  short_name = yes
+  capital = 646
+  allow = {
+    always = no
+  }
+  culture = mongol
+  religion = sunni
+}
+d_knights_templar = {
+  color = {
+    230
+    230
+    230
+  }
+  color2 = {
+    255
+    255
+    255
+  }
+  graphical_culture = holygfx
+  capital = 138
+  title = GRANDMASTER
+  foa = GRANDMASTER_FOA
+  landless = yes
+  holy_order = yes
+  mercenary_type = knights_templar_composition
+  culture = french
+  religion = catholic
+  primary = yes
+  monthly_income = 10
+}
+d_teutonic_order = {
+  color = {
+    50
+    50
+    50
+  }
+  color2 = {
+    255
+    255
+    255
+  }
+  graphical_culture = holygfx
+  capital = 258
+  title = HOCHMEISTER
+  foa = HOCHMEISTER_FOA
+  landless = yes
+  holy_order = yes
+  mercenary_type = teutonic_order_composition
+  religion = catholic
+  culture = german
+  primary = yes
+  monthly_income = 8
+}
+k_teutonic_state = {
+  color = {
+    50
+    50
+    50
+  }
+  color2 = {
+    255
+    255
+    255
+  }
+  graphical_culture = holygfx
+  title = HOCHMEISTER
+  foa = HOCHMEISTER_FOA
+  holy_order = yes
+  mercenary_type = teutonic_order_composition
+  short_name = yes
+  assimilate = no
+  religion = catholic
+  culture = german
+  primary = yes
+  monthly_income = 12
+}
+d_livonian_order = {
+  color = {
+    40
+    60
+    40
+  }
+  color2 = {
+    255
+    255
+    255
+  }
+  graphical_culture = holygfx
+  holy_order = yes
+  mercenary_type = livonian_order_composition
+  short_name = yes
+  religion = catholic
+  culture = german
+  primary = yes
+  monthly_income = 4
+}
+d_knights_hospitaler = {
+  color = {
+    180
+    180
+    180
+  }
+  color2 = {
+    255
+    255
+    255
+  }
+  graphical_culture = holygfx
+  capital = 333
+  title = GRANDMASTER
+  foa = GRANDMASTER_FOA
+  landless = yes
+  holy_order = yes
+  culture = occitan
+  religion = catholic
+  primary = yes
+  monthly_income = 6
+  mercenary_type = knights_hospitaler_composition
+}
+d_hashshashin = {
+  color = {
+    100
+    100
+    0
+  }
+  color2 = {
+    255
+    255
+    255
+  }
+  graphical_culture = hashshashingfx
+  capital = 693
+  title = GRANDHEADMASTER
+  foa = GRANDHEADMASTER_FOA
+  holy_order = yes
+  landless = yes
+  culture = persian
+  religion = shiite
+  primary = yes
+  independent = yes
+  monthly_income = 6
+  mercenary_type = hashshashin_composition
+}
+d_bektashi = {
+  color = {
+    90
+    150
+    0
+  }
+  color2 = {
+    255
+    255
+    255
+  }
+  graphical_culture = bektashigfx
+  capital = 753
+  title = DEDEBABA
+  foa = GRANDHEADMASTER_FOA
+  holy_order = yes
+  landless = yes
+  culture = persian
+  religion = sunni
+  primary = yes
+  independent = yes
+  monthly_income = 6
+  mercenary_type = bektashi_composition
+}
+d_haruriyyah = {
+  color = {
+    150
+    200
+    80
+  }
+  color2 = {
+    255
+    255
+    255
+  }
+  graphical_culture = bektashigfx
+  capital = 693
+  title = DEDEBABA
+  foa = GRANDHEADMASTER_FOA
+  holy_order = yes
+  landless = yes
+  culture = bedouin_arabic
+  religion = ibadi
+  primary = yes
+  independent = yes
+  monthly_income = 6
+  mercenary_type = bektashi_composition
+}
+d_jomsvikings = {
+  color = {
+    50
+    50
+    50
+  }
+  color2 = {
+    255
+    255
+    255
+  }
+  graphical_culture = norseholygfx
+  capital = 303
+  title = WARCHIEF
+  foa = WARCHIEF_FOA
+  landless = yes
+  holy_order = yes
+  religion = norse_pagan
+  culture = norse
+  primary = yes
+  monthly_income = 2
+  mercenary_type = jomsvikings_composition
+}
+d_immortals = {
+  color = {
+    180
+    205
+    20
+  }
+  graphical_culture = immortalsgfx
+  capital = 637
+  title = GRANDMASTER
+  foa = GRANDMASTER_FOA
+  landless = yes
+  holy_order = yes
+  religion = zoroastrian
+  culture = persian
+  primary = yes
+  monthly_income = 2
+  mercenary_type = immortals_composition
+}
+d_zealots = {
+  color = {
+    20
+    100
+    255
+  }
+  graphical_culture = jewishholygfx
+  capital = 774
+  title = GRANDMASTER
+  foa = GRANDMASTER_FOA
+  landless = yes
+  holy_order = yes
+  religion = jewish
+  culture = ashkenazi
+  primary = yes
+  monthly_income = 2
+  mercenary_type = zealots_composition
+}
+d_holy_sepulchre = {
+  color = {
+    120
+    0
+    145
+  }
+  graphical_culture = orthodoxholygfx
+  capital = 774
+  title = GRANDMASTER
+  foa = GRANDMASTER_FOA
+  landless = yes
+  holy_order = yes
+  religion = orthodox
+  culture = greek
+  primary = yes
+  monthly_income = 2
+  mercenary_type = holy_sepulchre_composition
+}
+d_saint_anthony = {
+  color = {
+    180
+    165
+    70
+  }
+  graphical_culture = holygfx
+  capital = 875
+  title = GRANDMASTER
+  foa = GRANDMASTER_FOA
+  landless = yes
+  holy_order = yes
+  religion = miaphysite
+  culture = ethiopian
+  primary = yes
+  monthly_income = 2
+  mercenary_type = saint_anthony_composition
+}
+d_saint_addai = {
+  color = {
+    180
+    80
+    140
+  }
+  graphical_culture = holygfx
+  capital = 693
+  title = GRANDMASTER
+  foa = GRANDMASTER_FOA
+  landless = yes
+  holy_order = yes
+  religion = nestorian
+  culture = assyrian
+  primary = yes
+  monthly_income = 2
+  mercenary_type = saint_addai_composition
+}
+d_sky_lords = {
+  color = {
+    220
+    200
+    140
+  }
+  capital = 898
+  title = WARCHIEF
+  foa = WARCHIEF_FOA
+  landless = yes
+  holy_order = yes
+  religion = tengri_pagan_reformed
+  culture = cuman
+  primary = yes
+  monthly_income = 2
+  mercenary_type = sky_lords_composition
+}
+d_spirit_guardians = {
+  color = {
+    120
+    120
+    55
+  }
+  graphical_culture = westafricanholygfx
+  capital = 925
+  title = WARCHIEF
+  foa = WARCHIEF_FOA
+  landless = yes
+  holy_order = yes
+  religion = west_african_pagan_reformed
+  culture = manden
+  primary = yes
+  monthly_income = 2
+  mercenary_type = spirit_guardians_composition
+}
+d_warriors_perun = {
+  color = {
+    100
+    140
+    100
+  }
+  graphical_culture = slavicholygfx
+  capital = 547
+  title = WARCHIEF
+  foa = WARCHIEF_FOA
+  landless = yes
+  holy_order = yes
+  religion = slavic_pagan_reformed
+  culture = russian
+  primary = yes
+  monthly_income = 2
+  mercenary_type = warriors_perun_composition
+}
+d_chosen_perkunas = {
+  color = {
+    200
+    45
+    45
+  }
+  graphical_culture = balticholygfx
+  capital = 374
+  title = WARCHIEF
+  foa = WARCHIEF_FOA
+  landless = yes
+  holy_order = yes
+  religion = baltic_pagan_reformed
+  culture = lettigallish
+  primary = yes
+  monthly_income = 2
+  mercenary_type = chosen_perkunas_composition
+}
+d_sons_kaleva = {
+  color = {
+    140
+    130
+    105
+  }
+  graphical_culture = finnishholygfx
+  capital = 392
+  title = WARCHIEF
+  foa = WARCHIEF_FOA
+  landless = yes
+  holy_order = yes
+  religion = finnish_pagan_reformed
+  culture = finnish
+  primary = yes
+  monthly_income = 2
+  mercenary_type = sons_kaleva_composition
+}
+d_huitzilopochtli = {
+  color = {
+    255
+    200
+    0
+  }
+  graphical_culture = aztecholygfx
+  capital = 843
+  title = HIGHPRIEST
+  foa = GRANDMASTER_FOA
+  landless = yes
+  holy_order = yes
+  religion = aztec_reformed
+  culture = nahuatl
+  primary = yes
+  monthly_income = 2
+  mercenary_type = huitzilopochtli_composition
+}
+d_knights_santiago = {
+  color = {
+    255
+    130
+    0
+  }
+  graphical_culture = holygfx
+  capital = 157
+  title = GRANDMASTER
+  foa = GRANDMASTER_FOA
+  landless = yes
+  holy_order = yes
+  culture = castillan
+  religion = catholic
+  primary = yes
+  monthly_income = 6
+  mercenary_type = knights_santiago_composition
+}
+d_knights_calatrava = {
+  color = {
+    230
+    100
+    0
+  }
+  graphical_culture = holygfx
+  capital = 196
+  title = GRANDMASTER
+  foa = GRANDMASTER_FOA
+  landless = yes
+  holy_order = yes
+  culture = castillan
+  religion = catholic
+  primary = yes
+  monthly_income = 6
+  mercenary_type = knights_calatrava_composition
+}
+d_followers_arjuna = {
+  color = {
+    255
+    0
+    0
+  }
+  color2 = {
+    255
+    255
+    255
+  }
+  capital = 1355
+  title = GRANDMASTER
+  foa = GRANDMASTER_FOA
+  landless = yes
+  holy_order = yes
+  culture = hindustani
+  religion = hindu
+  primary = yes
+  monthly_income = 2
+  mercenary_type = followers_arjuna_composition
+}
+d_ashokas_chosen = {
+  color = {
+    205
+    100
+    0
+  }
+  color2 = {
+    255
+    255
+    255
+  }
+  capital = 1355
+  title = GRANDMASTER
+  foa = GRANDMASTER_FOA
+  landless = yes
+  holy_order = yes
+  culture = marathi
+  religion = buddhist
+  primary = yes
+  monthly_income = 2
+  mercenary_type = ashokas_chosen_composition
+}
+d_dralhas_children = {
+  color = {
+    205
+    100
+    0
+  }
+  color2 = {
+    255
+    255
+    255
+  }
+  capital = 1498
+  title = GRANDMASTER
+  foa = GRANDMASTER_FOA
+  landless = yes
+  holy_order = yes
+  culture = bodpa
+  religion = bon_reformed
+  primary = yes
+  monthly_income = 2
+  mercenary_type = dralhas_children_composition
+}
+d_bulls_rishabha = {
+  color = {
+    255
+    100
+    0
+  }
+  color2 = {
+    255
+    255
+    255
+  }
+  capital = 1355
+  title = GRANDMASTER
+  foa = GRANDMASTER_FOA
+  landless = yes
+  holy_order = yes
+  culture = kannada
+  religion = jain
+  primary = yes
+  monthly_income = 2
+  mercenary_type = bulls_rishabha_composition
+}
+d_zun_warriors = {
+  color = {
+    230
+    255
+    0
+  }
+  capital = 1185
+  title = GRANDMASTER
+  foa = GRANDMASTER_FOA
+  landless = yes
+  holy_order = yes
+  culture = afghan
+  religion = zun_pagan_reformed
+  primary = yes
+  monthly_income = 2
+  mercenary_type = zun_warriors_composition
+}
+d_myrmidons = {
+  color = {
+    224
+    125
+    8
+  }
+  capital = 482
+  title = MEGASTRATEGOS
+  title_female = MEGASTRATEGISSA
+  foa = GRANDMASTER_FOA
+  landless = yes
+  holy_order = yes
+  culture = greek
+  religion = hellenic_pagan_reformed
+  primary = yes
+  monthly_income = 2
+  mercenary_type = myrmidons_composition
+}
+d_sunni_turkic_company = {
+  color = {
+    130
+    173
+    70
+  }
+  color2 = {
+    255
+    255
+    255
+  }
+  capital = 621
+  religion = sunni
+  culture = turkish
+  mercenary = yes
+  title = CAPTAIN
+  foa = CAPTAIN_FOA
+  landless = yes
+  primary = yes
+  independent = yes
+  strength_growth_per_century = 1.0
+  mercenary_type = muslim_turkic_company_composition
+}
+d_sunni_cuman_company = {
+  color = {
+    134
+    155
+    30
+  }
+  color2 = {
+    255
+    255
+    255
+  }
+  capital = 616
+  allow = {
+    conditional_tooltip = {
+      trigger = {
+        NOT = {
+          is_alternate_start = yes
+        }
+      }
+      OR = {
+        religion_group = muslim
+        religion_group = zoroastrian_group
+      }
+    }
+  }
+  religion = sunni
+  culture = khazar
+  mercenary = yes
+  title = CAPTAIN
+  foa = CAPTAIN_FOA
+  landless = yes
+  primary = yes
+  independent = yes
+  strength_growth_per_century = 1.0
+  mercenary_type = muslim_cuman_company_composition
+}
+d_sunni_berber_company = {
+  color = {
+    85
+    155
+    33
+  }
+  color2 = {
+    255
+    255
+    255
+  }
+  capital = 833
+  allow = {
+    conditional_tooltip = {
+      trigger = {
+        NOT = {
+          is_alternate_start = yes
+        }
+      }
+      OR = {
+        religion_group = muslim
+        religion_group = zoroastrian_group
+      }
+    }
+  }
+  religion = sunni
+  culture = maghreb_arabic
+  mercenary = yes
+  title = CAPTAIN
+  foa = CAPTAIN_FOA
+  landless = yes
+  primary = yes
+  independent = yes
+  strength_growth_per_century = 1.0
+  mercenary_type = berber_company_composition
+}
+d_sunni_bedouin_company = {
+  color = {
+    45
+    155
+    35
+  }
+  color2 = {
+    255
+    255
+    255
+  }
+  capital = 862
+  allow = {
+    conditional_tooltip = {
+      trigger = {
+        NOT = {
+          is_alternate_start = yes
+        }
+      }
+      OR = {
+        religion_group = muslim
+        religion_group = zoroastrian_group
+      }
+    }
+  }
+  religion = sunni
+  culture = bedouin_arabic
+  mercenary = yes
+  title = CAPTAIN
+  foa = CAPTAIN_FOA
+  landless = yes
+  primary = yes
+  independent = yes
+  strength_growth_per_century = 1.0
+  mercenary_type = bedouin_company_composition
+}
+d_shiite_turkic_company = {
+  color = {
+    135
+    170
+    60
+  }
+  color2 = {
+    255
+    255
+    255
+  }
+  capital = 621
+  religion = shiite
+  culture = turkish
+  mercenary = yes
+  title = CAPTAIN
+  foa = CAPTAIN_FOA
+  landless = yes
+  primary = yes
+  independent = yes
+  strength_growth_per_century = 1.0
+  mercenary_type = muslim_turkic_company_composition
+}
+d_shiite_cuman_company = {
+  color = {
+    130
+    150
+    30
+  }
+  color2 = {
+    255
+    255
+    255
+  }
+  capital = 616
+  allow = {
+    conditional_tooltip = {
+      trigger = {
+        NOT = {
+          is_alternate_start = yes
+        }
+      }
+      OR = {
+        religion_group = muslim
+        religion_group = zoroastrian_group
+      }
+    }
+  }
+  religion = shiite
+  culture = cuman
+  mercenary = yes
+  title = CAPTAIN
+  foa = CAPTAIN_FOA
+  landless = yes
+  primary = yes
+  independent = yes
+  strength_growth_per_century = 1.0
+  mercenary_type = muslim_cuman_company_composition
+}
+d_shiite_berber_company = {
+  color = {
+    90
+    150
+    30
+  }
+  color2 = {
+    255
+    255
+    255
+  }
+  capital = 833
+  allow = {
+    conditional_tooltip = {
+      trigger = {
+        NOT = {
+          is_alternate_start = yes
+        }
+      }
+      OR = {
+        religion_group = muslim
+        religion_group = zoroastrian_group
+      }
+    }
+  }
+  religion = shiite
+  culture = maghreb_arabic
+  mercenary = yes
+  title = CAPTAIN
+  foa = CAPTAIN_FOA
+  landless = yes
+  primary = yes
+  independent = yes
+  strength_growth_per_century = 1.0
+  mercenary_type = berber_company_composition
+}
+d_shiite_bedouin_company = {
+  color = {
+    40
+    150
+    30
+  }
+  color2 = {
+    255
+    255
+    255
+  }
+  capital = 862
+  allow = {
+    conditional_tooltip = {
+      trigger = {
+        NOT = {
+          is_alternate_start = yes
+        }
+      }
+      OR = {
+        religion_group = muslim
+        religion_group = zoroastrian_group
+      }
+    }
+  }
+  religion = shiite
+  culture = bedouin_arabic
+  mercenary = yes
+  title = CAPTAIN
+  foa = CAPTAIN_FOA
+  landless = yes
+  primary = yes
+  independent = yes
+  strength_growth_per_century = 1.0
+  mercenary_type = bedouin_company_composition
+}
+d_white_company = {
+  color = {
+    235
+    235
+    235
+  }
+  color2 = {
+    255
+    255
+    255
+  }
+  capital = 72
+  allow = {
+    conditional_tooltip = {
+      trigger = {
+        NOT = {
+          is_alternate_start = yes
+        }
+      }
+      religion_group = christian
+    }
+  }
+  religion = catholic
+  mercenary = yes
+  title = CAPTAIN
+  foa = CAPTAIN_FOA
+  landless = yes
+  primary = yes
+  independent = yes
+  strength_growth_per_century = 1.0
+  mercenary_type = white_company_composition
+}
+d_great_company = {
+  color = {
+    100
+    100
+    100
+  }
+  color2 = {
+    255
+    255
+    255
+  }
+  capital = 361
+  allow = {
+    conditional_tooltip = {
+      trigger = {
+        NOT = {
+          is_alternate_start = yes
+        }
+      }
+      religion_group = christian
+    }
+  }
+  religion = catholic
+  mercenary = yes
+  title = CAPTAIN
+  foa = CAPTAIN_FOA
+  landless = yes
+  primary = yes
+  independent = yes
+  strength_growth_per_century = 1.0
+  mercenary_type = great_company_composition
+}
+d_company_of_st_george = {
+  color = {
+    50
+    50
+    200
+  }
+  color2 = {
+    255
+    255
+    255
+  }
+  capital = 235
+  allow = {
+    conditional_tooltip = {
+      trigger = {
+        NOT = {
+          is_alternate_start = yes
+        }
+      }
+      religion_group = christian
+    }
+  }
+  religion = catholic
+  mercenary = yes
+  title = CONDOTTIERO
+  foa = CONDOTTIERO_FOA
+  landless = yes
+  primary = yes
+  independent = yes
+  strength_growth_per_century = 1.0
+  mercenary_type = company_of_st_george_composition
+}
+d_star_company = {
+  color = {
+    200
+    80
+    200
+  }
+  color2 = {
+    255
+    255
+    255
+  }
+  capital = 353
+  allow = {
+    conditional_tooltip = {
+      trigger = {
+        NOT = {
+          is_alternate_start = yes
+        }
+      }
+      religion_group = christian
+    }
+  }
+  religion = catholic
+  mercenary = yes
+  title = CONDOTTIERO
+  foa = CONDOTTIERO_FOA
+  landless = yes
+  primary = yes
+  independent = yes
+  strength_growth_per_century = 1.0
+  mercenary_type = star_company_composition
+}
+d_little_hat_company = {
+  color = {
+    100
+    200
+    80
+  }
+  color2 = {
+    255
+    255
+    255
+  }
+  capital = 354
+  allow = {
+    conditional_tooltip = {
+      trigger = {
+        NOT = {
+          is_alternate_start = yes
+        }
+      }
+      religion_group = christian
+    }
+  }
+  religion = catholic
+  mercenary = yes
+  title = CONDOTTIERO
+  foa = CONDOTTIERO_FOA
+  landless = yes
+  primary = yes
+  independent = yes
+  strength_growth_per_century = 1.0
+  mercenary_type = little_hat_company_composition
+}
+d_rose_company = {
+  color = {
+    230
+    150
+    150
+  }
+  color2 = {
+    255
+    255
+    255
+  }
+  capital = 355
+  allow = {
+    conditional_tooltip = {
+      trigger = {
+        NOT = {
+          is_alternate_start = yes
+        }
+      }
+      religion_group = christian
+    }
+  }
+  religion = catholic
+  mercenary = yes
+  title = CONDOTTIERO
+  foa = CONDOTTIERO_FOA
+  landless = yes
+  primary = yes
+  independent = yes
+  strength_growth_per_century = 1.0
+  mercenary_type = rose_company_composition
+}
+d_catalan_company = {
+  color = {
+    230
+    100
+    100
+  }
+  color2 = {
+    255
+    255
+    255
+  }
+  capital = 204
+  mercenary = yes
+  allow = {
+    conditional_tooltip = {
+      trigger = {
+        NOT = {
+          is_alternate_start = yes
+        }
+      }
+      religion_group = christian
+      year = 950
+    }
+  }
+  religion = catholic
+  culture = catalan
+  title = CONDOTTIERO
+  foa = CONDOTTIERO_FOA
+  landless = yes
+  primary = yes
+  independent = yes
+  strength_growth_per_century = 1.0
+  mercenary_type = catalan_company_composition
+}
+d_navarrese_company = {
+  color = {
+    150
+    150
+    100
+  }
+  color2 = {
+    255
+    255
+    255
+  }
+  title = CONDOTTIERO
+  foa = CONDOTTIERO_FOA
+  capital = 152
+  mercenary = yes
+  allow = {
+    conditional_tooltip = {
+      trigger = {
+        NOT = {
+          is_alternate_start = yes
+        }
+      }
+      religion_group = christian
+    }
+  }
+  religion = catholic
+  culture = basque
+  landless = yes
+  primary = yes
+  independent = yes
+  strength_growth_per_century = 1.0
+  mercenary_type = navarrese_company_composition
+}
+d_swiss_company = {
+  color = {
+    150
+    40
+    40
+  }
+  color2 = {
+    255
+    255
+    255
+  }
+  capital = 239
+  allow = {
+    conditional_tooltip = {
+      trigger = {
+        NOT = {
+          is_alternate_start = yes
+        }
+      }
+      religion_group = christian
+    }
+  }
+  religion = catholic
+  mercenary = yes
+  title = CAPTAIN
+  foa = CAPTAIN_FOA
+  landless = yes
+  primary = yes
+  independent = yes
+  strength_growth_per_century = 1.0
+  mercenary_type = swiss_company_composition
+}
+d_breton_company = {
+  color = {
+    150
+    40
+    40
+  }
+  color2 = {
+    255
+    255
+    255
+  }
+  capital = 102
+  allow = {
+    conditional_tooltip = {
+      trigger = {
+        NOT = {
+          is_alternate_start = yes
+        }
+      }
+      religion_group = christian
+    }
+  }
+  religion = catholic
+  culture = breton
+  mercenary = yes
+  title = CAPTAIN
+  foa = CAPTAIN_FOA
+  landless = yes
+  primary = yes
+  independent = yes
+  strength_growth_per_century = 1.0
+  mercenary_type = breton_company_composition
+}
+d_sardinian_company = {
+  color = {
+    210
+    165
+    165
+  }
+  color2 = {
+    255
+    255
+    255
+  }
+  capital = 326
+  allow = {
+    conditional_tooltip = {
+      trigger = {
+        NOT = {
+          is_alternate_start = yes
+        }
+      }
+      religion_group = christian
+    }
+  }
+  religion = catholic
+  culture = italian
+  mercenary = yes
+  title = CAPTAIN
+  foa = CAPTAIN_FOA
+  landless = yes
+  primary = yes
+  independent = yes
+  strength_growth_per_century = 1.0
+  mercenary_type = sardinian_company_composition
+}
+d_sardinian_band = {
+  color = {
+    210
+    65
+    65
+  }
+  color2 = {
+    255
+    255
+    255
+  }
+  capital = 325
+  allow = {
+    conditional_tooltip = {
+      trigger = {
+        NOT = {
+          is_alternate_start = yes
+        }
+      }
+      religion_group = christian
+    }
+  }
+  religion = catholic
+  culture = italian
+  mercenary = yes
+  title = CAPTAIN
+  foa = CAPTAIN_FOA
+  landless = yes
+  primary = yes
+  independent = yes
+  strength_growth_per_century = 1.0
+  mercenary_type = sardinian_band_composition
+}
+d_victual_brothers = {
+  color = {
+    160
+    160
+    160
+  }
+  color2 = {
+    255
+    255
+    255
+  }
+  capital = 370
+  allow = {
+    conditional_tooltip = {
+      trigger = {
+        NOT = {
+          is_alternate_start = yes
+        }
+      }
+      OR = {
+        religion = norse_pagan
+        religion = norse_pagan_reformed
+        religion = baltic_pagan
+        religion = baltic_pagan_reformed
+        religion = finnish_pagan
+        religion = finnish_pagan_reformed
+        religion_group = christian
+      }
+    }
+  }
+  religion = catholic
+  mercenary = yes
+  mercenary_type = victual_brothers_composition
+  title = CAPTAIN
+  foa = CAPTAIN_FOA
+  landless = yes
+  primary = yes
+  independent = yes
+  strength_growth_per_century = 0.25
+}
+d_varangian_guard = {
+  color = {
+    180
+    180
+    180
+  }
+  color2 = {
+    255
+    255
+    255
+  }
+  graphical_culture = orthodoxholygfx
+  capital = 290
+  religion = orthodox
+  culture = norse
+  mercenary = yes
+  title = CAPTAIN
+  foa = CAPTAIN_FOA
+  title_female = CAPTAIN_FEMALE
+  landless = yes
+  primary = yes
+  strength_growth_per_century = 1.0
+  mercenary_type = varangian_guard_composition
+}
+d_cuman_company = {
+  color = {
+    160
+    160
+    80
+  }
+  color2 = {
+    255
+    255
+    255
+  }
+  capital = 616
+  religion = orthodox
+  culture = cuman
+  mercenary = yes
+  title = CAPTAIN
+  foa = CAPTAIN_FOA
+  landless = yes
+  primary = yes
+  independent = yes
+  strength_growth_per_century = 1.0
+  mercenary_type = cuman_company_composition
+}
+d_rus_company = {
+  color = {
+    80
+    80
+    160
+  }
+  color2 = {
+    255
+    255
+    255
+  }
+  capital = 547
+  allow = {
+    conditional_tooltip = {
+      trigger = {
+        NOT = {
+          is_alternate_start = yes
+        }
+      }
+      year = 950
+      OR = {
+        religion_group = pagan_group
+        religion_group = christian
+      }
+    }
+  }
+  religion = orthodox
+  culture = russian
+  mercenary = yes
+  title = CAPTAIN
+  foa = CAPTAIN_FOA
+  landless = yes
+  primary = yes
+  independent = yes
+  strength_growth_per_century = 1.0
+  mercenary_type = rus_company_composition
+}
+d_pecheneg_company = {
+  color = {
+    100
+    100
+    30
+  }
+  color2 = {
+    255
+    255
+    255
+  }
+  capital = 542
+  religion = orthodox
+  culture = pecheneg
+  mercenary = yes
+  title = CAPTAIN
+  foa = CAPTAIN_FOA
+  landless = yes
+  primary = yes
+  independent = yes
+  strength_growth_per_century = 1.0
+  mercenary_type = pecheneg_company_composition
+}
+d_bulgarian_company = {
+  color = {
+    100
+    50
+    30
+  }
+  color2 = {
+    255
+    255
+    255
+  }
+  capital = 508
+  religion = orthodox
+  culture = bulgarian
+  mercenary = yes
+  title = CAPTAIN
+  foa = CAPTAIN_FOA
+  landless = yes
+  primary = yes
+  independent = yes
+  strength_growth_per_century = 1.0
+  mercenary_type = bulgarian_company_composition
+}
+d_turkic_company = {
+  color = {
+    100
+    50
+    30
+  }
+  color2 = {
+    255
+    255
+    255
+  }
+  capital = 621
+  religion = orthodox
+  culture = turkish
+  mercenary = yes
+  title = CAPTAIN
+  foa = CAPTAIN_FOA
+  landless = yes
+  primary = yes
+  independent = yes
+  strength_growth_per_century = 1.0
+  mercenary_type = turkic_company_composition
+}
+d_lombard_band = {
+  color = {
+    150
+    60
+    60
+  }
+  color2 = {
+    255
+    255
+    255
+  }
+  capital = 235
+  allow = {
+    conditional_tooltip = {
+      trigger = {
+        NOT = {
+          is_alternate_start = yes
+        }
+      }
+      religion_group = christian
+    }
+  }
+  religion = catholic
+  mercenary = yes
+  title = CONDOTTIERO
+  foa = CONDOTTIERO_FOA
+  landless = yes
+  primary = yes
+  independent = yes
+  strength_growth_per_century = 1.0
+  mercenary_type = lombard_band_composition
+}
+d_swiss_band = {
+  color = {
+    150
+    40
+    40
+  }
+  color2 = {
+    255
+    255
+    255
+  }
+  capital = 239
+  allow = {
+    conditional_tooltip = {
+      trigger = {
+        NOT = {
+          is_alternate_start = yes
+        }
+      }
+      religion_group = christian
+    }
+  }
+  religion = catholic
+  mercenary = yes
+  title = CAPTAIN
+  foa = CAPTAIN_FOA
+  landless = yes
+  primary = yes
+  independent = yes
+  strength_growth_per_century = 1.0
+  mercenary_type = swiss_band_composition
+}
+d_breton_band = {
+  color = {
+    150
+    65
+    65
+  }
+  color2 = {
+    255
+    255
+    255
+  }
+  capital = 102
+  allow = {
+    conditional_tooltip = {
+      trigger = {
+        NOT = {
+          is_alternate_start = yes
+        }
+      }
+      religion_group = christian
+    }
+  }
+  religion = catholic
+  culture = breton
+  mercenary = yes
+  title = CAPTAIN
+  foa = CAPTAIN_FOA
+  landless = yes
+  primary = yes
+  independent = yes
+  strength_growth_per_century = 1.0
+  mercenary_type = breton_band_composition
+}
+d_catalan_band = {
+  color = {
+    230
+    100
+    100
+  }
+  color2 = {
+    255
+    255
+    255
+  }
+  capital = 204
+  mercenary = yes
+  allow = {
+    conditional_tooltip = {
+      trigger = {
+        NOT = {
+          is_alternate_start = yes
+        }
+      }
+      religion_group = christian
+      year = 950
+    }
+  }
+  religion = catholic
+  culture = catalan
+  title = CONDOTTIERO
+  foa = CONDOTTIERO_FOA
+  landless = yes
+  primary = yes
+  independent = yes
+  strength_growth_per_century = 1.0
+  mercenary_type = catalan_band_composition
+}
+d_saxon_band = {
+  color = {
+    220
+    90
+    90
+  }
+  color2 = {
+    255
+    255
+    255
+  }
+  capital = 57
+  mercenary = yes
+  allow = {
+    conditional_tooltip = {
+      trigger = {
+        NOT = {
+          is_alternate_start = yes
+        }
+      }
+      OR = {
+        NOT = {
+          year = 1100
+        }
+        any_independent_ruler = {
+          culture = saxon
+        }
+      }
+      religion_group = christian
+    }
+  }
+  religion = catholic
+  culture = saxon
+  title = CAPTAIN
+  foa = CAPTAIN_FOA
+  landless = yes
+  primary = yes
+  independent = yes
+  strength_growth_per_century = 1.0
+  mercenary_type = saxon_band_composition
+}
+d_cuman_band = {
+  color = {
+    160
+    160
+    80
+  }
+  color2 = {
+    255
+    255
+    255
+  }
+  capital = 616
+  religion = orthodox
+  culture = cuman
+  mercenary = yes
+  title = CAPTAIN
+  foa = CAPTAIN_FOA
+  landless = yes
+  primary = yes
+  independent = yes
+  strength_growth_per_century = 1.0
+  mercenary_type = cuman_band_composition
+}
+d_rus_band = {
+  color = {
+    80
+    80
+    160
+  }
+  color2 = {
+    255
+    255
+    255
+  }
+  capital = 547
+  allow = {
+    conditional_tooltip = {
+      trigger = {
+        NOT = {
+          is_alternate_start = yes
+        }
+      }
+      year = 950
+      OR = {
+        religion_group = christian
+        religion_group = pagan_group
+      }
+    }
+  }
+  religion = orthodox
+  culture = russian
+  mercenary = yes
+  title = CAPTAIN
+  foa = CAPTAIN_FOA
+  landless = yes
+  primary = yes
+  independent = yes
+  strength_growth_per_century = 1.0
+  mercenary_type = rus_band_composition
+}
+d_finnish_band = {
+  color = {
+    131
+    35
+    35
+  }
+  color2 = {
+    255
+    255
+    255
+  }
+  capital = 383
+  allow = {
+    conditional_tooltip = {
+      trigger = {
+        NOT = {
+          is_alternate_start = yes
+        }
+      }
+      OR = {
+        religion_group = christian
+        religion_group = pagan_group
+      }
+    }
+  }
+  religion = finnish_pagan
+  culture = finnish
+  mercenary = yes
+  title = CAPTAIN
+  foa = CAPTAIN_FOA
+  landless = yes
+  primary = yes
+  independent = yes
+  strength_growth_per_century = 1.0
+  mercenary_type = finnish_band_composition
+}
+d_lappish_band = {
+  color = {
+    101
+    69
+    30
+  }
+  color2 = {
+    255
+    255
+    255
+  }
+  capital = 386
+  allow = {
+    conditional_tooltip = {
+      trigger = {
+        NOT = {
+          is_alternate_start = yes
+        }
+      }
+      OR = {
+        religion_group = christian
+        religion_group = pagan_group
+      }
+    }
+  }
+  religion = finnish_pagan
+  culture = lappish
+  mercenary = yes
+  title = CAPTAIN
+  foa = CAPTAIN_FOA
+  landless = yes
+  primary = yes
+  independent = yes
+  strength_growth_per_century = 1.0
+  mercenary_type = lappish_band_composition
+}
+d_lithuanian_band = {
+  color = {
+    169
+    90
+    95
+  }
+  color2 = {
+    255
+    255
+    255
+  }
+  capital = 421
+  allow = {
+    conditional_tooltip = {
+      trigger = {
+        NOT = {
+          is_alternate_start = yes
+        }
+      }
+      OR = {
+        religion_group = christian
+        religion_group = pagan_group
+      }
+    }
+  }
+  religion = baltic_pagan
+  culture = lithuanian
+  mercenary = yes
+  title = CAPTAIN
+  foa = CAPTAIN_FOA
+  landless = yes
+  primary = yes
+  independent = yes
+  strength_growth_per_century = 1.0
+  mercenary_type = lithuanian_band_composition
+}
+d_abyssinian_band = {
+  color = {
+    180
+    135
+    60
+  }
+  color2 = {
+    255
+    255
+    255
+  }
+  capital = 875
+  allow = {
+    conditional_tooltip = {
+      trigger = {
+        NOT = {
+          is_alternate_start = yes
+        }
+      }
+      OR = {
+        religion_group = christian
+        religion_group = jewish_group
+      }
+    }
+  }
+  religion = miaphysite
+  culture = ethiopian
+  mercenary = yes
+  title = CAPTAIN
+  foa = CAPTAIN_FOA
+  landless = yes
+  primary = yes
+  independent = yes
+  strength_growth_per_century = 1.0
+  mercenary_type = abyssinian_band_composition
+}
+d_nubian_band = {
+  color = {
+    155
+    165
+    80
+  }
+  color2 = {
+    255
+    255
+    255
+  }
+  capital = 878
+  allow = {
+    conditional_tooltip = {
+      trigger = {
+        NOT = {
+          is_alternate_start = yes
+        }
+      }
+      OR = {
+        religion_group = christian
+        religion_group = jewish_group
+      }
+    }
+  }
+  religion = miaphysite
+  culture = nubian
+  mercenary = yes
+  title = CAPTAIN
+  foa = CAPTAIN_FOA
+  landless = yes
+  primary = yes
+  independent = yes
+  strength_growth_per_century = 1.0
+  mercenary_type = nubian_band_composition
+}
+d_scottish_band = {
+  color = {
+    30
+    90
+    182
+  }
+  color2 = {
+    255
+    255
+    255
+  }
+  capital = 43
+  allow = {
+    conditional_tooltip = {
+      trigger = {
+        NOT = {
+          is_alternate_start = yes
+        }
+      }
+      year = 950
+    }
+  }
+  religion = catholic
+  culture = scottish
+  mercenary = yes
+  title = CAPTAIN
+  foa = CAPTAIN_FOA
+  landless = yes
+  primary = yes
+  independent = yes
+  strength_growth_per_century = 1.0
+  mercenary_type = scottish_band_composition
+}
+d_irish_band = {
+  color = {
+    112
+    255
+    70
+  }
+  color2 = {
+    255
+    255
+    255
+  }
+  capital = 10
+  allow = {
+    always = yes
+  }
+  religion = catholic
+  culture = irish
+  mercenary = yes
+  title = CAPTAIN
+  foa = CAPTAIN_FOA
+  landless = yes
+  primary = yes
+  independent = yes
+  strength_growth_per_century = 1.0
+  mercenary_type = irish_band_composition
+}
+d_alan_band = {
+  color = {
+    245
+    210
+    90
+  }
+  color2 = {
+    255
+    255
+    255
+  }
+  capital = 603
+  allow = {
+    always = yes
+  }
+  religion = orthodox
+  culture = alan
+  mercenary = yes
+  title = CAPTAIN
+  foa = CAPTAIN_FOA
+  landless = yes
+  primary = yes
+  independent = yes
+  strength_growth_per_century = 1.0
+  mercenary_type = alan_band_composition
+}
+d_pecheneg_band = {
+  color = {
+    100
+    100
+    30
+  }
+  color2 = {
+    255
+    255
+    255
+  }
+  capital = 542
+  religion = orthodox
+  culture = pecheneg
+  mercenary = yes
+  title = CAPTAIN
+  foa = CAPTAIN_FOA
+  landless = yes
+  primary = yes
+  independent = yes
+  strength_growth_per_century = 1.0
+  mercenary_type = pecheneg_band_composition
+}
+d_bulgarian_band = {
+  color = {
+    100
+    50
+    30
+  }
+  color2 = {
+    255
+    255
+    255
+  }
+  capital = 508
+  religion = orthodox
+  culture = bulgarian
+  mercenary = yes
+  title = CAPTAIN
+  foa = CAPTAIN_FOA
+  landless = yes
+  primary = yes
+  independent = yes
+  strength_growth_per_century = 1.0
+  mercenary_type = bulgarian_band_composition
+}
+d_turkic_band = {
+  color = {
+    100
+    50
+    30
+  }
+  color2 = {
+    255
+    255
+    255
+  }
+  capital = 621
+  religion = orthodox
+  culture = turkish
+  mercenary = yes
+  title = CAPTAIN
+  foa = CAPTAIN_FOA
+  landless = yes
+  primary = yes
+  independent = yes
+  strength_growth_per_century = 1.0
+  mercenary_type = turkic_band_composition
+}
+d_mamluks = {
+  color = {
+    80
+    160
+    80
+  }
+  color2 = {
+    255
+    255
+    255
+  }
+  graphical_culture = bektashigfx
+  capital = 796
+  allow = {
+    conditional_tooltip = {
+      trigger = {
+        NOT = {
+          is_alternate_start = yes
+        }
+      }
+      religion_group = muslim
+    }
+  }
+  religion = shiite
+  mercenary = yes
+  title = CAPTAIN
+  foa = CAPTAIN_FOA
+  landless = yes
+  primary = yes
+  strength_growth_per_century = 1.0
+  mercenary_type = mamluks_composition
+}
+d_venetian_navy = {
+  color = {
+    60
+    175
+    170
+  }
+  color2 = {
+    255
+    255
+    255
+  }
+  short_name = yes
+  capital = 356
+  allow = {
+    conditional_tooltip = {
+      trigger = {
+        NOT = {
+          is_alternate_start = yes
+        }
+      }
+      religion_group = christian
+      year = 1066
+    }
+  }
+  religion = catholic
+  mercenary = yes
+  title = CAPTAIN
+  foa = CAPTAIN_FOA
+  landless = yes
+  primary = yes
+  independent = yes
+  mercenary_type = naval_merc_composition
+}
+d_genoese_navy = {
+  color = {
+    224
+    161
+    120
+  }
+  color2 = {
+    255
+    255
+    255
+  }
+  short_name = yes
+  capital = 233
+  allow = {
+    conditional_tooltip = {
+      trigger = {
+        NOT = {
+          is_alternate_start = yes
+        }
+      }
+      religion_group = christian
+      year = 1066
+    }
+  }
+  religion = catholic
+  mercenary = yes
+  title = CAPTAIN
+  foa = CAPTAIN_FOA
+  landless = yes
+  primary = yes
+  independent = yes
+  mercenary_type = naval_merc_composition
+}
+d_hanseatic_navy = {
+  color = {
+    150
+    150
+    150
+  }
+  color2 = {
+    255
+    255
+    255
+  }
+  short_name = yes
+  capital = 262
+  allow = {
+    conditional_tooltip = {
+      trigger = {
+        NOT = {
+          is_alternate_start = yes
+        }
+      }
+      religion_group = christian
+      year = 1066
+    }
+  }
+  religion = catholic
+  mercenary = yes
+  title = CAPTAIN
+  foa = CAPTAIN_FOA
+  landless = yes
+  primary = yes
+  independent = yes
+  mercenary_type = naval_merc_composition
+}
+d_frisian_navy = {
+  color = {
+    245
+    80
+    20
+  }
+  color2 = {
+    255
+    255
+    255
+  }
+  short_name = yes
+  capital = 80
+  allow = {
+    conditional_tooltip = {
+      trigger = {
+        NOT = {
+          is_alternate_start = yes
+        }
+      }
+      religion_group = christian
+      year = 1066
+    }
+  }
+  religion = catholic
+  mercenary = yes
+  title = CAPTAIN
+  foa = CAPTAIN_FOA
+  landless = yes
+  primary = yes
+  independent = yes
+  mercenary_type = naval_merc_composition
+}
+d_maghreb_corsairs = {
+  color = {
+    174
+    237
+    125
+  }
+  color2 = {
+    255
+    255
+    255
+  }
+  short_name = yes
+  capital = 816
+  allow = {
+    conditional_tooltip = {
+      trigger = {
+        NOT = {
+          is_alternate_start = yes
+        }
+      }
+      religion_group = muslim
+      year = 1066
+    }
+  }
+  religion = sunni
+  culture = maghreb_arabic
+  mercenary = yes
+  title = CAPTAIN
+  foa = CAPTAIN_FOA
+  landless = yes
+  primary = yes
+  independent = yes
+  mercenary_type = naval_merc_composition
+}
+d_ghilman = {
+  color = {
+    60
+    165
+    80
+  }
+  color2 = {
+    255
+    255
+    255
+  }
+  graphical_culture = bektashigfx
+  capital = 627
+  allow = {
+    conditional_tooltip = {
+      trigger = {
+        NOT = {
+          is_alternate_start = yes
+        }
+      }
+      religion_group = muslim
+    }
+  }
+  religion = sunni
+  mercenary = yes
+  title = CAPTAIN
+  foa = CAPTAIN_FOA
+  landless = yes
+  primary = yes
+  strength_growth_per_century = 1.0
+  mercenary_type = ghilman_composition
+}
+d_ghanan_band = {
+  color = {
+    108
+    123
+    48
+  }
+  color2 = {
+    255
+    255
+    255
+  }
+  capital = 913
+  allow = {
+    conditional_tooltip = {
+      trigger = {
+        NOT = {
+          is_alternate_start = yes
+        }
+      }
+      culture_group = west_african
+    }
+  }
+  religion = west_african_pagan
+  culture = manden
+  mercenary = yes
+  title = CAPTAIN
+  foa = CAPTAIN_FOA
+  landless = yes
+  primary = yes
+  independent = yes
+  strength_growth_per_century = 1.0
+  mercenary_type = ghanan_band_composition
+}
+d_abbasid = {
+  color = {
+    19
+    180
+    16
+  }
+  allow = {
+    always = no
+  }
+}
+d_oxford = {
+  color = {
+    255
+    108
+    0
+  }
+  color2 = {
+    255
+    255
+    255
+  }
+  capital = 22
+  allow = {
+    always = no
+  }
+}
+d_arabia_felix = {
+  color = {
+    163
+    254
+    56
+  }
+  capital = 860
+}
+d_arabs = {
+  color = {
+    38
+    157
+    35
+  }
+  culture = bedouin_arabic
+}
+d_assassin = {
+  color = {
+    58
+    97
+    57
+  }
+}
+d_balearic = {
+  color = {
+    13
+    170
+    54
+  }
+}
+d_belgrade = {
+  color = {
+    151
+    125
+    62
+  }
+}
+d_bergen = {
+  color = {
+    47
+    27
+    255
+  }
+}
+d_bordeaux = {
+  color = {
+    59
+    15
+    248
+  }
+}
+d_braganza = {
+  color = {
+    219
+    195
+    35
+  }
+}
+d_butrinto = {
+  color = {
+    148
+    68
+    154
+  }
+}
+d_campania = {
+  color = {
+    226
+    204
+    228
+  }
+}
+d_catalonia = {
+  color = {
+    255
+    210
+    57
+  }
+}
+d_chaldea = {
+  color = {
+    107
+    159
+    41
+  }
+}
+d_cumberland = {
+  color = {
+    31
+    186
+    244
+  }
+}
+d_curonian = {
+  color = {
+    141
+    55
+    29
+  }
+  allow = {
+    always = no
+  }
+  capital = 373
+  culture = lettigallish
+  title = HIGH_CHIEF
+  foa = HIGH_CHIEF_FOA
+}
+d_danes = {
+  color = {
+    247
+    77
+    54
+  }
+  dignity = 10
+  capital = 266
+  allow = {
+    always = no
+  }
+  culture = norse
+}
+d_don = {
+  color = {
+    247
+    211
+    116
+  }
+}
+d_dorostotum = {
+  color = {
+    163
+    48
+    206
+  }
+}
+d_el_rif = {
+  color = {
+    29
+    241
+    64
+  }
+}
+d_el-arish = {
+  color = {
+    148
+    206
+    13
+  }
+}
+d_erzerum = {
+  color = {
+    103
+    84
+    255
+  }
+}
+d_estonia = {
+  color = {
+    94
+    60
+    22
+  }
+  capital = 378
+  allow = {
+    always = no
+  }
+  culture = ugricbaltic
+  title = HIGH_CHIEF
+  foa = HIGH_CHIEF_FOA
+}
+d_galatia = {
+  color = {
+    244
+    75
+    185
+  }
+}
+d_georgia = {
+  color = {
+    251
+    184
+    184
+  }
+}
+d_geats = {
+  color = {
+    35
+    57
+    180
+  }
+  dignity = 8
+  capital = 297
+  allow = {
+    always = no
+  }
+  culture = norse
+}
+d_hellas = {
+  color = {
+    213
+    73
+    165
+  }
+}
+d_ikonion = {
+  color = {
+    179
+    28
+    127
+  }
+}
+d_ingers = {
+  color = {
+    125
+    125
+    40
+  }
+  allow = {
+    always = no
+  }
+  culture = finnish
+  title = HIGH_CHIEF
+  foa = HIGH_CHIEF_FOA
+}
+d_kajaneborg = {
+  color = {
+    123
+    73
+    13
+  }
+  allow = {
+    always = no
+  }
+  culture = finnish
+  title = HIGH_CHIEF
+  foa = HIGH_CHIEF_FOA
+}
+d_kappadokia = {
+  color = {
+    255
+    3
+    170
+  }
+}
+d_karnten = {
+  color = {
+    229
+    254
+    242
+  }
+}
+d_kexholm = {
+  color = {
+    121
+    98
+    20
+  }
+  allow = {
+    always = no
+  }
+  culture = finnish
+  title = HIGH_CHIEF
+  foa = HIGH_CHIEF_FOA
+}
+d_khazars = {
+  color = {
+    246
+    217
+    137
+  }
+  capital = 594
+  culture = khazar
+  allow = {
+    always = no
+  }
+}
+d_kirkuk = {
+  color = {
+    142
+    182
+    255
+  }
+}
+d_sami = {
+  color = {
+    101
+    99
+    35
+  }
+  allow = {
+    always = no
+  }
+  culture = lappish
+  title = HIGH_CHIEF
+  foa = HIGH_CHIEF_FOA
+}
+d_krakow = {
+  color = {
+    253
+    129
+    129
+  }
+}
+d_laodikeia = {
+  color = {
+    163
+    52
+    125
+  }
+}
+d_lettigalians = {
+  color = {
+    126
+    51
+    51
+  }
+  allow = {
+    always = no
+  }
+  culture = lettigallish
+  title = HIGH_CHIEF
+  foa = HIGH_CHIEF_FOA
+}
+d_luristan = {
+  color = {
+    77
+    114
+    183
+  }
+}
+d_lut = {
+  color = {
+    119
+    170
+    29
+  }
+}
+d_lykia = {
+  color = {
+    121
+    42
+    93
+  }
+}
+d_mar = {
+  color = {
+    16
+    211
+    246
+  }
+}
+d_milano = {
+  color = {
+    252
+    238
+    227
+  }
+}
+d_muromians = {
+  color = {
+    160
+    120
+    75
+  }
+  capital = 581
+  allow = {
+    always = no
+  }
+  culture = mordvin
+  title = HIGH_CHIEF
+  foa = HIGH_CHIEF_FOA
+}
+d_nikomedeia = {
+  color = {
+    209
+    108
+    174
+  }
+}
+d_pechenegs = {
+  color = {
+    173
+    150
+    43
+  }
+  color2 = {
+    0
+    128
+    128
+  }
+  capital = 542
+  culture = pecheneg
+  allow = {
+    always = no
+  }
+}
+d_kimak = {
+  color = {
+    151
+    114
+    58
+  }
+  color2 = {
+    255
+    255
+    255
+  }
+}
+d_kirghiz = {
+  color = {
+    155
+    140
+    78
+  }
+  color2 = {
+    255
+    255
+    255
+  }
+}
+d_kipchak = {
+  color = {
+    131
+    84
+    50
+  }
+  color2 = {
+    255
+    255
+    255
+  }
+}
+d_pressburg = {
+  color = {
+    218
+    70
+    70
+  }
+}
+d_pronsk = {
+  color = {
+    23
+    132
+    81
+  }
+}
+d_pruthenians = {
+  color = {
+    159
+    195
+    75
+  }
+  allow = {
+    always = no
+  }
+  capital = 370
+  culture = prussian
+  title = HIGH_CHIEF
+  foa = HIGH_CHIEF_FOA
+}
+d_qom = {
+  color = {
+    188
+    229
+    116
+  }
+}
+d_romagna = {
+  color = {
+    243
+    234
+    157
+  }
+}
+d_salamanca = {
+  color = {
+    251
+    229
+    34
+  }
+}
+d_sames = {
+  color = {
+    101
+    70
+    34
+  }
+  allow = {
+    always = no
+  }
+  culture = samoyed
+  title = HIGH_CHIEF
+  foa = HIGH_CHIEF_FOA
+}
+d_sandomiersk = {
+  color = {
+    253
+    137
+    137
+  }
+}
+d_satakunta = {
+  color = {
+    117
+    47
+    47
+  }
+  allow = {
+    always = no
+  }
+  culture = finnish
+  title = HIGH_CHIEF
+  foa = HIGH_CHIEF_FOA
+}
+d_shiraz = {
+  color = {
+    155
+    189
+    97
+  }
+}
+d_sinope = {
+  color = {
+    255
+    6
+    172
+  }
+}
+d_slovakia = {
+  color = {
+    209
+    61
+    61
+  }
+}
+d_sweden = {
+  color = {
+    55
+    112
+    170
+  }
+  dignity = 10
+  capital = 290
+  allow = {
+    always = no
+  }
+  culture = norse
+}
+d_swiss = {
+  color = {
+    255
+    1
+    1
+  }
+  capital = 246
+  allow = {
+    conditional_tooltip = {
+      trigger = {
+        d_swiss = {
+          is_titular = yes
+        }
+      }
+      d_swiss = {
+        is_titular = no
+      }
+    }
+  }
+}
+d_tavasts = {
+  color = {
+    131
+    21
+    21
+  }
+  allow = {
+    always = no
+  }
+  culture = finnish
+  title = HIGH_CHIEF
+  foa = HIGH_CHIEF_FOA
+}
+d_meryas = {
+  color = {
+    131
+    41
+    41
+  }
+  capital = 574
+  allow = {
+    always = no
+  }
+  culture = mordvin
+  title = HIGH_CHIEF
+  foa = HIGH_CHIEF_FOA
+}
+d_veps = {
+  color = {
+    120
+    90
+    40
+  }
+  allow = {
+    always = no
+  }
+  culture = mordvin
+  title = HIGH_CHIEF
+  foa = HIGH_CHIEF_FOA
+}
+d_meshcheras = {
+  color = {
+    151
+    71
+    41
+  }
+  capital = 580
+  allow = {
+    always = no
+  }
+  culture = mordvin
+  title = HIGH_CHIEF
+  foa = HIGH_CHIEF_FOA
+}
+d_drevlians = {
+  color = {
+    167
+    195
+    129
+  }
+  capital = 548
+  allow = {
+    always = no
+  }
+  culture = volhynian
+  title = HIGH_CHIEF
+  foa = HIGH_CHIEF_FOA
+}
+d_varna = {
+  color = {
+    208
+    93
+    251
+  }
+}
+d_wielkopolska = {
+  color = {
+    252
+    144
+    144
+  }
+}
+d_vlachs = {
+  color = {
+    239
+    193
+    70
+  }
+}
+d_volga = {
+  color = {
+    168
+    135
+    47
+  }
+}
+d_votes = {
+  color = {
+    0
+    193
+    119
+  }
+  allow = {
+    always = no
+  }
+  culture = finnish
+  title = HIGH_CHIEF
+  foa = HIGH_CHIEF_FOA
+}
+d_zara = {
+  color = {
+    203
+    217
+    255
+  }
+}
+d_zaragoza = {
+  color = {
+    80
+    220
+    10
+  }
+}
+d_zemigalians = {
+  color = {
+    183
+    21
+    21
+  }
+  culture = lettigallish
+  allow = {
+    always = no
+  }
+  title = HIGH_CHIEF
+  foa = HIGH_CHIEF_FOA
+}
+d_lendians = {
+  color = {
+    245
+    163
+    176
+  }
+  color2 = {
+    255
+    255
+    255
+  }
+  culture = polish
+  capital = 527
+  allow = {
+    always = no
+  }
+  title = HIGH_CHIEF
+  foa = HIGH_CHIEF_FOA
+}
+d_kryvians = {
+  color = {
+    128
+    133
+    104
+  }
+  color2 = {
+    255
+    255
+    255
+  }
+  culture = russian
+  capital = 419
+  allow = {
+    always = no
+  }
+  title = HIGH_CHIEF
+  foa = HIGH_CHIEF_FOA
+}
+d_ilmenians = {
+  color = {
+    70
+    120
+    40
+  }
+  color2 = {
+    255
+    255
+    255
+  }
+  culture = russian
+  capital = 414
+  allow = {
+    always = no
+  }
+  title = HIGH_CHIEF
+  foa = HIGH_CHIEF_FOA
+}
+d_severians = {
+  color = {
+    120
+    155
+    40
+  }
+  color2 = {
+    255
+    255
+    255
+  }
+  culture = russian
+  capital = 567
+  allow = {
+    always = no
+  }
+  title = HIGH_CHIEF
+  foa = HIGH_CHIEF_FOA
+}
+d_vyatichi = {
+  color = {
+    169
+    183
+    125
+  }
+  color2 = {
+    255
+    255
+    255
+  }
+  culture = russian
+  capital = 570
+  allow = {
+    always = no
+  }
+  title = HIGH_CHIEF
+  foa = HIGH_CHIEF_FOA
+}
+d_dregovichi = {
+  color = {
+    100
+    100
+    20
+  }
+  color2 = {
+    255
+    255
+    255
+  }
+  culture = russian
+  capital = 548
+  allow = {
+    always = no
+  }
+  title = HIGH_CHIEF
+  foa = HIGH_CHIEF_FOA
+}
+d_radimichi = {
+  color = {
+    110
+    136
+    68
+  }
+  color2 = {
+    255
+    255
+    255
+  }
+  culture = russian
+  capital = 551
+  allow = {
+    always = no
+  }
+  title = HIGH_CHIEF
+  foa = HIGH_CHIEF_FOA
+}
+d_glomacze = {
+  color = {
+    215
+    143
+    156
+  }
+  color2 = {
+    255
+    255
+    255
+  }
+  culture = pommeranian
+  capital = 312
+  allow = {
+    always = no
+  }
+  title = HIGH_CHIEF
+  foa = HIGH_CHIEF_FOA
+}
+d_sorbs = {
+  color = {
+    170
+    205
+    110
+  }
+  color2 = {
+    255
+    255
+    255
+  }
+  culture = pommeranian
+  capital = 364
+  allow = {
+    always = no
+  }
+  title = HIGH_CHIEF
+  foa = HIGH_CHIEF_FOA
+}
+d_obotrites = {
+  color = {
+    100
+    110
+    20
+  }
+  color2 = {
+    255
+    255
+    255
+  }
+  culture = pommeranian
+  capital = 260
+  allow = {
+    always = no
+  }
+  title = HIGH_CHIEF
+  foa = HIGH_CHIEF_FOA
+}
+d_thessalia = {
+  color = {
+    198
+    28
+    139
+  }
+  color2 = {
+    255
+    255
+    20
+  }
+  allow = {
+    conditional_tooltip = {
+      trigger = {
+        d_thessalia = {
+          is_titular = yes
+        }
+      }
+      d_thessalia = {
+        is_titular = no
+      }
+    }
+  }
+}
+d_peloponnese = {
+  color = {
+    196
+    35
+    140
+  }
+  color2 = {
+    255
+    255
+    20
+  }
+  allow = {
+    conditional_tooltip = {
+      trigger = {
+        d_peloponnese = {
+          is_titular = yes
+        }
+      }
+      d_peloponnese = {
+        is_titular = no
+      }
+    }
+  }
+}
+k_pechenegs = {
+  color = {
+    173
+    150
+    43
+  }
+  color2 = {
+    0
+    128
+    128
+  }
+  capital = 543
+  culture = pecheneg
+  allow = {
+    always = no
+  }
+}
+k_almohad = {
+  color = {
+    0
+    105
+    56
+  }
+}
+k_al-murabitids = {
+  color = {
+    10
+    105
+    56
+  }
+}
+k_beni_helal = {
+  color = {
+    128
+    163
+    56
+  }
+}
+k_fatimids = {
+  color = {
+    10
+    140
+    4
+  }
+  color2 = {
+    200
+    200
+    0
+  }
+  culture = egyptian_arabic
+  allow = {
+    always = no
+  }
+}
+k_hammadid = {
+  color = {
+    149
+    180
+    17
+  }
+}
+k_kafsid = {
+  color = {
+    109
+    130
+    20
+  }
+}
+k_marinid = {
+  color = {
+    46
+    255
+    5
+  }
+}
+k_bosnia = {
+  color = {
+    16
+    125
+    74
+  }
+  culture = bosnian
+  capital = 1971
+  allow = {
+    conditional_tooltip = {
+      trigger = {
+        k_bosnia = {
+          is_titular = yes
+        }
+      }
+      k_bosnia = {
+        is_titular = no
+      }
+    }
+  }
+}
+e_seljuk_turks = {
+  color = {
+    99
+    168
+    74
+  }
+  short_name = yes
+  capital = 646
+  culture = turkish
+  allow = {
+    always = no
+  }
+}
+k_zenata = {
+  color = {
+    0
+    71
+    189
+  }
+}
+k_zirid = {
+  color = {
+    90
+    195
+    49
+  }
+}
+k_ziyanids = {
+  color = {
+    5
+    76
+    194
+  }
+}
+k_avaria = {
+  color = {
+    250
+    120
+    90
+  }
+  culture = avar
+  capital = 444
+  allow = {
+    always = no
+  }
+}
+k_lombardy = {
+  color = {
+    234
+    217
+    110
+  }
+  culture = lombard
+  capital = 234
+  allow = {
+    always = no
+  }
+}
+e_byzantium = {
+	color={ 143 12 125 }
+	color2={ 255 255 20 }
+	
+	capital = 496 # Byzantion
+	
+	short_name = yes
+	
+	title = "BASILEUS_TITLE"
+	title_female = "BASILEUS_TITLE_FEMALE"
+	
+	dignity = 10
+	
+	culture = greek
+	
+	has_top_de_jure_capital = yes
+	
+	purple_born_heirs = yes
+	
+	allow = {
+		conditional_tooltip = {
+			trigger = {
+				e_roman_empire = {
+					has_holder = yes
+				}
+			}
+			e_roman_empire = {
+				has_holder = no
+			}
+		}
+		conditional_tooltip = {
+			trigger = {
+				e_latin_empire = {
+					has_holder = yes
+				}
+			}
+			e_latin_empire = {
+				has_holder = no
+			}
+		}
+		OR = {
+			religion = orthodox
+			religion_openly_hellenic_or_reformed_trigger = yes
+    }
+	}
+}
+d_amalfi = {
+  color = {
+    140
+    200
+    230
+  }
+  capital = 935
+  dignity = 10
+  allow = {
+    is_republic = yes
+  }
+}
+d_pechina = {
+  color = {
+    230
+    135
+    10
+  }
+  color2 = {
+    255
+    255
+    255
+  }
+  capital = 168
+  allow = {
+    is_republic = yes
+  }
+}
+d_ragusa = {
+  color = {
+    133
+    98
+    17
+  }
+  color2 = {
+    255
+    255
+    255
+  }
+  capital = 468
+  title = RECTOR_TITLE
+  title_female = RECTOR_TITLE_FEMALE
+  dignity = 10
+  allow = {
+    is_republic = yes
+  }
+}
+e_roman_empire = {
+	color={ 143 12 100 }
+	color2={ 255 255 20 }
+	
+	capital = 333 # Rome
+	
+	short_name = yes
+	
+	purple_born_heirs = yes
+	
+	culture = roman
+	#religion = orthodox
+	
+	allow = {
+		always = no # Only created through special event
+	}
+}
+e_latin_empire = {
+  color = {
+    150
+    105
+    56
+  }
+  capital = 496
+  short_name = yes
+  allow = {
+    OR = {
+      religion = catholic
+      is_heresy_of = catholic
+    }
+    e_byzantium = {
+      has_holder = no
+    }
+    e_roman_empire = {
+      has_holder = no
+    }
+    custom_tooltip = {
+      text = controls_kaliopolis_thrake
+      hidden_tooltip = {
+        495 = {
+          owner = {
+            OR = {
+              is_liege_or_above = ROOT
+              character = ROOT
+            }
+          }
+        }
+        497 = {
+          owner = {
+            OR = {
+              is_liege_or_above = ROOT
+              character = ROOT
+            }
+          }
+        }
+      }
+    }
+  }
+}
+d_miaphysite = {
+  color = {
+    217
+    155
+    177
+  }
+  color2 = {
+    220
+    220
+    0
+  }
+  capital = 802
+  title = POPE
+  foa = POPE_FOA
+  short_name = yes
+  landless = yes
+  controls_religion = miaphysite
+  religion = miaphysite
+  primary = yes
+  dynasty_title_names = no
+  male_names = {
+    Abraham
+    Alexandros
+    Alexios
+    Agatho
+    Anastasios
+    Andronikos
+    Athanasios
+    Benjamin
+    Christodolos
+    Cosmas
+    Kyril
+    Damian
+    Demetrius
+    Dioscorus
+    Gabriel
+    Yohannes
+    Iosephos
+    Isaakios
+    Iakobos
+    Makarios
+    Markianos
+    Markos
+    Matheos
+    Khail
+    Mina
+    Petros
+    Philotheos
+    Shenouda
+    Simeon
+    Theodoros
+    Theophilus
+    Timotheos
+    Zacharias
+  }
+}
+d_monophysite = {
+  color = {
+    200
+    115
+    167
+  }
+  color2 = {
+    220
+    220
+    0
+  }
+  capital = 802
+  title = POPE
+  foa = POPE_FOA
+  short_name = yes
+  landless = yes
+  controls_religion = monophysite
+  religion = monophysite
+  primary = yes
+  dynasty_title_names = no
+  male_names = {
+    Abraham
+    Alexandros
+    Alexios
+    Agatho
+    Anastasius
+    Andronicus
+    Athanasios
+    Benjamin
+    Christodolos
+    Cosmas
+    Cyril
+    Damian
+    Demetrius
+    Dioscorus
+    Gabriel
+    Ioannes
+    Iosephos
+    Isaakios
+    Iakobos
+    Makarios
+    Markianos
+    Matheos
+    Michail
+    Mina
+    Petros
+    Philotheos
+    Shenouda
+    Simeon
+    Theodoros
+    Theophilus
+    Timotheos
+    Zacharias
+  }
+}
+d_nestorian = {
+  color = {
+    180
+    137
+    97
+  }
+  color2 = {
+    220
+    220
+    0
+  }
+  capital = 693
+  title = PATRIARCH_IN_THE_EAST
+  foa = ECUMENICAL_PATRIARCH_FOA
+  short_name = yes
+  landless = yes
+  controls_religion = nestorian
+  religion = nestorian
+  primary = yes
+  dynasty_title_names = no
+  male_names = {
+    Aba
+    Abraham
+    Eliya
+    Denha
+    Emmanuel
+    Giwargis
+    Hnanisho
+    Ishoyahb
+    Makkikha
+    Maremmeh
+    Pethion
+    Sabrisho
+    Shemon
+    Sargis
+    Surin
+    Theodosios
+    Timotheos
+    Yahballaha
+    Yohannan
+  }
+}
+d_paulician = {
+  color = {
+    195
+    130
+    157
+  }
+  color2 = {
+    255
+    255
+    255
+  }
+  capital = 496
+  title = PATRIARCH_CAP
+  foa = ECUMENICAL_PATRIARCH_FOA
+  short_name = yes
+  landless = yes
+  controls_religion = paulician
+  religion = paulician
+  primary = yes
+  dynasty_title_names = no
+  male_names = {
+    Alexios
+    Alexandros
+    Anastasios
+    Anthimos
+    Athanasios
+    Antonios
+    Basileios
+    Dionysios
+    Dositheos
+    Eustathios
+    Eustratios
+    Euthymios
+    Gabriel
+    Gennadios
+    Georgios
+    Gerasimos
+    Germanos
+    Gregorios
+    Ieremias
+    Ignatios
+    Ioakeim
+    Ioannes
+    Ioseph
+    Isidoros
+    Kallinikos
+    Kallistos
+    Konstantinos
+    Kosmas
+    Kyrillos
+    Leon
+    Leontios
+    Loukas
+    Makarios
+    Manuel
+    Markos
+    Matthaios
+    Maximos
+    Meletios
+    Methodios
+    Metrophanes
+    Michael
+    Neophytos
+    Nephon
+    Nikephoros
+    Niketas
+    Nikolaos
+    Pavlos
+    Petros
+    Photios
+    Polykarpos
+    Sergios
+    Stephanos
+    Sophronios
+    Theodoros
+    Theodosios
+    Theodotos
+    Theophylaktos
+    Thomas
+    Timotheos
+  }
+}
+d_monothelite = {
+  color = {
+    180
+    170
+    65
+  }
+  color2 = {
+    220
+    220
+    0
+  }
+  capital = 764
+  title = PATRIARCH_CAP
+  foa = ECUMENICAL_PATRIARCH_FOA
+  short_name = yes
+  landless = yes
+  controls_religion = monothelite
+  religion = monothelite
+  primary = yes
+  dynasty_title_names = no
+  male_names = {
+    Alexios
+    Alexandros
+    Anastasios
+    Anthimos
+    Athanasios
+    Antonios
+    Basileios
+    Dionysios
+    Dositheos
+    Eustathios
+    Eustratios
+    Euthymios
+    Gabriel
+    Gennadios
+    Georgios
+    Gerasimos
+    Germanos
+    Gregorios
+    Ieremias
+    Ignatios
+    Ioakeim
+    Ioannes
+    Ioseph
+    Isidoros
+    Kallinikos
+    Kallistos
+    Konstantinos
+    Kosmas
+    Kyrillos
+    Leon
+    Leontios
+    Loukas
+    Makarios
+    Manuel
+    Markos
+    Matthaios
+    Maximos
+    Meletios
+    Methodios
+    Metrophanes
+    Michael
+    Neophytos
+    Nephon
+    Nikephoros
+    Niketas
+    Nikolaos
+    Pavlos
+    Petros
+    Photios
+    Polykarpos
+    Sergios
+    Stephanos
+    Sophronios
+    Theodoros
+    Theodosios
+    Theodotos
+    Theophylaktos
+    Thomas
+    Timotheos
+  }
+}
+d_fraticelli = {
+  color = {
+    198
+    249
+    255
+  }
+  color2 = {
+    220
+    220
+    0
+  }
+  capital = 333
+  title = POPE
+  foa = POPE_FOA
+  short_name = yes
+  location_ruler_title = yes
+  allow = {
+    always = no
+  }
+  landless = yes
+  controls_religion = fraticelli
+  religion = fraticelli
+  primary = yes
+  dynasty_title_names = no
+  male_names = {
+    Alexander
+    Anastasius
+    Benedictus
+    Caelestinus
+    Callistus
+    Clemens
+    Eugenius
+    Franciscus
+    Leo
+    Gregorius
+    Hadrianus
+    Honorius
+    Innocentius
+    Ioannes
+    Lucius
+    Marinus
+    Martinus
+    Nicolaus
+    Sergius
+    Silvester
+    Stephanus
+    Urbanus
+    Victor
+  }
+}
+d_iconoclast = {
+  color = {
+    153
+    50
+    125
+  }
+  color2 = {
+    220
+    220
+    0
+  }
+  capital = 496
+  title = ECUMENICAL_PATRIARCH
+  foa = ECUMENICAL_PATRIARCH_FOA
+  short_name = yes
+  allow = {
+    always = no
+  }
+  landless = yes
+  controls_religion = iconoclast
+  religion = iconoclast
+  primary = yes
+  dynasty_title_names = no
+  male_names = {
+    Alexios
+    Alexandros
+    Anastasios
+    Anthimos
+    Athanasios
+    Antonios
+    Basileios
+    Dionysios
+    Dositheos
+    Eustathios
+    Eustratios
+    Euthymios
+    Gabriel
+    Gennadios
+    Georgios
+    Gerasimos
+    Germanos
+    Gregorios
+    Ieremias
+    Ignatios
+    Ioakeim
+    Ioannes
+    Ioseph
+    Isidoros
+    Kallinikos
+    Kallistos
+    Konstantinos
+    Kosmas
+    Kyrillos
+    Leon
+    Leontios
+    Loukas
+    Makarios
+    Manuel
+    Markos
+    Matthaios
+    Maximos
+    Meletios
+    Methodios
+    Metrophanes
+    Michael
+    Neophytos
+    Nephon
+    Nikephoros
+    Niketas
+    Nikolaos
+    Pavlos
+    Petros
+    Photios
+    Polykarpos
+    Sergios
+    Stephanos
+    Sophronios
+    Theodoros
+    Theodosios
+    Theodotos
+    Theophylaktos
+    Thomas
+    Timotheos
+  }
+}
+d_yazidi = {
+  color = {
+    20
+    50
+    160
+  }
+  color2 = {
+    220
+    220
+    0
+  }
+  capital = 697
+  dignity = 80
+  title = SHEIKH
+  title_female = SHEIKHA
+  foa = CALIPH_FOA
+  short_name = yes
+  religion = yazidi
+  controls_religion = yazidi
+  allow = {
+    piety = 1000
+  }
+  caliphate = yes
+  coat_of_arms = {
+    data = {
+      0
+      0
+      3
+      0
+      0
+      11
+      11
+    }
+    religion = yazidi
+  }
+}
+d_ibadi = {
+  color = {
+    20
+    130
+    20
+  }
+  color2 = {
+    220
+    220
+    0
+  }
+  capital = 719
+  creation_requires_capital = no
+  dignity = 80
+  title = CALIPH
+  title_female = CALIPHA
+  foa = CALIPH_FOA
+  short_name = yes
+  religion = ibadi
+  controls_religion = ibadi
+  allow = {
+    conditional_tooltip = {
+      trigger = {
+        NOT = {
+          has_alternate_start_parameter = {
+            key = religion_names
+            value = random
+          }
+        }
+      }
+      OR = {
+        trait = mirza
+        trait = sayyid
+        piety = 1000
+      }
+      OR = {
+        AND = {
+          trait = sayyid
+          piety = 1000
+        }
+        conditional_tooltip = {
+          trigger = {
+            NOT = {
+              has_global_flag = destroyed_caliphates
+            }
+          }
+          custom_tooltip = {
+            text = controls_mecca_medina
+            hidden_tooltip = {
+              719 = {
+                owner = {
+                  OR = {
+                    is_liege_or_above = ROOT
+                    character = ROOT
+                  }
+                }
+              }
+              718 = {
+                owner = {
+                  OR = {
+                    is_liege_or_above = ROOT
+                    character = ROOT
+                  }
+                }
+              }
+            }
+          }
+        }
+        custom_tooltip = {
+          text = controls_jerusalem_damascus_baghdad
+          hidden_tooltip = {
+            774 = {
+              owner = {
+                OR = {
+                  is_liege_or_above = ROOT
+                  character = ROOT
+                }
+              }
+            }
+            728 = {
+              owner = {
+                OR = {
+                  is_liege_or_above = ROOT
+                  character = ROOT
+                }
+              }
+            }
+            693 = {
+              owner = {
+                OR = {
+                  is_liege_or_above = ROOT
+                  character = ROOT
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+    conditional_tooltip = {
+      trigger = {
+        has_alternate_start_parameter = {
+          key = religion_names
+          value = random
+        }
+      }
+      religion = ibadi
+      OR = {
+        trait = mirza
+        trait = sayyid
+        piety = 1000
+      }
+      custom_tooltip = {
+        text = THREE_HOLY_SITES_TT
+        hidden_tooltip = {
+          any_realm_title = {
+            count = 3
+            is_holy_site = ROOT
+          }
+        }
+      }
+    }
+    conditional_tooltip = {
+      trigger = {
+        has_global_flag = destroyed_caliphates
+      }
+      custom_tooltip = {
+        text = controls_mecca_medina
+        hidden_tooltip = {
+          719 = {
+            owner = {
+              OR = {
+                is_liege_or_above = ROOT
+                character = ROOT
+              }
+            }
+          }
+          718 = {
+            owner = {
+              OR = {
+                is_liege_or_above = ROOT
+                character = ROOT
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+  caliphate = yes
+  coat_of_arms = {
+    data = {
+      0
+      0
+      0
+      8
+      0
+      2
+      2
+    }
+    religion = ibadi
+  }
+}
+d_kharijite = {
+  color = {
+    10
+    110
+    10
+  }
+  color2 = {
+    220
+    220
+    0
+  }
+  capital = 719
+  creation_requires_capital = no
+  dignity = 80
+  title = CALIPH
+  title_female = CALIPHA
+  foa = CALIPH_FOA
+  short_name = yes
+  religion = kharijite
+  controls_religion = kharijite
+  allow = {
+    conditional_tooltip = {
+      trigger = {
+        NOT = {
+          has_alternate_start_parameter = {
+            key = religion_names
+            value = random
+          }
+        }
+      }
+      piety = 1000
+      conditional_tooltip = {
+        trigger = {
+          NOT = {
+            has_global_flag = destroyed_caliphates
+          }
+        }
+        OR = {
+          custom_tooltip = {
+            text = controls_mecca_medina
+            hidden_tooltip = {
+              719 = {
+                owner = {
+                  OR = {
+                    is_liege_or_above = ROOT
+                    character = ROOT
+                  }
+                }
+              }
+              718 = {
+                owner = {
+                  OR = {
+                    is_liege_or_above = ROOT
+                    character = ROOT
+                  }
+                }
+              }
+            }
+          }
+          custom_tooltip = {
+            text = controls_jerusalem_damascus_baghdad
+            hidden_tooltip = {
+              774 = {
+                owner = {
+                  OR = {
+                    is_liege_or_above = ROOT
+                    character = ROOT
+                  }
+                }
+              }
+              728 = {
+                owner = {
+                  OR = {
+                    is_liege_or_above = ROOT
+                    character = ROOT
+                  }
+                }
+              }
+              693 = {
+                owner = {
+                  OR = {
+                    is_liege_or_above = ROOT
+                    character = ROOT
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+    conditional_tooltip = {
+      trigger = {
+        has_alternate_start_parameter = {
+          key = religion_names
+          value = random
+        }
+      }
+      religion = kharijite
+      OR = {
+        trait = mirza
+        trait = sayyid
+        piety = 1000
+      }
+      custom_tooltip = {
+        text = THREE_HOLY_SITES_TT
+        hidden_tooltip = {
+          any_realm_title = {
+            count = 3
+            is_holy_site = ROOT
+          }
+        }
+      }
+    }
+    conditional_tooltip = {
+      trigger = {
+        has_global_flag = destroyed_caliphates
+      }
+      custom_tooltip = {
+        text = controls_mecca_medina
+        hidden_tooltip = {
+          719 = {
+            owner = {
+              OR = {
+                is_liege_or_above = ROOT
+                character = ROOT
+              }
+            }
+          }
+          718 = {
+            owner = {
+              OR = {
+                is_liege_or_above = ROOT
+                character = ROOT
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+  caliphate = yes
+  coat_of_arms = {
+    data = {
+      0
+      0
+      0
+      8
+      0
+      2
+      2
+    }
+    religion = kharijite
+  }
+}
+d_hurufi = {
+  color = {
+    80
+    220
+    80
+  }
+  color2 = {
+    220
+    220
+    0
+  }
+  capital = 719
+  creation_requires_capital = no
+  dignity = 100
+  title = CALIPH
+  title_female = CALIPHA
+  foa = CALIPH_FOA
+  short_name = yes
+  religion = hurufi
+  controls_religion = hurufi
+  allow = {
+    conditional_tooltip = {
+      trigger = {
+        NOT = {
+          has_alternate_start_parameter = {
+            key = religion_names
+            value = random
+          }
+        }
+      }
+      OR = {
+        trait = mirza
+        trait = sayyid
+        piety = 1000
+      }
+      OR = {
+        AND = {
+          trait = sayyid
+          piety = 1000
+        }
+        conditional_tooltip = {
+          trigger = {
+            NOT = {
+              has_global_flag = destroyed_caliphates
+            }
+          }
+          custom_tooltip = {
+            text = controls_mecca_medina
+            hidden_tooltip = {
+              719 = {
+                owner = {
+                  OR = {
+                    is_liege_or_above = ROOT
+                    character = ROOT
+                  }
+                }
+              }
+              718 = {
+                owner = {
+                  OR = {
+                    is_liege_or_above = ROOT
+                    character = ROOT
+                  }
+                }
+              }
+            }
+          }
+        }
+        custom_tooltip = {
+          text = controls_jerusalem_damascus_baghdad
+          hidden_tooltip = {
+            774 = {
+              owner = {
+                OR = {
+                  is_liege_or_above = ROOT
+                  character = ROOT
+                }
+              }
+            }
+            728 = {
+              owner = {
+                OR = {
+                  is_liege_or_above = ROOT
+                  character = ROOT
+                }
+              }
+            }
+            693 = {
+              owner = {
+                OR = {
+                  is_liege_or_above = ROOT
+                  character = ROOT
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+    conditional_tooltip = {
+      trigger = {
+        has_alternate_start_parameter = {
+          key = religion_names
+          value = random
+        }
+      }
+      religion = hurufi
+      OR = {
+        trait = mirza
+        trait = sayyid
+        piety = 1000
+      }
+      custom_tooltip = {
+        text = THREE_HOLY_SITES_TT
+        hidden_tooltip = {
+          any_realm_title = {
+            count = 3
+            is_holy_site = ROOT
+          }
+        }
+      }
+    }
+    conditional_tooltip = {
+      trigger = {
+        has_global_flag = destroyed_caliphates
+      }
+      custom_tooltip = {
+        text = controls_mecca_medina
+        hidden_tooltip = {
+          719 = {
+            owner = {
+              OR = {
+                is_liege_or_above = ROOT
+                character = ROOT
+              }
+            }
+          }
+          718 = {
+            owner = {
+              OR = {
+                is_liege_or_above = ROOT
+                character = ROOT
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+  caliphate = yes
+  coat_of_arms = {
+    data = {
+      0
+      0
+      0
+      7
+      1
+      7
+      7
+    }
+    religion = hurufi
+  }
+}
+e_mexikha = {
+  color = {
+    255
+    127
+    0
+  }
+  short_name = yes
+  landless = yes
+  culture = nahuatl
+  religion = aztec
+}
+b_dandolo = {
+  culture = italian
+  religion = catholic
+}
+b_contarini = {
+  culture = italian
+  religion = catholic
+}
+b_faliero = {
+  culture = italian
+  religion = catholic
+}
+b_morosini = {
+  culture = italian
+  religion = catholic
+}
+b_ziani = {
+  culture = italian
+  religion = catholic
+}
+b_candiano = {
+  culture = italian
+  religion = catholic
+}
+b_orsoleo = {
+  culture = italian
+  religion = catholic
+}
+b_participazio = {
+  culture = italian
+  religion = catholic
+}
+b_tribuno = {
+  culture = italian
+  religion = catholic
+}
+b_tradonico = {
+  culture = italian
+  religion = catholic
+}
+b_antenoreo = {
+  culture = italian
+  religion = catholic
+}
+b_galbaio = {
+  culture = italian
+  religion = catholic
+}
+b_monegario = {
+  culture = italian
+  religion = catholic
+}
+b_gaulo = {
+  culture = italian
+  religion = catholic
+}
+b_silvio = {
+  culture = italian
+  religion = catholic
+}
+b_mastropiero = {
+  culture = italian
+  religion = catholic
+}
+b_tiepolo = {
+  culture = italian
+  religion = catholic
+}
+b_doria = {
+  culture = italian
+  religion = catholic
+}
+b_spinola = {
+  culture = italian
+  religion = catholic
+}
+b_grimaldi = {
+  culture = italian
+  religion = catholic
+}
+b_fieschi = {
+  culture = italian
+  religion = catholic
+}
+b_embriaco = {
+  culture = italian
+  religion = catholic
+}
+b_dappiano = {
+  culture = italian
+  religion = catholic
+}
+b_della_gherardesca = {
+  culture = italian
+  religion = catholic
+}
+b_visconti = {
+  culture = italian
+  religion = catholic
+}
+b_alliata = {
+  culture = italian
+  religion = catholic
+}
+b_caetani = {
+  culture = italian
+  religion = catholic
+}
+b_bardewik = {
+  culture = german
+  religion = catholic
+}
+b_vorrade = {
+  culture = german
+  religion = catholic
+}
+b_warendorp = {
+  culture = german
+  religion = catholic
+}
+b_pat_luneburg = {
+  culture = german
+  religion = catholic
+}
+b_wittenborg = {
+  culture = german
+  religion = catholic
+}
+b_stenkyrka = {
+  culture = swedish
+  religion = catholic
+}
+b_guldsmed = {
+  culture = swedish
+  religion = catholic
+}
+b_hejnum = {
+  culture = swedish
+  religion = catholic
+}
+b_gildehusen = {
+  culture = swedish
+  religion = catholic
+}
+b_strabain = {
+  culture = swedish
+  religion = catholic
+}
+b_konstantios = {
+  culture = greek
+  religion = catholic
+}
+b_mauro = {
+  culture = italian
+  religion = catholic
+}
+b_musco = {
+  culture = italian
+  religion = catholic
+}
+b_polkarios = {
+  culture = greek
+  religion = catholic
+}
+b_urso = {
+  culture = italian
+  religion = catholic
+}
+b_amalfinos = {
+  culture = greek
+  religion = catholic
+}
+b_manginos = {
+  culture = greek
+  religion = catholic
+}
+b_kanakares = {
+  culture = greek
+  religion = catholic
+}
+b_sorrenti = {
+  culture = italian
+  religion = catholic
+}
+b_ravelli = {
+  culture = italian
+  religion = catholic
+}
+b_kastriotis = {
+  culture = greek
+  religion = catholic
+}
+b_skleros = {
+  culture = italian
+  religion = catholic
+}
+b_monomachos = {
+  culture = italian
+  religion = catholic
+}
+b_kourkoas = {
+  culture = greek
+  religion = catholic
+}
+b_scarponnois = {
+  culture = german
+  religion = catholic
+}
+b_babalio = {
+  culture = dalmatian
+  religion = catholic
+}
+b_benessa = {
+  culture = dalmatian
+  religion = catholic
+}
+b_salvius = {
+  culture = dalmatian
+  religion = catholic
+}
+b_pius = {
+  culture = dalmatian
+  religion = catholic
+}
+b_bonda = {
+  culture = dalmatian
+  religion = catholic
+}
+b_al_gassani = {
+  culture = bedouin_arabic
+  religion = sunni
+}
+b_ruayn = {
+  culture = bedouin_arabic
+  religion = sunni
+}
+b_banu_sarray = {
+  culture = maghreb_arabic
+  religion = sunni
+}
+b_aswadid = {
+  culture = andalusian_arabic
+  religion = sunni
+}
+b_yeshayahu = {
+  culture = sephardi
+  religion = jewish
+}
+d_norse_pagan_reformed = {
+  color = {
+    155
+    155
+    235
+  }
+  color2 = {
+    220
+    220
+    0
+  }
+  capital = 290
+  title = FYLKIR
+  title_female = FYLKJA
+  foa = FYLKIR_FOA
+  creation_requires_capital = no
+  allow = {
+    religion = norse_pagan_reformed
+    num_of_holy_sites = 3
+    piety = 500
+  }
+  short_name = yes
+  landless = yes
+  dignity = 100
+  controls_religion = norse_pagan_reformed
+  religion = norse_pagan_reformed
+  dynasty_title_names = no
+}
+d_tengri_pagan_reformed = {
+  color = {
+    100
+    80
+    100
+  }
+  color2 = {
+    220
+    220
+    0
+  }
+  capital = 594
+  title = TENGRIKUT
+  title_female = TENGRIKIZ
+  foa = HEAD_PRIEST_FOA
+  short_name = yes
+  landless = yes
+  controls_religion = tengri_pagan_reformed
+  religion = tengri_pagan_reformed
+  primary = yes
+  dynasty_title_names = no
+}
+d_baltic_pagan_reformed = {
+  color = {
+    122
+    165
+    70
+  }
+  color2 = {
+    220
+    220
+    0
+  }
+  capital = 366
+  title = FIRST_VAIDILA
+  title_female = FIRST_VAIDILUTE
+  foa = HEAD_PRIEST_FOA
+  short_name = yes
+  landless = yes
+  controls_religion = baltic_pagan_reformed
+  religion = baltic_pagan_reformed
+  primary = yes
+  dynasty_title_names = no
+}
+d_finnish_pagan_reformed = {
+  color = {
+    240
+    240
+    220
+  }
+  color2 = {
+    220
+    220
+    0
+  }
+  capital = 381
+  title = TIETAJA
+  title_female = TIETAJA
+  foa = HEAD_PRIEST_FOA
+  short_name = yes
+  landless = yes
+  controls_religion = finnish_pagan_reformed
+  religion = finnish_pagan_reformed
+  primary = yes
+  dynasty_title_names = no
+}
+d_slavic_pagan_reformed = {
+  color = {
+    175
+    50
+    136
+  }
+  color2 = {
+    220
+    220
+    0
+  }
+  capital = 515
+  title = VELKY_VOLHV
+  title_female = VELKY_VOLHV
+  foa = HEAD_PRIEST_FOA
+  short_name = yes
+  landless = yes
+  controls_religion = slavic_pagan_reformed
+  religion = slavic_pagan_reformed
+  primary = yes
+  dynasty_title_names = no
+}
+d_aztec_reformed = {
+  color = {
+    245
+    245
+    135
+  }
+  color2 = {
+    220
+    220
+    0
+  }
+  capital = 1
+  title = TLATOANI
+  title_female = CIHUATLATOANI
+  foa = HEAD_PRIEST_FOA
+  short_name = yes
+  landless = yes
+  controls_religion = aztec_reformed
+  religion = aztec_reformed
+  primary = yes
+  dynasty_title_names = no
+}
+d_west_african_pagan_reformed = {
+  color = {
+    91
+    49
+    13
+  }
+  color2 = {
+    220
+    220
+    0
+  }
+  capital = 925
+  title = HEAD_AFRICAN_PRIEST
+  title_female = HEAD_AFRICAN_PRIESTESS
+  foa = HEAD_PRIEST_FOA
+  short_name = yes
+  landless = yes
+  controls_religion = west_african_pagan_reformed
+  religion = west_african_pagan_reformed
+  primary = yes
+  dynasty_title_names = no
+}
+d_zun_pagan_reformed = {
+  color = {
+    220
+    255
+    0
+  }
+  color2 = {
+    220
+    220
+    0
+  }
+  capital = 1183
+  title = HEAD_ZUN_PRIEST
+  title_female = HEAD_ZUN_PRIESTESS
+  foa = HEAD_PRIEST_FOA
+  short_name = yes
+  landless = yes
+  controls_religion = zun_pagan_reformed
+  religion = zun_pagan_reformed
+  primary = yes
+  dynasty_title_names = no
+}
+d_zoroastrian = {
+  color = {
+    180
+    120
+    40
+  }
+  color2 = {
+    220
+    220
+    0
+  }
+  capital = 646
+  title = HEAD_MOABADAN_MOABAD
+  foa = POPE_FOA
+  short_name = yes
+  landless = yes
+  controls_religion = zoroastrian
+  religion = zoroastrian
+  primary = yes
+  dynasty_title_names = no
+}
+d_jewish = {
+  color = {
+    0
+    80
+    255
+  }
+  capital = 774
+  title = HEAD_KOHEN_GADOL
+  foa = POPE_FOA
+  short_name = yes
+  landless = yes
+  controls_religion = jewish
+  religion = jewish
+  primary = yes
+  dynasty_title_names = no
+}
+d_bon_reformed = {
+  color = {
+    141
+    130
+    77
+  }
+  capital = 1498
+  title = HEAD_DALAI_LAMA
+  foa = POPE_FOA
+  short_name = yes
+  landless = yes
+  controls_religion = bon_reformed
+  religion = bon_reformed
+  primary = yes
+  dynasty_title_names = no
+}
+e_india = {
+  color = {
+    255
+    110
+    0
+  }
+  title = SAMRAT_CHAKRAVARTIN
+  title_female = SAMRAJNI_CHAKRAVARTIN
+  dynasty_title_names = no
+  allow = {
+    always = no
+  }
+  capital = 1365
+}
+d_han_massive = {
+  color = {
+    60
+    165
+    80
+  }
+  color2 = {
+    255
+    255
+    255
+  }
+  graphical_culture = chinesegfx
+  capital = 1408
+  hire_range = 1300
+  religion = taoist
+  culture = han
+  mercenary = yes
+  title = CAPTAIN
+  foa = CAPTAIN_FOA
+  landless = yes
+  primary = yes
+  independent = yes
+  strength_growth_per_century = 1.0
+  mercenary_type = han_massive_composition
+}
+d_han_large = {
+  color = {
+    235
+    235
+    235
+  }
+  color2 = {
+    255
+    255
+    255
+  }
+  graphical_culture = chinesegfx
+  capital = 1408
+  hire_range = 1300
+  religion = taoist
+  culture = han
+  mercenary = yes
+  title = CAPTAIN
+  foa = CAPTAIN_FOA
+  landless = yes
+  primary = yes
+  independent = yes
+  strength_growth_per_century = 1.0
+  mercenary_type = han_large_composition
+}
+d_han_mid = {
+  color = {
+    150
+    80
+    40
+  }
+  color2 = {
+    255
+    255
+    255
+  }
+  graphical_culture = chinesegfx
+  capital = 1408
+  hire_range = 1300
+  religion = taoist
+  culture = han
+  mercenary = yes
+  title = CAPTAIN
+  foa = CAPTAIN_FOA
+  landless = yes
+  primary = yes
+  independent = yes
+  strength_growth_per_century = 1.0
+  mercenary_type = han_mid_composition
+}
+d_han_mid_low = {
+  color = {
+    30
+    150
+    50
+  }
+  color2 = {
+    255
+    255
+    255
+  }
+  graphical_culture = chinesegfx
+  capital = 1408
+  hire_range = 1300
+  religion = taoist
+  culture = han
+  mercenary = yes
+  title = CAPTAIN
+  foa = CAPTAIN_FOA
+  landless = yes
+  primary = yes
+  independent = yes
+  strength_growth_per_century = 1.0
+  mercenary_type = han_mid_low_composition
+}
+d_outlaws_of_the_marsh = {
+  color = {
+    66
+    66
+    66
+  }
+  color2 = {
+    255
+    255
+    255
+  }
+  graphical_culture = chinesegfx
+  capital = 1408
+  hire_range = 1300
+  religion = taoist
+  culture = han
+  mercenary = yes
+  title = CAPTAIN
+  foa = CAPTAIN_FOA
+  landless = yes
+  primary = yes
+  independent = yes
+  strength_growth_per_century = 1.0
+  mercenary_type = outlaws_of_the_marsh
+}
+d_han_low = {
+  color = {
+    30
+    170
+    50
+  }
+  color2 = {
+    255
+    255
+    255
+  }
+  graphical_culture = chinesegfx
+  capital = 1408
+  hire_range = 1300
+  religion = taoist
+  culture = han
+  mercenary = yes
+  title = CAPTAIN
+  foa = CAPTAIN_FOA
+  landless = yes
+  primary = yes
+  independent = yes
+  strength_growth_per_century = 1.0
+  mercenary_type = han_low_composition
+}
+d_han_tiny_1 = {
+  color = {
+    38
+    120
+    51
+  }
+  color2 = {
+    255
+    255
+    255
+  }
+  graphical_culture = chinesegfx
+  capital = 1408
+  hire_range = 1300
+  religion = taoist
+  culture = han
+  mercenary = yes
+  title = CAPTAIN
+  foa = CAPTAIN_FOA
+  landless = yes
+  primary = yes
+  independent = yes
+  strength_growth_per_century = 1.0
+  mercenary_type = han_tiny_composition_1
+}
+d_han_tiny_2 = {
+  color = {
+    32
+    175
+    57
+  }
+  color2 = {
+    255
+    255
+    255
+  }
+  graphical_culture = chinesegfx
+  capital = 1408
+  hire_range = 1300
+  religion = taoist
+  culture = han
+  mercenary = yes
+  title = CAPTAIN
+  foa = CAPTAIN_FOA
+  landless = yes
+  primary = yes
+  independent = yes
+  strength_growth_per_century = 1.0
+  mercenary_type = han_tiny_composition_2
+}
+d_jurchen_band = {
+  color = {
+    32
+    120
+    50
+  }
+  color2 = {
+    255
+    255
+    255
+  }
+  graphical_culture = chinesegfx
+  capital = 1408
+  hire_range = 1300
+  religion = taoist
+  culture = jurchen
+  mercenary = yes
+  title = CAPTAIN
+  foa = CAPTAIN_FOA
+  landless = yes
+  primary = yes
+  independent = yes
+  strength_growth_per_century = 1.0
+  mercenary_type = jurchen_band_composition
+}
+d_tangut_low = {
+  color = {
+    30
+    170
+    50
+  }
+  color2 = {
+    255
+    255
+    255
+  }
+  capital = 1503
+  hire_range = 800
+  religion = buddhist
+  culture = tangut
+  mercenary = yes
+  title = CAPTAIN
+  foa = CAPTAIN_FOA
+  landless = yes
+  primary = yes
+  independent = yes
+  strength_growth_per_century = 1.0
+  mercenary_type = tangut_low_composition
+}
+d_bodpa_low = {
+  color = {
+    30
+    170
+    50
+  }
+  color2 = {
+    255
+    255
+    255
+  }
+  capital = 1491
+  hire_range = 800
+  religion = bon
+  culture = bodpa
+  mercenary = yes
+  title = CAPTAIN
+  foa = CAPTAIN_FOA
+  landless = yes
+  primary = yes
+  independent = yes
+  strength_growth_per_century = 1.0
+  mercenary_type = bodpa_low_composition
+}
+d_treasure_fleet = {
+  color = {
+    222
+    80
+    20
+  }
+  color2 = {
+    255
+    255
+    255
+  }
+  capital = 1318
+  hire_range = 1200
+  religion = taoist
+  culture = han
+  mercenary = yes
+  title = CAPTAIN
+  foa = CAPTAIN_FOA
+  landless = yes
+  primary = yes
+  independent = yes
+  mercenary_type = treasure_fleet_composition
+}
+d_han_junks = {
+  color = {
+    222
+    80
+    20
+  }
+  color2 = {
+    255
+    255
+    255
+  }
+  short_name = yes
+  capital = 1318
+  hire_range = 1000
+  religion = taoist
+  culture = han
+  mercenary = yes
+  title = CAPTAIN
+  foa = CAPTAIN_FOA
+  landless = yes
+  primary = yes
+  independent = yes
+  mercenary_type = naval_merc_composition
+}
+d_jurchen_corsairs = {
+  color = {
+    222
+    180
+    20
+  }
+  color2 = {
+    255
+    255
+    255
+  }
+  short_name = yes
+  capital = 1318
+  hire_range = 1000
+  religion = taoist
+  culture = jurchen
+  mercenary = yes
+  title = CAPTAIN
+  foa = CAPTAIN_FOA
+  landless = yes
+  primary = yes
+  independent = yes
+  mercenary_type = naval_merc_composition
+}
+d_tamil_band = {
+  color = {
+    110
+    60
+    30
+  }
+  color2 = {
+    255
+    255
+    255
+  }
+  capital = 1120
+  religion = hindu
+  culture = tamil
+  mercenary = yes
+  title = CAPTAIN
+  foa = CAPTAIN_FOA
+  landless = yes
+  primary = yes
+  independent = yes
+  strength_growth_per_century = 1.0
+  mercenary_type = tamil_band_composition
+}
+d_marathi_company = {
+  color = {
+    150
+    80
+    40
+  }
+  color2 = {
+    255
+    255
+    255
+  }
+  capital = 1254
+  religion = hindu
+  culture = marathi
+  mercenary = yes
+  title = CAPTAIN
+  foa = CAPTAIN_FOA
+  landless = yes
+  primary = yes
+  independent = yes
+  strength_growth_per_century = 1.0
+  mercenary_type = marathi_company_composition
+}
+d_marathi_band = {
+  color = {
+    180
+    80
+    40
+  }
+  color2 = {
+    255
+    255
+    255
+  }
+  capital = 1254
+  religion = hindu
+  culture = marathi
+  mercenary = yes
+  title = CAPTAIN
+  foa = CAPTAIN_FOA
+  landless = yes
+  primary = yes
+  independent = yes
+  strength_growth_per_century = 1.0
+  mercenary_type = marathi_band_composition
+}
+d_bengal_company = {
+  color = {
+    30
+    150
+    50
+  }
+  color2 = {
+    255
+    255
+    255
+  }
+  capital = 1236
+  religion = hindu
+  culture = bengali
+  mercenary = yes
+  title = CAPTAIN
+  foa = CAPTAIN_FOA
+  landless = yes
+  primary = yes
+  independent = yes
+  strength_growth_per_century = 1.0
+  mercenary_type = bengal_company_composition
+}
+d_bengal_band = {
+  color = {
+    30
+    170
+    50
+  }
+  color2 = {
+    255
+    255
+    255
+  }
+  capital = 1236
+  religion = hindu
+  culture = bengali
+  mercenary = yes
+  title = CAPTAIN
+  foa = CAPTAIN_FOA
+  landless = yes
+  primary = yes
+  independent = yes
+  strength_growth_per_century = 1.0
+  mercenary_type = bengal_band_composition
+}
+d_rajput_company = {
+  color = {
+    180
+    65
+    0
+  }
+  color2 = {
+    255
+    255
+    255
+  }
+  capital = 1130
+  religion = hindu
+  culture = rajput
+  mercenary = yes
+  title = CAPTAIN
+  foa = CAPTAIN_FOA
+  landless = yes
+  primary = yes
+  independent = yes
+  strength_growth_per_century = 1.0
+  mercenary_type = rajput_company_composition
+}
+d_rajput_band = {
+  color = {
+    170
+    50
+    0
+  }
+  color2 = {
+    255
+    255
+    255
+  }
+  capital = 1130
+  religion = hindu
+  culture = rajput
+  mercenary = yes
+  title = CAPTAIN
+  foa = CAPTAIN_FOA
+  landless = yes
+  primary = yes
+  independent = yes
+  strength_growth_per_century = 1.0
+  mercenary_type = rajput_band_composition
+}
+d_persian_caravan_guards = {
+  color = {
+    67
+    155
+    135
+  }
+  color2 = {
+    255
+    255
+    255
+  }
+  capital = 630
+  religion = shiite
+  culture = persian
+  mercenary = yes
+  title = CAPTAIN
+  foa = CAPTAIN_FOA
+  landless = yes
+  primary = yes
+  independent = yes
+  strength_growth_per_century = 1.0
+  mercenary_type = persian_caravan_guards_composition
+}
+d_silk_road_sentinels = {
+  color = {
+    167
+    125
+    135
+  }
+  color2 = {
+    255
+    255
+    255
+  }
+  capital = 1180
+  religion = buddhist
+  culture = panjabi
+  mercenary = yes
+  title = CAPTAIN
+  foa = CAPTAIN_FOA
+  landless = yes
+  primary = yes
+  independent = yes
+  strength_growth_per_century = 1.0
+  mercenary_type = silk_road_sentinels_composition
+}
+d_turkic_guard = {
+  color = {
+    167
+    125
+    135
+  }
+  color2 = {
+    255
+    255
+    255
+  }
+  capital = 900
+  religion = khurmazta
+  culture = turkish
+  mercenary = yes
+  title = CAPTAIN
+  foa = CAPTAIN_FOA
+  landless = yes
+  primary = yes
+  independent = yes
+  strength_growth_per_century = 1.0
+  mercenary_type = turkic_guards_composition
+}
+e_china_west_governor = {
+  color = {
+    245
+    240
+    10
+  }
+  color2 = {
+    220
+    220
+    0
+  }
+  capital = 1448
+  assimilate = no
+  title_female = WESTERN_GOVERNOR_FEMALE
+  title = WESTERN_GOVERNOR_MALE
+  foa = WESTERN_GOVERNOR_TITLE_FOA
+  short_name = yes
+  landless = yes
+  independent = yes
+  primary = yes
+  dynasty_title_names = no
+  can_be_claimed = no
+  can_be_usurped = no
+  extra_ai_eval_troops = 7500
+}
+k_sakya_trizin = {
+  color = {
+    95
+    190
+    50
+  }
+}
+d_manichean = {
+  color = {
+    180
+    137
+    97
+  }
+  color2 = {
+    220
+    220
+    0
+  }
+  capital = 903
+  title = YAMAG
+  foa = POPE_FOA
+  short_name = yes
+  landless = yes
+  controls_religion = manichean
+  religion = manichean
+  primary = yes
+  dynasty_title_names = no
+}
+d_army_light = {
+  color = {
+    181
+    204
+    20
+  }
+  graphical_culture = bektashigfx
+  capital = 903
+  title = GRANDMASTER
+  foa = GRANDMASTER_FOA
+  landless = yes
+  holy_order = yes
+  religion = manichean
+  culture = persian
+  primary = yes
+  monthly_income = 2
+  strength_growth_per_century = 0.1
+  mercenary_type = bektashi_composition
+}
+d_african_massive = {
+  color = {
+    60
+    165
+    80
+  }
+  color2 = {
+    255
+    255
+    255
+  }
+  graphical_culture = westafricanholygfx
+  capital = 925
+  hire_range = 900
+  religion = west_african_pagan
+  culture = manden
+  mercenary = yes
+  title = WARCHIEF
+  foa = WARCHIEF_FOA
+  landless = yes
+  primary = yes
+  independent = yes
+  strength_growth_per_century = 1.0
+  mercenary_type = african_massive_composition
+}
+d_african_large = {
+  color = {
+    235
+    235
+    235
+  }
+  color2 = {
+    255
+    255
+    255
+  }
+  capital = 1739
+  hire_range = 900
+  religion = west_african_pagan
+  culture = soninke
+  mercenary = yes
+  title = WARCHIEF
+  foa = WARCHIEF_FOA
+  landless = yes
+  primary = yes
+  independent = yes
+  strength_growth_per_century = 1.0
+  mercenary_type = african_large_composition
+}
+d_african_mid = {
+  color = {
+    150
+    80
+    40
+  }
+  color2 = {
+    255
+    255
+    255
+  }
+  graphical_culture = africangfx
+  capital = 1335
+  hire_range = 900
+  religion = west_african_pagan
+  culture = nubian
+  mercenary = yes
+  title = WARCHIEF
+  foa = WARCHIEF_FOA
+  landless = yes
+  primary = yes
+  independent = yes
+  strength_growth_per_century = 1.0
+  mercenary_type = african_mid_composition
+}
+d_african_mid_low_1 = {
+  color = {
+    30
+    150
+    50
+  }
+  color2 = {
+    255
+    255
+    255
+  }
+  capital = 913
+  hire_range = 900
+  religion = west_african_pagan
+  culture = soninke
+  mercenary = yes
+  title = WARCHIEF
+  foa = WARCHIEF_FOA
+  landless = yes
+  primary = yes
+  independent = yes
+  strength_growth_per_century = 1.0
+  mercenary_type = african_mid_low_1_composition
+}
+d_african_mid_low_2 = {
+  color = {
+    66
+    66
+    66
+  }
+  color2 = {
+    255
+    255
+    255
+  }
+  capital = 925
+  hire_range = 900
+  religion = west_african_pagan
+  culture = hausa
+  mercenary = yes
+  title = CAPTAIN
+  foa = CAPTAIN_FOA
+  landless = yes
+  primary = yes
+  independent = yes
+  strength_growth_per_century = 1.0
+  mercenary_type = african_mid_low_2_composition
+}
+d_african_low = {
+  color = {
+    30
+    170
+    50
+  }
+  color2 = {
+    255
+    255
+    255
+  }
+  capital = 914
+  hire_range = 900
+  religion = west_african_pagan
+  culture = songhay
+  mercenary = yes
+  title = WARCHIEF
+  foa = WARCHIEF_FOA
+  landless = yes
+  primary = yes
+  independent = yes
+  strength_growth_per_century = 1.0
+  mercenary_type = african_low_composition
+}
+d_african_tiny = {
+  color = {
+    38
+    120
+    51
+  }
+  color2 = {
+    255
+    255
+    255
+  }
+  capital = 1738
+  hire_range = 900
+  religion = west_african_pagan
+  culture = maghreb_arabic
+  mercenary = yes
+  title = WARCHIEF
+  foa = WARCHIEF_FOA
+  landless = yes
+  primary = yes
+  independent = yes
+  strength_growth_per_century = 1.0
+  mercenary_type = african_tiny_composition_1
+}
+d_scholae_palatinae = {
+  color = {
+    178
+    34
+    34
+  }
+  color2 = {
+    255
+    215
+    0
+  }
+  graphical_culture = orthodoxholygfx
+  capital = 496
+  religion = orthodox
+  culture = greek
+  mercenary = yes
+  title = domestic
+  foa = domestic_FOA
+  title_female = domestic_female
+  landless = yes
+  primary = yes
+  replace_captain_on_death = yes
+  strength_growth_per_century = 0.1
+  mercenary_type = Scholae_Palatinae_composition
+}
+d_hamadan = {
+  color = {
+    184
+    225
+    112
+  }
+  color2 = {
+    255
+    255
+    255
+  }
+}
+d_esfahan = {
+  color = {
+    142
+    176
+    84
+  }
+  color2 = {
+    255
+    255
+    255
+  }
+}
+d_kermanshah = {
+  color = {
+    55
+    144
+    95
+  }
+  color2 = {
+    255
+    255
+    255
+  }
+}
+d_tigris = {
+  color = {
+    113
+    150
+    32
+  }
+  color2 = {
+    255
+    255
+    255
+  }
+}
+d_burtas = {
+  color = {
+    173
+    121
+    176
+  }
+  color2 = {
+    0
+    128
+    128
+  }
+  capital = 592
+  culture = alan
+  allow = {
+    always = no
+  }
+}
+d_luxembourg = {
+  color = {
+    110
+    110
+    155
+  }
+  color2 = {
+    255
+    255
+    255
+  }
+  capital = 115
+}
+e_russian_empire = {
+  color = {
+    0
+    86
+    63
+  }
+  color2 = {
+    255
+    255
+    255
+  }
+  capital = 582
+  culture = russian
+  allow = {
+    always = no
+  }
+}
+k_liao = {
+  color = {
+    33
+    202
+    156
+  }
+  color2 = {
+    255
+    255
+    255
+  }
+  culture = khitan
+}
+d_guiyi = {
+  color = {
+    202
+    26
+    26
+  }
+  color2 = {
+    255
+    255
+    255
+  }
+  capital = 1448
+  dignity = 200
+  allow = {
+    always = no
+  }
+}

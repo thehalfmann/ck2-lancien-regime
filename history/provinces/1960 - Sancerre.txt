@@ -1,0 +1,10 @@
+title = c_sancerre
+max_settlements = 4
+b_sancerre = castle
+b_gien = temple
+b_cosne = city
+religion = catholic
+culture = french
+1700.1.1 = {
+  b_cours = castle
+}

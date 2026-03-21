@@ -1,0 +1,24 @@
+title = c_teviotdale
+max_settlements = 4
+b_jedburgh = tribal
+b_melrose = temple
+culture = saxon
+religion = catholic
+867.1.1 = {
+  b_jedburgh = castle
+}
+1100.11.11 = {
+  culture = english
+}
+1124.1.1 = {
+  b_peebles = castle
+}
+1235.9.25 = {
+  culture = scottish
+}
+1700.1.1 = {
+  b_roxburgh = city
+}
+1700.1.1 = {
+  religion = reformed
+}

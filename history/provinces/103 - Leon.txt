@@ -1,0 +1,9 @@
+title = c_french_leon
+max_settlements = 3
+b_st_pol_de_leon = castle
+b_brest = city
+culture = breton
+religion = catholic
+1700.1.1 = {
+  b_morlaix = temple
+}

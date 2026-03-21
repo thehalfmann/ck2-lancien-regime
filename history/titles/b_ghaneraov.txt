@@ -1,0 +1,46 @@
+850.1.1 = {
+  holder = 191779
+  liege = c_mandavyapura
+}
+900.1.1 = {
+  holder = 191780
+}
+930.1.1 = {
+  holder = 191781
+}
+940.1.1 = {
+  holder = 191782
+}
+1010.1.1 = {
+  holder = 191783
+  liege = 0
+}
+1068.1.1 = {
+  holder = 0
+  liege = c_mandavyapura
+}
+1226.1.1 = {
+  holder = 191885
+}
+1273.1.1 = {
+  holder = 191886
+}
+1292.1.1 = {
+  holder = 191889
+}
+1309.1.1 = {
+  holder = 191895
+}
+1313.1.1 = {
+  holder = 191902
+}
+1323.1.1 = {
+  holder = 191903
+}
+1328.1.1 = {
+  holder = 191904
+}
+1450.1.1 = {
+  holder = 0
+  liege = c_mandavyapura
+}

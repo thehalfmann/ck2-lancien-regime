@@ -1,0 +1,10 @@
+title = c_klarjeti
+max_settlements = 4
+b_artanuji = castle
+b_klarjeti = city
+b_khertvisi = castle
+culture = georgian
+religion = orthodox
+1700.1.1 = {
+  b_tseptha = temple
+}

@@ -1,0 +1,13 @@
+title = c_sakala
+max_settlements = 4
+b_sakala = castle
+b_jammu = city
+b_bhuttar = temple
+culture = panjabi
+religion = buddhist
+1700.1.1 = {
+  b_bahu = castle
+}
+1700.1.1 = {
+  religion = sunni
+}

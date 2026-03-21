@@ -1,0 +1,40 @@
+895.1.1 = {
+  liege = c_capua
+  holder = 167472
+}
+914.1.1 = {
+  holder = 167473
+}
+934.1.1 = {
+  holder = 167474
+  liege = e_byzantium
+}
+954.1.1 = {
+  holder = 167475
+}
+962.3.1 = {
+  holder = 167476
+}
+981.2.1 = {
+  holder = 167477
+}
+984.10.1 = {
+  holder = 167478
+}
+1008.1.1 = {
+  holder = 167479
+}
+1012.1.1 = {
+  holder = 167480
+}
+1040.1.1 = {
+  holder = 167483
+  liege = c_capua
+}
+1042.1.1 = {
+  holder = 0
+}
+1450.1.1 = {
+  holder = 0
+  liege = c_capua
+}

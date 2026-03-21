@@ -1,0 +1,12 @@
+title = c_assab
+max_settlements = 3
+b_debaysima = castle
+b_assab = city
+culture = ethiopian
+religion = miaphysite
+820.1.1 = {
+  religion = sunni
+}
+1700.1.1 = {
+  b_rehayto = temple
+}

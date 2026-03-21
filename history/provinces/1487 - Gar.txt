@@ -1,0 +1,16 @@
+title = c_gar
+max_settlements = 4
+b_kunsa = castle
+b_gar = city
+b_senggezangbo = temple
+culture = zhangzhung
+religion = bon
+850.1.1 = {
+  culture = bodpa
+}
+920.1.1 = {
+  religion = buddhist
+}
+1700.1.1 = {
+  b_rabang = castle
+}

@@ -1,0 +1,19 @@
+100554 = {
+	name = "Iyasu"
+	dynasty = 100143
+	religion = miaphysite
+	culture = ethiopian
+	1654.1.1 = {
+	  birth = yes
+	}
+  }
+  
+  100555 = {
+	name = "Abdullah"
+	dynasty = 100144
+	religion = sunni
+	culture = ethiopian
+	1654.1.1 = {
+	  birth = yes
+	}
+  }

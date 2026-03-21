@@ -1,0 +1,14 @@
+title = c_munda
+max_settlements = 3
+b_chutia = castle
+culture = oriya
+religion = buddhist
+1700.1.1 = {
+  b_ratu = city
+}
+1700.1.1 = {
+  b_marang_buru = temple
+}
+1700.1.1 = {
+  religion = hindu
+}

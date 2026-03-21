@@ -1,0 +1,9 @@
+title = c_tebessa
+max_settlements = 3
+b_tebessa = castle
+b_baghaya = city
+culture = maghreb_arabic
+religion = sunni
+1700.1.1 = {
+  b_tala = temple
+}

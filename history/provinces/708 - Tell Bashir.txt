@@ -1,0 +1,17 @@
+title = c_tell_bashir
+max_settlements = 4
+b_turbessel = castle
+b_buzaa = city
+b_manbij = temple
+culture = levantine_arabic
+religion = miaphysite
+1098.1.1 = {
+  culture = armenian
+}
+1170.1.1 = {
+  culture = levantine_arabic
+  religion = sunni
+}
+1700.1.1 = {
+  b_nizip = castle
+}

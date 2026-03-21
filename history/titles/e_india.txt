@@ -1,0 +1,16 @@
+1658.7.31 = {
+  holder = 100141
+}
+1700.1.1 = {
+  vice_royalty = no
+  name = "Mughal Empire"
+  adjective = Mughals  
+  law = investiture_law_0
+  law = cognatic_succession
+  law = crown_authority_1
+  law = centralization_0
+  law = imperial_administration
+  law = vice_royalty_0
+  law = ze_administration_laws_2
+  law = succ_primogeniture
+}

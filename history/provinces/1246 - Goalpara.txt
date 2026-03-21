@@ -1,0 +1,12 @@
+title = c_goalpara
+max_settlements = 3
+b_goalpara = castle
+culture = assamese
+religion = buddhist
+terrain = hills
+1700.1.1 = {
+  b_sri_surya_pahar = city
+}
+1700.1.1 = {
+  b_kamakhya = temple
+}

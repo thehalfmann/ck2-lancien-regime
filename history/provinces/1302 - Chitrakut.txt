@@ -1,0 +1,11 @@
+title = c_chitrakut
+max_settlements = 5
+b_chitrakut = castle
+b_rampura = city
+b_baroli = temple
+b_bhainsrorgarh = castle
+culture = rajput
+religion = jain
+1700.1.1 = {
+  b_mandalgarh = city
+}

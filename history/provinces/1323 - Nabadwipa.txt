@@ -1,0 +1,16 @@
+title = c_nabadwipa
+max_settlements = 6
+b_nabadwipa = castle
+b_krishnagar = city
+b_pancharatna = temple
+culture = bengali
+religion = buddhist
+1700.1.1 = {
+  b_bidhyanandikathi = castle
+}
+1700.1.1 = {
+  b_madhyadwip = city
+}
+1700.1.1 = {
+  b_godrumdwip = castle
+}

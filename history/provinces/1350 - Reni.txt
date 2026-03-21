@@ -1,0 +1,10 @@
+title = c_reni
+max_settlements = 3
+b_reni = castle
+b_dadrewa = city
+culture = rajput
+religion = hindu
+terrain = desert
+1700.1.1 = {
+  b_mandir = temple
+}

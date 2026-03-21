@@ -1,0 +1,21 @@
+title = c_meissen
+max_settlements = 5
+b_dresden = tribal
+culture = german
+religion = slavic_pagan
+800.1.1 = {
+  b_dresden = castle
+  b_dohna = city
+  b_meissen = temple
+  b_belgern = castle
+}
+1066.1.1 = {
+  culture = german
+  religion = catholic
+}
+1186.1.1 = {
+  b_radeburg = city
+}
+1700.1.1 = {
+  religion = protestant
+}

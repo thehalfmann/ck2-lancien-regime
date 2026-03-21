@@ -1,0 +1,13 @@
+title = c_mtskheta
+max_settlements = 5
+b_mtskheta = castle
+b_sioni = city
+b_djvari = temple
+culture = georgian
+religion = orthodox
+1187.1.1 = {
+  b_gori = castle
+}
+1700.1.1 = {
+  b_bebristsikhe = city
+}

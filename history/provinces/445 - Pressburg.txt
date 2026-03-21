@@ -1,0 +1,27 @@
+title = c_pressburg
+max_settlements = 5
+b_pressburg = tribal
+b_nagyszombat = temple
+culture = slovieni
+religion = slavic_pagan
+800.1.1 = {
+  b_pressburg = castle
+  b_bazin = city
+  b_modor = castle
+}
+930.1.1 = {
+  b_pressburg = tribal
+}
+950.1.1 = {
+  b_pressburg = castle
+}
+861.1.1 = {
+  religion = catholic
+}
+1700.1.1 = {
+  b_szentgyorgy = city
+}
+1700.1.1 = {
+  religion = reformed
+  culture = slovieni
+}

@@ -1,0 +1,10 @@
+title = c_astorga
+max_settlements = 4
+b_ponferrada = castle
+b_bembibre = city
+b_astorga = temple
+culture = leonese
+religion = catholic
+1700.1.1 = {
+  b_ribadelago = castle
+}

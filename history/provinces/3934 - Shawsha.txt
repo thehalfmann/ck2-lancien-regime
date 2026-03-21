@@ -1,0 +1,13 @@
+# County Title
+title = c_shawsha
+
+# Settlements
+max_settlements = 3
+b_shawsha = tribal
+b_shawsha-ii = tribal
+
+# Misc
+culture = quechua
+religion = inti
+
+# History

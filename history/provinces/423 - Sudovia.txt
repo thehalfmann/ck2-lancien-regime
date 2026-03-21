@@ -1,0 +1,13 @@
+title = c_sudovia
+max_settlements = 3
+b_merkine = tribal
+culture = lithuanian
+religion = baltic_pagan
+1187.1.1 = {
+  b_merkine = castle
+  b_rudamina = city
+  b_liskiava = castle
+}
+1700.1.1 = {
+  religion = catholic
+}

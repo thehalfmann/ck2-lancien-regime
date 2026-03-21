@@ -1,0 +1,18 @@
+title = c_travunia
+max_settlements = 4
+b_travunia = tribal
+culture = serbian
+religion = slavic_pagan
+terrain = mountain
+800.1.1 = {
+  b_travunia = castle
+  b_kotor = city
+}
+870.1.1 = {
+  religion = orthodox
+}
+1700.1.1 = {
+  culture = italian  
+  b_trebinje = temple
+  b_dracevica = castle
+}

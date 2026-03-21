@@ -1,0 +1,15 @@
+# County Title
+title = c_bogota
+
+# Settlements
+max_settlements = 6
+b_bogota = tribal
+#b_bogota-ii = tribal
+#b_bogota-iii = tribal
+#b_bogota-iv = temple
+
+# Misc
+culture = muisca
+religion = south_american
+
+# History

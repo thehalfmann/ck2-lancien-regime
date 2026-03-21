@@ -1,0 +1,16 @@
+title = c_janakpur
+max_settlements = 5
+b_janakpur = castle
+b_birgunj = city
+b_devghat = temple
+culture = nepali
+religion = buddhist
+1041.1.1 = {
+  religion = hindu
+}
+1700.1.1 = {
+  b_kamalamai = castle
+}
+1700.1.1 = {
+  b_bharatpur = city
+}

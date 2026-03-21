@@ -1,0 +1,7 @@
+20.1.1 = {
+  law = succ_ultimogeniture
+}
+1450.1.1 = {
+  holder = 0
+  liege = c_meissen
+}

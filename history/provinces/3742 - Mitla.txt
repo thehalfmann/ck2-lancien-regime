@@ -1,0 +1,13 @@
+# County Title
+title = c_mitla
+
+# Settlements
+max_settlements = 3
+b_mitla = tribal
+b_mitla-ii = tribal
+
+# Misc
+culture = zapotek
+religion = aztec
+
+# History

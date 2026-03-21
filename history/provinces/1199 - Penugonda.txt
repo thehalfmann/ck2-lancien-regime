@@ -1,0 +1,12 @@
+title = c_penugonda
+max_settlements = 4
+b_penugonda = castle
+b_suragiri = temple
+culture = kannada
+religion = hindu
+1700.1.1 = {
+  b_anantapur = city
+}
+1700.1.1 = {
+  b_togarakunta = castle
+}

@@ -1,0 +1,10 @@
+title = c_hajar
+max_settlements = 4
+b_suhar = castle
+b_ibri = temple
+b_alhamra = city
+culture = bedouin_arabic
+religion = ibadi
+1700.1.1 = {
+  b_jabrin = castle
+}

@@ -1,0 +1,12 @@
+title = c_lugo
+max_settlements = 4
+b_lugo = castle
+b_orense = city
+culture = galician
+religion = catholic
+1700.1.1 = {
+  b_ribadeo = temple
+}
+1700.1.1 = {
+  b_navilubio = castle
+}

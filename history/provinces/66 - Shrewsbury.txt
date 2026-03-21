@@ -1,0 +1,32 @@
+title = c_shrewsbury
+max_settlements = 4
+b_wenlock = castle
+culture = welsh
+religion = catholic
+808.1.1 = {
+  culture = saxon
+}
+808.1.1 = {
+  b_ludlow = castle
+}
+808.1.1 = {
+  remove_settlement = b_wenlock
+}
+810.1.1 = {
+  b_wenlock = temple
+}
+811.1.1 = {
+  b_shrewsbury = city
+}
+1100.11.11 = {
+  culture = english
+}
+1700.1.1 = {
+  b_clun = castle
+}
+1700.1.1 = {
+  capital = b_ludlow
+}
+1700.1.1 = {
+  religion = protestant
+}

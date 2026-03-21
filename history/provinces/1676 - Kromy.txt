@@ -1,0 +1,21 @@
+title = c_kromy
+max_settlements = 4
+b_kromy = tribal
+culture = turkish
+religion = slavic_pagan
+867.1.1 = {
+  culture = russian
+}
+988.1.1 = {
+  religion = orthodox
+}
+1150.1.1 = {
+  b_kromy = castle
+  b_sevsk = temple
+}
+1200.1.1 = {
+  b_dmitrievka = city
+}
+1700.1.1 = {
+  b_navlya = castle
+}

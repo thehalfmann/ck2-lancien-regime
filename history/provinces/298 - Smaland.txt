@@ -1,0 +1,24 @@
+title = c_smaland
+max_settlements = 3
+b_kronoberg = tribal
+culture = norse
+religion = norse_pagan
+1000.1.1 = {
+  b_kronoberg = castle
+  b_vaxjo = city
+}
+1066.1.1 = {
+  culture = swedish
+}
+1123.1.1 = {
+  religion = catholic
+}
+1170.1.1 = {
+  b_vaxjo = temple
+}
+1700.1.1 = {
+  b_aringsas = city
+}
+1700.1.1 = {
+  religion = protestant
+}

@@ -1,0 +1,10 @@
+title = c_sarasvati
+max_settlements = 3
+b_sarasvati = castle
+b_bhadra = city
+culture = hindustani
+religion = hindu
+terrain = jungle
+1700.1.1 = {
+  b_bhatnir = temple
+}

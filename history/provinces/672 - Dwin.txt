@@ -1,0 +1,25 @@
+title = c_dwin
+max_settlements = 3
+b_dvin = castle
+b_erebuni = city
+b_etchmiadzin = temple
+culture = armenian
+religion = miaphysite
+1084.1.1 = {
+  culture = kurdish
+  religion = sunni
+}
+1193.1.1 = {
+  culture = armenian
+  religion = miaphysite
+}
+1320.1.1 = {
+  culture = kurdish
+  religion = sunni
+}
+1700.1.1 = {
+  culture = armenian
+}
+1700.1.1 = {
+  religion = orthodox
+}

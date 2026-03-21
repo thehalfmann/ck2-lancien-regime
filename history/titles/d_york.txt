@@ -1,0 +1,19 @@
+1603.3.24 = {
+  holder = 100215
+}
+1625.3.27 = {
+  holder = 100033
+}
+1633.10.14 = {
+  liege = k_england
+  holder = 100004
+}
+1689.4.11 = {
+  holder = 0
+}
+1700.1.1 = {
+  vice_royalty = no
+  law = investiture_law_0
+  law = cognatic_succession
+  law = centralization_2
+}

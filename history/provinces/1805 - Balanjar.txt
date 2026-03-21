@@ -1,0 +1,12 @@
+title = c_balanjar
+max_settlements = 3
+b_balanjar = tribal
+culture = turskish
+religion = tengri_pagan
+865.1.1 = {
+  religion = sunni
+  b_shali = castle
+  b_balanjar = castle
+  b_argun = temple
+}
+

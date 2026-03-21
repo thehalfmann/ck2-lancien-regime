@@ -1,0 +1,14 @@
+title = c_anglesey
+max_settlements = 4
+b_aberffraw = castle
+b_llanfaes = temple
+b_holyhead = city
+culture = welsh
+religion = catholic
+terrain = hills
+1295.1.1 = {
+  b_beaumaris = castle
+}
+1700.1.1 = {
+  religion = protestant
+}

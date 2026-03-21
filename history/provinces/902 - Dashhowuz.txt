@@ -1,0 +1,16 @@
+title = c_dashhowuz
+max_settlements = 3
+b_dashhowuz = castle
+b_kunyaurgench = city
+b_tagta = temple
+culture = persian
+religion = nestorian
+1187.1.1 = {
+  religion = sunni
+}
+1230.1.1 = {
+  culture = mongol
+}
+1700.1.1 = {
+  culture = karluk
+}

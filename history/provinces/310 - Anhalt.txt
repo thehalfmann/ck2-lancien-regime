@@ -1,0 +1,25 @@
+title = c_anhalt
+max_settlements = 5
+b_zerbst = tribal
+culture = pommeranian
+religion = slavic_pagan
+800.1.1 = {
+  b_zerbst = castle
+  b_dessau = city
+  b_lindau_zeist = temple
+}
+1100.1.1 = {
+  culture = german
+}
+1100.1.1 = {
+  religion = catholic
+}
+1700.1.1 = {
+  b_walter-nienburg = castle
+}
+1700.1.1 = {
+  b_dornburg_zeist = city
+}
+1700.1.1 = {
+  religion = protestant
+}

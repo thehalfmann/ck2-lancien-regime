@@ -1,0 +1,16 @@
+# County Title
+title = c_tepeacac
+
+# Settlements
+max_settlements = 4
+b_tepeacac = tribal
+b_tepeacac-ii = tribal
+b_tepeacac-iii = temple
+b_tepeacac-iv = tribal
+
+
+# Misc
+culture = nahuatl
+religion = aztec
+
+# History

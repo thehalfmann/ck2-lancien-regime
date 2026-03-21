@@ -1,0 +1,15 @@
+767.1.1 = {
+  holder = 214035
+}
+865.1.1 = {
+  holder = 214036
+}
+1450.1.1 = {
+  holder = 0
+  liege = c_lincoln
+}
+1689.4.11 = {
+  holder = 100000
+  liege = k_england
+}
+

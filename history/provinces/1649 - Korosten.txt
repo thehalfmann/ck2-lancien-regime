@@ -1,0 +1,22 @@
+title = c_korosten
+max_settlements = 5
+b_korosten = tribal
+culture = volhynian
+religion = slavic_pagan
+terrain = plains
+867.1.1 = {
+  culture = russian
+}
+988.1.1 = {
+  religion = orthodox
+  b_korosten = castle
+  b_olevsk = city
+  b_ovruch = temple
+  b_malyn = castle
+}
+1193.1.1 = {
+  b_chernobyl = castle
+}
+1700.1.1 = {
+  culture = ruthenian
+}

@@ -1,0 +1,25 @@
+title = c_nitra
+max_settlements = 4
+b_nyitra = tribal
+culture = slovieni
+religion = slavic_pagan
+842.1.1 = {
+  religion = catholic
+  b_nyitra = castle
+  b_stbenedek = temple
+}
+900.1.1 = {
+  b_nagytapolcsany = city
+}
+936.1.1 = {
+  b_nyitra = tribal
+}
+950.1.1 = {
+  b_nyitra = castle
+}
+1700.1.1 = {
+  b_nagysurany = castle
+}
+1700.1.1 = {
+  religion = reformed
+}

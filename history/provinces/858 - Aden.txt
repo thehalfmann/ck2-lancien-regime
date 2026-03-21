@@ -1,0 +1,19 @@
+title = c_aden
+max_settlements = 6
+b_dhala = castle
+b_aden = city
+b_lahej = temple
+culture = bedouin_arabic
+religion = sunni
+1110.1.1 = {
+  b_alawbhali = castle
+}
+1110.1.1 = {
+  b_jaar = castle
+}
+1700.1.1 = {
+  b_alkawd = city
+}
+1700.1.1 = {
+  religion = shiite
+}

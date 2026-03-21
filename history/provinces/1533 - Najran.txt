@@ -1,0 +1,17 @@
+title = c_najran
+max_settlements = 3
+b_najran = tribal
+culture = bedouin_arabic
+religion = ibadi
+850.1.1 = {
+  religion = shiite
+}
+1000.1.1 = {
+  b_najran = castle
+}
+1700.1.1 = {
+  b_sada = city
+}
+1700.1.1 = {
+  b_huth = temple
+}

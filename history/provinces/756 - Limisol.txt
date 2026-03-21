@@ -1,0 +1,13 @@
+title = c_limisol
+max_settlements = 4
+b_limmassol = castle
+b_paphos = city
+b_arsinoe = temple
+culture = greek
+religion = orthodox
+1141.1.1 = {
+  trade_post = b_faliero
+}
+1700.1.1 = {
+  b_kolossi = castle
+}

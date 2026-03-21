@@ -1,0 +1,13 @@
+title = c_czersk
+terrain = forest
+max_settlements = 2
+b_liw = tribal
+culture = polish
+religion = slavic_pagan
+987.1.1 = {
+  religion = catholic
+  b_liw = castle
+}
+1700.1.1 = {
+  b_brodno = city
+}

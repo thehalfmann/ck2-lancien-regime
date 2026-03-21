@@ -1,0 +1,48 @@
+100586 = {
+	name = "Richard"
+	dynasty = 100169
+	religion = protestant
+	culture = anglo_american
+	1636.1.1 = {
+	  birth = yes 
+	}
+  }
+
+  100587 = {
+	name = "Fitz-John"
+	dynasty = 100170
+	religion = protestant
+	culture = anglo_american
+	1637.3.14 = {
+	  birth = yes 
+	}
+  }
+
+  100588 = {
+	name = "Samuel"
+	dynasty = 100171
+	religion = protestant
+	culture = anglo_american
+	1637.3.14 = {
+	  birth = yes 
+	}
+  }
+
+  100592 = {
+	name = "William"
+	dynasty = 100175
+	religion = protestant
+	culture = anglo_american 
+	1644.10.24 = {
+	  birth = yes 
+	}
+  }
+  
+  100594 = {
+	name = "Henderson Walker"
+	religion = protestant
+	culture = anglo_american 
+	1659.1.1 = {
+	  birth = yes 
+	}
+  }

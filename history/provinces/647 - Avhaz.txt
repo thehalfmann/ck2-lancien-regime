@@ -1,0 +1,27 @@
+title = c_avhaz
+max_settlements = 5
+b_shushtar = castle
+b_idhaj = castle
+b_dezful = city
+b_helen = temple
+culture = persian
+religion = mazdaki
+800.1.1 = {
+  religion = sunni
+}
+895.1.1 = {
+  remove_settlement = b_dezful
+  remove_settlement = b_idhaj
+  b_shushtar = tribal
+}
+950.1.1 = {
+  b_shushtar = castle
+  b_idhaj = castle
+  b_dezful = city
+}
+1700.1.1 = {
+  b_masjedsoleyman = city
+}
+1700.1.1 = {
+  religion = shiite
+}

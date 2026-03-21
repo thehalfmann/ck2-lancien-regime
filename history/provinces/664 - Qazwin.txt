@@ -1,0 +1,16 @@
+title = c_qazwin
+max_settlements = 5
+b_lambsar = castle
+b_qazwin = city
+b_ahmadabad = temple
+culture = persian
+religion = zoroastrian
+1050.1.1 = {
+  religion = sunni
+}
+1700.1.1 = {
+  b_avaj = castle
+}
+1700.1.1 = {
+  b_abeyek = city
+}

@@ -1,0 +1,13 @@
+title = c_thomond
+max_settlements = 4
+b_bunratty = tribal
+b_killaloe = temple
+culture = irish
+religion = catholic
+1000.1.1 = {
+  b_bunratty = castle
+  b_limerick = city
+}
+1700.1.1 = {
+  b_emly = castle
+}

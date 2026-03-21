@@ -1,0 +1,16 @@
+title = c_qamdo
+max_settlements = 4
+b_qamdo = castle
+b_karub = city
+culture = tangut
+religion = bon
+700.1.1 = {
+  culture = bodpa
+  religion = buddhist
+}
+1276.1.1 = {
+  b_riwoche = temple
+}
+1700.1.1 = {
+  b_guro = castle
+}

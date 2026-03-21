@@ -1,0 +1,4 @@
+1697.1.1 = {
+  liege = d_barkul
+  holder = 100385
+}

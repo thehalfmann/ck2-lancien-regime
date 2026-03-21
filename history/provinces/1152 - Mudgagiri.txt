@@ -1,0 +1,16 @@
+title = c_mudgagiri
+max_settlements = 5
+b_mudgagiri = castle
+b_kahalgaon = temple
+b_campa = city
+culture = bengali
+religion = buddhist
+1700.1.1 = {
+  b_vikramasila = castle
+}
+1700.1.1 = {
+  b_karnagarh = city
+}
+1700.1.1 = {
+  religion = hindu
+}

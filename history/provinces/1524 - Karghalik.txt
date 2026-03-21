@@ -1,0 +1,15 @@
+title = c_karghalik
+max_settlements = 2
+b_karghalik = castle
+culture = saka
+religion = buddhist
+1006.1.1 = {
+  culture = karluk
+  religion = sunni
+}
+1218.1.1 = {
+  culture = uyghur
+}
+1700.1.1 = {
+  b_qiepantuo = city
+}

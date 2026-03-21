@@ -1,0 +1,21 @@
+title = c_westmorland
+max_settlements = 3
+b_appleby = castle
+b_lowther = city
+b_cartmel = temple
+culture = saxon
+religion = catholic
+900.1.1 = {
+  culture = norse
+  religion = norse_pagan
+}
+1000.1.1 = {
+  culture = saxon
+  religion = catholic
+}
+1100.11.11 = {
+  culture = english
+}
+1700.1.1 = {
+  religion = protestant
+}

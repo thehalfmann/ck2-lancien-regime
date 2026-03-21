@@ -1,0 +1,27 @@
+100143 = {
+	name = "Rani Mangammal" 
+	female = yes
+	religion = hindu
+	culture = telugu
+	dynasty = 100046
+	1652.1.1 = {
+	  birth = yes   
+	}        
+	1689.1.1 = {
+	  capital = c_madurai
+	  effect = {ROOT={ give_minor_title = title_regent }}    
+	}   
+  }
+  
+  100144 = {
+	name = "Chokkanatha" 
+	religion = hindu
+	culture = telugu
+	dynasty = 100046
+	1652.1.1 = {
+	  birth = yes   
+	} 
+	1670.1.1 = {
+	   add_spouse = 100143
+	}   
+  }

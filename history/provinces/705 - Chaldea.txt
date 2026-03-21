@@ -1,0 +1,9 @@
+title = c_chaldea
+max_settlements = 4
+b_kerasous = castle
+b_cotyora = city
+b_camachus = temple
+1700.1.1 = {
+  religion = sunni
+  culture = turkish
+}

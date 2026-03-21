@@ -1,0 +1,10 @@
+title = c_sonda
+max_settlements = 4
+b_sonda = castle
+b_nagarparkar = temple
+b_karoonjar = temple
+culture = sindhi
+religion = hindu
+1700.1.1 = {
+  b_amarkot = city
+}

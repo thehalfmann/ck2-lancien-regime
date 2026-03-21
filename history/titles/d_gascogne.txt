@@ -1,0 +1,179 @@
+670.1.1 = {
+  holder = 168145
+}
+768.1.1 = {
+  holder = 168104
+  liege = k_france
+}
+778.1.1 = {
+  holder = 168106
+}
+812.1.1 = {
+  holder = 168105
+}
+816.1.1 = {
+  holder = 168109
+}
+818.1.1 = {
+  holder = 168121
+}
+820.1.1 = {
+  holder = 70300
+}
+839.1.1 = {
+  holder = 168111
+}
+848.1.1 = {
+  holder = 168143
+}
+855.1.1 = {
+  holder = 168133
+}
+864.1.1 = {
+  liege = k_aquitaine
+  holder = 163060
+}
+884.12.12 = {
+  liege = k_france
+}
+893.1.1 = {
+  holder = 7563
+  liege = 0
+}
+920.1.1 = {
+  holder = 7562
+}
+955.1.1 = {
+  holder = 163061
+}
+961.1.1 = {
+  holder = 127049
+}
+996.12.23 = {
+  holder = 127050
+}
+1009.12.25 = {
+  holder = 127051
+}
+1032.10.4 = {
+  holder = 127055
+}
+1036.1.1 = {
+  holder = 228
+}
+1039.3.10 = {
+  holder = 127056
+}
+1053.1.1 = {
+  liege = k_france
+}
+1063.1.1 = {
+  holder = 240
+}
+1086.9.25 = {
+  holder = 205733
+}
+1126.2.10 = {
+  holder = 205731
+}
+1137.4.9 = {
+  holder = 205730
+}
+1137.7.22 = {
+  holder = 205500
+}
+1152.3.21 = {
+  holder = 205730
+}
+1152.5.18 = {
+  liege = k_england
+  holder = 204500
+}
+1189.7.6 = {
+  holder = 204510
+}
+1199.4.6 = {
+  holder = 204514
+}
+1216.10.28 = {
+  holder = 454522
+}
+1272.11.16 = {
+  holder = 454520
+}
+1307.7.8 = {
+  holder = 454510
+}
+1327.2.1 = {
+  holder = 454500
+}
+1450.1.1 = {
+  liege = 0
+  holder = 0
+}
+1700.1.1 = {
+  vice_royalty = no
+  law = investiture_law_0
+  law = cognatic_succession
+  law = centralization_2
+}
+1815.6.9 = {
+  holder = 111957627
+  liege = e_france
+}
+1830.6.9 = {
+  holder = 114845765
+  liege = e_france
+}
+1845.6.9 = {
+  holder = 117840952
+  liege = e_france
+}
+1860.6.9 = {
+  holder = 118405149
+  liege = e_france
+}
+1875.6.9 = {
+  holder = 111942415
+  liege = e_france
+}
+1890.6.9 = {
+  holder = 112493543
+  liege = e_france
+}
+1905.6.9 = {
+  holder = 118568177
+  liege = e_france
+}
+1920.6.9 = {
+  holder = 116302510
+  liege = e_france
+}
+1935.6.9 = {
+  holder = 117952604
+  liege = e_france
+}
+1950.6.9 = {
+  holder = 115602794
+  liege = e_france
+}
+1965.6.9 = {
+  holder = 112057041
+  liege = e_france
+}
+1980.6.9 = {
+  holder = 113707428
+  liege = e_france
+}
+1995.6.9 = {
+  holder = 118903875
+  liege = e_france
+}
+2010.6.9 = {
+  holder = 114642567
+  liege = e_france
+}
+2020.12.31 = {
+  holder = 0
+  liege = 0
+}

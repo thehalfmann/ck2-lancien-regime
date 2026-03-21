@@ -1,0 +1,13 @@
+# County Title
+title = c_tohome
+
+# Settlements
+max_settlements = 3
+b_tohome = tribal
+b_tohome-ii = tribal
+
+# Misc
+culture = choctaw
+religion = algic_pagan
+
+# History

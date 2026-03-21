@@ -1,0 +1,18 @@
+# County Title
+title = c_cape_verde
+
+# Settlements
+max_settlements = 3
+b_cape_verde = tribal
+b_cape_verde-ii = tribal
+
+# Misc
+culture = manden
+religion = animism
+
+# History
+# 1250.1.1 = { religion = sunni }
+1300.1.1 = {
+	b_cape_verde = castle
+	b_cape_verde-ii = city
+}

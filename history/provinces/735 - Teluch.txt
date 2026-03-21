@@ -1,0 +1,35 @@
+title = c_teluch
+max_settlements = 4
+b_teluch = castle
+b_germanias = city
+b_perre = temple
+culture = greek
+religion = orthodox
+900.1.1 = {
+  culture = levantine_arabic
+}
+900.1.1 = {
+  religion = sunni
+}
+1000.1.1 = {
+  culture = armenian
+  religion = miaphysite
+}
+1259.1.1 = {
+  trade_post = b_contarini
+}
+1700.1.1 = {
+  b_komanal = castle
+}
+1700.1.1 = {
+  culture = armenian
+}
+1918.11.11 = {
+  culture = turkish
+}
+1700.1.1 = {
+  religion = miaphysite
+}
+1918.11.11 = {
+  religion = sunni
+}

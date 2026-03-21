@@ -1,0 +1,27 @@
+title = c_kunggar
+max_settlements = 5
+b_gyama = castle
+b_kunggar = city
+culture = sumpa
+religion = bon
+598.1.1 = {
+  culture = bodpa
+}
+641.1.1 = {
+  religion = buddhist
+}
+840.1.1 = {
+  religion = bon
+}
+1045.1.1 = {
+  religion = buddhist
+}
+1179.1.1 = {
+  b_drigung = temple
+}
+1700.1.1 = {
+  b_zaxoi = castle
+}
+1700.1.1 = {
+  b_mamba = city
+}

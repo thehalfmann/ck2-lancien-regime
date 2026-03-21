@@ -1,0 +1,21 @@
+title = c_farama
+max_settlements = 3
+b_farama = castle
+b_seyan = city
+culture = levantine_arabic
+religion = miaphysite
+867.1.1 = {
+  religion = sunni
+}
+909.1.1 = {
+  religion = shiite
+}
+1171.1.1 = {
+  religion = sunni
+}
+1222.1.1 = {
+  trade_post = b_faliero
+}
+1700.1.1 = {
+  b_sin = temple
+}

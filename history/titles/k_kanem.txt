@@ -1,0 +1,4 @@
+1685.1.1 = {
+  liege = e_kanem
+  holder = 100544
+}

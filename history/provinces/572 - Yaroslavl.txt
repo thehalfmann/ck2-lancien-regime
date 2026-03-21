@@ -1,0 +1,23 @@
+title = c_yaroslavl
+max_settlements = 6
+b_timerevo = tribal
+culture = mordvin
+religion = finnish_pagan
+988.1.1 = {
+  culture = russian
+  religion = orthodox
+}
+1010.1.1 = {
+  b_timerevo = castle
+  b_yaroslavl = city
+}
+1066.1.1 = {
+  b_petropavlovsky = temple
+  b_rybinsk = city
+}
+1150.1.1 = {
+  b_spaso-preobrazhensky = temple
+}
+1700.1.1 = {
+  b_romanov = castle
+}

@@ -1,0 +1,5 @@
+1676.7.23 = {
+  de_jure_liege = k_germany
+  liege = e_hre
+  holder = 100255
+}

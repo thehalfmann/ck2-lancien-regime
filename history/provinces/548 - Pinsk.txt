@@ -1,0 +1,25 @@
+title = c_pinsk
+max_settlements = 3
+b_pinsk = tribal
+culture = volhynian
+religion = slavic_pagan
+terrain = marsh
+867.1.1 = {
+  culture = russian
+}
+988.1.1 = {
+  religion = orthodox
+}
+1150.1.1 = {
+  b_pinsk = castle
+  b_ivanava = city
+  b_pinsk = ca_keep_1
+  b_pinsk = ca_wall_1
+  b_pinsk = ca_barracks_1
+}
+1700.1.1 = {
+  b_luninets = temple
+}
+1700.1.1 = {
+  culture = ruthenian
+}

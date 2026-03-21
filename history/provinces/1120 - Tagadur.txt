@@ -1,0 +1,17 @@
+title = c_tagadur
+max_settlements = 5
+b_tagadur = castle
+b_tiruvannamalai = temple
+b_satyamangalam = city
+culture = tamil
+religion = jain
+terrain = hills
+1066.1.1 = {
+  religion = hindu
+}
+1700.1.1 = {
+  b_jinji = castle
+}
+1700.1.1 = {
+  b_tirukkovalur = city
+}

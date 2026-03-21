@@ -1,0 +1,9 @@
+title = c_tregor
+max_settlements = 3
+b_guingamp = castle
+b_treguier = temple
+culture = breton
+religion = catholic
+1700.1.1 = {
+  b_plougonven = city
+}

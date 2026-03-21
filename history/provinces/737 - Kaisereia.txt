@@ -1,0 +1,25 @@
+title = c_kaisereia
+max_settlements = 5
+b_talas = castle
+b_misti = city
+b_kaisereia = temple
+culture = greek
+religion = orthodox
+680.1.1 = {
+  religion = paulician
+}
+930.1.1 = {
+  religion = orthodox
+}
+1097.8.26 = {
+  culture = turkish
+}
+1097.8.26 = {
+  religion = sunni
+}
+1700.1.1 = {
+  b_sariz = castle
+}
+1700.1.1 = {
+  b_masaka = city
+}

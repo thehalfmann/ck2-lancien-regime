@@ -1,0 +1,5 @@
+1695.2.6 = {
+  de_jure_liege = e_arabia
+  liege = e_arabia
+  holder = 100057
+}

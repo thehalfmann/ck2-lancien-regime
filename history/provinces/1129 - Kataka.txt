@@ -1,0 +1,29 @@
+title = c_kataka
+max_settlements = 6
+b_katak = castle
+b_bhubaneswar = city
+b_konarak = temple
+b_dhauli = temple
+culture = oriya
+religion = buddhist
+1250.1.1 = {
+  build_wonder = wonder_temple_hindu_konark
+  set_wonder_stage = 1
+}
+1252.1.1 = {
+  set_wonder_stage = 2
+}
+1255.1.1 = {
+  set_wonder_stage = 3
+  build_wonder_upgrade = upgrade_mandapa
+}
+1260.1.1 = {
+  set_wonder_stage = 4
+  build_wonder_upgrade = upgrade_shikhara
+}
+1700.1.1 = {
+  b_athgarh = castle
+}
+1700.1.1 = {
+  b_sarala = city
+}

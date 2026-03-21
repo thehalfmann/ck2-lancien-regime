@@ -1,0 +1,15 @@
+# County Title
+title = c_guatemala
+
+# Settlements
+max_settlements = 4
+b_guatemala = tribal
+b_guatemala-ii = tribal
+b_guatemala-iii = tribal
+b_guatemala-iv = temple
+
+# Misc
+culture = highland_mayan
+religion = mayan
+
+# History

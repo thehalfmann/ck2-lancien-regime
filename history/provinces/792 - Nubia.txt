@@ -1,0 +1,14 @@
+title = c_nubia
+max_settlements = 3
+b_salala = castle
+culture = nubian
+religion = miaphysite
+1700.1.1 = {
+  b_anag = city
+}
+1700.1.1 = {
+  b_eirayab = temple
+}
+1700.1.1 = {
+  religion = sunni
+}

@@ -1,0 +1,8 @@
+1066.1.1 = {
+  holder = 182011
+  liege = c_venezia
+}
+1450.1.1 = {
+  holder = 0
+  liege = c_venezia
+}

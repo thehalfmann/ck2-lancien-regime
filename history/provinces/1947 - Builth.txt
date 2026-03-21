@@ -1,0 +1,13 @@
+title = c_builth
+max_settlements = 3
+b_builth = castle
+b_llanafan_fawr = temple
+culture = welsh
+religion = catholic
+terrain = mountain
+1700.1.1 = {
+  b_llandrindod = city
+}
+1700.1.1 = {
+  religion = protestant
+}

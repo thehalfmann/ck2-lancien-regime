@@ -1,0 +1,16 @@
+title = c_amaravati
+max_settlements = 4
+b_vinukonda = castle
+b_amaravati = temple
+culture = telugu
+religion = jain
+terrain = jungle
+1066.1.1 = {
+  religion = hindu
+}
+1700.1.1 = {
+  b_dhanyakataka = city
+}
+1700.1.1 = {
+  b_macherla = castle
+}

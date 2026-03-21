@@ -1,0 +1,10 @@
+title = c_puri
+max_settlements = 4
+b_jaugada = castle
+b_puri = temple
+b_buguda = city
+culture = oriya
+religion = buddhist
+1700.1.1 = {
+  b_aska = castle
+}

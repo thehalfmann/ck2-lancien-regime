@@ -1,0 +1,14 @@
+# County Title
+title = c_chiapas
+
+# Settlements
+max_settlements = 4
+b_chiapas = tribal
+b_chiapas-ii = tribal
+b_chiapas-iii = temple
+
+# Misc
+culture = lacandon
+religion = mayan
+
+# History

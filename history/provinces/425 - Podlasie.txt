@@ -1,0 +1,16 @@
+title = c_podlasie
+max_settlements = 3
+b_drohiczyn = tribal
+b_sejny = temple
+culture = lithuanian
+religion = baltic_pagan
+1200.1.1 = {
+  b_drohiczyn = castle
+  b_goniadz = city
+}
+1700.1.1 = {
+  culture = ruthenian
+}
+1700.1.1 = {
+  religion = catholic
+}

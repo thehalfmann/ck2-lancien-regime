@@ -1,0 +1,21 @@
+title = c_akroinon
+max_settlements = 3
+b_akroinon = castle
+b_antiochia_akroinon = city
+culture = greek
+religion = orthodox
+720.1.1 = {
+  religion = iconoclast
+}
+855.1.1 = {
+  religion = orthodox
+}
+1091.8.26 = {
+  culture = turkish
+}
+1091.8.26 = {
+  religion = sunni
+}
+1700.1.1 = {
+  b_nikopolis_akroinon = temple
+}

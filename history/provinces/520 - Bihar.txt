@@ -1,0 +1,28 @@
+title = c_bihar
+max_settlements = 4
+b_bihar = tribal
+culture = avar
+religion = tengri_pagan
+800.1.1 = {
+  b_bihar = castle
+  b_debrecen = city
+  b_nagyvarad = temple
+}
+895.1.1 = {
+  remove_settlement = b_debrecen
+  b_bihar = tribal
+}
+930.1.1 = {
+  culture = hungarian
+}
+950.1.1 = {
+  religion = catholic
+  b_bihar = castle
+  b_debrecen = city
+}
+1700.1.1 = {
+  b_biharkeresztes = castle
+}
+1700.1.1 = {
+  religion = reformed
+}

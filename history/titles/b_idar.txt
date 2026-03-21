@@ -1,0 +1,18 @@
+800.1.1 = {
+  holder = 191922
+  liege = d_maru
+}
+840.1.1 = {
+  holder = 188242
+}
+880.1.1 = {
+  holder = 191923
+}
+948.1.1 = {
+  holder = 0
+  liege = c_mohadavasaka
+}
+1450.1.1 = {
+  holder = 0
+  liege = c_mohadavasaka
+}

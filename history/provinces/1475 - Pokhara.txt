@@ -1,0 +1,15 @@
+title = c_pokhara
+max_settlements = 4
+b_pokhara = castle
+b_muktinath = temple
+culture = nepali
+religion = buddhist
+1041.1.1 = {
+  religion = hindu
+}
+1700.1.1 = {
+  b_marpha = city
+}
+1700.1.1 = {
+  b_prithbinarayan = castle
+}

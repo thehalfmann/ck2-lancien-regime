@@ -1,0 +1,61 @@
+1450.1.1 = {
+  liege = 0
+  holder = 0
+}
+1700.1.1 = {
+  name = Italy
+  adjective = Italian
+  vice_royalty = no
+  law = investiture_law_0
+  law = cognatic_succession
+  law = crown_authority_1
+  law = centralization_0
+}
+1861.3.17 = {
+  holder = 113672541
+}
+1878.1.9 = {
+  holder = 115406475
+}
+1900.7.29 = {
+  holder = 113588823
+}
+1946.5.9 = {
+  holder = 118054322
+}
+1946.6.12 = {
+  holder = 118545874
+}
+1948.5.12 = {
+  holder = 118305833
+}
+1955.5.11 = {
+  holder = 117019967
+}
+1962.5.11 = {
+  holder = 112460486
+}
+1964.12.29 = {
+  holder = 116160517
+}
+1971.12.29 = {
+  holder = 111333614
+}
+1978.7.9 = {
+  holder = 119058825
+}
+1985.7.3 = {
+  holder = 110409983
+}
+1992.5.28 = {
+  holder = 115975823
+}
+1999.5.18 = {
+  holder = 117125596
+}
+2006.5.15 = {
+  holder = 116694997
+}
+2015.2.3 = {
+  holder = 114711234
+}

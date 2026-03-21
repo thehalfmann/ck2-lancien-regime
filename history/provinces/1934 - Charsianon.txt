@@ -1,0 +1,21 @@
+title = c_charsianon
+max_settlements = 3
+b_charsianon = castle
+b_sebastea = city
+culture = greek
+religion = orthodox
+680.1.1 = {
+  religion = paulician
+}
+930.1.1 = {
+  religion = orthodox
+}
+1097.8.26 = {
+  culture = turkish
+}
+1097.8.26 = {
+  religion = sunni
+}
+1700.1.1 = {
+  b_dazimon = temple
+}

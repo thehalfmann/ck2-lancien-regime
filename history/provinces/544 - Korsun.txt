@@ -1,0 +1,21 @@
+title = c_korsun
+max_settlements = 2
+b_korsun = tribal
+culture = hungarian
+religion = tengri_pagan
+terrain = steppe
+892.1.1 = {
+  culture = pecheneg
+}
+988.1.1 = {
+  religion = orthodox
+}
+1032.1.1 = {
+  b_korsun = tb_hillfort_1
+}
+1091.1.1 = {
+  culture = kazakh
+}
+1700.1.1 = {
+  culture = ruthenian
+}

@@ -1,0 +1,79 @@
+907.1.1 = {
+  holder = 260602
+}
+930.1.1 = {
+  holder = 261303
+}
+937.1.1 = {
+  holder = 0
+}
+1450.1.1 = {
+  liege = 0
+  holder = 0
+}
+1700.1.1 = {
+  vice_royalty = no
+  law = investiture_law_0
+  law = cognatic_succession
+  law = centralization_2
+}
+1815.6.9 = {
+  holder = 117997660
+  liege = e_france
+}
+1830.6.9 = {
+  holder = 118791541
+  liege = e_france
+}
+1845.6.9 = {
+  holder = 114979182
+  liege = e_france
+}
+1860.6.9 = {
+  holder = 118075922
+  liege = e_france
+}
+1875.6.9 = {
+  holder = 116784830
+  liege = e_france
+}
+1890.6.9 = {
+  holder = 114162324
+  liege = e_france
+}
+1905.6.9 = {
+  holder = 117145447
+  liege = e_france
+}
+1920.6.9 = {
+  holder = 111658093
+  liege = e_france
+}
+1935.6.9 = {
+  holder = 115648759
+  liege = e_france
+}
+1950.6.9 = {
+  holder = 117074443
+  liege = e_france
+}
+1965.6.9 = {
+  holder = 113276985
+  liege = e_france
+}
+1980.6.9 = {
+  holder = 111054007
+  liege = e_france
+}
+1995.6.9 = {
+  holder = 119366927
+  liege = e_france
+}
+2010.6.9 = {
+  holder = 112342240
+  liege = e_france
+}
+2020.12.31 = {
+  holder = 0
+  liege = 0
+}

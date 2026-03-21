@@ -1,0 +1,13 @@
+title = c_leinster
+max_settlements = 4
+b_leighlin = tribal
+b_ferns = temple
+culture = irish
+religion = catholic
+1000.1.1 = {
+  b_leighlin = castle
+  b_wexford = city
+}
+1700.1.1 = {
+  b_arklow = castle
+}

@@ -1,0 +1,4 @@
+1698.2.6 = {
+  liege = d_barcelona
+  holder = 100389
+}

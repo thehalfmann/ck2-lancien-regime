@@ -1,0 +1,20 @@
+1050.1.1 = {
+  liege = k_venice
+  holder = 182000
+}
+1069.1.1 = {
+  holder = 0
+  liege = c_split
+}
+1075.1.1 = {
+  liege = k_venice
+  holder = 182000
+}
+1105.1.1 = {
+  holder = 0
+  liege = c_split
+}
+1450.1.1 = {
+  holder = 0
+  liege = c_split
+}

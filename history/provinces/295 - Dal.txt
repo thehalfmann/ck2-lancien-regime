@@ -1,0 +1,21 @@
+title = c_dal
+max_settlements = 3
+b_dalaborg = tribal
+culture = norse
+religion = norse_pagan
+1000.1.1 = {
+  b_dalaborg = castle
+}
+1066.1.1 = {
+  culture = swedish
+  religion = catholic
+}
+1700.1.1 = {
+  b_bolstad = city
+}
+1700.1.1 = {
+  b_sundal = temple
+}
+1700.1.1 = {
+  religion = protestant
+}

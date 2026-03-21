@@ -1,0 +1,434 @@
+e_mexikha = {
+
+	color={ 25 44 177 }
+	color2={ 220 220 220 }
+
+	capital = 3723 # Tenochtitlan
+
+	k_aztec = {
+
+		color={ 15 134 77 }
+		color2={ 220 220 220 }
+
+		capital = 3723 # Tenochtitlan
+
+		d_puebla = {
+
+			color={ 35 164 221 }
+			color2={ 220 220 220 }
+			
+			capital = 3728 # Cholula
+			
+			c_xocotla = {
+
+				color={ 95 144 119 }
+				color2={ 220 220 220 }
+				
+				b_xocotla = {
+				}
+				b_xocotla-ii = {
+				}
+				b_xocotla-iii = {
+				}
+			}
+			c_tlaxcala = {
+
+				color={ 15 34 29 }
+				color2={ 220 220 220 }
+				
+				b_tlaxcala = {
+				}
+				b_tlaxcala-ii = {
+				}
+				b_tlaxcala-iii = {
+				}
+			}
+			c_cholula = {
+
+				color={ 175 124 33 }
+				color2={ 220 220 220 }
+
+				holy_site = aztec
+				holy_site = aztec_reformed	
+				
+				b_cholula = {
+				}
+				b_cholula-ii = {
+				}
+				b_cholula-iii = {
+				}
+				b_cholula-iv = {
+				}
+				b_cholula-v = {
+				}
+			}
+			c_tepeacac = {
+
+				color={ 55 174 49 }
+				color2={ 220 220 220 }
+				
+				b_tepeacac = {
+				}
+				b_tepeacac-ii = {
+				}
+				b_tepeacac-iii = {
+				}
+				b_tepeacac-iv = {
+				}
+			}
+			c_teotitlan = {
+
+				color={ 35 11 58 }
+				color2={ 220 220 220 }
+				
+				b_teotitlan = {
+				}
+				b_teotitlan-ii = {
+				}
+				b_teotitlan-iii = {
+				}
+			}
+		}
+		d_huasteca = {
+
+			color={ 165 164 229 }
+			color2={ 220 220 220 }
+
+			capital = 3720 # Cuauhtochco
+			
+			c_tziccoac = {
+
+				color={ 195 44 69 }
+				color2={ 220 220 220 }
+				
+				b_tziccoac = {
+				}
+				b_tziccoac-ii = {
+				}
+				b_tziccoac-iii = {
+				}
+			}
+			c_tohancapan = {
+
+				color={ 45 134 79 }
+				color2={ 220 220 220 }
+				
+				b_tohancapan = {
+				}
+				b_tohancapan-ii = {
+				}
+				b_tohancapan-iii = {
+				}
+			}
+			c_cuauhtochco = {
+
+				color={ 15 194 83 }
+				color2={ 220 220 220 }
+				
+				b_cuauhtochco = {
+				}
+				b_cuauhtochco-ii = {
+				}
+				b_cuauhtochco-iii = {
+				}
+				b_cuauhtochco-iv = {
+				}
+			}
+			c_cuetlaxtlan = {
+
+				color={ 58 74 99 }
+				color2={ 220 220 220 }
+				
+				b_cuetlaxtlan = {
+				}
+				b_cuetlaxtlan-ii = {
+				}
+				b_cuetlaxtlan-iii = {
+				}
+			}
+			c_tochtepec = {
+
+				color={ 215 24 109 }
+				color2={ 220 220 220 }
+				
+				b_tochtepec = {
+				}
+				b_tochtepec-ii = {
+				}
+				b_tochtepec-iii = {
+				}
+			}
+
+		}
+		d_aztec1 = {
+
+			color={ 44 184 159 }
+			color2={ 220 220 220 }
+			
+			capital = 3723 # Tenochtitlan
+			
+			c_tenochtitlan = {
+
+				color={ 85 24 119 }
+				color2={ 220 220 220 }
+
+				holy_site=mayan
+				holy_site=mayan_reformed	
+				holy_site = aztec
+				holy_site = aztec_reformed		
+	
+				b_tenochtitlan = {
+				}
+				b_tenochtitlan-ii = {
+				}
+				b_tenochtitlan-iii = {
+				}
+				b_tenochtitlan-iv = {
+				}
+				b_tenochtitlan-v = {
+				}
+				b_tenochtitlan-vi = {
+				}
+			}
+			c_cuauhnahuac = {
+
+				color={ 145 204 129 }
+				color2={ 220 220 220 }
+				
+				b_cuauhnahuac = {
+				}
+				b_cuauhnahuac-ii = {
+				}
+				b_cuauhnahuac-iii = {
+				}
+			}
+			c_malinalco = {
+
+				color={ 85 14 139 }
+				color2={ 220 220 220 }
+				
+				b_malinalco = {
+				}
+				b_malinalco-ii = {
+				}
+				b_malinalco-iii = {
+				}
+			}
+			c_tullucan = {
+
+				color={ 85 94 149 }
+				color2={ 220 220 220 }
+				
+				b_tullucan = {
+				}
+				b_tullucan-ii = {
+				}
+				b_tullucan-iii = {
+				}
+			}
+			c_tulax = {
+
+				color={ 85 34 159 }
+				color2={ 220 220 220 }
+				
+				b_tulax = {
+				}
+				b_tulax-ii = {
+				}
+				b_tulax-iii = {
+				}
+			}
+			c_tlapacoyan = {
+
+				color={ 85 144 169 }
+				color2={ 220 220 220 }
+				
+				b_tlapacoyan = {
+				}
+				b_tlapacoyan-ii = {
+				}
+				b_tlapacoyan-iii = {
+				}
+			}
+		}
+              }
+
+	k_mixteca = {
+
+		color={ 65 174 158 }
+		color2={ 220 220 220 }
+
+		capital = 3738 # Mixtec
+
+		d_mixteca = {
+
+			color={ 55 71 143 }
+			color2={ 220 220 220 }
+			
+			capital = 3738 # Mixtec
+			
+			c_mixtec = {
+
+				color={ 225 124 174 }
+				color2={ 220 220 220 }
+
+				holy_site = aztec
+				holy_site = aztec_reformed
+				
+				b_mixtec = {
+				}
+				b_mixtec-ii = {
+				}
+				b_mixtec-iii = {
+				}
+				b_mixtec-iv = {
+				}
+				b_mixtec-v = {
+				}
+			}
+			c_tlapenec = {
+
+				color={ 35 141 184 }
+				color2={ 220 220 220 }
+				
+				b_tlapenec = {
+				}
+				b_tlapenec-ii = {
+				}
+				b_tlapenec-iii = {
+				}
+			}
+			c_yohualtepec = {
+
+				color={ 115 29 193 }
+				color2={ 220 220 220 }
+				
+				b_yohualtepec = {
+				}
+				b_yohualtepec-ii = {
+			              }
+				b_yohualtepec-iii = {
+				}
+			}
+			c_coixtlahuacan = {
+
+				color={ 195 144 204 }
+				color2={ 220 220 220 }
+				
+				b_coixtlahuacan = {
+				}
+				b_coixtlahuacan-ii = {
+				}
+				b_coixtlahuacan-iii = {
+				}
+			}
+		}
+		d_tlapanec = {
+
+			color={ 195 151 33 }
+			color2={ 220 220 220 }
+			
+			capital = 3727 # Cihuatlan
+			
+			c_cihuatlan = {
+
+				color={ 35 17 216 }
+				color2={ 220 220 220 }
+
+				holy_site=mayan
+				holy_site=mayan_reformed
+				
+				b_cihuatlan = {
+				}
+				b_cihuatlan-ii = {
+				}
+				b_cihuatlan-iii = {
+				}
+				b_cihuatlan-iv = {
+				}
+			}
+			c_teloloapan = {
+
+				color={ 45 75 226 }
+				color2={ 220 220 220 }
+				
+				b_teloloapan = {
+				}
+				b_teloloapan-ii = {
+				}
+				b_teloloapan-iii = {
+				}
+			}
+			c_yopitzinco = {
+
+				color={ 88 14 236 }
+				color2={ 220 220 220 }
+				
+				b_yopitzinco = {
+				}
+				b_yopitzinco-ii = {
+			              }
+				b_yopitzinco-iii = {
+				}
+			}
+		}
+		d_zapotec = {
+
+			color={ 135 181 153 }
+			color2={ 220 220 220 }
+			
+			capital = 3739 # Zapotec
+			
+			c_zapotec = {
+
+				color={ 5 27 46 }
+				color2={ 220 220 220 }
+				
+				b_zapotec = {
+				}
+				b_zapotec-ii = {
+				}
+				b_zapotec-iii = {
+				}
+				b_zapotec-iv = {
+				}
+			}
+			c_coyolapan = {
+
+				color={ 116 143 164 }
+				color2={ 220 220 220 }
+				
+				b_coyolapan = {
+				}
+				b_coyolapan-ii = {
+				}
+				b_coyolapan-iii = {
+				}
+			}
+			c_tehuantepec = {
+
+				color={ 58 84 108 }
+				color2={ 220 220 220 }
+				
+				b_tehuantepec = {
+				}
+				b_tehuantepec-ii = {
+			              }
+				b_tehuantepec-iii = {
+				}
+			}
+			c_xocnochco = {
+
+				color={ 25 114 147 }
+				color2={ 220 220 220 }
+				
+				b_xocnochco = {
+				}
+				b_xocnochco-ii = {
+				}
+				b_xocnochco-iii = {
+				}
+			}
+		}
+	}
+}

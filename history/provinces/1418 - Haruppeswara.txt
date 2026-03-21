@@ -1,0 +1,12 @@
+title = c_haruppeswara
+max_settlements = 4
+b_haruppeswara = castle
+b_numaligarh = castle
+culture = assamese
+religion = buddhist
+1700.1.1 = {
+  b_dibarumukh = city
+}
+1700.1.1 = {
+  b_charaideo = temple
+}

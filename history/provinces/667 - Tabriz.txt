@@ -1,0 +1,14 @@
+title = c_tabriz
+max_settlements = 5
+b_babak = castle
+b_tabriz = city
+b_dihnakhirjan = temple
+b_ahar = castle
+culture = kurdish
+religion = zoroastrian
+900.1.1 = {
+  religion = sunni
+}
+1700.1.1 = {
+  b_zahhak = city
+}

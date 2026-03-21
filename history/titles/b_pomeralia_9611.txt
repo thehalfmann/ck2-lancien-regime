@@ -1,0 +1,8 @@
+2020.5.8 = {
+  holding_dynasty = 9611
+  liege = d_pomeralia
+  holder = 119187886
+}
+2020.12.31 = {
+  holder = 0
+}

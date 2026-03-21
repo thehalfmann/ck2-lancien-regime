@@ -1,0 +1,16 @@
+# County Title
+title = c_mixtec
+
+# Settlements
+max_settlements = 5
+b_mixtec = tribal
+b_mixtec-ii = tribal
+b_mixtec-iii = tribal
+b_mixtec-iv = temple
+
+
+# Misc
+culture = mixtec
+religion = aztec
+
+# History

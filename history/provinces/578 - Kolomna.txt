@@ -1,0 +1,21 @@
+title = c_kolomna
+max_settlements = 4
+b_tula = tribal
+culture = meshchera
+religion = finnish_pagan
+terrain = plains
+867.1.1 = {
+  culture = russian
+  religion = slavic_pagan
+}
+988.1.1 = {
+  religion = orthodox
+}
+1150.1.1 = {
+  b_tula = castle
+  b_rostislavl = city
+  b_veniov = temple
+}
+1700.1.1 = {
+  b_kochira = castle
+}

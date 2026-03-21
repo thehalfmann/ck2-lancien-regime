@@ -1,0 +1,26 @@
+100607 = {
+	name = "Callinicus"
+	religion = orthodox
+	culture = greek
+	1630.1.1 = {
+	  birth = yes
+	}
+  }
+100608 = {
+	name = "Dositheus"
+	dynasty = 100182
+	religion = orthodox
+	culture = greek
+	1641.5.31 = {
+	  birth = yes
+	}
+  }
+100609 = {
+	name = "Gerasimos"
+	dynasty = 100183
+	religion = orthodox
+	culture = greek
+	1633.1.1 = {
+	  birth = yes
+	}
+  }

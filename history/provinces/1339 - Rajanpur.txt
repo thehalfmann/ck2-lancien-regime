@@ -1,0 +1,12 @@
+title = c_rajanpur
+max_settlements = 3
+b_rajanpur = castle
+b_rojhan = city
+culture = sindhi
+religion = hindu
+800.1.1 = {
+  religion = sunni
+}
+1700.1.1 = {
+  b_adhiwala = temple
+}

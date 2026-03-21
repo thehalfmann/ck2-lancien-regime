@@ -1,0 +1,12 @@
+1696.1.1 = {
+  liege = e_spain
+  holder = 100402
+}
+1700.1.1 = {
+  de_jure_liege = e_italy
+  vice_royalty = yes
+  law = investiture_law_0
+  law = cognatic_succession
+  law = crown_authority_1
+  law = centralization_2
+}

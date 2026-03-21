@@ -1,0 +1,19 @@
+title = c_derbent
+max_settlements = 4
+b_derbent = castle
+b_narinkala = city
+b_juma = temple
+culture = armenian
+religion = miaphysite
+1259.1.1 = {
+  culture = persian
+}
+1259.1.1 = {
+  religion = shiite
+}
+1700.1.1 = {
+  b_chikkulkan = castle
+}
+1700.1.1 = {
+  culture = turkish
+}

@@ -1,0 +1,15 @@
+# County Title
+title = c_malinalco
+
+# Settlements
+max_settlements = 3
+b_malinalco = tribal
+b_malinalco-ii = temple
+b_malinalco-iii = temple
+
+
+# Misc
+culture = nahuatl
+religion = aztec
+
+# History

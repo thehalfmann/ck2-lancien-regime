@@ -1,0 +1,30 @@
+title = c_kashgar
+max_settlements = 5
+b_kashgar = castle
+culture = saka
+religion = buddhist
+1006.1.1 = {
+  culture = karluk
+  religion = sunni
+}
+1218.1.1 = {
+  culture = uyghur
+}
+1233.1.1 = {
+  religion = nestorian
+}
+1360.1.1 = {
+  religion = sunni
+}
+1700.1.1 = {
+  b_xiuxun = city
+}
+1700.1.1 = {
+  b_weitou = temple
+}
+1700.1.1 = {
+  b_akto = castle
+}
+1700.1.1 = {
+  b_ulugqat = city
+}

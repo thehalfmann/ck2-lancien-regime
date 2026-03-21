@@ -1,0 +1,13 @@
+title = c_aargau
+max_settlements = 4
+b_basel = castle
+b_st_ursanne = temple
+b_delemont = city
+culture = german
+religion = catholic
+1020.1.1 = {
+  b_habsburg = castle
+}
+1700.1.1 = {
+  religion = reformed
+}

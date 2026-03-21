@@ -1,0 +1,17 @@
+1601.9.27 = {
+  liege = e_france
+  holder = 100039
+}
+1638.9.5 = {
+  holder = 100041
+}
+1661.11.1 = {
+  holder = 100043
+}
+1700.1.1 = {
+  de_jure_liege = k_aquitaine
+  vice_royalty = no
+  law = investiture_law_0
+  law = cognatic_succession
+  law = centralization_2
+}

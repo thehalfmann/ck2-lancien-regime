@@ -1,0 +1,15 @@
+title = c_luntai
+max_settlements = 4
+b_luntai = castle
+b_changji = city
+culture = tocharian
+religion = buddhist
+856.1.1 = {
+  culture = uyghur
+}
+1700.1.1 = {
+  b_fukang = temple
+}
+1700.1.1 = {
+  b_danhuan = castle
+}

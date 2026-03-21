@@ -1,0 +1,19 @@
+title = c_lyon
+max_settlements = 5
+b_pusignan = castle
+b_lyon = city
+b_stjeanbaptiste = temple
+b_brindas = castle
+culture = french
+religion = catholic
+1202.11.28 = {
+  capital = b_stjeanbaptiste
+}
+1999.1.1 = {
+}
+1700.1.1 = {
+  b_anse = city
+}
+1700.1.1 = {
+  capital = b_pusignan
+}

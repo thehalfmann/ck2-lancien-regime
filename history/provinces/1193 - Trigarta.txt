@@ -1,0 +1,17 @@
+title = c_trigarta
+max_settlements = 6
+b_jalandhar = castle
+b_kaparthula = city
+b_rahon = temple
+b_pathankot = castle
+culture = panjabi
+religion = buddhist
+1700.1.1 = {
+  b_milwat = city
+}
+1700.1.1 = {
+  b_sarwmanpur = castle
+}
+1700.1.1 = {
+  religion = sunni
+}

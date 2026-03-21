@@ -1,0 +1,15 @@
+title = c_kongu
+max_settlements = 5
+b_karavur = castle
+b_erode = castle
+b_perur = temple
+b_dharapuri = city
+culture = tamil
+religion = jain
+terrain = hills
+1066.1.1 = {
+  religion = hindu
+}
+1700.1.1 = {
+  b_hemambika = city
+}

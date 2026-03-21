@@ -1,0 +1,96 @@
+1085.9.20 = {
+  holder = 7586
+  liege = e_hre
+}
+1095.4.27 = {
+  holder = 7587
+}
+1113.9.3 = {
+  holder = 7592
+}
+1131.2.6 = {
+  holder = 7588
+}
+1140.2.13 = {
+  holder = 212540
+}
+1141.10.18 = {
+  holder = 7599
+}
+1156.10.2 = {
+  holder = 212490
+}
+1195.11.8 = {
+  holder = 212605
+}
+1212.1.1 = {
+  holder = 7401
+}
+1214.4.25 = {
+  holder = 212950
+}
+1231.9.15 = {
+  holder = 462756
+}
+1253.11.29 = {
+  holder = 462750
+}
+1294.2.2 = {
+  holder = 462736
+}
+1317.1.1 = {
+  holder = 462740
+}
+1323.8.1 = {
+  holder = 462749
+}
+1450.1.1 = {
+  liege = 0
+  holder = 0
+}
+1700.1.1 = {
+  vice_royalty = no
+  law = investiture_law_0
+  law = cognatic_succession
+  law = centralization_2
+}
+1918.11.11 = {
+  holder = 114277508
+  liege = e_germany
+}
+1931.1.18 = {
+  holder = 111108045
+  liege = e_germany
+}
+1945.5.8 = {
+  holder = 115007240
+  liege = k_germany
+}
+1960.5.8 = {
+  holder = 111728683
+  liege = k_germany
+}
+1975.5.8 = {
+  holder = 116565958
+  liege = k_germany
+}
+1990.5.8 = {
+  holder = 114137480
+  liege = k_germany
+}
+1990.9.29 = {
+  holder = 116954539
+  liege = e_germany
+}
+2005.9.29 = {
+  holder = 119715969
+  liege = e_germany
+}
+2020.9.29 = {
+  holder = 117368253
+  liege = e_germany
+}
+2020.12.31 = {
+  holder = 0
+  liege = 0
+}

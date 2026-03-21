@@ -1,0 +1,26 @@
+title = c_skara
+max_settlements = 4
+b_skara = tribal
+culture = norse
+religion = norse_pagan
+1000.1.1 = {
+  b_skara = temple
+  b_husaby = city
+  b_skara = tp_monastery_1
+}
+1066.1.1 = {
+  culture = swedish
+  religion = catholic
+}
+1148.1.1 = {
+  b_varnhem = temple
+}
+1200.1.1 = {
+  b_axevalla = castle
+}
+1700.1.1 = {
+  capital = b_axevalla
+}
+1700.1.1 = {
+  religion = protestant
+}

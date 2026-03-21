@@ -1,0 +1,8 @@
+1309.1.1 = {
+  liege = c_sinope
+  holder = 71859
+}
+1450.1.1 = {
+  holder = 0
+  liege = c_kastamon
+}

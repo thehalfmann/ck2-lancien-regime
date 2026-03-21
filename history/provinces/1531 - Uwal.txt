@@ -1,0 +1,16 @@
+title = c_uwal
+max_settlements = 4
+b_umm_al_nasan = castle
+b_manama = city
+b_muharraq = temple
+culture = bedouin_arabic
+religion = shiite
+894.1.1 = {
+  religion = qarmatian
+}
+1077.1.1 = {
+  religion = shiite
+}
+1700.1.1 = {
+  b_sitra = castle
+}

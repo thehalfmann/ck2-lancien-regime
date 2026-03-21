@@ -1,0 +1,16 @@
+title = c_kasmira
+max_settlements = 6
+b_srinagara = castle
+b_shankaracharya = temple
+b_parihasapura = temple
+culture = panjabi
+religion = buddhist
+1700.1.1 = {
+  b_padmapura = city
+}
+1700.1.1 = {
+  b_loharakota = castle
+}
+1700.1.1 = {
+  b_amaresvara = city
+}

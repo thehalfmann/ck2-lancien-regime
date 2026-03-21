@@ -1,0 +1,13 @@
+title = c_schwaben
+max_settlements = 5
+b_tubingen = castle
+b_heiligenberg = city
+b_konstanz = temple
+culture = german
+religion = catholic
+1120.1.1 = {
+  b_hohenberg = castle
+}
+1700.1.1 = {
+  b_uberlingen = city
+}

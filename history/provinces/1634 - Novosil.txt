@@ -1,0 +1,18 @@
+title = c_novosil
+max_settlements = 3
+b_novosil = tribal
+culture = turkish
+religion = slavic_pagan
+867.1.1 = {
+  culture = russian
+}
+988.1.1 = {
+  religion = orthodox
+}
+1150.1.1 = {
+  b_novosil = castle
+  b_kolpna = city
+}
+1700.1.1 = {
+  b_strakhovka = temple
+}

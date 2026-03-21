@@ -1,0 +1,21 @@
+title = c_kozelsk
+max_settlements = 4
+b_kozelsk = tribal
+culture = ilmenian
+religion = slavic_pagan
+867.1.1 = {
+  culture = russian
+}
+988.1.1 = {
+  religion = orthodox
+}
+1150.1.1 = {
+  b_kozelsk = castle
+  b_belev = temple
+}
+1200.1.1 = {
+  b_mosalsk = city
+}
+1700.1.1 = {
+  b_mezetsk = castle
+}

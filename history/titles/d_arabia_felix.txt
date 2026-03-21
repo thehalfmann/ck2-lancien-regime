@@ -1,0 +1,42 @@
+1450.1.1 = {
+  liege = 0
+  holder = 0
+}
+1700.1.1 = {
+  name = "North Yemen"
+  adjective = "North Yemeni"
+  vice_royalty = no
+  law = investiture_law_0
+  law = cognatic_succession
+  law = centralization_2
+}
+1918.10.30 = {
+  holder = 114077221
+}
+1948.2.17 = {
+  holder = 119117160
+}
+1962.9.18 = {
+  holder = 117014866
+}
+1962.9.27 = {
+  holder = 119172214
+}
+1967.11.5 = {
+  holder = 114387505
+}
+1974.6.13 = {
+  holder = 114129746
+}
+1977.10.11 = {
+  holder = 115164840
+}
+1978.6.24 = {
+  holder = 119506608
+}
+1978.7.18 = {
+  holder = 116719948
+}
+1990.5.22 = {
+  holder = 0
+}

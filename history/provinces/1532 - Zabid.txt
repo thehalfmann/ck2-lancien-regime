@@ -1,0 +1,13 @@
+title = c_zabid
+max_settlements = 4
+b_zabid = castle
+b_fasal = city
+b_al_mahjam = temple
+culture = bedouin_arabic
+religion = sunni
+1700.1.1 = {
+  b_mukha = castle
+}
+1700.1.1 = {
+  religion = shiite
+}

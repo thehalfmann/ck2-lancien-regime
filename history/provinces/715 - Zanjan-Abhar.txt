@@ -1,0 +1,16 @@
+title = c_zanjan_abhar
+max_settlements = 4
+b_zahanj = castle
+b_wasamkuh = temple
+b_abhar = city
+culture = persian
+religion = zoroastrian
+1025.1.1 = {
+  religion = sunni
+}
+1700.1.1 = {
+  b_aba = castle
+}
+1700.1.1 = {
+  religion = shiite
+}

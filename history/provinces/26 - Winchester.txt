@@ -1,0 +1,36 @@
+title = c_winchester
+max_settlements = 5
+b_winchester = castle
+b_st_swithun = temple
+b_southampton = city
+culture = saxon
+religion = catholic
+867.1.1 = {
+  b_winchester = ca_keep_1
+  b_winchester = ca_militia_barracks_1
+  b_winchester = ca_wall_1
+}
+1070.1.1 = {
+  capital = b_st_swithun
+}
+1100.11.11 = {
+  culture = english
+}
+1187.1.1 = {
+  b_andover = castle
+}
+1322.1.1 = {
+  capital = b_winchester
+}
+1326.11.27 = {
+  capital = b_st_swithun
+}
+1700.1.1 = {
+  b_portchester = city
+}
+1700.1.1 = {
+  capital = b_winchester
+}
+1700.1.1 = {
+  religion = protestant
+}

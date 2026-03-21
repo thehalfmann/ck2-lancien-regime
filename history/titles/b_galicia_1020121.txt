@@ -1,0 +1,14 @@
+1935.6.9 = {
+  holding_dynasty = 1020121
+  liege = d_galicia
+  holder = 112659431
+}
+1950.6.9 = {
+  holder = 0
+}
+2010.6.9 = {
+  holder = 118766403
+}
+2020.12.31 = {
+  holder = 0
+}

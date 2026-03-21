@@ -1,0 +1,18 @@
+title = c_evora
+max_settlements = 4
+b_evora = castle
+b_portalegre = city
+b_avis = temple
+culture = visigothic
+religion = catholic
+939.1.1 = {
+  culture = andalusian_arabic
+  religion = sunni
+}
+1161.1.1 = {
+  culture = portuguese
+  religion = catholic
+}
+1700.1.1 = {
+  b_marvao = castle
+}

@@ -1,0 +1,24 @@
+title = c_blekinge
+max_settlements = 3
+b_solvesborg = tribal
+culture = norse
+religion = norse_pagan
+1066.1.1 = {
+  b_solvesborg = castle
+  b_elleholm = temple
+  b_avaskar = city
+  b_solvesborg = ca_shipyard_1
+  b_elleholm = tp_shipyard_1
+  b_avaskar = ct_port_1
+  culture = danish
+  religion = catholic
+}
+1235.1.1 = {
+  trade_post = b_pat_luneburg
+}
+1700.1.1 = {
+  culture = swedish
+}
+1700.1.1 = {
+  religion = protestant
+}

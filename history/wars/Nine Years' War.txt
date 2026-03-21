@@ -1,0 +1,16 @@
+name = "Nine Years' War"
+
+casus_belli = {
+	actor = 100041
+	recipient = 100022
+	casus_belli=claim
+	landed_title=e_hre
+	date=1688.9.27
+}
+1688.9.27 = {
+	rem_defender = 100000
+}
+1690.1.1 = {
+	rem_defender = 100049
+	rem_defender = 100147
+}

@@ -1,0 +1,4 @@
+1696.1.1 = {
+  holder = 100476
+  liege = d_powys
+}

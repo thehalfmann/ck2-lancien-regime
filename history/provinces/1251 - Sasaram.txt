@@ -1,0 +1,15 @@
+title = c_sasaram
+max_settlements = 4
+b_jaund = castle
+b_sasaram = city
+culture = bengali
+religion = buddhist
+1700.1.1 = {
+  b_mundeshwari = temple
+}
+1700.1.1 = {
+  b_arrah = castle
+}
+1700.1.1 = {
+  religion = hindu
+}

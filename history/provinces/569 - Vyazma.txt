@@ -1,0 +1,18 @@
+title = c_vyazma
+max_settlements = 3
+b_vyazma = tribal
+culture = ilmenian
+religion = slavic_pagan
+867.1.1 = {
+  culture = russian
+}
+988.1.1 = {
+  religion = orthodox
+}
+1150.1.1 = {
+  b_vyazma = castle
+  b_yelnya = city
+}
+1700.1.1 = {
+  b_dorogobyzh = temple
+}

@@ -1,0 +1,18 @@
+title = c_karashar
+max_settlements = 5
+b_karashar = castle
+b_korla = city
+culture = tocharian
+religion = buddhist
+900.1.1 = {
+  culture = uyghur
+}
+1700.1.1 = {
+  b_shanguo = temple
+}
+1700.1.1 = {
+  b_weixu = castle
+}
+1700.1.1 = {
+  b_weili = city
+}

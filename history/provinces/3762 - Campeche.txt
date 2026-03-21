@@ -1,0 +1,14 @@
+# County Title
+title = c_campeche
+
+# Settlements
+max_settlements = 4
+b_campeche = tribal
+b_campeche-ii = tribal
+b_campeche-iii = temple
+
+# Misc
+culture = mayanx
+religion = mayan
+
+# History

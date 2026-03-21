@@ -1,0 +1,16 @@
+title = c_liege
+max_settlements = 4
+b_namur = castle
+b_liege = temple
+b_bastogne = city
+culture = french
+religion = catholic
+850.1.1 = {
+  capital = b_liege
+}
+1187.1.1 = {
+  b_stavelot = temple
+}
+1700.1.1 = {
+  capital = b_liege
+}

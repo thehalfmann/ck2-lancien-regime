@@ -1,0 +1,11 @@
+title = c_tudgha
+max_settlements = 2
+b_tudgha = castle
+culture = maghreb_arabic
+religion = kharijite
+947.1.1 = {
+  religion = sunni
+}
+1700.1.1 = {
+  b_alnif = city
+}

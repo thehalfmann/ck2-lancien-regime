@@ -1,0 +1,179 @@
+100059 = {
+	name = "Karl" # Charles XII of Sweden
+	dna="0gigd0i0000"
+	properties="0a0h0k00000000000000000000000000000000"
+	religion = protestant
+	culture = swedish
+	dynasty = 100014
+	father = 100243
+	mother = 100244
+	martial = 9
+	diplomacy = 7
+	intrigue = 6
+	stewardship = 7  
+	learning = 8
+	trait = "brilliant_strategist"
+	trait = "ambitious"
+	trait = "chaste"
+	1682.6.17 = {
+	  birth = yes   
+	}
+  }
+
+  100243 = {
+	name = "Karl" # Charles XI of Sweden
+	religion = protestant
+	culture = swedish
+	dynasty = 100014
+	1655.11.24 = {
+	  birth = yes
+	}
+	1680.5.6 = {  
+	  add_spouse = 100244
+	}
+	1697.4.5 = {
+	 death = yes   
+	} 
+  }
+
+  100245 = {
+	name = "Hedvig Sofia"
+	female = yes
+	religion = protestant
+	culture = swedish
+	dynasty = 100014
+	father = 100243
+	mother = 100244
+	1681.6.26 = {
+	  birth = yes
+	 }
+  }
+
+  100246 = {
+	name = "Ulrika Eleonora"
+	female = yes
+	religion = protestant
+	culture = swedish
+	dynasty = 100014
+	father = 100243
+	mother = 100244
+	1688.1.23 = {
+	  birth = yes
+	 }
+  }
+
+  100304 = {
+	name = "Sigismund" # Sigismund III Vasa
+	religion = catholic
+	culture = swedish
+	dynasty = 100049
+	father = 100301
+	mother  = 100302
+	1566.6.20 = {
+	  birth = yes 
+	}
+	1587.8.19  = {
+	  culture = polish
+	}
+	1592.5.31 = {
+	   add_spouse = 100303
+	}
+	1605.12.11 = {
+	  add_spouse = 100305
+	}
+	1632.4.30 = {
+	 death = yes   
+	}
+  }
+
+  100390 = {
+	name = "Erik" # Erik Dahlbergh
+	religion = protestant
+	culture = german
+	dynasty = 100079
+	trait = "brilliant_strategist"
+	trait = "erudite"
+	1625.10.10 = {
+	  birth = yes     
+	}
+  }
+	
+  100495 = {
+	name = "Olov Svebilius"
+	religion = protestant
+	culture = swedish
+	dynasty = 100122
+	trait = "scholarly_theologian"
+	1624.1.1 = {
+	  birth = yes  
+	}
+	1681.1.1 = {
+	  employer=100059
+	  effect = {
+		give_job_title=job_spiritual
+	  }
+	}
+  }    
+
+  100496 = {
+	name = "Maria Aurora" # Maria Aurora von Königsmarck
+	female = yes
+	religion = protestant
+	culture = swedish
+	dynasty = 100124
+	1662.8.28 = {
+	  birth = yes
+	}
+  }    
+
+  100501 = {
+	name = "Axel Julius" # Axel Julius De la Gardie
+	religion = protestant
+	culture = swedish
+	dynasty = 100128
+	1637.1.1 = {
+	  birth = yes 
+	}
+  }
+
+  100542 = {
+	name = "Otto" # Otto Vellingk
+	religion = protestant
+	culture = swedish
+	dynasty = 100186
+	martial = 5
+	1649.1.1 = {
+	  birth = yes
+	}
+  }
+
+  100571 = {
+	name = "Carl Gustav" # Carl Gustav Rehnskiöld
+	dynasty = 100149
+	martial = 10
+	religion = protestant
+	culture = swedish
+	1651.8.6 = {
+	  birth = yes 
+	}
+  }
+
+  100572 = {
+	name = "Jurgen" # Jurgen Mellin
+	dynasty = 100159
+	religion = protestant
+	culture = swedish
+	1633.11.2 = {
+	  birth = yes 
+	}
+  }
+  
+  100573 = {
+	name = "Nils Carlsson" # Nils Gyllenstierna
+	dynasty = 100160
+	religion = protestant
+	culture = swedish
+	1648.10.13 = {
+	  birth = yes 
+	}
+  }

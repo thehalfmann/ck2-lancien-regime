@@ -1,0 +1,96 @@
+e_hre = {
+	color = {
+	  250
+	  250
+	  250
+	}
+	color2 = {
+	  0
+	  0
+	  0
+	}
+	capital = 449
+	short_name = yes
+	allow = {
+	  always = no
+	}
+	k_saxon = {
+	  color = {
+		70
+		70
+		70
+	  }
+	  color2 = {
+		255
+		255
+		255
+	  }
+	  capital = 257
+	  title_prefix = GRAND_DUCHY_PREFIX
+	  title = GRAND_DUCHY_RULER
+	  title_female = GRAND_DUCHY_RULER_FEMALE
+	  allow = {
+		conditional_tooltip = {
+		  k_saxon = {
+			is_titular = yes
+		  }
+		}
+		k_saxon = {
+		  is_titular = no
+		}
+	  }
+	  catholic = 3000
+	}
+	k_franconia = {
+	  color = {
+		100
+		108
+		100
+	  }
+	  color2 = {
+		255
+		255
+		255
+	  }
+	  capital = 254
+	  title_prefix = GRAND_DUCHY_PREFIX
+	  title = GRAND_DUCHY_RULER
+	  title_female = GRAND_DUCHY_RULER_FEMALE
+	  allow = {
+		conditional_tooltip = {
+		  k_franconia = {
+			is_titular = yes
+		  }
+		}
+		k_franconia = {
+		  is_titular = no
+		}
+	  }
+	}
+	k_swabia = {
+	  color = {
+		206
+		203
+		203
+	  }
+	  color2 = {
+		255
+		255
+		255
+	  }
+	  capital = 249
+	  title_prefix = GRAND_DUCHY_PREFIX
+	  title = GRAND_DUCHY_RULER
+	  title_female = GRAND_DUCHY_RULER_FEMALE
+	  allow = {
+		conditional_tooltip = {
+		  k_swabia = {
+			is_titular = yes
+		  }
+		}
+		k_swabia = {
+		  is_titular = no
+		}
+	  }
+	}
+  }

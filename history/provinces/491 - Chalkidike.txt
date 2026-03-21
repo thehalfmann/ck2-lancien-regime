@@ -1,0 +1,12 @@
+title = c_chalkidike
+max_settlements = 3
+b_chrysiopolis = castle
+b_mntathos = temple
+culture = greek
+religion = orthodox
+1176.1.1 = {
+  trade_post = b_dandolo
+}
+1700.1.1 = {
+  b_zicna = city
+}

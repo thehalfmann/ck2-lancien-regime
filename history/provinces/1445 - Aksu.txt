@@ -1,0 +1,23 @@
+title = c_aksu
+max_settlements = 5
+b_aksu_mongolia = castle
+culture = tocharian
+religion = buddhist
+900.1.1 = {
+  culture = uyghur
+}
+1006.1.1 = {
+  religion = sunni
+}
+1700.1.1 = {
+  b_tumshuk = city
+}
+1700.1.1 = {
+  b_wensu = temple
+}
+1700.1.1 = {
+  b_awat = castle
+}
+1700.1.1 = {
+  b_kelpin = city
+}

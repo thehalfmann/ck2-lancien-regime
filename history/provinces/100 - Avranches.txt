@@ -1,0 +1,34 @@
+title = c_avranches
+max_settlements = 5
+b_mortain = castle
+b_avranches = city
+b_barfleur = temple
+culture = french
+religion = catholic
+911.1.1 = {
+  b_cherbourg = castle
+  b_mortain = ca_keep_1
+  b_mortain = ca_training_grounds_1
+  b_mortain = ca_stable_1
+  b_mortain = ca_wall_1
+  b_mortain = ca_wall_2
+  b_mortain = ca_militia_barracks_1
+  b_mortain = ca_barracks_1
+  b_mortain = ca_town_1
+  b_avranches = ct_port_1
+}
+936.1.1 = {
+  culture = norman
+}
+1066.1.1 = {
+  b_avranches = ct_wall_1
+  b_avranches = ct_wall_2
+  b_avranches = ct_port_2
+  b_avranches = ct_port_3
+}
+1100.11.11 = {
+  culture = french
+}
+1700.1.1 = {
+  b_coutances = city
+}

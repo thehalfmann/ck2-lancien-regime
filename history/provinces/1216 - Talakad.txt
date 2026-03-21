@@ -1,0 +1,11 @@
+title = c_talakad
+max_settlements = 4
+b_talakad = castle
+b_veppur = city
+b_somanathapura = city
+culture = kannada
+religion = jain
+terrain = hills
+1700.1.1 = {
+  b_ummattur = temple
+}

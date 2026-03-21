@@ -1,0 +1,809 @@
+e_kanem = {
+	color = {
+	  50
+	  230
+	  235
+	}
+	color2 = {
+	  255
+	  255
+	  255
+	}
+	k_kanem = {
+	  color = {
+		10
+		215
+		225
+	  }
+	  color2 = {
+		255
+		255
+		255
+	  }
+	  capital = 1739
+	  d_bornu = {
+		color = {
+		  96
+		  120
+		  185
+		}
+		color2 = {
+		  255
+		  255
+		  255
+		}
+		capital = 1743
+		c_bornu = {
+		  color = {
+			81
+			105
+			170
+		  }
+		  color2 = {
+			255
+			255
+			255
+		  }
+		  b_ngazargamu = {
+		  }
+		  b_kukawa = {
+		  }
+		  b_zamtam = {
+		  }
+		  b_fika = {
+		  }
+		  b_sao = {
+		  }
+		  b_yao = {
+		  }
+		  b_marzouga = {
+		  }
+		}
+		c_kagha = {
+		  color = {
+			72
+			115
+			193
+		  }
+		  color2 = {
+			255
+			255
+			255
+		  }
+		  b_amcaka = {
+		  }
+		  b_kotoko = {
+		  }
+		  b_ngala = {
+		  }
+		  b_atemaga = {
+		  }
+		  b_gidan_taka = {
+		  }
+		  b_ikot_obio_nsu = {
+		  }
+		  b_bauni = {
+		  }
+		}
+		c_munio = {
+		  color = {
+			118
+			135
+			197
+		  }
+		  color2 = {
+			255
+			255
+			255
+		  }
+		  b_nguru = {
+		  }
+		  b_diaka = {
+		  }
+		  b_mashina = {
+		  }
+		  b_gumsa = {
+		  }
+		  b_amalget = {
+		  }
+		  b_ikot_enebong = {
+		  }
+		  b_tsaskiya = {
+		  }
+		}
+		c_masseniya = {
+		  color = {
+			91
+			102
+			214
+		  }
+		  color2 = {
+			255
+			255
+			255
+		  }
+		  b_masseniya = {
+		  }
+		  b_malfe = {
+		  }
+		  b_ategbe = {
+		  }
+		  b_umu_okohia = {
+		  }
+		  b_bale_agbe = {
+		  }
+		  b_oganga = {
+		  }
+		  b_chutar_buki = {
+		  }
+		}
+		c_makari = {
+		  color = {
+			76
+			139
+			178
+		  }
+		  color2 = {
+			255
+			255
+			255
+		  }
+		  b_makari = {
+		  }
+		  b_diama = {
+		  }
+		  b_kussiri = {
+		  }
+		  b_gambila = {
+		  }
+		  b_gegu = {
+		  }
+		  b_gidan_hunu = {
+		  }
+		  b_chilaro = {
+		  }
+		}
+		c_bauchi = {
+		  color = {
+			90
+			125
+			173
+		  }
+		  color2 = {
+			255
+			255
+			255
+		  }
+		  b_bauchi = {
+		  }
+		  b_kazaure = {
+		  }
+		  b_bakinkuja = {
+		  }
+		  b_danmadahun = {
+		  }
+		  b_zar = {
+		  }
+		  b_kadira = {
+		  }
+		  b_ruwan_jema = {
+		  }
+		}
+	  }
+	  d_kanem = {
+		color = {
+		  80
+		  195
+		  205
+		}
+		color2 = {
+		  255
+		  255
+		  255
+		}
+		capital = 1739
+		c_djimi = {
+		  color = {
+			70
+			185
+			190
+		  }
+		  color2 = {
+			255
+			255
+			255
+		  }
+		  holy_site = west_african_pagan
+		  holy_site = west_african_pagan_reformed
+		  b_djimi = {
+		  }
+		  b_auno = {
+		  }
+		  b_dagolu = {
+		  }
+		  b_kagusti = {
+		  }
+		  b_mao = {
+		  }
+		  b_muli_fuli = {
+		  }
+		  b_sandu = {
+		  }
+		}
+		c_manan = {
+		  color = {
+			93
+			207
+			191
+		  }
+		  color2 = {
+			255
+			255
+			255
+		  }
+		  b_manan = {
+		  }
+		  b_furtu = {
+		  }
+		  b_goyawa = {
+		  }
+		  b_garoumele = {
+		  }
+		  b_tchoukoutoli = {
+		  }
+		  b_nankassa = {
+		  }
+		  b_arkolo = {
+		  }
+		}
+		c_bilma = {
+		  color = {
+			85
+			180
+			221
+		  }
+		  color2 = {
+			255
+			255
+			255
+		  }
+		  b_bilma = {
+		  }
+		  b_gouam = {
+		  }
+		  b_tigue = {
+		  }
+		  b_libasso = {
+		  }
+		  b_danouala = {
+		  }
+		  b_kiroungou = {
+		  }
+		  b_mateukous = {
+		  }
+		}
+	  }
+	  d_fezzan = {
+		color = {
+		  25
+		  160
+		  150
+		}
+		color2 = {
+		  255
+		  255
+		  255
+		}
+		capital = 1730
+		c_murzuk = {
+		  color = {
+			15
+			146
+			129
+		  }
+		  color2 = {
+			255
+			255
+			255
+		  }
+		  b_murzuk = {
+		  }
+		  b_tassawa = {
+		  }
+		  b_sebna = {
+		  }
+		  b_djarma = {
+		  }
+		  b_ash_shurraf = {
+		  }
+		  b_massah = {
+		  }
+		  b_tmessa = {
+		  }
+		}
+		c_zawila = {
+		  color = {
+			33
+			172
+			138
+		  }
+		  color2 = {
+			255
+			255
+			255
+		  }
+		  b_zawila = {
+		  }
+		  b_zalha = {
+		  }
+		  b_zizau = {
+		  }
+		  b_sciaua = {
+		  }
+		  b_jikheira = {
+		  }
+		  b_et_tuebia = {
+		  }
+		  b_petras_maior = {
+		  }
+		}
+		c_djado = {
+		  color = {
+			27
+			197
+			173
+		  }
+		  color2 = {
+			255
+			255
+			255
+		  }
+		  b_djado = {
+		  }
+		  b_tummo = {
+		  }
+		  b_el_bedan = {
+		  }
+		  b_al_qalah = {
+		  }
+		  b_msus = {
+		  }
+		  b_grennah = {
+		  }
+		  b_djemmari = {
+		  }
+		}
+	  }
+	  d_wadai = {
+		color = {
+		  17
+		  237
+		  189
+		}
+		color2 = {
+		  255
+		  255
+		  255
+		}
+		capital = 1770
+		c_fitri = {
+		  color = {
+			32
+			212
+			170
+		  }
+		  color2 = {
+			255
+			255
+			255
+		  }
+		  b_gaska = {
+		  }
+		  b_kuka = {
+		  }
+		  b_ndoye = {
+		  }
+		  b_atourda = {
+		  }
+		  b_sambourou = {
+		  }
+		  b_manouachi = {
+		  }
+		  b_troan = {
+		  }
+		}
+		c_wadai = {
+		  color = {
+			27
+			247
+			201
+		  }
+		  color2 = {
+			255
+			255
+			255
+		  }
+		  b_wara = {
+		  }
+		  b_abeche = {
+		  }
+		  b_nimro = {
+		  }
+		  b_koulkoule = {
+		  }
+		  b_yue = {
+		  }
+		  b_gourmoga = {
+		  }
+		  b_asafik = {
+		  }
+		}
+		c_ennedi = {
+		  color = {
+			10
+			205
+			162
+		  }
+		  color2 = {
+			255
+			255
+			255
+		  }
+		  b_kobbai = {
+		  }
+		  b_kebkabiya = {
+		  }
+		  b_shaiqab = {
+		  }
+		  b_bandarbi = {
+		  }
+		  b_esh_sharafa = {
+		  }
+		  b_sabu = {
+		  }
+		  b_et_taba = {
+		  }
+		}
+	  }
+	}
+	k_hausaland = {
+	  color = {
+		133
+		40
+		191
+	  }
+	  color2 = {
+		255
+		255
+		255
+	  }
+	  capital = 1746
+	  d_hausaland = {
+		color = {
+		  179
+		  85
+		  237
+		}
+		color2 = {
+		  255
+		  255
+		  255
+		}
+		capital = 1746
+		c_kano = {
+		  color = {
+			159
+			75
+			217
+		  }
+		  color2 = {
+			255
+			255
+			255
+		  }
+		  holy_site = west_african_pagan
+		  holy_site = west_african_pagan_reformed
+		  b_kano = {
+		  }
+		  b_hadejia = {
+		  }
+		  b_nok = {
+		  }
+		  b_turunku = {
+		  }
+		  b_tigaro = {
+		  }
+		  b_gamaja = {
+		  }
+		  b_labozhi = {
+		  }
+		}
+		c_daura = {
+		  color = {
+			185
+			105
+			205
+		  }
+		  color2 = {
+			255
+			255
+			255
+		  }
+		  b_daura = {
+		  }
+		  b_maradi = {
+		  }
+		  b_zinder = {
+		  }
+		  b_itak_udara = {
+		  }
+		  b_lapadi = {
+		  }
+		  b_uper = {
+		  }
+		  b_irahun = {
+		  }
+		}
+		c_gobir = {
+		  color = {
+			161
+			62
+			203
+		  }
+		  color2 = {
+			255
+			255
+			255
+		  }
+		  b_gobir = {
+		  }
+		  b_birnin_konni = {
+		  }
+		  b_doba = {
+		  }
+		  b_ierkpen = {
+		  }
+		  b_kpem = {
+		  }
+		  b_esuk_mesembe = {
+		  }
+		  b_waja = {
+		  }
+		}
+		c_katsina = {
+		  color = {
+			148
+			69
+			248
+		  }
+		  color2 = {
+			255
+			255
+			255
+		  }
+		  b_katsina = {
+		  }
+		  b_zaria = {
+		  }
+		  b_kaduna = {
+		  }
+		  b_furana = {
+		  }
+		  b_asani = {
+		  }
+		  b_ogunde = {
+		  }
+		  b_gausambe = {
+		  }
+		}
+		c_zamfara = {
+		  color = {
+			192
+			94
+			229
+		  }
+		  color2 = {
+			255
+			255
+			255
+		  }
+		  b_datsi = {
+		  }
+		  b_anka = {
+		  }
+		  b_gusau = {
+		  }
+		  b_horo_majakai = {
+		  }
+		  b_kori = {
+		  }
+		  b_jagbada = {
+		  }
+		  b_uburukiti = {
+		  }
+		}
+	  }
+	  d_kebbi = {
+		color = {
+		  139
+		  51
+		  149
+		}
+		color2 = {
+		  255
+		  255
+		  255
+		}
+		capital = 1752
+		c_kebbi = {
+		  color = {
+			124
+			41
+			134
+		  }
+		  color2 = {
+			255
+			255
+			255
+		  }
+		  b_kebbi = {
+		  }
+		  b_argungu = {
+		  }
+		  b_sokoto = {
+		  }
+		  b_digira = {
+		  }
+		  b_tunga_yakana = {
+		  }
+		  b_gidan_ardo = {
+		  }
+		  b_ungwan_deri = {
+		  }
+		}
+		c_tahoua = {
+		  color = {
+			119
+			35
+			148
+		  }
+		  color2 = {
+			255
+			255
+			255
+		  }
+		  b_tahoua = {
+		  }
+		  b_kurmin_dodo = {
+		  }
+		  b_kuanawa = {
+		  }
+		  b_rurum = {
+		  }
+		  b_gurumi = {
+		  }
+		  b_ago_adewale = {
+		  }
+		  b_okuaro = {
+		  }
+		}
+		c_dyamare = {
+		  color = {
+			148
+			67
+			172
+		  }
+		  color2 = {
+			255
+			255
+			255
+		  }
+		  b_dyamare = {
+		  }
+		  b_dosso = {
+		  }
+		  b_gaya_songhay = {
+		  }
+		  b_sabarumowa = {
+		  }
+		  b_barakin_mari = {
+		  }
+		  b_aondaka = {
+		  }
+		  b_aletu = {
+		  }
+		}
+		c_zarma = {
+		  color = {
+			135
+			41
+			156
+		  }
+		  color2 = {
+			255
+			255
+			255
+		  }
+		  b_zuru = {
+		  }
+		  b_ouallam = {
+		  }
+		  b_tera = {
+		  }
+		  b_obora = {
+		  }
+		  b_tora = {
+		  }
+		  b_mangalam = {
+		  }
+		  b_abetam = {
+		  }
+		}
+	  }
+	  d_air = {
+		color = {
+		  100
+		  10
+		  165
+		}
+		color2 = {
+		  255
+		  255
+		  255
+		}
+		capital = 1738
+		c_air = {
+		  color = {
+			85
+			10
+			135
+		  }
+		  color2 = {
+			255
+			255
+			255
+		  }
+		  b_agades = {
+		  }
+		  b_takedda = {
+		  }
+		  b_gabasour = {
+		  }
+		  b_toumboula = {
+		  }
+		  b_tchalta = {
+		  }
+		  b_ngargue = {
+		  }
+		  b_koufe = {
+		  }
+		}
+		c_fachi = {
+		  color = {
+			127
+			10
+			186
+		  }
+		  color2 = {
+			255
+			255
+			255
+		  }
+		  b_fachi = {
+		  }
+		  b_goulo = {
+		  }
+		  b_kemkaga = {
+		  }
+		  b_mbarou = {
+		  }
+		  b_tiadam = {
+		  }
+		  b_mitena = {
+		  }
+		  b_geger = {
+		  }
+		}
+	  }
+	}
+  }

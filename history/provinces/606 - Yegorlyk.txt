@@ -1,0 +1,18 @@
+title = c_yegorlyk
+max_settlements = 4
+b_piatigorie = tribal
+culture = turkish
+religion = tengri_pagan
+900.1.1 = {
+  religion = orthodox
+}
+1238.1.1 = {
+  culture = mongol
+}
+1313.1.1 = {
+  religion = sunni
+}
+1700.1.1 = {
+  culture = russian
+  religion = orthodox
+}

@@ -1,0 +1,51 @@
+936.1.1 = {
+  holder = 168280
+}
+1061.1.1 = {
+  liege = k_mauretania
+  holder = 32965
+}
+1071.1.1 = {
+  holder = 0
+}
+1262.1.1 = {
+  holder = 32990
+}
+1269.1.1 = {
+  holder = 32998
+}
+1286.3.20 = {
+  holder = 32999
+}
+1300.1.1 = {
+  holder = 33002
+}
+1331.8.1 = {
+  holder = 33006
+}
+1450.1.1 = {
+  liege = 0
+  holder = 0
+}
+1700.1.1 = {
+  vice_royalty = no
+  law = investiture_law_0
+  law = cognatic_succession
+  law = centralization_2
+}
+1912.3.30 = {
+  holder = 119052687
+  liege = e_france
+}
+1927.3.30 = {
+  holder = 110806096
+  liege = e_france
+}
+1942.3.30 = {
+  holder = 112991857
+  liege = e_france
+}
+1956.10.29 = {
+  holder = 0
+  liege = 0
+}

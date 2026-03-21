@@ -1,0 +1,18 @@
+title = c_tashkurgan
+max_settlements = 3
+b_tashkurgan = castle
+b_jianggala = city
+culture = saka
+religion = khurmazta
+650.1.1 = {
+  religion = buddhist
+}
+1020.1.1 = {
+  culture = persian
+}
+1098.1.1 = {
+  religion = sunni
+}
+1700.1.1 = {
+  b_hangdi = temple
+}

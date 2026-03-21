@@ -1,0 +1,20 @@
+title = c_pitten
+max_settlements = 3
+b_pitten = tribal
+culture = slovieni
+religion = slavic_pagan
+846.1.1 = {
+  culture = german
+  religion = catholic
+  b_pitten = castle
+  b_fischau = city
+}
+930.1.1 = {
+  b_pitten = tribal
+}
+950.1.1 = {
+  b_pitten = castle
+}
+1700.1.1 = {
+  b_wr_neustadt = temple
+}

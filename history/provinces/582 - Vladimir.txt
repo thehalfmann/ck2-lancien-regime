@@ -1,0 +1,31 @@
+title = c_vladimir
+max_settlements = 6
+b_vladimir = tribal
+culture = mordvin
+religion = finnish_pagan
+988.1.1 = {
+  religion = orthodox
+}
+1087.1.2 = {
+  culture = russian
+}
+1108.1.1 = {
+  b_vladimir = castle
+}
+1152.1.1 = {
+  b_starodub_vladimirsky = city
+  b_rochdestvenskoye = temple
+  b_bogolyubovo = castle
+}
+1108.1.1 = {
+  b_gorokhovets = castle
+}
+1239.1.1 = {
+  remove_settlement = b_gorokhovets
+}
+1700.1.1 = {
+  b_gorokhovets = city
+}
+1700.1.1 = {
+  b_viazniki = castle
+}

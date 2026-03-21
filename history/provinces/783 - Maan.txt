@@ -1,0 +1,21 @@
+title = c_maan
+max_settlements = 4
+b_maan = castle
+b_mutah = city
+b_shubak = temple
+culture = levantine_arabic
+religion = sunni
+1.1.1 = {
+  build_wonder = wonder_underground_city_petra
+  set_wonder_stage = 4
+}
+750.1.1 = {
+  set_wonder_damaged = yes
+  set_wonder_stage = 3
+}
+950.1.1 = {
+  set_wonder_stage = 2
+}
+1700.1.1 = {
+  b_maanaljafr = castle
+}

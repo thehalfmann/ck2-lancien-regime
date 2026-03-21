@@ -1,0 +1,31 @@
+namespace = ck2expanded
+
+narrative_event = {
+	id = ck2expanded.0003
+	title = EVTTITLEck2expanded.0003
+	desc = EVTDESCck2expanded.0003
+	picture = GFX_evt_throne_room
+	border = GFX_event_narrative_frame_diplomacy
+	is_triggered_only = yes
+	
+	option = {
+		name = EVTOPTION1ck2expanded.0003
+		hidden_tooltip = {
+			clr_character_flag = event_pause
+		}		
+		e_britannia = {
+			grant_title = ROOT
+			make_primary_title = yes
+			copy_title_laws = k_england
+		}
+		set_global_flag = e_united_kingdom_formed
+		hidden_tooltip = {
+			k_england = {
+				destroy_landed_title = THIS
+				any_direct_de_jure_vassal_title = {
+					de_jure_liege = e_britannia
+				}
+			}
+		}
+	}
+}

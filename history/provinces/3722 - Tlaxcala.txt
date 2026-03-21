@@ -1,0 +1,13 @@
+# County Title
+title = c_tlaxcala
+
+# Settlements
+max_settlements = 3
+b_tlaxcala = tribal
+b_tlaxcala-ii = temple
+
+# Misc
+culture = nahuatl
+religion = aztec
+
+# History

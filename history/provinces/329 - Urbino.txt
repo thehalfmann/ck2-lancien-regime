@@ -1,0 +1,22 @@
+title = c_urbino
+max_settlements = 4
+b_urbino = castle
+b_sanmarino = city
+b_sanseverino = temple
+culture = italian
+religion = catholic
+1000.1.1 = {
+  capital = b_sanmarino
+}
+1216.2.12 = {
+  capital = b_urbino
+}
+1289.1.1 = {
+  capital = b_sanseverino
+}
+1292.1.1 = {
+  capital = b_urbino
+}
+1700.1.1 = {
+  b_montefeltro = castle
+}

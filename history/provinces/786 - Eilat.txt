@@ -1,0 +1,11 @@
+title = c_eilat
+max_settlements = 3
+b_eilat = castle
+culture = levantine_arabic
+religion = sunni
+1700.1.1 = {
+  b_yahel = city
+}
+1700.1.1 = {
+  b_lotan = temple
+}

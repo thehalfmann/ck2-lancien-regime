@@ -1,0 +1,13 @@
+# County Title
+title = c_teloloapan
+
+# Settlements
+max_settlements = 3
+b_teloloapan = tribal
+b_teloloapan-ii = temple
+
+# Misc
+culture = nahuatl
+religion = aztec
+
+# History

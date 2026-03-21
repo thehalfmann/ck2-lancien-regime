@@ -1,0 +1,17 @@
+title = c_al_ahqaf
+max_settlements = 3
+b_al_ahqaf = tribal
+culture = bedouin_arabic
+religion = ibadi
+850.1.1 = {
+  religion = shiite
+}
+1000.1.1 = {
+  b_al_ahqaf = castle
+}
+1700.1.1 = {
+  b_al_abr = city
+}
+1700.1.1 = {
+  b_sabwa = temple
+}

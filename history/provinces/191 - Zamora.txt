@@ -1,0 +1,24 @@
+title = c_zamora
+max_settlements = 4
+b_zamora = castle
+b_toro = city
+b_benavente = temple
+culture = leonese
+religion = catholic
+867.1.1 = {
+  b_zamora = ca_town_1
+  b_zamora = ca_keep_1
+  b_zamora = ca_stable_1
+  b_zamora = ca_militia_barracks_1
+  b_zamora = ca_wall_1
+  b_zamora = ca_wall_2
+}
+1121.1.1 = {
+  capital = b_benavente
+}
+1700.1.1 = {
+  b_fermoselle = castle
+}
+1700.1.1 = {
+  capital = b_zamora
+}

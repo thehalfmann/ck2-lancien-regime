@@ -1,0 +1,16 @@
+title = c_kurmanchal
+max_settlements = 5
+b_kartikeyapura = castle
+b_katarmal = city
+b_askot_kurmanchal = temple
+culture = hindustani
+religion = buddhist
+810.1.1 = {
+  religion = hindu
+}
+1700.1.1 = {
+  b_govishana = castle
+}
+1700.1.1 = {
+  b_ranikhet = city
+}

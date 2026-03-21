@@ -1,0 +1,12 @@
+# County Title
+title = c_hitchiti
+
+# Settlements
+max_settlements = 3
+b_hitchiti = tribal
+
+# Misc
+culture = creek
+religion = algic_pagan
+
+# History

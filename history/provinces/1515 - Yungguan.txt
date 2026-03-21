@@ -1,0 +1,13 @@
+title = c_yungguan
+max_settlements = 3
+b_yungguan = castle
+b_shouchang = city
+culture = han
+religion = taoist
+1032.1.1 = {
+  culture = uyghur
+  religion = buddhist
+}
+1700.1.1 = {
+  b_ziting = temple
+}

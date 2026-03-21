@@ -1,0 +1,17 @@
+title = c_sandomierskie
+max_settlements = 5
+b_sandomierz = tribal
+culture = polish
+religion = slavic_pagan
+999.7.1 = {
+  religion = catholic
+  b_sandomierz = castle
+  b_radom = city
+  b_kielce = temple
+}
+1700.1.1 = {
+  b_olescnica = castle
+}
+1700.1.1 = {
+  b_wislica = city
+}

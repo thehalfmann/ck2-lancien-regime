@@ -1,0 +1,182 @@
+460.1.1 = {
+  holder = 190375
+}
+477.1.1 = {
+  holder = 190376
+}
+500.1.1 = {
+  holder = 190378
+}
+531.1.1 = {
+  holder = 190379
+  liege = k_germany
+}
+534.1.1 = {
+  holder = 190381
+}
+539.1.1 = {
+  holder = 190382
+}
+588.1.1 = {
+  holder = 190383
+}
+633.1.1 = {
+  holder = 190384
+}
+666.1.1 = {
+  holder = 190385
+}
+702.1.1 = {
+  holder = 190386
+}
+741.1.1 = {
+  holder = 168224
+}
+769.1.1 = {
+  liege = k_france
+}
+775.1.1 = {
+  holder = 168226
+}
+815.1.1 = {
+  holder = 168227
+}
+839.1.1 = {
+  liege = k_germany
+}
+849.1.1 = {
+  holder = 168228
+}
+873.8.1 = {
+  holder = 168229
+}
+880.1.1 = {
+  holder = 33428
+}
+882.1.1 = {
+  holder = 168231
+}
+886.1.1 = {
+  holder = 33428
+}
+892.1.1 = {
+  holder = 7951
+}
+906.2.27 = {
+  liege = 0
+  holder = 0
+}
+1112.5.13 = {
+  liege = e_hre
+  holder = 33408
+}
+1122.1.1 = {
+  holder = 33409
+}
+1131.1.1 = {
+  holder = 212442
+}
+1140.1.12 = {
+  holder = 212440
+}
+1172.10.14 = {
+  holder = 212430
+}
+1190.1.1 = {
+  holder = 212431
+}
+1217.4.25 = {
+  holder = 7501
+}
+1227.9.11 = {
+  holder = 7502
+}
+1241.1.3 = {
+  holder = 7503
+}
+1247.2.19 = {
+  holder = 7504
+}
+1265.1.1 = {
+  holder = 7506
+}
+1288.2.15 = {
+  holder = 7509
+}
+1291.8.16 = {
+  holder = 7506
+}
+1294.1.1 = {
+  holder = 462360
+}
+1298.6.23 = {
+  holder = 33427
+}
+1307.12.10 = {
+  holder = 7512
+}
+1323.11.16 = {
+  holder = 462400
+}
+1450.1.1 = {
+  liege = 0
+  holder = 0
+}
+1700.1.1 = {
+  vice_royalty = no
+  law = investiture_law_0
+  law = cognatic_succession
+  law = centralization_2
+}
+1871.1.18 = {
+  holder = 116113608
+  liege = e_germany
+}
+1886.1.18 = {
+  holder = 118789539
+  liege = e_germany
+}
+1901.1.18 = {
+  holder = 111348782
+  liege = e_germany
+}
+1916.1.18 = {
+  holder = 112531295
+  liege = e_germany
+}
+1931.1.18 = {
+  holder = 112181504
+  liege = e_germany
+}
+1945.5.8 = {
+  holder = 115818951
+  liege = k_pomerania
+}
+1960.5.8 = {
+  holder = 112676180
+  liege = k_pomerania
+}
+1975.5.8 = {
+  holder = 115262699
+  liege = k_pomerania
+}
+1990.5.8 = {
+  holder = 114435229
+  liege = k_pomerania
+}
+1990.9.29 = {
+  holder = 111845983
+  liege = e_germany
+}
+2005.9.29 = {
+  holder = 119851423
+  liege = e_germany
+}
+2020.9.29 = {
+  holder = 118668894
+  liege = e_germany
+}
+2020.12.31 = {
+  holder = 0
+  liege = 0
+}

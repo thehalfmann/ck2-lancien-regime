@@ -1,0 +1,17 @@
+title = c_nishapur
+max_settlements = 6
+b_nishapur = castle
+b_daregaz = city
+b_jajarm = temple
+b_sabzevar = city
+culture = persian
+religion = zoroastrian
+1187.1.1 = {
+  religion = shiite
+}
+1700.1.1 = {
+  b_akhlamad = castle
+}
+1700.1.1 = {
+  b_quchan = castle
+}

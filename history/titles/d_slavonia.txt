@@ -1,0 +1,176 @@
+760.1.1 = {
+  holder = 168292
+}
+790.1.1 = {
+  holder = 168293
+}
+796.1.1 = {
+  holder = 168294
+}
+810.1.1 = {
+  holder = 168295
+}
+823.1.1 = {
+  holder = 168296
+}
+829.1.1 = {
+  holder = 168298
+}
+838.1.1 = {
+  holder = 168299
+}
+898.1.1 = {
+  holder = 0
+}
+1060.1.1 = {
+  holder = 8628
+}
+1066.1.1 = {
+  liege = k_croatia
+}
+1089.1.1 = {
+  holder = 8626
+}
+1090.1.1 = {
+  holder = 475
+}
+1091.1.1 = {
+  holder = 474
+}
+1093.1.1 = {
+  holder = 20381
+}
+1097.1.1 = {
+  holder = 480
+}
+1101.1.1 = {
+  holder = 93539
+}
+1104.1.1 = {
+  holder = 93540
+}
+1106.1.1 = {
+  holder = 93541
+}
+1107.1.1 = {
+  holder = 93542
+}
+1117.1.1 = {
+  holder = 93543
+}
+1141.1.1 = {
+  holder = 34072
+}
+1161.1.1 = {
+  holder = 93544
+}
+1180.1.1 = {
+  holder = 93545
+}
+1183.1.1 = {
+  holder = 93546
+}
+1185.1.1 = {
+  holder = 93547
+}
+1193.1.1 = {
+  holder = 93548
+}
+1195.1.1 = {
+  holder = 93549
+}
+1199.1.1 = {
+  holder = 93550
+}
+1200.1.1 = {
+  holder = 93552
+}
+1203.1.1 = {
+  holder = 93553
+}
+1206.1.1 = {
+  holder = 93554
+}
+1208.1.1 = {
+  holder = 93555
+}
+1209.1.1 = {
+  holder = 70834
+}
+1218.1.1 = {
+  holder = 32637
+}
+1255.1.1 = {
+  holder = 32638
+}
+1280.1.1 = {
+  holder = 32639
+}
+1316.1.1 = {
+  holder = 32650
+}
+1336.1.1 = {
+  holder = 32652
+}
+1450.1.1 = {
+  liege = 0
+  holder = 0
+}
+1700.1.1 = {
+  vice_royalty = no
+  law = investiture_law_0
+  law = cognatic_succession
+  law = centralization_2
+}
+1815.6.9 = {
+  holder = 118463541
+  liege = e_carpathia
+}
+1830.6.9 = {
+  holder = 119343016
+  liege = e_carpathia
+}
+1845.6.9 = {
+  holder = 118182707
+  liege = e_carpathia
+}
+1860.6.9 = {
+  holder = 112992375
+  liege = e_carpathia
+}
+1875.6.9 = {
+  holder = 118918008
+  liege = e_carpathia
+}
+1890.6.9 = {
+  holder = 110539538
+  liege = e_carpathia
+}
+1905.6.9 = {
+  holder = 111078000
+  liege = e_carpathia
+}
+1918.11.11 = {
+  holder = 118737252
+  liege = k_serbia
+}
+1933.11.11 = {
+  holder = 116542677
+  liege = k_serbia
+}
+1948.11.11 = {
+  holder = 110429000
+  liege = k_serbia
+}
+1963.11.11 = {
+  holder = 117986711
+  liege = k_serbia
+}
+1978.11.11 = {
+  holder = 111395122
+  liege = k_serbia
+}
+1991.10.8 = {
+  holder = 0
+  liege = 0
+}

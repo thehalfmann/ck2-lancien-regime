@@ -1,0 +1,14 @@
+title = c_varadzin
+max_settlements = 4
+b_varazdin = tribal
+culture = croatian
+religion = slavic_pagan
+800.1.1 = {
+  religion = catholic
+  b_varazdin = castle
+  b_cakovec = city
+  b_ludbreg = temple
+}
+1700.1.1 = {
+  b_lepoglava = castle
+}

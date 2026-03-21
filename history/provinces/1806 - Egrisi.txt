@@ -1,0 +1,10 @@
+title = c_egrisi
+max_settlements = 4
+b_mokvi = castle
+b_egrisi = city
+b_khobi = temple
+culture = georgian
+religion = orthodox
+1700.1.1 = {
+  b_buchlus = castle
+}

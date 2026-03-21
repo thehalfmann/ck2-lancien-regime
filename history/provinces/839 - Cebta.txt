@@ -1,0 +1,17 @@
+title = c_cebta
+terrain = hills
+max_settlements = 4
+b_cueta = castle
+b_tetouan = city
+b_Xauen = temple
+culture = maghreb_arabic
+religion = catholic
+800.1.1 = {
+  religion = sunni
+}
+1192.1.1 = {
+  trade_post = b_embriaco
+}
+1700.1.1 = {
+  b_aulef = castle
+}

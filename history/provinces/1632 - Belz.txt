@@ -1,0 +1,24 @@
+title = c_belz
+max_settlements = 3
+b_belz = tribal
+culture = volhynian
+religion = slavic_pagan
+867.1.1 = {
+  culture = russian
+}
+989.1.1 = {
+  religion = orthodox
+  b_belz = castle
+}
+1035.1.1 = {
+  b_horodlo = city
+}
+1214.1.1 = {
+  b_lopatyn = temple
+}
+1700.1.1 = {
+  culture = polish
+}
+1700.1.1 = {
+  religion = catholic
+}

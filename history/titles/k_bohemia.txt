@@ -1,0 +1,11 @@
+1526.2.24 = {
+  de_jure_liege = e_hre
+  liege = e_hre
+  holder = 100277
+}
+1619.8.26 = {
+  holder = 100218
+}
+1658.7.18 = {
+  holder = 100022
+}

@@ -1,0 +1,24 @@
+title = c_rayy
+max_settlements = 7
+b_rayy = castle
+b_hashtgerd = castle
+b_tehran = city
+b_roudehen = temple
+culture = persian
+religion = zoroastrian
+864.1.1 = {
+  religion = shiite
+}
+900.1.1 = {
+  religion = sunni
+}
+1066.1.1 = {
+  b_shahriar = city
+  b_eslamshahr = temple
+}
+1700.1.1 = {
+  b_karaj = castle
+}
+1700.1.1 = {
+  religion = shiite
+}

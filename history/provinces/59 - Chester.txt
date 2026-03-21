@@ -1,0 +1,16 @@
+title = c_chester
+max_settlements = 4
+b_chester = castle
+b_halton = temple
+b_macclesfield = city
+culture = saxon
+religion = catholic
+1100.11.11 = {
+  culture = english
+}
+1700.1.1 = {
+  b_malpas = castle
+}
+1700.1.1 = {
+  religion = protestant
+}

@@ -1,0 +1,26 @@
+title = c_narva
+max_settlements = 4
+b_agelinde = tribal
+culture = ugricbaltic
+religion = finnish_pagan
+1220.1.1 = {
+  religion = catholic
+  b_agelinde = castle
+  b_narva = city
+  b_wesenberg = temple
+  b_agelinde = ca_keep_1
+  b_agelinde = ca_militia_barracks_1
+  b_agelinde = ca_wall_1
+  b_agelinde = ca_wall_q_1
+  b_narva = ct_barracks_1
+  b_wesenberg = tp_barracks_1
+}
+1295.1.1 = {
+  trade_post = b_wittenborg
+}
+1700.1.1 = {
+  b_telsborg = castle
+}
+1700.1.1 = {
+  religion = protestant
+}

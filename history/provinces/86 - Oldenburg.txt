@@ -1,0 +1,18 @@
+title = c_oldenburg
+max_settlements = 4
+b_oldenburg = tribal
+culture = old_saxon
+religion = norse_pagan
+790.1.1 = {
+  culture = german
+  religion = catholic
+  b_oldenburg = castle
+  b_jever = temple
+  b_cloppenburg = castle
+}
+1700.1.1 = {
+  b_delmenhorst = city
+}
+1700.1.1 = {
+  religion = protestant
+}

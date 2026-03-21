@@ -1,0 +1,17 @@
+20.1.1 = {
+  historical_nomad = yes
+}
+1600.1.1 = {
+  name = Dzungar
+  adjective = Dzungarian
+}
+1680.1.1 = {
+  holder = 100387
+}
+1700.1.1 = {
+  vice_royalty = no
+  law = investiture_law_0
+  law = cognatic_succession
+  law = crown_authority_1
+  law = centralization_2
+}

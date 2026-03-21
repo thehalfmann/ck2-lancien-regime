@@ -1,0 +1,4 @@
+1682.8.6 = {
+  liege = d_burgundy
+  holder = 100045
+}

@@ -1,0 +1,23 @@
+title = c_yoredale
+max_settlements = 3
+b_yoredale = castle
+b_settle = city
+culture = saxon
+religion = catholic
+866.1.1 = {
+  culture = norse
+  religion = norse_pagan
+}
+954.1.1 = {
+  culture = saxon
+  religion = catholic
+}
+1100.11.11 = {
+  culture = english
+}
+1700.1.1 = {
+  b_ilkley = temple
+}
+1700.1.1 = {
+  religion = protestant
+}

@@ -1,0 +1,13 @@
+title = c_sikkim
+max_settlements = 5
+b_gangdoz = castle
+b_mangan = city
+b_gyalshing = temple
+culture = nepali
+religion = buddhist
+1700.1.1 = {
+  b_namchi = castle
+}
+1700.1.1 = {
+  b_rumtheg = city
+}

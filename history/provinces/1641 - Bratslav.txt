@@ -1,0 +1,22 @@
+title = c_bratslav
+max_settlements = 1
+b_bratslav = tribal
+culture = volhynian
+religion = slavic_pagan
+terrain = steppe
+892.1.1 = {
+  culture = pecheneg
+  religion = tengri_pagan
+}
+988.1.1 = {
+  religion = orthodox
+}
+1091.1.1 = {
+  culture = kazakh
+}
+1238.1.1 = {
+  culture = russian
+}
+1700.1.1 = {
+  culture = ruthenian
+}

@@ -1,0 +1,4 @@
+1679.5.26 = {
+  liege = d_bavaria
+  holder = 100088
+}

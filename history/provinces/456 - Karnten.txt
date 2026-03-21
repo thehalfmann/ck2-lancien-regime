@@ -1,0 +1,15 @@
+title = c_karnten
+b_villach = tribal
+max_settlements = 4
+culture = slovene
+religion = slavic_pagan
+846.1.1 = {
+  religion = catholic
+  b_villach = castle
+  b_klagenfurt = city
+  b_treffen = temple
+}
+1700.1.1 = {
+  culture = german
+  b_lienz = castle
+}

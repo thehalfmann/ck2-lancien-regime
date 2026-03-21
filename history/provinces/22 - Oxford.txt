@@ -1,0 +1,17 @@
+title = c_oxford
+max_settlements = 5
+b_reading = castle
+b_buckingham = castle
+b_oxford = city
+b_abingdon = temple
+culture = saxon
+religion = catholic
+1100.11.11 = {
+  culture = english
+}
+1700.1.1 = {
+  b_wallingford = city
+}
+1700.1.1 = {
+  religion = protestant
+}

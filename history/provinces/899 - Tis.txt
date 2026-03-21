@@ -1,0 +1,9 @@
+title = c_tis
+max_settlements = 3
+b_parak = castle
+b_tis = city
+culture = baloch
+religion = zoroastrian
+1700.1.1 = {
+  b_kursar = temple
+}

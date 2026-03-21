@@ -1,0 +1,26 @@
+title = c_dunkheger
+max_settlements = 3
+b_dunkheger = tribal
+culture = uyghur
+religion = manichean
+900.1.1 = {
+  religion = buddhist
+}
+1227.1.1 = {
+  culture = mongol
+}
+1227.1.1 = {
+  religion = tengri_pagan
+}
+1279.1.1 = {
+  b_dunkheger = castle
+}
+1280.1.1 = {
+  b_hou_pulei = temple
+}
+1700.1.1 = {
+  b_yulishi = city
+}
+1700.1.1 = {
+  religion = buddhist
+}

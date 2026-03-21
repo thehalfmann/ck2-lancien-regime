@@ -1,0 +1,20 @@
+title = c_gaya
+max_settlements = 5
+b_gaya = temple
+b_nalanda = temple
+b_elahabad = city
+b_bodh_gaya = temple
+b_sherghati = castle
+culture = bengali
+religion = buddhist
+867.1.1 = {
+  b_gaya = tp_monastery_1
+  b_gaya = tp_barracks_1
+  b_gaya = tp_wall_1
+}
+1700.1.1 = {
+  capital = b_sherghati
+}
+1700.1.1 = {
+  religion = hindu
+}

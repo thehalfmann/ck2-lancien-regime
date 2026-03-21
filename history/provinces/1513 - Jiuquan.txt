@@ -1,0 +1,14 @@
+title = c_jiuquan
+max_settlements = 4
+b_jiuquan = castle
+b_suzhou = city
+b_kongtong = temple
+culture = han
+religion = taoist
+1032.1.1 = {
+  culture = tangut
+  religion = buddhist
+}
+1700.1.1 = {
+  b_fulu = castle
+}

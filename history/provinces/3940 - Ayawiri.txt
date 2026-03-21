@@ -1,0 +1,13 @@
+# County Title
+title = c_ayawiri
+
+# Settlements
+max_settlements = 3
+b_ayawiri = tribal
+b_ayawiri-ii = tribal
+
+# Misc
+culture = aimara
+religion = inti
+
+# History

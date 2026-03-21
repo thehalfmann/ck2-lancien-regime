@@ -1,0 +1,14 @@
+title = c_thana
+max_settlements = 6
+b_thana = castle
+b_dabhol = city
+b_kanhagiri = temple
+b_chaul = city
+culture = marathi
+religion = jain
+1700.1.1 = {
+  b_mahim = castle
+}
+1700.1.1 = {
+  b_bassein = castle
+}

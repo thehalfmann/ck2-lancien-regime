@@ -1,0 +1,12 @@
+1610.5.14 = {
+  holder = 100039
+}
+1643.5.14 = {
+  holder = 100041
+}
+1700.1.1 = {
+  vice_royalty = no
+  law = investiture_law_0
+  law = cognatic_succession
+  law = centralization_2
+}

@@ -1,0 +1,8 @@
+1981.3.17 = {
+  holding_dynasty = 1042028
+  liege = d_ancona
+  holder = 110568247
+}
+1996.3.17 = {
+  holder = 0
+}

@@ -1,0 +1,18 @@
+title = c_sarkel
+max_settlements = 4
+b_sarkel = tribal
+culture = khazar
+religion = tengri_pagan
+1060.1.1 = {
+  culture = kazakh
+}
+1227.1.1 = {
+  religion = sunni
+}
+1238.1.1 = {
+  culture = mongol
+}
+1700.1.1 = {
+  culture = russian
+  religion = orthodox
+}

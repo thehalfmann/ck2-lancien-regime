@@ -1,0 +1,37 @@
+1516.3.14 = {
+  holder = 100270
+}
+1556.1.16 = {
+  holder = 100273
+}
+1598.9.13 = {
+  holder = 100102
+}
+1621.3.31 = {
+  holder = 100052
+}
+1665.9.17 = {
+  holder = 100049
+}
+1700.1.1 = {
+  name = Spain
+  adjective = Spanish
+  vice_royalty = no
+  law = out_of_realm_inheritance_law_1
+  law = ze_administration_laws_2
+  law = revoke_title_law_2
+  law = investiture_law_1
+  law = succ_primogeniture
+  law = cognatic_succession
+  law = crown_authority_1
+  law = centralization_4
+  law = law_voting_power_0
+  law = vassal_wars_law_2
+  law = revoke_title_voting_power_0
+  law = grant_title_voting_power_0
+  law = execution_voting_power_0
+  law = war_voting_power_0
+  law = imprison_voting_power_0
+  law = banish_voting_power_0
+  law = succession_voting_power_0
+}

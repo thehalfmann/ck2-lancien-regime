@@ -1,0 +1,18 @@
+title = c_bezichy
+max_settlements = 2
+b_bezichy = tribal
+culture = mordvin
+religion = finnish_pagan
+867.1.1 = {
+  culture = russian
+  religion = slavic_pagan
+}
+988.1.1 = {
+  religion = orthodox
+}
+1139.1.1 = {
+  b_bezichy = castle
+}
+1700.1.1 = {
+  b_maksatikha = city
+}

@@ -1,0 +1,6 @@
+1697.1.1 = {
+  liege = 0
+  holder = 100545
+  name = Montenegro
+  adjective = Montenegran
+}

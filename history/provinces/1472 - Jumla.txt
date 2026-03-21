@@ -1,0 +1,12 @@
+title = c_jumla
+max_settlements = 4
+b_jumla = castle
+b_simikot = city
+culture = nepali
+religion = buddhist
+1700.1.1 = {
+  b_chainpur = temple
+}
+1700.1.1 = {
+  b_dunai = castle
+}

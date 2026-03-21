@@ -1,0 +1,17 @@
+20.1.1 = {
+  active = no
+}
+766.11.16 = {
+  active = yes
+  holder = 70560
+}
+780.2.7 = {
+  holder = 0
+  active = no
+}
+1700.1.1 = {
+  vice_royalty = no
+  law = investiture_law_0
+  law = cognatic_succession
+  law = centralization_2
+}

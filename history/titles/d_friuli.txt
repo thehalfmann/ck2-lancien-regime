@@ -1,0 +1,158 @@
+569.1.1 = {
+  holder = 190126
+}
+591.1.1 = {
+  holder = 190128
+  liege = k_italy
+}
+610.1.1 = {
+  holder = 190244
+}
+625.1.1 = {
+  holder = 190246
+}
+641.1.1 = {
+  holder = 190247
+}
+663.1.1 = {
+  holder = 190248
+}
+666.1.1 = {
+  holder = 190249
+}
+666.6.1 = {
+  holder = 190250
+}
+678.1.1 = {
+  holder = 190251
+}
+690.1.1 = {
+  holder = 190252
+}
+694.1.1 = {
+  holder = 190255
+}
+694.6.1 = {
+  holder = 190254
+}
+695.1.1 = {
+  holder = 190256
+}
+705.1.1 = {
+  holder = 190257
+}
+705.6.1 = {
+  holder = 190342
+}
+739.1.1 = {
+  holder = 190343
+}
+744.1.1 = {
+  holder = 190331
+}
+749.1.1 = {
+  holder = 190260
+}
+751.1.1 = {
+  holder = 190262
+}
+787.1.1 = {
+  holder = 167807
+}
+806.1.1 = {
+  holder = 161742
+}
+817.1.1 = {
+  holder = 167844
+}
+828.1.1 = {
+  holder = 167790
+}
+836.1.1 = {
+  liege = k_italy
+  holder = 7909
+}
+863.1.1 = {
+  holder = 163057
+}
+874.1.1 = {
+  holder = 71901
+}
+924.4.7 = {
+  holder = 0
+}
+1450.1.1 = {
+  liege = 0
+  holder = 0
+}
+1700.1.1 = {
+  de_jure_liege = k_venice
+  vice_royalty = no
+  law = investiture_law_0
+  law = cognatic_succession
+  law = centralization_2
+}
+1815.6.9 = {
+  holder = 118947191
+  liege = e_carpathia
+}
+1830.6.9 = {
+  holder = 119782309
+  liege = e_carpathia
+}
+1845.6.9 = {
+  holder = 119510660
+  liege = e_carpathia
+}
+1860.6.9 = {
+  holder = 110931081
+  liege = e_carpathia
+}
+1866.10.12 = {
+  holder = 117698584
+  liege = e_italy
+}
+1881.10.12 = {
+  holder = 115856085
+  liege = e_italy
+}
+1896.10.12 = {
+  holder = 114203953
+  liege = e_italy
+}
+1911.10.12 = {
+  holder = 115080014
+  liege = e_italy
+}
+1926.10.12 = {
+  holder = 114712080
+  liege = e_italy
+}
+1941.10.12 = {
+  holder = 116927838
+  liege = e_italy
+}
+1956.10.12 = {
+  holder = 117020678
+  liege = e_italy
+}
+1971.10.12 = {
+  holder = 118827313
+  liege = e_italy
+}
+1986.10.12 = {
+  holder = 111424884
+  liege = e_italy
+}
+2001.10.12 = {
+  holder = 115399991
+  liege = e_italy
+}
+2016.10.12 = {
+  holder = 115345397
+  liege = e_italy
+}
+2020.12.31 = {
+  holder = 0
+  liege = 0
+}

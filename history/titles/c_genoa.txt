@@ -1,0 +1,4 @@
+1699.5.26 = {
+  holder = 100384
+  liege = d_genoa
+}

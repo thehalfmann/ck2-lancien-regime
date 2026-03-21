@@ -1,0 +1,21 @@
+title = c_dhofar
+max_settlements = 4
+b_salalah = tribal
+culture = bedouin_arabic
+religion = ibadi
+850.1.1 = {
+  religion = sunni
+}
+1066.1.1 = {
+  b_salalah = castle
+  b_thamarit = city
+}
+1700.1.1 = {
+  b_raysut = temple
+}
+1700.1.1 = {
+  b_amal = castle
+}
+1700.1.1 = {
+  religion = shiite
+}

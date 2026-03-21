@@ -1,0 +1,22 @@
+title = c_adrianopolis
+max_settlements = 4
+b_adrianopolis = castle
+b_skalothe = city
+b_didymoteichon = temple
+culture = bulgarian
+religion = orthodox
+1337.1.1 = {
+  b_kypsela = castle
+}
+1382.1.1 = {
+  culture = turkish
+}
+1382.1.1 = {
+  religion = sunni
+}
+1700.1.1 = {
+  culture = bulgarian
+}
+1700.1.1 = {
+  religion = orthodox
+}

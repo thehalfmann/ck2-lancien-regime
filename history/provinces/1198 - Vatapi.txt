@@ -1,0 +1,14 @@
+title = c_vatapi
+max_settlements = 5
+b_vatapi = castle
+b_venugrama = city
+b_parasgad = temple
+culture = kannada
+religion = hindu
+terrain = hills
+1700.1.1 = {
+  b_aihole = castle
+}
+1700.1.1 = {
+  b_halasi = city
+}

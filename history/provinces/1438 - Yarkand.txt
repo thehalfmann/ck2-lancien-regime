@@ -1,0 +1,19 @@
+title = c_yarkand
+max_settlements = 4
+b_yarkand = castle
+b_yecheng = city
+culture = saka
+religion = buddhist
+1006.1.1 = {
+  culture = karluk
+  religion = sunni
+}
+1218.1.1 = {
+  culture = uyghur
+}
+1700.1.1 = {
+  b_mazar = temple
+}
+1700.1.1 = {
+  b_guma = castle
+}

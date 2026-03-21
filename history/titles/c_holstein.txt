@@ -1,0 +1,4 @@
+1695.1.6 = {
+  liege = d_holstein
+  holder = 100236
+}

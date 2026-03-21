@@ -1,0 +1,17 @@
+title = c_kujawy
+max_settlements = 5
+b_bygdoszcz = tribal
+culture = polish
+religion = slavic_pagan
+969.1.1 = {
+  religion = catholic
+  b_bygdoszcz = castle
+  b_leczyca = city
+  b_kruszwica = temple
+}
+1700.1.1 = {
+  b_brzesckujawskie = castle
+}
+1700.1.1 = {
+  b_klodawa = city
+}

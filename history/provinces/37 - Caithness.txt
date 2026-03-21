@@ -1,0 +1,28 @@
+title = c_caithness
+max_settlements = 3
+b_thurso = tribal
+b_dornoch = temple
+culture = pictish
+religion = catholic
+terrain = hills
+848.1.1 = {
+  culture = scottish_gaels
+}
+936.1.1 = {
+  culture = norse
+}
+1030.1.1 = {
+  b_thurso = castle
+}
+1066.1.1 = {
+  culture = norwegian
+}
+1134.1.1 = {
+  culture = scottish_gaels
+}
+1700.1.1 = {
+  b_wick = city
+}
+1700.1.1 = {
+  religion = reformed
+}

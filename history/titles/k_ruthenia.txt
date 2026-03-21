@@ -1,0 +1,11 @@
+1669.6.19 = {
+  de_jure_liege = e_commonwealth
+  liege = e_commonwealth
+  holder = 100193
+}
+1674.5.19 = {
+  holder = 100095
+}
+1698.9.15 = {
+  holder = 100061
+}

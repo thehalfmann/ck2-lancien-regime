@@ -1,0 +1,13 @@
+# County Title
+title = c_tziccoac
+
+# Settlements
+max_settlements = 3
+b_tziccoac = tribal
+b_tziccoac-ii = tribal
+
+# Misc
+culture = totonac
+religion = aztec
+
+# History

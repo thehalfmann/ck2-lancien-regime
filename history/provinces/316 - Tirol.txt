@@ -1,0 +1,10 @@
+title = c_tirol
+max_settlements = 4
+b_landeck = castle
+b_bregenz = city
+b_stanton = temple
+culture = german
+religion = catholic
+1700.1.1 = {
+  b_imst = castle
+}

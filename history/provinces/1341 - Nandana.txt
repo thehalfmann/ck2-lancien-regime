@@ -1,0 +1,12 @@
+title = c_nandana
+max_settlements = 3
+b_nandana = castle
+b_hund = city
+culture = panjabi
+religion = hindu
+1700.1.1 = {
+  b_lund2 = temple
+}
+1700.1.1 = {
+  religion = sunni
+}

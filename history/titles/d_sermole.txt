@@ -1,0 +1,78 @@
+#Mpfumo Dynasty (Placeholders)
+
+750.1.1={
+	holder=1016000022 #Nyeleti
+}
+780.1.1={
+	holder=1016000023 #Nyeleti
+}
+810.1.1={
+	holder=1016000024 #Masingita
+}
+840.1.1={
+	holder=1016000025 #Amukelani
+}
+870.1.1={
+	holder=1016000026 #Ntwanano
+}
+900.1.1={
+	holder=1016000027 #Masana
+}
+930.1.1={
+	holder=1016000028 #Masana
+              liege=e_big_african_empire
+}
+960.1.1={
+	holder=1016000029 #Eletsa
+              liege=e_big_african_empire
+}
+990.1.1={
+	holder=1016000030 #Amukelani
+              liege=e_big_african_empire
+}
+1020.1.1={
+	holder=1016000031 #Ntsako
+              liege=e_big_african_empire
+}
+1050.1.1={
+	holder=1016000032 #Nyeleti
+              liege=k_botswana
+}
+1080.1.1={
+	holder=1016000033 #Ntosvelo
+              liege=k_botswana
+}
+1110.1.1={
+	holder=1016000034 #Nyeleti
+              liege=k_botswana
+}
+1140.1.1={
+	holder=1016000035 #Minkateko
+              liege=k_botswana
+}
+1170.1.1={
+	holder=1016000036 #Nsuku
+              liege=k_botswana
+}
+1200.1.1={
+	holder=1016000037 #Rhulani
+              liege=k_botswana
+}
+1230.1.1={
+	holder=1016000038 #Rhulani
+              liege=k_botswana
+}
+1260.1.1={
+	holder=1016000039 #Nyeleti
+              liege=k_botswana
+}
+1290.1.1={
+	holder=1016000040 #Ntosvelo
+              liege=0
+}
+1320.1.1={
+	holder=1016000041 #Nyeleti
+}
+1350.1.1={
+	holder=1016000042 #Rhulani
+}

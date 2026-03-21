@@ -1,0 +1,14 @@
+title = c_vardhamana
+max_settlements = 3
+b_vardhamana = castle
+culture = gujurati
+religion = jain
+1700.1.1 = {
+  b_amarvalli = city
+}
+1700.1.1 = {
+  b_halvad = temple
+}
+1700.1.1 = {
+  religion = hindu
+}

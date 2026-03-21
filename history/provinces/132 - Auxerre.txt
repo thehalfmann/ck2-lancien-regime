@@ -1,0 +1,13 @@
+title = c_auxerre
+max_settlements = 5
+b_auxerre = castle
+b_druyes = city
+b_pontigny = temple
+culture = french
+religion = catholic
+1700.1.1 = {
+  b_tonnerre = castle
+}
+1700.1.1 = {
+  b_cravant = city
+}

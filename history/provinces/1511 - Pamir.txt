@@ -1,0 +1,15 @@
+title = c_pamir
+max_settlements = 3
+b_daroot_korgon = castle
+b_kala_panja = city
+culture = sogdian
+religion = khurmazta
+950.1.1 = {
+  culture = persian
+}
+1081.1.1 = {
+  religion = shiite
+}
+1700.1.1 = {
+  b_vanj = temple
+}

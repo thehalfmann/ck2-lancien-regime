@@ -1,0 +1,7 @@
+1477.1.5 = {
+  liege = d_luxembourg
+  holder = 100415
+}
+1665.9.17 = {
+  holder = 100049
+}

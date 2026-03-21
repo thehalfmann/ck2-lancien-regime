@@ -1,0 +1,72 @@
+bm_1700_1_1 = {
+  name = BM_1700_1_1
+  desc = BM_1700_1_1_DESC
+  date = 1700.1.1
+  selectable_character = {
+    id = 100000
+    age = 50
+    name = "William III"
+    title = k_england
+    title_name = k_england
+
+    character = {
+      dna = bcgff0dc0d0
+      properties = dd000k00000000000000000000000000000000
+      religion = "protestant"
+      culture = "dutch"
+      government = feudal_government
+      dynasty = 100000
+  }
+}
+
+selectable_character = {
+  id = 100041
+  age = 62
+  name = "Louis XIV"
+  title = e_france
+  title_name = e_france
+
+  character = {
+    dna = 0aaak0j0ab0
+    properties = 0e0b0k00000000000000000000000000000000
+    religion="catholic"
+    culture="french"
+    government = feudal_government
+    dynasty=100013
+  }
+}
+
+selectable_character = {
+  id = 100022
+  age = 60
+  name = "Leopold I"
+  title = e_hre
+  title_name = e_hre
+
+  character = {
+    dna = 0hdia0bb000
+    properties = 0n00dk00000000000000000000000000000000
+    religion = "catholic"
+    culture = "german"
+    government = feudal_government
+    dynasty = 100006
+  }
+}
+
+selectable_character = {
+  id = 100060
+  age = 28
+  name = "Pyotr I"
+  title = e_russia
+  title_name = e_russia
+
+  character = {
+	  dna = chckg00faa0
+	  properties = 0d00gb000000000000000000000000000000
+    religion="orthodox"
+    culture="russian "
+    government = feudal_government
+    dynasty=100018
+    }
+  }
+}

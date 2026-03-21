@@ -1,0 +1,4 @@
+1680.1.1 = {
+  liege = k_cuman
+  holder = 100391
+}

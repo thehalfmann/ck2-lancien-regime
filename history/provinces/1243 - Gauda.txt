@@ -1,0 +1,13 @@
+title = c_gauda
+max_settlements = 6
+b_karnasubarna = castle
+b_raktamrittika = temple
+b_tarapith = temple
+b_adinatha_mandir = temple
+b_agmahl = city
+culture = bengali
+religion = buddhist
+terrain = jungle
+1700.1.1 = {
+  b_teliagarhi = castle
+}

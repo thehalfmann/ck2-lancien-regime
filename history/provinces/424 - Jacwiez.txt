@@ -1,0 +1,19 @@
+title = c_jacwiez
+max_settlements = 4
+b_jacwiez = tribal
+culture = lithuanian
+religion = baltic_pagan
+1150.1.1 = {
+  b_jacwiez = castle
+  b_grodno = city
+  b_novogrudok = temple
+}
+1223.1.1 = {
+  b_niasvizh = castle
+}
+1700.1.1 = {
+  culture = ruthenian
+}
+1700.1.1 = {
+  religion = orthodox
+}

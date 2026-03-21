@@ -1,0 +1,8 @@
+1695.2.6 = {
+  liege = e_arabia
+  holder = 100057
+}
+1699.1.26 = {
+  liege = d_croatia
+  holder = 100360
+}

@@ -1,0 +1,15 @@
+1659.5.13 = {
+  liege = k_england
+  holder = 100037
+}
+1689.4.11 = {
+  holder = 0
+}
+1700.1.1 = {
+  name = Gloucester
+  adjective = Gloucesterian
+  vice_royalty = no
+  law = investiture_law_0
+  law = cognatic_succession
+  law = centralization_2
+}

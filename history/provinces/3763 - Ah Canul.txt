@@ -1,0 +1,13 @@
+# County Title
+title = c_ah_canul
+
+# Settlements
+max_settlements = 3
+b_ah_canul = tribal
+b_ah_canul-ii = tribal
+
+# Misc
+culture = mayanx
+religion = mayan
+
+# History

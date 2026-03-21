@@ -1,0 +1,10 @@
+title = c_tirunelveli
+max_settlements = 4
+b_tirunelveli = castle
+b_kayattar = temple
+b_korkai = city
+culture = tamil
+religion = hindu
+1700.1.1 = {
+  b_kayal = castle
+}

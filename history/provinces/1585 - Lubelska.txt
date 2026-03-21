@@ -1,0 +1,12 @@
+title = c_lubelska
+max_settlements = 2
+b_lublin = tribal
+culture = polish
+religion = slavic_pagan
+999.7.1 = {
+  religion = catholic
+  b_lublin = castle
+}
+1700.1.1 = {
+  b_parczew = city
+}

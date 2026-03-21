@@ -1,0 +1,11 @@
+title = c_amastris
+max_settlements = 3
+b_amasra = castle
+b_amastris = city
+culture = greek
+religion = orthodox
+1700.1.1 = {
+  religion = sunni
+  culture = turkish
+  b_cyttoros = temple
+}

@@ -1,0 +1,9 @@
+title = c_naupactus
+max_settlements = 3
+b_naupaktos = castle
+b_paravola = city
+culture = greek
+religion = orthodox
+1700.1.1 = {
+  b_agrinio = temple
+}

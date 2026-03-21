@@ -1,0 +1,12 @@
+title = c_badghis
+max_settlements = 3
+b_buzgan = castle
+b_zurabad = city
+culture = persian
+religion = zoroastrian
+1187.1.1 = {
+  religion = sunni
+}
+1700.1.1 = {
+  b_kusuya = temple
+}

@@ -1,0 +1,17 @@
+title = c_loulan
+max_settlements = 4
+b_loulan = castle
+culture = tocharian
+religion = buddhist
+900.1.1 = {
+  culture = uyghur
+}
+1700.1.1 = {
+  b_kroran = city
+}
+1700.1.1 = {
+  b_kara_koshun = temple
+}
+1700.1.1 = {
+  b_shanshan = castle
+}

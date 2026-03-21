@@ -1,0 +1,13 @@
+title = c_artois
+max_settlements = 5
+b_bethune = castle
+b_arras = city
+b_terwaan = temple
+culture = french
+religion = catholic
+1700.1.1 = {
+  b_lens = castle
+}
+1700.1.1 = {
+  b_lille = city
+}

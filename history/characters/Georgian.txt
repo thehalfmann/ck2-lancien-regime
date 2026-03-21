@@ -1,0 +1,75 @@
+100502 = {
+	name = "Svimon"
+	religion = orthodox
+	culture = georgian
+	dynasty = 100129
+	trait = "bastard"  
+	1650.1.1 = {
+	  birth = yes 
+	}
+  }
+
+  100503 = {
+	name = "Erekle"
+	religion = orthodox
+	culture = georgian
+	dynasty = 100129
+	trait = "drunkard"
+	trait = "brave"
+	1642.1.1 = {
+	  birth = yes  
+	  }
+	1676.1.1 = {
+	  religion = "shiite"
+	  }
+	1677.1.1 = {
+	  add_spouse = 100504
+	  }
+  }
+
+  100504 = {
+	name = "Ana"
+	female = yes
+	religion = shiite
+	culture = georgian
+	dynasty = 100130
+	1650.1.1 = {
+	  birth = yes 
+	}
+  }
+  100505 = {
+	name = "Davit"
+	religion = shiite
+	culture = georgian
+	dynasty = 100129
+	father = 100503
+	mother = 100504
+	1679.1.1 = {
+	  birth = yes 
+	}
+  }
+
+  100506 = {
+	name = "Elene"
+	female = yes
+	religion = shiite
+	culture = georgian
+	dynasty = 100129
+	father = 100503
+	mother = 100504
+	1687.1.1 = {
+	  birth = yes 
+	}
+  }
+  
+  100507 = {
+	name = "Teimuraz"
+	religion = shiite
+	culture = georgian
+	dynasty = 100129
+	father = 100503
+	mother = 100504
+	1690.1.1 = {
+	  birth = yes 
+	}
+  }

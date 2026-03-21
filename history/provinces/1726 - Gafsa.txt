@@ -1,0 +1,12 @@
+title = c_gafsa
+max_settlements = 4
+b_gafsa = castle
+b_nafta = city
+culture = maghreb_arabic
+religion = sunni
+1700.1.1 = {
+  b_madas = temple
+}
+1700.1.1 = {
+  b_hamma = castle
+}

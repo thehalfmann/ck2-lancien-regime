@@ -1,0 +1,153 @@
+100013 = {
+	name = "Alexander"
+	religion = reformed
+	secret_religion = catholic
+	culture = scottish
+	dynasty = 100088
+	1634.5.8 = {
+	  birth = yes
+	  }
+	  1658.1.1 = {
+		  add_spouse=100014
+	}
+  }
+
+  100014 = {
+	name = "Emilia Balfour"
+	female= yes
+	religion = protestant
+	culture = scottish
+	1635.1.1 = {
+	  birth = yes
+	}
+	1683.1.17 = {
+	  death = yes
+	}
+  }
+
+  100015 = {
+	name = "Charles"
+	religion = protestant
+	culture = scottish
+	dynasty = 100088
+	father=100013
+	mother=100014
+	1660.1.1 = {
+	  birth = yes
+	}
+	1695.1.1 = {
+	  add_spouse=100016
+	}
+  }
+
+  100017 = {
+	name = "Richard"
+	religion = protestant
+	culture = scottish
+	1653.6.20 = {
+	  birth = yes
+	}
+	1678.7.1 = {
+	  add_spouse=100016
+	}   
+	1695.1.1 = {
+	  death = yes
+	}
+  }
+
+  100018 = {
+	name = "Francis"
+	religion = protestant
+	culture = scottish
+	dynasty = 100088
+	father=100013
+	mother=100014
+	1673.9.4 = {
+	  birth = yes
+	}
+  }
+
+  100087 = {
+	name = "Robert"  
+	religion = reformed
+	culture = scottish
+	dynasty = 100033
+	1636.3.8 = {
+	  birth = yes   
+	} 
+  }
+
+  100215 = {
+	name = "James"
+	religion = protestant
+	culture = scottish
+	dynasty = 100002
+	father = 100394
+	mother = 100395
+	1566.6.19 = {
+	  birth = yes
+	}
+	1589.8.20 = {  
+	  add_spouse = 100216
+	}  
+	1625.3.27 = {
+	  death = yes    
+	}
+  }
+
+  100394 = {
+	name = "Henry"
+	religion = catholic
+	culture = scottish
+	dynasty = 100002
+	1546.12.5 = {
+	  birth = yes     
+	}
+	1565.7.29 = {
+	  add_spouse = 100395
+	}
+	1567.2.14 = {
+	  death = {
+		death_reason = death_murder_unknown
+	  }
+	}
+  }
+
+  100395 = {
+	name = "Mary"
+	female = yes
+	religion = catholic
+	culture = scottish
+	dynasty = 100088
+	1542.12.8 = {
+	  birth = yes     
+	}
+	1567.6.15 = {
+		  effect = { imprison = 100395 }
+	}
+	1587.2.8 = {
+	  death = {
+		death_reason = death_execution_beheading
+	  }
+	}
+  }
+
+  100591 = {
+	name = "Andrew"
+	dynasty = 100174
+	religion = protestant
+	culture = scottish
+	1650.1.1 = {
+	  birth = yes 
+	}
+  }
+  
+  100593 = {
+	name = "George"
+	dynasty = 100174
+	religion = protestant
+	culture = scottish 
+	1667.2.9 = {
+	  birth = yes 
+	}
+  }

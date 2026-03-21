@@ -1,0 +1,17 @@
+title = c_joensuu
+max_settlements = 2
+b_joensuu = tribal
+culture = finnish
+religion = finnish_pagan
+1292.1.1 = {
+  b_joensuu = castle
+}
+1292.1.1 = {
+  religion = catholic
+}
+1700.1.1 = {
+  b_iisalmi = city
+}
+1700.1.1 = {
+  religion = protestant
+}

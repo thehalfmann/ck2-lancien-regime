@@ -1,0 +1,18 @@
+title = c_zachlumia
+max_settlements = 4
+b_stolac = tribal
+culture = croatian
+religion = slavic_pagan
+800.1.1 = {
+  religion = orthodox
+  b_stolac = castle
+  b_ston = city
+  b_korcula = temple
+}
+1000.1.1 = {
+  culture = bosnian
+}
+1700.1.1 = {
+  culture = italian  
+  b_brac = castle
+}

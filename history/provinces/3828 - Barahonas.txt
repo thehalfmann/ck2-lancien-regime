@@ -1,0 +1,15 @@
+# County Title
+title = c_barahonas
+
+# Settlements
+max_settlements = 6
+b_barahonas = city
+b_barahonas-ii = trade_post
+b_barahonas-iii = temple
+
+
+# Misc
+culture = castilian
+religion = catholic
+
+# History

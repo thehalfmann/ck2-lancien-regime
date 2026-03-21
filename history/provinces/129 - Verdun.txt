@@ -1,0 +1,19 @@
+title = c_verdun
+max_settlements = 5
+b_longuyon = castle
+b_verdun = temple
+b_etain = city
+culture = french
+religion = catholic
+1134.1.1 = {
+  capital = b_verdun
+}
+1700.1.1 = {
+  b_grandpre = castle
+}
+1700.1.1 = {
+  b_barlecomte = city
+}
+1700.1.1 = {
+  capital = b_longuyon
+}

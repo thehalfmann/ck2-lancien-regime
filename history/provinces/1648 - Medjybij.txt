@@ -1,0 +1,25 @@
+title = c_medjybij
+max_settlements = 4
+b_medjybij = tribal
+culture = volhynian
+religion = slavic_pagan
+terrain = plains
+867.1.1 = {
+  culture = russian
+}
+988.1.1 = {
+  religion = orthodox
+}
+1146.1.1 = {
+  b_medjybij = castle
+  b_hubyn = temple
+}
+1700.1.1 = {
+  b_khmilnyk = city
+}
+1700.1.1 = {
+  b_letychiv = castle
+}
+1700.1.1 = {
+  culture = ruthenian
+}

@@ -1,0 +1,14 @@
+# County Title
+title = c_cihuatlan
+
+# Settlements
+max_settlements = 4
+b_cihuatlan = tribal
+b_cihuatlan-ii = tribal
+b_cihuatlan-iii = temple
+
+# Misc
+culture = tlapanec
+religion = aztec
+
+# History

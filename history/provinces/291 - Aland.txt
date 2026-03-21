@@ -1,0 +1,24 @@
+title = c_aland
+max_settlements = 2
+b_kastelholm = tribal
+culture = norse
+religion = norse_pagan
+1000.1.1 = {
+  b_kastelholm = castle
+  b_kastelholm = ca_shipyard_1
+}
+1066.1.1 = {
+  culture = swedish
+}
+1085.1.1 = {
+  religion = catholic
+}
+1254.1.1 = {
+  trade_post = b_wittenborg
+}
+1700.1.1 = {
+  b_sund = city
+}
+1700.1.1 = {
+  religion = protestant
+}

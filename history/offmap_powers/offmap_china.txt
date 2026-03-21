@@ -1,0 +1,324 @@
+581.3.4 = {
+  holder = 247725
+}
+604.8.13 = {
+  holder = 247726
+}
+617.1.1 = {
+  status = china_civil_war
+}
+617.12.18 = {
+  holder = 247728
+}
+618.6.18 = {
+  holder = 217700
+  name = tang_china
+}
+626.9.4 = {
+  holder = 217701
+}
+649.7.10 = {
+  holder = 217702
+}
+683.12.27 = {
+  holder = 217799
+}
+684.2.27 = {
+  holder = 217703
+}
+690.10.16 = {
+  holder = 217704
+  name = zhou_china
+}
+705.12.16 = {
+  holder = 217799
+  name = tang_china
+}
+710.7.3 = {
+  holder = 217705
+}
+710.7.8 = {
+  holder = 217703
+}
+712.9.8 = {
+  holder = 217706
+}
+756.8.12 = {
+  holder = 217707
+}
+762.5.16 = {
+  holder = 217708
+}
+769.1.1 = {
+  status = china_unrest
+  set_offmap_flag = china_had_unrest
+}
+779.5.23 = {
+  holder = 217709
+}
+805.2.25 = {
+  holder = 217710
+}
+805.9.5 = {
+  holder = 217711
+}
+820.2.14 = {
+  holder = 217712
+}
+824.2.25 = {
+  holder = 217713
+}
+827.1.9 = {
+  holder = 217714
+}
+840.2.10 = {
+  holder = 217715
+}
+846.4.22 = {
+  holder = 217716
+}
+859.9.7 = {
+  holder = 217717
+}
+867.1.1 = {
+  clr_offmap_flag = china_had_unrest
+  status = china_civil_war
+  set_offmap_flag = china_civil_war
+}
+873.8.15 = {
+  holder = 217718
+}
+888.4.20 = {
+  holder = 217719
+}
+904.9.22 = {
+  holder = 217720
+}
+907.5.12 = {
+  holder = 0
+  name = china_china
+  policy = china_isolationist
+}
+923.1.1 = {
+  holder = 261133
+  name = tang_china
+}
+926.1.1 = {
+  holder = 261134
+}
+933.1.1 = {
+  holder = 261135
+}
+934.1.1 = {
+  holder = 261136
+}
+960.2.1 = {
+  holder = 217721
+  name = song_china
+}
+976.11.14 = {
+  holder = 217722
+}
+997.5.8 = {
+  holder = 217723
+}
+1022.3.23 = {
+  holder = 217724
+}
+1063.3.30 = {
+  holder = 217725
+}
+1066.1.1 = {
+  clr_offmap_flag = china_civil_war
+  status = china_stable
+  policy = china_open
+}
+1067.1.25 = {
+  holder = 217726
+}
+1085.4.1 = {
+  holder = 217727
+}
+1100.2.23 = {
+  holder = 217728
+}
+1127.1.9 = {
+  holder = 217731
+  name = jin_china
+}
+1135.2.9 = {
+  holder = 217732
+}
+1150.1.9 = {
+  holder = 217734
+}
+1161.10.27 = {
+  holder = 217735
+}
+1189.1.20 = {
+  holder = 217736
+}
+1208.12.29 = {
+  holder = 217737
+}
+1211.1.1 = {
+  status = china_mongol_invasion
+  set_offmap_flag = china_mongol_invasion
+}
+1213.9.11 = {
+  holder = 217738
+}
+1224.1.14 = {
+  holder = 217739
+}
+1234.2.9 = {
+  holder = 217740
+}
+1234.2.10 = {
+  holder = 172005
+  name = yuan_china
+  clr_offmap_flag = china_mongol_invasion
+  status = china_stable
+  policy = china_expansionist
+}
+1241.12.11 = {
+  holder = 172007
+  policy = china_open
+}
+1248.4.20 = {
+  holder = 217265
+}
+1260.5.5 = {
+  holder = 217266
+}
+1294.2.18 = {
+  holder = 217269
+}
+1304.1.1 = {
+  status = china_golden_age
+  set_offmap_flag = china_had_golden_age
+}
+1307.2.10 = {
+  holder = 217271
+}
+1311.1.27 = {
+  holder = 217272
+}
+1320.3.1 = {
+  holder = 217274
+}
+1323.9.4 = {
+  holder = 217279
+}
+1328.8.15 = {
+  holder = 217281
+}
+1329.4.3 = {
+  holder = 217282
+}
+1329.9.8 = {
+  holder = 217281
+}
+1332.9.2 = {
+  holder = 217283
+}
+1332.12.14 = {
+  holder = 217284
+}
+1450.1.1 = {
+  liege = 0
+  holder = 0
+  status = china_unrest
+  set_offmap_flag = china_had_unrest
+  policy = china_isolationist
+}
+1600.1.1 = {
+  name = Qing
+  adjective = Qing
+}
+1616.2.17 = {
+  holder = 113623885
+}
+1626.9.30 = {
+  holder = 117939548
+}
+1643.9.21 = {
+  holder = 118115978
+}
+1661.2.5 = {
+  holder = 115077855
+}
+1722.12.20 = {
+  holder = 117359835
+}
+1735.10.8 = {
+  holder = 117644574
+}
+1799.2.7 = {
+  holder = 117556767
+}
+1820.9.2 = {
+  holder = 113087329
+}
+1850.2.25 = {
+  holder = 110936952
+}
+1851.1.1 = {
+  clr_offmap_flag = china_had_unrest
+  status = china_civil_war
+  set_offmap_flag = china_civil_war
+}
+1861.8.22 = {
+  holder = 119485358
+}
+1875.1.12 = {
+  holder = 114784778
+}
+1908.11.14 = {
+  holder = 119527186
+}
+1912.2.12 = {
+  holder = 118910037
+  name = China
+  adjective = Chinese
+  policy = china_open
+}
+1912.3.10 = {
+  holder = 119001768
+}
+1916.6.6 = {
+  holder = 110729582
+}
+1928.2.7 = {
+  holder = 111083763
+}
+1928.10.10 = {
+  holder = 114760659
+}
+1949.10.1 = {
+  holder = 113936131
+  policy = china_isolationist
+  clr_offmap_flag = china_civil_war
+  status = china_unrest
+  set_offmap_flag = china_had_unrest
+}
+1976.9.9 = {
+  holder = 115554184
+}
+1978.12.22 = {
+  holder = 114427825
+  policy = china_open
+  clr_offmap_flag = china_had_unrest
+  status = china_stable
+}
+1992.10.19 = {
+  holder = 112986147
+}
+2002.11.15 = {
+  holder = 119497136
+}
+2012.11.15 = {
+  holder = 115314935
+  status = china_golden_age
+  set_offmap_flag = china_had_golden_age
+}

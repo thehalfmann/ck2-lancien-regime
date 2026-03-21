@@ -1,0 +1,25 @@
+title = c_drutsk
+max_settlements = 4
+b_drutsk = tribal
+culture = ilmenian
+religion = slavic_pagan
+terrain = forest
+867.1.1 = {
+  culture = russian
+}
+988.1.1 = {
+  religion = orthodox
+}
+1001.1.1 = {
+  b_bialocerkev = temple
+}
+1150.1.1 = {
+  b_drutsk = castle
+  b_rahachow = city
+}
+1700.1.1 = {
+  b_mogilev = castle
+}
+1700.1.1 = {
+  culture = ruthenian
+}

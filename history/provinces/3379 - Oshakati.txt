@@ -1,0 +1,15 @@
+# County Title
+title = c_oshakati
+
+# Settlements
+max_settlements = 5
+
+b_oshakati = tribal
+b_ombalantu = tribal
+b_ongandjera = temple
+
+# Misc
+culture = namibian
+religion = animism
+
+# History

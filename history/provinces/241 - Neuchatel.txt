@@ -1,0 +1,13 @@
+title = c_neuchatel
+max_settlements = 4
+b_neuchatel = castle
+b_erguel = city
+b_stimier = temple
+culture = french
+religion = catholic
+1700.1.1 = {
+  b_estavayer = castle
+}
+1700.1.1 = {
+  religion = reformed
+}

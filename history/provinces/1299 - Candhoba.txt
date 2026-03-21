@@ -1,0 +1,14 @@
+title = c_candhoba
+max_settlements = 3
+b_candhoba = castle
+culture = hindustani
+religion = jain
+1066.1.1 = {
+  religion = hindu
+}
+1700.1.1 = {
+  b_sipri = city
+}
+1700.1.1 = {
+  b_guna = temple
+}

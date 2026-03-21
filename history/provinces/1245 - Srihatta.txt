@@ -1,0 +1,9 @@
+title = c_srihatta
+max_settlements = 3
+b_srihatta = castle
+b_habiganj = city
+culture = assamese
+religion = buddhist
+1700.1.1 = {
+  b_egarosindur = temple
+}

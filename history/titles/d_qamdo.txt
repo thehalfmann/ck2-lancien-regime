@@ -1,0 +1,172 @@
+755.1.1 = {
+  holder = 12006
+  liege = e_tibet
+}
+797.1.1 = {
+  holder = 12008
+}
+799.1.1 = {
+  holder = 12010
+}
+815.1.1 = {
+  holder = 12012
+}
+836.1.1 = {
+  holder = 12011
+}
+841.1.1 = {
+  holder = 12013
+}
+842.1.1 = {
+  liege = 0
+}
+887.1.1 = {
+  holder = 12098
+}
+923.1.1 = {
+  holder = 12099
+}
+949.1.1 = {
+  holder = 12100
+}
+956.1.1 = {
+  holder = 12101
+}
+963.1.1 = {
+  holder = 12102
+}
+998.1.1 = {
+  holder = 12103
+}
+1022.1.1 = {
+  holder = 12104
+}
+1049.1.1 = {
+  holder = 12105
+}
+1064.1.1 = {
+  holder = 12112
+}
+1111.1.1 = {
+  liege = k_sakya_trizin
+  holder = 247288
+}
+1126.1.1 = {
+  holder = 247289
+}
+1147.1.1 = {
+  holder = 247290
+}
+1160.1.1 = {
+  holder = 247291
+}
+1172.1.1 = {
+  holder = 247292
+}
+1183.1.1 = {
+  holder = 247293
+}
+1191.1.1 = {
+  holder = 247295
+}
+1235.1.1 = {
+  holder = 247297
+}
+1237.1.1 = {
+  holder = 247311
+}
+1279.1.1 = {
+  holder = 247313
+}
+1295.1.1 = {
+  holder = 247316
+}
+1320.1.1 = {
+  holder = 247719
+}
+1352.1.1 = {
+  holder = 247318
+}
+1368.1.1 = {
+  holder = 247319
+}
+1389.1.1 = {
+  holder = 247320
+}
+1405.1.1 = {
+  holder = 247321
+}
+1450.1.1 = {
+  liege = 0
+  holder = 0
+}
+1700.1.1 = {
+  vice_royalty = no
+  law = investiture_law_0
+  law = cognatic_succession
+  law = centralization_2
+}
+1815.6.9 = {
+  holder = 119853365
+  liege = e_tibet
+}
+1830.6.9 = {
+  holder = 111964260
+  liege = e_tibet
+}
+1845.6.9 = {
+  holder = 115957722
+  liege = e_tibet
+}
+1860.6.9 = {
+  holder = 111139396
+  liege = e_tibet
+}
+1875.6.9 = {
+  holder = 114215491
+  liege = e_tibet
+}
+1890.6.9 = {
+  holder = 117529608
+  liege = e_tibet
+}
+1905.6.9 = {
+  holder = 115176163
+  liege = e_tibet
+}
+1920.6.9 = {
+  holder = 116011916
+  liege = e_tibet
+}
+1935.6.9 = {
+  holder = 119908987
+  liege = e_tibet
+}
+1950.6.9 = {
+  holder = 113674410
+  liege = e_tibet
+}
+1950.10.19 = {
+  holder = 119744435
+  liege = e_china_west_governor
+}
+1965.10.19 = {
+  holder = 118234094
+  liege = e_china_west_governor
+}
+1980.10.19 = {
+  holder = 112499353
+  liege = e_china_west_governor
+}
+1995.10.19 = {
+  holder = 116606797
+  liege = e_china_west_governor
+}
+2010.10.19 = {
+  holder = 112357004
+  liege = e_china_west_governor
+}
+2020.12.31 = {
+  holder = 0
+  liege = 0
+}

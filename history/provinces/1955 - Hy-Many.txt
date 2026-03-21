@@ -1,0 +1,12 @@
+title = c_hy_many
+max_settlements = 3
+b_cruachu = tribal
+culture = irish
+religion = catholic
+1000.1.1 = {
+  b_cruachu = castle
+  b_delbna = city
+}
+1700.1.1 = {
+  b_rathmore = temple
+}

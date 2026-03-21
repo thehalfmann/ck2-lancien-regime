@@ -1,0 +1,49 @@
+980.1.1 = {
+  holder = 184019
+}
+1040.1.1 = {
+  holder = 161000
+}
+1062.1.1 = {
+  holder = 161001
+}
+1068.1.1 = {
+  holder = 161002
+}
+1082.1.1 = {
+  holder = 0
+}
+1450.1.1 = {
+  liege = 0
+  holder = 0
+}
+1700.1.1 = {
+  name = Mauritania
+  adjective = Mauritanian
+  vice_royalty = no
+  law = investiture_law_0
+  law = cognatic_succession
+  law = crown_authority_1
+  law = centralization_2
+}
+1960.11.28 = {
+  holder = 119059898
+}
+1968.4.17 = {
+  holder = 110872193
+}
+1985.6.14 = {
+  holder = 115356302
+}
+1998.11.5 = {
+  holder = 114925184
+}
+2004.8.21 = {
+  holder = 117660384
+}
+2013.1.16 = {
+  holder = 116667125
+}
+2018.9.27 = {
+  holder = 118810276
+}

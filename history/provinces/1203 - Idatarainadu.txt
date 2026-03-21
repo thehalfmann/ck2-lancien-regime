@@ -1,0 +1,14 @@
+title = c_idatarainadu
+max_settlements = 6
+b_mudgal = castle
+b_gabburu = temple
+b_raichur = city
+b_jaladurga = castle
+culture = kannada
+religion = hindu
+1700.1.1 = {
+  b_hemagudda = city
+}
+1700.1.1 = {
+  b_kammatadurga = castle
+}

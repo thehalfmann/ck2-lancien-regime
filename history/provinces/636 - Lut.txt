@@ -1,0 +1,14 @@
+title = c_lut
+max_settlements = 3
+b_tabas = castle
+culture = persian
+religion = zoroastrian
+1066.1.1 = {
+  b_dayhouk = city
+}
+1700.1.1 = {
+  b_mazanabad = temple
+}
+1700.1.1 = {
+  religion = shiite
+}

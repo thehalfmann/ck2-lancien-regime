@@ -1,0 +1,16 @@
+title = c_mantua
+max_settlements = 4
+b_mantua = castle
+b_castellucchio = city
+b_serravalle = temple
+culture = italian
+religion = catholic
+1115.7.24 = {
+  capital = b_castellucchio
+}
+1220.1.1 = {
+  capital = b_mantua
+}
+1700.1.1 = {
+  b_gonzaga = castle
+}

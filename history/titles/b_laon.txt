@@ -1,0 +1,17 @@
+977.1.1 = {
+  liege = c_vermandois
+  holder = 161541
+}
+1031.1.1 = {
+  holder = 0
+}
+1113.1.1 = {
+  holder = 161982
+}
+1286.1.1 = {
+  holder = 161938
+}
+1450.1.1 = {
+  holder = 0
+  liege = c_vermandois
+}

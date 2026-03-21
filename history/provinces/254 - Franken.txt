@@ -1,0 +1,19 @@
+title = c_wurzburg
+max_settlements = 5
+b_schweinfurt = castle
+b_wurzburg = temple
+b_marienberg = city
+culture = german
+religion = catholic
+1168.1.1 = {
+  capital = b_wurzburg
+}
+1700.1.1 = {
+  b_hammelburg = castle
+}
+1700.1.1 = {
+  b_schwarzenberg = city
+}
+1700.1.1 = {
+  capital = b_wurzburg
+}

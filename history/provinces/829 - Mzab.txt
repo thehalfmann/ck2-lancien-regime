@@ -1,0 +1,8 @@
+title = c_mzab
+max_settlements = 2
+b_ghardaia = castle
+culture = maghreb_arabic
+religion = ibadi
+1700.1.1 = {
+  b_noumerat = city
+}

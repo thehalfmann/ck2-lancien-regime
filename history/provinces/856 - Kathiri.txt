@@ -1,0 +1,21 @@
+title = c_kathiri
+max_settlements = 4
+b_shabwa = tribal
+culture = bedouin_arabic
+religion = ibadi
+850.1.1 = {
+  religion = sunni
+  b_shabwa = castle
+}
+1066.1.1 = {
+  b_qana = city
+}
+1700.1.1 = {
+  b_lodar = temple
+}
+1700.1.1 = {
+  b_seiyun = castle
+}
+1700.1.1 = {
+  religion = shiite
+}

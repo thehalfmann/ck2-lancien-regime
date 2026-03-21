@@ -1,0 +1,15 @@
+title = c_sardis
+max_settlements = 3
+b_sardis = castle
+b_philadelphia = city
+culture = greek
+religion = orthodox
+1390.1.1 = {
+  culture = turkish
+}
+1390.1.1 = {
+  religion = sunni
+}
+1700.1.1 = {
+  b_magnesia = temple
+}

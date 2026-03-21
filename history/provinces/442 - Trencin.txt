@@ -1,0 +1,20 @@
+title = c_trencin
+max_settlements = 4
+b_trencsen = tribal
+culture = slovieni
+religion = slavic_pagan
+842.1.1 = {
+  religion = catholic
+}
+900.1.1 = {
+  b_trencsen = castle
+  b_zilina = city
+  b_turoc = temple
+}
+1700.1.1 = {
+  b_ban = castle
+}
+1700.1.1 = {
+  religion = reformed
+  culture = slovieni
+}

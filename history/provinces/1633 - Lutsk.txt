@@ -1,0 +1,23 @@
+title = c_lutsk
+max_settlements = 4
+b_lutsk = tribal
+culture = volhynian
+religion = slavic_pagan
+867.1.1 = {
+  culture = russian
+}
+989.1.1 = {
+  religion = orthodox
+  b_lutsk = castle
+  b_dubno = city
+  b_peresopnytsia = temple
+}
+1700.1.1 = {
+  b_jytomyr = castle
+}
+1700.1.1 = {
+  culture = ruthenian
+}
+1700.1.1 = {
+  religion = catholic
+}

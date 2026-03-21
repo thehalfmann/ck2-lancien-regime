@@ -1,0 +1,20 @@
+title = c_galich_mersky
+max_settlements = 4
+b_galichmersky = tribal
+culture = mordvin
+religion = orthodox
+terrain = forest
+1087.1.2 = {
+  religion = orthodox
+  culture = russian
+}
+1000.1.1 = {
+  b_levkovo = temple
+}
+1200.1.1 = {
+  b_galichmersky = castle
+  b_gradmersky = city
+}
+1700.1.1 = {
+  b_buy = castle
+}

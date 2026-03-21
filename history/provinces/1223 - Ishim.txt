@@ -1,0 +1,14 @@
+title = c_ishim
+max_settlements = 2
+b_ishim = tribal
+culture = kazakh
+religion = tengri_pagan
+1060.1.1 = {
+  culture = turkish
+}
+1218.1.1 = {
+  culture = mongol
+}
+1700.1.1 = {
+  culture = kazakh
+}

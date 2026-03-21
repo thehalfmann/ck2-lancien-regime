@@ -1,0 +1,13 @@
+title = c_kanara
+max_settlements = 5
+b_udayavara = castle
+b_udupi = temple
+b_mangalur = city
+culture = kannada
+religion = jain
+1700.1.1 = {
+  b_dharmasthala = castle
+}
+1700.1.1 = {
+  b_kasargod = city
+}

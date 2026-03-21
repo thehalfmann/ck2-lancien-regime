@@ -1,0 +1,104 @@
+936.1.1 = {
+  holder = 260518
+}
+1066.1.1 = {
+  holder = 20579
+}
+1080.6.5 = {
+  holder = 144632
+}
+1111.1.1 = {
+  holder = 144633
+}
+1150.1.1 = {
+  holder = 202011
+}
+1206.6.27 = {
+  holder = 202012
+}
+1235.9.1 = {
+  holder = 144647
+}
+1264.1.1 = {
+  liege = k_norway
+}
+1268.1.12 = {
+  holder = 6905
+}
+1280.5.9 = {
+  holder = 6906
+}
+1299.7.15 = {
+  holder = 452510
+}
+1319.5.8 = {
+  holder = 450500
+}
+1450.1.1 = {
+  liege = 0
+  holder = 0
+}
+1600.1.1 = {
+  liege = k_denmark
+}
+1700.1.1 = {
+  de_jure_liege = k_denmark
+  name = Iceland
+  adjective = Icelandic
+  vice_royalty = no
+  law = investiture_law_0
+  law = cognatic_succession
+  law = centralization_2
+}
+1815.6.9 = {
+  holder = 115680616
+}
+1825.8.11 = {
+  holder = 112408264
+}
+1834.5.2 = {
+  holder = 115748376
+}
+1842.5.15 = {
+  holder = 110320497
+}
+1852.12.19 = {
+  holder = 115207162
+}
+1870.7.24 = {
+  holder = 117215003
+}
+1882.10.20 = {
+  holder = 119898239
+}
+1899.9.13 = {
+  holder = 116592380
+}
+1908.8.20 = {
+  holder = 115516885
+}
+1927.4.22 = {
+  holder = 114940369
+}
+1935.4.10 = {
+  holder = 116050598
+}
+1944.6.17 = {
+  holder = 111583971
+  liege = 0
+}
+1952.8.1 = {
+  holder = 117250695
+}
+1968.8.1 = {
+  holder = 117638055
+}
+1980.8.1 = {
+  holder = 113019367
+}
+1996.8.1 = {
+  holder = 115685088
+}
+2016.8.1 = {
+  holder = 117425515
+}

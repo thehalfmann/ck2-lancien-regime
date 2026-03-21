@@ -1,0 +1,21 @@
+1066.1.1 = {
+  holding_dynasty = 516
+  liege = k_venice
+  holder = 7800
+}
+1071.1.1 = {
+  holder = 0
+  liege = 0
+}
+1275.8.15 = {
+  holder = 32128
+  liege = k_venice
+}
+1280.3.6 = {
+  holder = 0
+  liege = 0
+}
+1450.1.1 = {
+  holder = 0
+  liege = 0
+}

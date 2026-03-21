@@ -1,0 +1,20 @@
+title = c_krakowskie
+max_settlements = 6
+b_krakow = tribal
+culture = polish
+religion = slavic_pagan
+990.1.1 = {
+  religion = catholic
+}
+1000.1.1 = {
+  b_krakow = castle
+  b_wieliczka = city
+  b_jedrzejow = temple
+  b_bochnia = castle
+}
+1632.1.1 = {
+  capital = b_jedrzejow
+}
+1700.1.1 = {
+  capital = b_krakow
+}

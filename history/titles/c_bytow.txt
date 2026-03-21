@@ -1,0 +1,4 @@
+1697.9.15 = {
+  de_jure_liege = d_brandenburg
+  holder = 100061
+}

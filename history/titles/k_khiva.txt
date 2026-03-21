@@ -1,0 +1,8 @@
+20.1.1 = {
+  historical_nomad = yes
+}
+1698.1.1 = {
+  name = "Khiva"
+  adjective = Khivians
+  holder = 100388
+}

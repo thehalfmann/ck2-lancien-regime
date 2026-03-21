@@ -1,0 +1,13 @@
+# County Title
+title = c_bahamas
+
+# Settlements
+max_settlements = 3
+b_bahamas = city
+b_bahamas-ii = tribal
+
+# Misc
+culture = english
+religion = protestant
+
+# History

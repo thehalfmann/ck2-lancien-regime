@@ -1,0 +1,18 @@
+title = c_ramagiri
+max_settlements = 4
+b_ramagiri = temple
+b_pavnar = city
+culture = marathi
+religion = jain
+1066.1.1 = {
+  religion = hindu
+}
+1700.1.1 = {
+  b_nandivardhana = castle
+}
+1700.1.1 = {
+  b_mansar = castle
+}
+1700.1.1 = {
+  capital = b_nandivardhana
+}

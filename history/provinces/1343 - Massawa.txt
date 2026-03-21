@@ -1,0 +1,16 @@
+title = c_massawa
+max_settlements = 5
+b_matara = castle
+b_massawa = city
+b_cheren = city
+culture = nubian
+religion = miaphysite
+1187.1.1 = {
+  b_sembel = castle
+}
+1700.1.1 = {
+  b_dahano = temple
+}
+1700.1.1 = {
+  religion = sunni
+}

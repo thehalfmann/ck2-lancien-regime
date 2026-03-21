@@ -1,0 +1,137 @@
+100.1.1 = {
+  pentarch = b_roma
+}
+548.1.1 = {
+  holder = 190178
+}
+591.1.1 = {
+  holder = 190179
+}
+610.1.1 = {
+  holder = 190336
+}
+630.1.1 = {
+  holder = 190337
+}
+680.1.1 = {
+  holder = 190338
+}
+680.6.1 = {
+  holder = 190339
+}
+716.1.1 = {
+  holder = 190334
+}
+719.1.1 = {
+  holder = 190370
+}
+719.4.1 = {
+  holder = 190371
+}
+719.8.1 = {
+  holder = 190372
+}
+725.1.1 = {
+  holder = 190226
+}
+736.1.1 = {
+  holder = 190227
+}
+748.1.1 = {
+  holder = 144989
+}
+748.6.1 = {
+  holder = 190228
+}
+788.1.1 = {
+  holder = 6392
+  law = agnatic_succession
+}
+814.1.28 = {
+  holder = 30227
+}
+817.1.1 = {
+  holder = 90095
+}
+829.1.1 = {
+  holder = 90107
+}
+864.1.1 = {
+  holder = 42018
+}
+867.1.1 = {
+  de_jure_liege = e_hre
+}
+880.9.29 = {
+  holder = 42019
+}
+882.1.21 = {
+  holder = 90105
+}
+887.1.1 = {
+  holder = 7945
+}
+893.1.1 = {
+  holder = 7949
+}
+895.1.1 = {
+  holder = 0
+}
+1450.1.1 = {
+  liege = 0
+  holder = 0
+}
+1700.1.1 = {
+  name = Austria
+  adjective = Austrian
+  vice_royalty = no
+  law = investiture_law_0
+  law = cognatic_succession
+  law = crown_authority_1
+  law = centralization_2
+}
+1806.8.6 = {
+  de_jure_liege = e_carpathia
+}
+1918.11.11 = {
+  holder = 114156118
+}
+1920.12.9 = {
+  holder = 117391417
+}
+1928.12.10 = {
+  holder = 115721920
+}
+1938.3.12 = {
+  holder = 0
+}
+1945.5.8 = {
+  holder = 110414072
+}
+1950.12.31 = {
+  holder = 117281350
+}
+1957.1.4 = {
+  holder = 112767307
+}
+1965.2.28 = {
+  holder = 114587297
+}
+1974.4.24 = {
+  holder = 116934456
+}
+1986.7.8 = {
+  holder = 113455961
+}
+1992.7.8 = {
+  holder = 113085693
+}
+2004.7.6 = {
+  holder = 114238148
+}
+2016.7.8 = {
+  holder = 115319080
+}
+2017.1.26 = {
+  holder = 115890846
+}

@@ -1,0 +1,13 @@
+title = c_vizagipatam
+max_settlements = 4
+b_vizagipatam = castle
+b_simhachalam = temple
+culture = telugu
+religion = hindu
+terrain = jungle
+1700.1.1 = {
+  b_anakapalle = city
+}
+1700.1.1 = {
+  b_kotipalli = castle
+}

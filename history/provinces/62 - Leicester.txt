@@ -1,0 +1,19 @@
+title = c_leicester
+max_settlements = 5
+b_leicester = castle
+b_nottingham = city
+b_newstead = temple
+culture = saxon
+religion = catholic
+1100.11.11 = {
+  culture = english
+}
+1700.1.1 = {
+  b_southwell = castle
+}
+1700.1.1 = {
+  b_newark = city
+}
+1700.1.1 = {
+  religion = protestant
+}

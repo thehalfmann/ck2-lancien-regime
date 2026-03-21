@@ -1,0 +1,128 @@
+283.1.1 = {
+  holder = 159424
+}
+299.1.1 = {
+  holder = 159425
+}
+300.1.1 = {
+  holder = 159426
+}
+360.1.1 = {
+  holder = 159431
+}
+387.1.1 = {
+  holder = 159432
+}
+390.1.1 = {
+  holder = 159435
+}
+400.1.1 = {
+  holder = 159436
+}
+410.1.1 = {
+  holder = 159437
+}
+435.1.1 = {
+  holder = 159438
+}
+443.1.1 = {
+  holder = 159439
+}
+480.1.1 = {
+  holder = 159440
+}
+508.1.1 = {
+  holder = 159441
+}
+530.1.1 = {
+  holder = 159442
+}
+560.1.1 = {
+  holder = 159443
+}
+598.1.1 = {
+  holder = 159444
+}
+613.1.1 = {
+  holder = 159445
+}
+630.1.1 = {
+  holder = 159446
+}
+658.1.1 = {
+  holder = 159447
+}
+682.1.1 = {
+  holder = 159448
+}
+700.1.1 = {
+  holder = 159748
+}
+710.1.1 = {
+  holder = 159449
+}
+715.1.1 = {
+  holder = 159450
+}
+730.1.1 = {
+  holder = 159451
+}
+750.1.1 = {
+  holder = 159452
+}
+775.1.1 = {
+  holder = 159453
+}
+780.1.1 = {
+  holder = 159454
+}
+810.1.1 = {
+  holder = 159455
+}
+830.1.1 = {
+  holder = 159456
+}
+850.1.1 = {
+  holder = 159457
+}
+855.1.1 = {
+  holder = 159747
+}
+865.1.1 = {
+  holder = 159458
+}
+875.1.1 = {
+  holder = 0
+}
+910.1.1 = {
+  holder = 159461
+}
+927.1.1 = {
+  liege = k_england
+  holder = 159466
+}
+940.1.1 = {
+  holder = 0
+}
+1328.9.6 = {
+  liege = k_england
+  holder = 454507
+}
+1336.9.13 = {
+  holder = 454501
+}
+1450.1.1 = {
+  liege = 0
+  holder = 0
+}
+1688.7.4 = {
+  holder = 100031
+  liege = k_england
+}  
+1700.1.1 = {
+  de_jure_liege = k_england
+  vice_royalty = no
+  law = investiture_law_0
+  law = cognatic_succession
+  law = centralization_2
+}

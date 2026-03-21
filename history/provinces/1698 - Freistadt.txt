@@ -1,0 +1,17 @@
+title = c_freistadt
+max_settlements = 3
+b_steyregg = tribal
+culture = slovieni
+religion = slavic_pagan
+867.1.1 = {
+  b_steyregg = castle
+  b_freistadt = city
+  religion = catholic
+}
+1066.1.1 = {
+  culture = german
+  capital = b_freistadt
+}
+1700.1.1 = {
+  b_grein = temple
+}

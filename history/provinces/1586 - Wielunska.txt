@@ -1,0 +1,12 @@
+title = c_wielunska
+max_settlements = 2
+b_wielun = tribal
+culture = polish
+religion = slavic_pagan
+969.1.1 = {
+  religion = catholic
+  b_wielun = castle
+}
+1700.1.1 = {
+  b_grabow = city
+}

@@ -1,0 +1,13 @@
+# County Title
+title = c_coyolapan
+
+# Settlements
+max_settlements = 3
+b_coyolapan = tribal
+b_coyolapan-ii = tribal
+
+# Misc
+culture = mixtec
+religion = aztec
+
+# History

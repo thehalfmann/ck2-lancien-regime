@@ -1,0 +1,16 @@
+title = c_ceredigion
+max_settlements = 4
+b_cardigan = castle
+b_llanbadarn = temple
+culture = welsh
+religion = catholic
+terrain = hills
+1109.1.1 = {
+  b_aberystwyth = castle
+}
+1700.1.1 = {
+  b_aberaeron = city
+}
+1700.1.1 = {
+  religion = protestant
+}

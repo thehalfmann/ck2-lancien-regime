@@ -1,0 +1,46 @@
+810.1.1={
+	holder=1015000024 #Masingita
+}
+840.1.1={
+	holder=1015000025 #Amukelani
+}
+870.1.1={
+	holder=1015000026 #Ntwanano
+}
+
+900.1.1={
+	holder=1015000027 #Masana
+}
+930.1.1={
+	holder=1015000028 #Masana
+}
+960.1.1={
+	holder=1015000029 #Eletsa
+}
+990.1.1={
+	holder=1015000030 #Amukelani
+}
+1020.1.1={
+	holder=1015000031 #Ntsako
+}
+1050.1.1={
+	holder=1015000032 #Nyeleti
+}
+1080.1.1={
+	holder=1015000033 #Ntosvelo
+}
+1110.1.1={
+	holder=1015000034 #Nyeleti
+}
+1140.1.1={
+	holder=1015000035 #Minkateko
+}
+1170.1.1={
+	holder=1015000036 #Nsuku
+}
+1200.1.1={
+	holder=1015000037 #Rhulani
+}
+1230.1.1={
+	holder=1015000038 #Rhulani
+}

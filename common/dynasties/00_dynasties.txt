@@ -1,0 +1,1077 @@
+100000 = {
+  name = "Orange-Nassau"
+  culture = "dutch"
+  religion="reformed"
+	used_for_random=no
+    coat_of_arms = {
+        template = 3
+        layer = {
+            texture = 0
+            texture_internal = 0
+            emblem = 1
+            color = 0
+            color = 2
+            color = 0
+        }
+        layer = {
+            texture = 1
+            texture_internal = 1
+            emblem = 5
+            color = 0
+            color = 0
+            color = 0
+        }
+        layer = {
+            texture = 0
+            texture_internal = 8
+            emblem = 0
+            color = 1
+            color = 3
+            color = 0
+        }
+        layer = {
+            texture = 0
+            texture_internal = 1
+            emblem = 1
+            color = 0
+            color = 3
+            color = 0
+        }
+    }
+}
+100001 = {
+  name = "Sackville"
+  culture = "english"
+  religion="protestant"
+}
+100002 = {
+  name = "Stuart"
+  culture = "scottish"
+  religion="protestant"
+}
+100003 ={
+  name = "Heinsius"
+  culture = "dutch"
+  religion="reformed"
+	used_for_random=no
+}
+100004 ={
+  name = "Howard"
+  culture = "english"
+  religion="catholic"
+}
+100005 ={
+  name = "Oldenburg"
+  culture = "danish"
+  religion="protestant"
+    coat_of_arms = {
+        template = 0
+        layer = {
+            texture = 0
+            texture_internal = 8
+            emblem = 0
+            color = 0
+            color = 3
+            color = 3
+        }
+    }
+}
+100006 ={
+  name = "Habsburg"
+  culture = "german"
+  religion="catholic"
+	coat_of_arms=
+	{
+		data=
+		{
+0 3 0 20 0 0 0 			}
+		religion="catholic"
+	}
+	used_for_random=no
+}
+100007 ={
+  name = "Pignatelli"
+  culture = "italian"
+  religion="catholic"
+}
+100008 ={
+  name = "Compton"
+  culture = "english"
+  religion="protestant"
+}
+100009 ={
+  name = "Hyde"
+  culture = "english"
+  religion="protestant"
+}
+100010 ={
+  name = "Este"
+  culture = "italian"
+  religion="catholic"
+    coat_of_arms = {
+        template = 0
+        layer = {
+            texture = 1
+            texture_internal = 0
+            emblem = 22
+            color = 2
+            color = 2
+            color = 2
+        }
+    }
+}
+100011 ={
+  name = "Mazzarini"
+  culture = "italian"
+  religion="catholic"
+}
+100012 ={
+  name = "Cromwell"
+  culture = "english"
+  religion="protestant"
+}
+100013 ={
+	name="de Bourbon"
+	culture="french"
+	religion="catholic"
+	coat_of_arms=
+	{
+		data=
+		{
+0 5 0 12 0 0 0 			}
+		religion="catholic"
+	}
+}
+100014 ={
+  name = "Wittelsbach"
+  culture = "german"
+  religion="catholic"
+}
+100015 ={
+  name = "Savoia"
+  culture = "italian"
+  religion="catholic"
+}
+100016 ={
+	name="von Hohenzollern"
+	culture="german"
+	religion="protestant"
+	coat_of_arms=
+	{
+		data=
+		{
+0 3 0 23 0 0 0 			}
+		religion="protestant"
+	}
+	used_for_random=no
+}
+100017 ={
+  name = "Hanover"
+  culture = "german"
+  religion="protestant"
+}
+100018 ={
+	name="Romanov"
+	culture="russian"
+	religion="orthodox"
+	coat_of_arms=
+	{
+		data=
+		{
+1 1 0 21 11 14 14 1 0 21 11 14 14 			}
+		religion="orthodox"
+	}
+}
+100019 ={
+  name = "Wettin"
+  culture = "german"
+  religion="protestant"
+    coat_of_arms = {
+        template = 0
+        layer = {
+            texture = 0
+            texture_internal = 8
+            emblem = 0
+            color = 0
+            color = 5
+            color = 13
+        }
+    }
+}
+100020 ={
+  name = "Oginskis"
+  culture = "lithuanian"
+  religion="catholic"
+}
+100021 ={
+  name = "Medici"
+  culture = "italian"
+  religion="catholic"
+}
+100022 ={
+  name = "Grey"
+  culture = "english"
+  religion="protestant"
+}
+100023 ={
+  name = "Crew"
+  culture = "english"
+  religion="protestant"
+}
+100024 ={
+  name = "Butler"
+  culture = "irish"
+  religion="catholic"
+}
+100025 ={
+  name = "Stanley"
+  culture = "english"
+  religion="protestant"
+}
+100026 ={
+  name = "Cavendish"
+  culture = "english"
+  religion="protestant"
+}
+100027 ={
+  name = "Somers"
+  culture = "english"
+  religion="protestant"
+}
+100028 ={
+  name = "de Vere"
+  culture = "english"
+  religion="protestant"
+}
+100029 ={
+  name = "Capell"
+  culture = "english"
+  religion="protestant"
+}
+100030 ={
+  name = "Paulet"
+  culture = "english"
+  religion="protestant"
+}
+100031 ={
+  name = "Solms-Braunfels"
+  culture = "german"
+  religion="protestant"
+}
+100032 ={
+  name = "Sidney"
+  culture = "english"
+  religion="protestant"
+}
+100033 ={
+  name = "Kerr"
+  culture = "scottish"
+  religion="reformed"
+}
+100034 ={
+  name = "Sobiewski"
+  culture = "polish"
+  religion="catholic"
+}
+100035 ={
+  name = "La Grange d'Arquien"
+  culture = "french"
+  religion="catholic"
+}
+100036 ={
+  name = "Glücksburg"
+  culture = "german"
+  religion="protestant"
+}
+100037 ={
+  name = "Mecklenburg"
+  culture = "german"
+  religion="protestant"
+}
+100038 ={
+  name = "Kettler"
+  culture = "german"
+  religion="protestant"
+}
+100039 ={
+  name = "Hesse-Kassel"
+  culture = "german"
+  religion="protestant"
+}
+100040 ={
+  name = "Le Tellier"
+  culture = "french"
+  religion="catholic"
+}
+100041 ={
+  name = "Braganza"
+  culture = "portuguese"
+  religion="catholic"
+    coat_of_arms = {
+        template = 0
+        layer = {
+            texture = 0
+            texture_internal = 29
+            emblem = 0
+            color = 3
+            color = 1
+            color = 0
+        }
+    }
+}
+100042 ={
+  name = "Pfalz-Neuburg"
+  culture = "german"
+  religion="catholic"
+}
+100043 ={
+  name = "Ascania"
+  culture = "german"
+  religion="protestant"
+}
+100044 ={
+  name = "Mughal"
+  culture = "hindustani"
+  religion="sunni"
+}
+100045 ={
+	name="Ottoman"
+	culture="turkish"
+	religion="sunni"
+	coat_of_arms=
+	{
+		data=
+		{
+0 1 0 43 12 3 10 			}
+		religion="sunni"
+	}
+	used_for_random=no
+}
+100046 ={
+  name = "Nayak"
+  culture = "telugu"
+  religion="hindu"
+}
+100047 ={
+  name = "Lorraine"
+  culture = "german"
+  religion="catholic"
+    coat_of_arms = {
+        template = 0
+        layer = {
+            texture = 1
+            texture_internal = 19
+            emblem = 0
+            color = 3
+            color = 0
+            color = 0
+        }
+    }
+}
+100048 ={
+  name = "Lopukhina"
+  culture = "russian"
+  religion="orthodox"
+}
+100049 ={
+  name = "Vasa"
+  culture = "swedish"
+  religion="protestant"
+}
+100050 ={
+  name = "Hesse-Darmstadt"
+  culture = "german"
+  religion="protestant"
+}
+100051 ={
+  name = "Gonzaga"
+  culture = "italian"
+  religion="catholic"
+}
+100052 ={
+  name = "Wisniowiecki"
+  culture = "polish"
+  religion="catholic"
+}
+100053 ={
+  name = "Holstein-Gottorp"
+  culture = "danish"
+  religion="protestant"
+}
+100054 ={
+  name = "Rakoczi"
+  culture = "hungarian"
+  religion="reformed"
+}
+100055 ={
+  name = "Zrinska"
+  culture = "croatian"
+  religion="catholic"
+}
+100056 ={
+  name = "Thokoly"
+  culture = "hungarian"
+  religion="reformed"
+}
+100057 ={
+  name = "Hesse"
+  culture = "german"
+  religion="protestant"
+}
+100058 ={
+  name = "Wurttemberg"
+  culture = "german"
+  religion="protestant"
+	used_for_random=no
+}
+100059 ={
+  name = "Zahringen"
+  culture = "german"
+  religion="catholic"
+	used_for_random=no
+}
+100060 ={
+  name = "von Plettenberg"
+  culture = "german"
+  religion="catholic"
+}
+100061 ={
+  name = "von Wolff-Metternich"
+  culture = "german"
+  religion="catholic"
+}
+100062 ={
+  name = "von Orsbeck"
+  culture = "german"
+  religion="catholic"
+}
+100063 ={
+  name = "von Klettenberg"
+  culture = "german"
+  religion="catholic"
+}
+100064 ={
+  name = "von Schonborn"
+  culture = "german"
+  religion="catholic"
+}
+100065 ={
+  name = "von Greiffenclau"
+  culture = "german"
+  religion="catholic"
+}
+100066 ={
+  name = "von Furstenberg"
+  culture = "german"
+  religion="catholic"
+}
+100067 ={
+  name = "Brancoveanu"
+  culture = "romanian"
+  religion="orthodox"
+}
+100068 ={
+  name = "Cantemir"
+  culture = "romanian"
+  religion="orthodox"
+}
+100069 ={
+  name = "Giray"
+  culture = "mongol"
+  religion="sunni"
+}
+100070 ={
+  name = "Valier"
+  culture = "italian"
+  religion="catholic"
+}
+100071 ={
+  name = "Trastamara"
+  culture = "castillan"
+  religion="catholic"
+}
+100072 ={
+  name = "Aviz"
+  culture = "portuguese"
+  religion="catholic"
+}
+100073 ={
+  name = "Valois"
+  culture = "french"
+  religion="catholic"
+}
+100074 ={
+  name = "Jagiellon"
+  culture = "lithuanian"
+  religion="catholic"
+}
+100075 ={
+  name = "Batthyany"
+  culture = "hungarian"
+  religion="catholic"
+}
+100076 ={
+  name = "Safavid"
+  culture = "persian"
+  religion="shiite"
+}
+100077 ={
+  name = "von Strattman"
+  culture = "german"
+  religion="catholic"
+}
+100078 ={
+  name = "Esterhazy"
+  culture = "hungarian"
+  religion="reformed"
+}
+100079 ={
+  name = "Dahlbergh"
+  culture = "swedish"
+  religion="protestant"
+}
+100080 ={
+  name = "Tore"
+  culture = "mongol"
+  religion="sunni"
+}
+100081 ={
+  name = "Arabshahid"
+  culture = "mongol"
+  religion="sunni"
+}
+100082 ={
+  name = "Janids"
+  culture = "mongol"
+  religion="sunni"
+}
+100083 ={
+  name = "Choros"
+  culture = "mongol"
+  religion="buddhist"
+}
+100084 ={
+  name = "De Mari"
+  culture = "italian"
+  religion="catholic"
+}
+100085 ={
+  name = "Farnese"
+  culture = "italian"
+  religion="catholic"
+}
+100086 = {
+  name = "Nassau"
+  culture = "german"
+  religion="catholic"
+}
+100087 = {
+  name = "Mazepa"
+  culture = "ruthenian"
+  religion="orthodox"
+}
+100088 = {
+  name = "Tudor"
+  culture = "scottish"
+  religion="catholic"
+}
+100089 = {
+  name = "d'Orleans-Longueville"
+  culture = "french"
+  religion="catholic"
+}
+100090 = {
+  name = "Perellós"
+  culture = "castillan"
+  religion="catholic"
+}
+100091 = {
+  name = "Colón"
+  culture = "castillan"
+  religion="catholic"
+}
+100092 = {
+  name = "de la Cerda"
+  culture = "castillan"
+  religion="catholic"
+}
+100093 = {
+  name = "Seymour"
+  culture = "english"
+  religion="protestant"
+}
+100094 = {
+  name = "Percy"
+  culture = "english"
+  religion="protestant"
+}
+100095 = {
+	name="de Montfort"
+	culture="french"
+	religion="catholic"
+	coat_of_arms=
+	{
+		data=
+		{
+0 3 0 29 0 0 0 			}
+		religion="catholic"
+	}
+}
+100096 = {
+	name="Sforza"
+  culture = "italian"
+  religion="catholic"
+}
+100097 = {
+	name="van Egmond"
+	culture="dutch"
+}
+100098 = {
+	name="La Marck"
+	culture="dutch"
+}
+100099 = {
+	name="Bourbon-Montpensier"
+	culture="french"
+}
+100100 = {
+	name="de Coligny"
+	culture="french"
+}
+100101 = {
+	name="Cirksena"
+	culture="frisian"
+}
+100102 = {
+	name="Villier"
+	culture="english"
+  religion="protestant"
+}
+100103 = {
+	name="'Alawi"
+	culture="maghreb_arabic"
+  religion="sunni"
+}
+100104 = {
+  name = "Lennard"
+  culture = "english"
+  religion="protestant"
+}
+100105 = {
+  name = "Lee"
+  culture = "english"
+  religion="protestant"
+}
+100106 = {
+  name = "Feilding"
+  culture = "english"
+  religion="protestant"
+}
+100107 = {
+  name = "Churchill"
+  culture = "english"
+  religion="protestant"
+}
+100108 = {
+  name = "Jennings"
+  culture = "english"
+  religion="protestant"
+}
+100109 = {
+  name = "Godolphin"
+  culture = "english"
+  religion="protestant"
+}
+100110 = {
+  name = "Drake"
+  culture = "english"
+  religion="protestant"
+}
+100111 = {
+  name = "FitzJames"
+  culture = "english"
+  religion="protestant"
+}
+100112 = {
+  name = "Burke"
+  culture = "irish"
+}
+100113 = {
+  name = "Sarsfield"
+  culture = "irish"
+  religion="catholic"
+}
+100114 = {
+  name = "Aylesbury"
+  culture = "english"
+  religion="protestant"
+}
+100115 = {
+  name = "Rich"
+  culture = "english"
+  religion="protestant"
+}
+100116 = {
+  name = "Herbert"
+  culture = "english"
+  religion="protestant"
+}
+100117 = {
+  name = "Talbot"
+  culture = "irish"
+}
+100118 = {
+  name = "Russell"
+  culture = "english"
+  religion="protestant"
+}
+100119 = {
+  name = "Carr"
+  culture = "english"
+  religion="protestant"
+}
+100120 = {
+  name = "Wriothesley"
+  culture = "english"
+  religion="protestant"
+}
+100121 = {
+  name = "Howland"
+  culture = "english"
+  religion="protestant"
+}
+100122 ={
+  name = "Svebilius"
+  culture = "swedish"
+  religion="protestant"
+}
+100123 = {
+  name = "Tenison"
+  culture = "english"
+  religion="protestant"
+}
+100124 = {
+  name = "von Konigsmarck"
+  culture = "swedish"
+  religion="protestant"
+}
+100125 = {
+  name = "Berkeley"
+  culture = "english"
+  religion="protestant"
+}
+100126 = {
+  name = "Montagu"
+  culture = "english"
+  religion="protestant"
+}
+100127 = {
+  name = "Greville"
+  culture = "english"
+  religion="protestant"
+}
+100128 = {
+  name = "De la Gardie"
+  culture = "french"
+  religion="protestant"
+}
+100129 = {
+  name = "Bagrationi"
+  culture = "georgian"
+  religion="orthodox"
+}
+100130 = {
+  name = "Cholokashvili"
+  culture = "georgian"
+  religion="orthodox"
+}
+100131 = {
+  name = "Farnese"
+  culture = "italian"
+  religion="catholic"
+}
+100132 = {
+  name = "Barberini"
+  culture = "italian"
+  religion="catholic"
+}
+100133 = {
+  name = "Pfalz-Simmern"
+  culture = "german"
+  religion="catholic"
+}
+100134 = {
+  name = "Miloslavsky"
+  culture = "russian"
+  religion="orthodox"
+}
+100135 = {
+  name = "Naryshkina"
+  culture = "russian"
+  religion="orthodox"
+}
+100136 = {
+  name = "Schmieden"
+  culture = "german"
+  religion="protestant"
+}
+100137 = {
+  name = "Sayfawa"
+  culture = "kanuri"
+  religion="sunni"
+}
+100138 = {
+  name = "Petrovi?-Njegoš"
+  culture = "serbian"
+  religion="orthodox"
+}
+100139 = {
+  name = "Yarubid"
+  culture = "bedouin_arabic"
+  religion="ibadi"
+}
+100140 = {
+  name = "Al Kathiri"
+  culture = "bedouin_arabic"
+  religion="sunni"
+}
+100141 = {
+  name = "Qasimid"
+  culture = "bedouin_arabic"
+  religion="sunni"
+}
+100142 = {
+  name = "Banu Afrar"
+  culture = "bedouin_arabic"
+  religion="sunni"
+}
+100143 = {
+  name = "Solomon"
+  culture = "ethiopian"
+  religion="miaphysite"
+}
+100144 = {
+  name = "Dawud"
+  culture = "ethiopian"
+  religion="sunni"
+}
+100145 = {
+  name = "Karanle"
+  culture = "ethiopian"
+  religion="sunni"
+}
+100146 = {
+  name = "Shihab"
+  culture = "levantine_arabic"
+  religion="sunni"
+}
+100147 = {
+  name = "Gyldenlove"
+  culture = "danish"
+  religion="protestant"
+}
+100148 = {
+  name = "Gabel"
+  culture = "danish"
+  religion="protestant"
+}
+100149 = {
+  name = "Rehnskiold"
+  culture = "swedish"
+  religion="protestant"
+}
+100159 = {
+  name = "von Mellin"
+  culture = "swedish"
+  religion="protestant"
+}
+100160 = {
+  name = "Gyllenstierna"
+  culture = "swedish"
+  religion="protestant"
+}
+100161 = {
+  name = "Moncada"
+  culture = "castillan"
+  religion="catholic"
+}
+100162 = {
+  name = "test"
+  culture = "castillan"
+  religion = "catholic"
+}
+100163 = {
+  name = "Córdoba Lasso de la Vega"
+  culture = "castillan"
+  religion="catholic"
+}
+100164 = {
+  name = "de Robles Silva"
+  culture = "castillan"
+  religion = "catholic"
+}
+100165 = {
+  name = "van der Veen"
+  culture = "dutch"
+  religion="reformed"
+}
+100166 = {
+  name = "de La Ville"
+  culture = "french"
+  religion="catholic"
+}
+100167 = {
+  name = "de Lencastre"
+  culture = "portuguese"
+  religion="catholic"
+}
+100168 = {
+  name = "de Ponte y Hoyo"
+  culture = "castillan"
+  religion="catholic"
+}
+100169 = {
+  name = "Coote"
+  culture = "irish"
+  religion="protestant"
+}
+100170 = {
+  name = "Winthrop"
+  culture = "english"
+  religion="protestant"
+}
+100171 = {
+  name = "Cranston"
+  culture = "english"
+  religion="protestant"
+}
+100172 = {
+  name = "de Callière"
+  culture = "french"
+  religion="catholic"
+}
+100173 = {
+  name = "de Valladares"
+  culture = "castillan"
+  religion="catholic"
+}
+100174 = {
+  name = "Hamilton"
+  culture = "scottish"
+  religion="protestant"
+}
+100175 = {
+  name = "Penn"
+  culture = "english"
+  religion="protestant"
+}
+100176 = {
+  name = "van der Stel"
+  culture = "dutch"
+  religion="reformed"
+}
+100177 = {
+  name = "Phélypeaux"
+  culture = "french"
+  religion="catholic"
+    coat_of_arms = {
+        template = 3
+        layer = {
+            texture = 0
+            texture_internal = 0
+            emblem = 0
+            color = 5
+            color = 1
+            color = 0
+        }
+        layer = {
+            texture = 0
+            texture_internal = 0
+            emblem = 0
+            color = 0
+            color = 2
+            color = 0
+        }
+        layer = {
+            texture = 0
+            texture_internal = 0
+            emblem = 0
+            color = 0
+            color = 2
+            color = 0
+        }
+        layer = {
+            texture = 0
+            texture_internal = 0
+            emblem = 0
+            color = 0
+            color = 2
+            color = 0
+           }
+      }
+}
+100178 = {
+  name = "Compton"
+  culture = "english"
+  religion="protestant"
+}
+100179 = {
+  name = "Westken"
+  culture = "german"
+  religion="protestant"
+}
+100180 = {
+  name = "Köprülü"
+  culture = "turkish"
+  religion="sunni"
+}
+100181 = {
+  name = "La Baume Le Blanc"
+  culture = "french"
+  religion="catholic"
+}
+100182 = {
+  name = "Notaras"
+  culture = "greek"
+  religion="orthodox"
+}
+100183 = {
+  name = "Palladas"
+  culture = "greek"
+  religion="orthodox"
+}
+100184 = {
+  name = "Zaim"
+  culture = "levantine_arabic"
+  religion="orthodox"
+}
+100185 = {
+  name = "Rochechouart"
+  culture = "french"
+  religion="catholic"
+}
+100186 = {
+  name = "Vellingk"
+  culture = "swedish"
+  religion="protestant"
+}
+100187 = {
+  name = "Lucas"
+  culture = "english"
+  religion="protestant"
+}
+100188 = {
+  name = "FitzRoy"
+  culture = "english"
+  religion="protestant"
+}
+100189 = {
+  name = "FitzJames"
+  culture = "english"
+  religion="protestant"
+}
+100190 = {
+  name = "Qing"
+  culture = "han"
+  religion="buddhist"
+}

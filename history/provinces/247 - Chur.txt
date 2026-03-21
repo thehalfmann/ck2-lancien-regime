@@ -1,0 +1,11 @@
+title = c_chur
+max_settlements = 3
+b_chur = temple
+b_davos = city
+b_glurns = castle
+culture = german
+religion = catholic
+1700.1.1 = {
+  religion = reformed
+  capital = b_glurns
+}

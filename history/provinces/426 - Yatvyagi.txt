@@ -1,0 +1,16 @@
+title = c_yatvyagi
+max_settlements = 4
+b_kaunas = tribal
+culture = lithuanian
+religion = baltic_pagan
+1290.1.1 = {
+  b_alytus = temple
+}
+1290.1.1 = {
+  religion = catholic
+  b_kaunas = castle
+  b_darsuniskis = city
+}
+1700.1.1 = {
+  b_birstonas = castle
+}

@@ -1,0 +1,15 @@
+title = c_strymon
+max_settlements = 3
+b_prilep = castle
+b_strumica = temple
+culture = bulgarian
+religion = orthodox
+950.1.1 = {
+  religion = bogomilist
+}
+1050.1.1 = {
+  religion = orthodox
+}
+1700.1.1 = {
+  b_prosek = city
+}

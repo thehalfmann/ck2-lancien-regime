@@ -1,0 +1,409 @@
+100042 = {
+	name = "María Teresa" # Maria Theresa of Spain
+	female = yes
+	religion = catholic
+	culture = castillan
+	dynasty = 100006
+	father = 100052
+	mother = 100053  
+	1638.9.10 = {
+	  birth = yes
+	}
+	1683.7.30 = {
+	  death = yes      
+	}
+  }
+
+  100049 = {
+	name = "Carlos" # Charles II of Spain
+	religion = catholic
+	culture = castillan
+	dna="ceaad0h0bb0"
+	properties="0l0b0k00000000000000000000000000000000"
+	dynasty = 100006
+	father = 100052
+	mother = 100054
+	fertility = 0.1
+	health = 1  
+	trait = "weak"
+	trait = "inbred"
+	1661.11.6 = {
+	    birth = yes
+	}
+	1679.8.30 = {
+	    add_spouse=100138   
+	}
+	1690.5.14 = {
+		add_spouse=100165    
+	}
+	1700.1.1 = {
+	    add_claim = c_artois
+		add_claim = c_yperen
+	}
+  }
+
+  100052 = {
+	name = "Felipe" # Philip IV of Spain
+	religion = catholic
+	culture = castillan
+	dynasty = 100006
+	father = 100102  
+	mother = 100103
+	1605.4.8 = {
+	  birth = yes
+	}
+	1615.1.1 = {
+	  add_spouse=100053    
+	}
+	  1629.1.1 = {  
+	  effect={c_100406={add_lover=ROOT}}   
+	}
+	  1630.1.1 = {  
+	  effect = { remove_lover = 100406 } 
+	}
+	1649.10.7 = {
+		  add_spouse=100054
+	}        
+	  1659.9.17 = {
+	  death = yes     
+	}
+  }
+
+  100100 = {
+	name = "Margarita Teresa" # Margaret Theresa of Spain
+	female = yes
+	religion = catholic
+	culture = castillan
+	dynasty = 100006
+	father = 100052
+	mother = 100054
+	1651.7.12 = {
+	  birth = yes   
+	}    
+	1673.6.12 = {
+	  death = yes            
+	} 
+  }
+
+  100101 = {
+	name = "María Ana" # Maria Anna of Spain
+	female = yes
+	religion = catholic
+	culture = castillan
+	dynasty = 100006
+	father = 100102  
+	mother = 100103
+	1606.8.18 = {
+	  birth = yes   
+	}    
+	  1646.5.13 = {
+	  death = yes            
+	} 
+  }
+
+  100102 = {
+	name = "Felipe" # Philip III of Spain
+	religion = catholic
+	culture = castillan
+	dynasty = 100006
+	father = 100273
+	mother = 100288
+	1578.4.14 = {
+	  birth = yes   
+	}
+	1599.4.18 = {
+		  add_spouse=100103   
+	}     
+	  1621.3.31 = {
+	  death = yes            
+	} 
+  }
+
+  100265 = {
+	name = "Juana" # Joanna of Castile
+	female = yes
+	religion = catholic
+	culture = castillan
+	dynasty = 100071
+	give_nickname = nick_the_mad
+	1479.11.6 = {
+	  birth = yes
+	}
+	1555.3.12 = {
+	 death = yes   
+	}
+  }
+
+  100266 = {
+	name = "Leonor" # Eleanor of Austria
+	female = yes
+	religion = catholic
+	culture = castillan
+	dynasty = 100006
+	father = 100264
+	mother = 100265
+	1498.11.15 = {
+	  birth = yes
+	}
+	1558.2.25 = {
+	 death = yes   
+	}
+  }
+
+  100272 = {
+	name = "Maria" # Maria of Aragon, Queen of Portugal
+	female = yes
+	religion = catholic
+	culture = castillan
+	dynasty = 100071
+	1482.6.29 = {
+	  birth = yes
+	}
+	1517.3.7 = {
+	 death = yes   
+	}
+  }
+
+  100282 = {
+	name = "Carlos" # Carlos, Prince of Asturias
+	religion = catholic
+	culture = castillan
+	dynasty = 100006
+	father = 100273
+	mother = 100281
+	trait = "inbred"
+	1545.7.8 = {
+		birth = yes 
+	}
+	1568.7.24 = {
+	 death = yes   
+	}
+  }
+
+  100343 = {
+	name = "Isabella Clara Eugenia"
+	female = yes
+	religion = catholic
+	culture = castilian
+	dynasty = 100006
+	father = 100273
+	mother = 100342
+	1566.8.12 = {
+		birth = yes 
+	}
+	1633.12.1 = {
+		death = yes   
+	}
+  }
+
+  100344 = {
+	name = "Catalina Micaela" # Catalina Micaela of Spain
+	female = yes
+	religion = catholic
+	culture = castilian
+	dynasty = 100006
+	father = 100273
+	mother = 100342
+	1567.10.10 = {
+		birth = yes 
+	}
+	1597.11.6 = {
+		death = yes   
+	}
+  }
+
+  100401 = {
+	name = "Ramon" # Ramon Perellós
+	religion = catholic
+	culture = castillan
+	dynasty = 100090
+	1637.9.17 = {
+	  birth = yes  
+	}
+  }
+
+  100402 = {
+	name = "Pedro Manuel" # Pedro Manuel Colón de Portugal
+	religion = catholic
+	culture = castillan
+	dynasty = 100091
+	1651.12.25 = {
+	  birth = yes  
+	}
+  }
+
+  100403 = {
+	name = "Luis Francisco" # Luis Francisco de la Cerda, 9th Duke of Medinaceli
+	religion = catholic
+	culture = castillan
+	dynasty = 100092
+	1660.8.2 = {
+	  birth = yes  
+	}
+  }
+
+  100406 = {
+	name = "María Calderon"
+	female = yes
+	religion = catholic
+	culture = castillan
+	1605.1.1 = {
+	  birth = yes 
+	}    
+	1642.3.1={
+	  add_trait="nun"
+	}
+	1678.1.1 = {
+	 death = yes   
+	}
+  }
+
+  100407 = {
+	name = "Juan José"  
+	religion = catholic
+	culture = castillan
+	dynasty = 100006
+	father = 100052
+	mother = 100406
+	trait = "bastard"  
+	trait = "skilled_tactician"
+	1629.4.7 = {
+	  birth = yes   
+	}    
+	1679.9.17 = {
+	  death = yes            
+	} 
+  }
+
+  100408 = {
+	name = "Baltasar Carlos" # Balthasar Charles, Prince of Asturias
+	religion = catholic
+	culture = castillan
+	dynasty = 100006
+	father = 100052
+	mother = 100053
+	1629.10.17 = {
+	  birth = yes   
+	}    
+	1646.10.9 = {
+	  death = yes            
+	} 
+  }
+
+  100557 = {
+	name = "Fernando" # Cardinal-Infante Ferdinand of Austria
+	dynasty = 100006
+	father = 100102  
+	mother = 100103
+	religion = catholic
+	culture = castillan
+	1609.5.16 = {
+	  birth = yes
+	}
+	1641.11.9 = {
+	  death = yes      
+	}
+  }
+
+  100574 = {
+	name = "Baltasar Manrique" # Baltasar Manrique de Mendoza de los Cobos y Luna
+	religion = catholic
+	culture = castillan
+	1650.1.1 = {
+	  birth = yes 
+	}
+  }
+
+  100575 = {
+	name = "Fernando" # Fernando de Moncada y Gaetano
+	dynasty = 100161
+	religion = catholic
+	culture = castillan
+	1646.10.24 = {
+	  birth = yes 
+	}
+  }
+
+  100576 = {
+	name = "Alfonso Perez de Guzmán y Marañon"
+	religion = catholic
+	culture = castillan
+	1650.1.1 = {
+	  birth = yes 
+	}
+  }
+
+  100577 = {
+	name = "Domingo Pignatelli y Vagher"
+	religion = catholic
+	culture = castillan
+	1650.1.1 = {
+	  birth = yes 
+	}
+  }
+
+  100578 = {
+	name = "test"
+	dynasty = 100162
+	religion = catholic
+	culture = castillan
+	1650.1.1 = {
+	  birth = yes 
+	}
+  }
+
+  100579 = {
+	name = "Diego"
+	dynasty = 100163
+	religion = catholic
+	culture = castillan
+	1650.1.1 = {
+	  birth = yes 
+	}
+  }
+
+  100580 = {
+	name = "Gabriel Suárez"
+	dynasty = 100164
+	religion = catholic
+	culture = castillan
+	1650.1.1 = {
+	  birth = yes 
+	}
+  }
+
+  100585 = {
+	name = "Nicolás Eugenio"
+	dynasty = 100168
+	religion = catholic
+	culture = castillan
+	1667.1.1 = {
+	  birth = yes 
+	}
+  }
+  
+  100590 = {
+	name = "José Sarmiento" # José Sarmiento de Valladares, 1st Duke of Atrisco
+	dynasty = 100173
+	religion = catholic
+	culture = castillan
+	1643.5.4 = {
+	  birth = yes 
+	}
+  }
+
+  100040 = {
+	name = "Ana" # Anne of Austria
+	female = yes
+	religion = catholic
+	culture = castillan
+	dynasty = 100006
+	father = 100102  
+	mother = 100103
+	1601.9.22 = {
+		birth = yes
+	}
+	1666.1.20 = {
+		death = yes  
+	}
+}

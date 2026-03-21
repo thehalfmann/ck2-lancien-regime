@@ -1,0 +1,23 @@
+title = c_abauj
+max_settlements = 4
+b_abauj = tribal
+b_satoraljaujhely = temple
+culture = croatian
+religion = slavic_pagan
+861.1.1 = {
+  religion = catholic
+}
+930.1.1 = {
+  culture = hungarian
+  religion = tengri_pagan
+}
+1000.1.1 = {
+  religion = catholic
+  b_abauj = castle
+  b_kassa = city
+}
+1700.1.1 = {
+  culture = slovieni
+  religion = protestant
+  b_szikszo = castle
+}

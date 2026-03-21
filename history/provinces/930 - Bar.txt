@@ -1,0 +1,10 @@
+title = c_bar
+max_settlements = 4
+b_barleduc = castle
+b_commercy = city
+b_saintdizier = temple
+culture = french
+religion = catholic
+1700.1.1 = {
+  b_vaucouleurs = castle
+}

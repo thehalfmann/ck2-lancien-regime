@@ -1,0 +1,15 @@
+title = c_maldives
+max_settlements = 4
+b_mahal = castle
+b_fuvahmulah = city
+culture = tamil
+religion = buddhist
+1700.1.1 = {
+  b_isdhoo = temple
+}
+1700.1.1 = {
+  b_salliballu = castle
+}
+1700.1.1 = {
+  religion = sunni
+}

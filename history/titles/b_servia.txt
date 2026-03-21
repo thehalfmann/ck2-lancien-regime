@@ -1,0 +1,10 @@
+936.1.1 = {
+  liege = d_ohrid
+}
+1014.1.1 = {
+  liege = c_thessalonike
+}
+1450.1.1 = {
+  holder = 0
+  liege = c_thessalonike
+}

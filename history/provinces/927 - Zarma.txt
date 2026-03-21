@@ -1,0 +1,12 @@
+title = c_zarma
+max_settlements = 3
+b_zuru = tribal
+culture = songhay
+religion = west_african_pagan
+1300.1.1 = {
+  b_zuru = castle
+  b_ouallam = city
+}
+1700.1.1 = {
+  b_tera = temple
+}

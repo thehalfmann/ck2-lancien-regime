@@ -1,0 +1,165 @@
+100050 = {
+	name = "Nahum Tate"
+	religion = protestant
+	culture = irish
+	trait = "poet"
+	1652.1.1 = {
+	  birth = yes
+	  }
+	  1692.12.23={
+		  effect = {ROOT={give_minor_title = title_court_poet } }   
+	}
+  }
+
+  100072 = {
+	name = "James"
+	religion = protestant
+	culture = irish
+	trait = "brilliant_strategist"
+	dynasty = 100024
+	mother = 100074
+	father = 100073
+	1665.4.29 = {
+	  birth = yes 
+	}
+	1688.2.13 = {  
+	effect = {add_rival = 100000}  
+	}
+  }
+
+  100073 = {
+	name = "Thomas"
+	religion = protestant
+	culture = irish
+	dynasty = 100024
+	1634.7.8 = {
+	  birth = yes 
+	}
+	1655.1.1 = {
+		effect = { imprison = 100035 }
+	}
+	1659.11.17 = {
+		  add_spouse=100074   
+	} 
+	1680.7.30 = {
+	  death = yes    
+	} 
+  }
+
+  100075 = {
+	name = "Charles"
+	religion = protestant
+	culture = irish
+	dynasty = 100024
+	mother = 100074
+	father = 100073  
+	1671.9.4 = {
+	  birth = yes   
+	} 
+  }
+
+  100076 = {
+	name = "Elizabeth"
+	female = yes
+	religion = protestant
+	culture = irish
+	dynasty = 100024
+	mother = 100074
+	father = 100073  
+	1660.1.1 = {
+	  birth = yes   
+	} 
+  }
+
+  100078 = {
+	name = "Amelia"
+	female = yes
+	religion = protestant
+	culture = irish
+	dynasty = 100024
+	mother = 100074
+	father = 100073  
+	1658.1.1 = {
+	  birth = yes   
+	} 
+  }
+
+  100079 = {
+	name = "Henrietta"
+	female = yes
+	religion = protestant
+	culture = irish
+	dynasty = 100024
+	mother = 100074
+	father = 100073  
+	1673.1.1 = {
+	  birth = yes   
+	} 
+  }
+
+  100454 = {
+	name = "Basil" 
+	dynasty = 100106
+	religion = protestant
+	culture = irish
+	1668.1.1 = {
+	  birth = yes    
+	} 
+  }
+
+  100470 = {
+	name = "Honora"
+	female = yes
+	religion = catholic
+	culture = irish
+	dynasty = 100112
+	1675.1.1 = {
+	  birth = yes
+	}
+	1698.1.16 = {
+	  death = yes      
+	}
+  }  
+
+  100471 = {
+	name = "Patrick"
+	religion = catholic
+	culture = irish
+	dynasty = 100113
+	1655.1.1 = {
+	  birth = yes
+	}
+	1689.1.9 = {
+	  add_spouse = 100470
+	}
+	1693.8.21 = {
+	  death = {
+		death_reason = death_battle
+	  }
+	}
+  }
+
+  100472 = {
+	name = "James"
+	religion = catholic
+	culture = irish
+	dynasty = 100113
+	father = 100471
+	mother = 100470
+	1693.1.1 = {
+	  birth = yes   
+	}
+  }  
+  
+  100480 = {
+	name = "Richard"
+	religion = catholic
+	culture = irish
+	dynasty = 100009
+	1630.1.1 = {
+	  birth = yes
+	}
+	1656.1.1 = {
+	  effect = {add_friend = 100480}
+	}
+  }    

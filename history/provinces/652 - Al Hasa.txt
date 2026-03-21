@@ -1,0 +1,19 @@
+title = c_al_hasa
+max_settlements = 5
+b_holuf = castle
+b_alhasa = city
+b_foda = temple
+culture = bedouin_arabic
+religion = shiite
+894.1.1 = {
+  religion = qarmatian
+}
+1077.1.1 = {
+  religion = shiite
+}
+1700.1.1 = {
+  b_khobar = castle
+}
+1700.1.1 = {
+  b_almubarraz = city
+}

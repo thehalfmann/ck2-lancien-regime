@@ -1,0 +1,17 @@
+title = c_kara_khoja
+max_settlements = 6
+b_kara_khoja = castle
+b_turfan = city
+b_jiaohe = castle
+b_bezeklik = temple
+culture = tocharian
+religion = buddhist
+856.1.1 = {
+  culture = uyghur
+}
+1700.1.1 = {
+  b_huhu = city
+}
+1700.1.1 = {
+  b_shangwangguo = castle
+}

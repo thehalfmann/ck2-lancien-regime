@@ -1,0 +1,29 @@
+title = c_peremyshl
+max_settlements = 6
+b_peremyshl = tribal
+culture = volhynian
+religion = slavic_pagan
+867.1.1 = {
+  culture = russian
+}
+989.1.1 = {
+  religion = orthodox
+  b_peremyshl = castle
+  b_sanok = city
+  b_jaroslav = temple
+}
+1187.1.1 = {
+  b_rasiv = castle
+}
+1700.1.1 = {
+  b_liubachiv = city
+}
+1700.1.1 = {
+  b_lezhaisk = castle
+}
+1700.1.1 = {
+  culture = polish
+}
+1700.1.1 = {
+  religion = catholic
+}

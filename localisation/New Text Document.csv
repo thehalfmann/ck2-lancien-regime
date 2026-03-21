@@ -1,0 +1,21 @@
+CU_LIGHT_CAVALRY;Light Cavalry;;;;;;;;;x
+CU_HEAVY_CAVALRY;Heavy Cavalry;;;;;;;;;x
+CU_ARCHERS;Artilerry;;;;;;;;;x
+CU_PIKEMEN;Line infantry;;;;;;;;;x
+CU_ACTUAL_LIGHT_INFANTRY;Light Infantry;;;;;;;;;x
+CU_ACTUAL_HEAVY_INFANTRY;Grenadiers;;;;;;;;;x
+PIKEMEN;Line infantry;;;;;;;;;x
+PIKEMEN_MORALE;Line infantry Morale;;;;;;;;;x
+PIKEMEN_DISCIPLINE;Line infantry Discipline;;;;;;;;;x
+PIKEMEN_OFFENSIVE_FIRE;Line infantry Attack;;;;;;;;;x
+PIKEMEN_DEFENSIVE_FIRE;Line infantry Defense;;;;;;;;;x
+HEAVY_INFANTRY;Grenadiers;;;;;;;;;x
+HEAVY_INFANTRY_MORALE;Grenadiers Morale;;;;;;;;;x
+HEAVY_INFANTRY_DISCIPLINE;Grenadiers Discipline;;;;;;;;;x
+HEAVY_INFANTRY_OFFENSIVE_FIRE;Grenadiers Attack;;;;;;;;;x
+HEAVY_INFANTRY_DEFENSIVE_FIRE;Grenadiers Defense;;;;;;;;;x
+ARCHERS;Artilerry;;;;;;;;;x
+ARCHERS_MORALE;Artilerry Morale;;;;;;;;;x
+ARCHERS_DISCIPLINE;Artilerry Discipline;;;;;;;;;x
+ARCHERS_OFFENSIVE_FIRE;Artilerry Attack;;;;;;;;;x
+ARCHERS_DEFENSIVE_FIRE;Artilerry Defense;;;;;;;;;x

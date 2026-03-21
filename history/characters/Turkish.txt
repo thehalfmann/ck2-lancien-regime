@@ -1,0 +1,58 @@
+100057 = {
+	name = "Mustafa II"
+	dynasty = 100045
+	religion = sunni
+	culture = turkish
+	trait="poet"
+	1660.2.6 = {
+	  birth = yes   
+	}
+  }
+
+  100261 = {
+	name = "Devlet"
+	religion = sunni
+	culture = turkish
+	dynasty = 100069
+	1670.12.4 = {
+	  birth = yes
+	}
+	1699.1.1 = {
+	  capital = c_crimea
+	}
+  }
+  
+  100262 = {
+	name = "Köse Halil"
+	religion = sunni
+	culture = turkish
+	1670.1.1 = {
+	  birth = yes
+	}
+  }
+
+  100599 = {
+	name = "Kara Mehmed"
+	religion = sunni
+	culture = turkish
+	1680.1.1 = {
+	  birth = yes
+	}
+  }
+
+  100601 = {
+	name = "Hüseyin"
+	dynasty = 100180
+	religion = sunni
+	culture = turkish
+	trait = "charitable"
+	1644.1.1 = {
+	  birth = yes
+    }
+    1697.9.17 = {
+        employer = 100057
+        effect = {
+            give_job_title = job_chancellor
+        }
+    }
+}

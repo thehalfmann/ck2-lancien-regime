@@ -1,0 +1,13 @@
+# County Title
+title = c_chimputi
+
+# Settlements
+max_settlements = 3
+b_chimputi = tribal
+b_chimputi-ii = tribal
+
+# Misc
+culture = chimuan
+religion = inti
+
+# History

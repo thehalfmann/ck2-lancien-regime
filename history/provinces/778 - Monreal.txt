@@ -1,0 +1,13 @@
+title = c_monreal
+terrain = hills
+max_settlements = 4
+b_monreal = castle
+b_sela = temple
+culture = levantine_arabic
+religion = sunni
+1187.1.1 = {
+  b_hurmniz = city
+}
+1700.1.1 = {
+  b_tafila = castle
+}

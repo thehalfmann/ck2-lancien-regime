@@ -1,0 +1,23 @@
+title = c_veglia
+max_settlements = 4
+b_veglia = tribal
+culture = dalmatian
+religion = catholic
+769.1.1 = {
+  b_frankopan = castle
+  b_veglia = city
+  b_krk = temple
+  capital = b_veglia
+}
+1000.1.1 = {
+  culture = croatian
+}
+1000.1.1 = {
+  capital = b_frankopan
+}
+1146.1.1 = {
+  trade_post = b_contarini
+}
+1700.1.1 = {
+  b_kraljevica = castle
+}

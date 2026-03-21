@@ -1,0 +1,21 @@
+title = c_galindia
+max_settlements = 4
+b_angerburg = tribal
+culture = german
+religion = baltic_pagan
+1225.1.1 = {
+  b_angerburg = castle
+  b_osterode = city
+}
+1290.1.1 = {
+  b_nikelshagen = temple
+}
+1290.1.1 = {
+  religion = catholic
+}
+1700.1.1 = {
+  b_gilgenburg = castle
+}
+1700.1.1 = {
+  religion = protestant
+}

@@ -1,0 +1,13 @@
+title = c_nandapur
+max_settlements = 4
+b_nandapur = castle
+b_dharamgarh = city
+culture = oriya
+religion = hindu
+terrain = mountain
+1700.1.1 = {
+  b_koraput = temple
+}
+1700.1.1 = {
+  b_junagarh = castle
+}

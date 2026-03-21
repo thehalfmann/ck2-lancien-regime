@@ -1,0 +1,19 @@
+100259 = {
+	name = "Constantin"
+	religion = orthodox
+	culture = romanian
+	dynasty = 100067
+	1654.8.15 = {
+	  birth = yes
+	}
+  }
+  
+  100260 = {
+	name = "Antioh"
+	religion = orthodox
+	culture = romanian
+	dynasty = 100068
+	1670.12.4 = {
+	  birth = yes
+	}
+  }

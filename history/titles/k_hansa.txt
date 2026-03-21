@@ -1,0 +1,55 @@
+867.1.1 = {
+  de_jure_liege = e_hre
+}
+1227.1.1 = {
+  liege = e_hre
+  holder = 167102
+  set_global_flag = hansa_formed
+}
+1238.1.1 = {
+  holder = 167219
+}
+1263.1.1 = {
+  holder = 167254
+}
+1275.1.1 = {
+  holder = 167103
+}
+1287.1.1 = {
+  holder = 167220
+}
+1291.1.1 = {
+  holder = 167237
+}
+1303.1.1 = {
+  holder = 167104
+}
+1307.1.1 = {
+  holder = 167222
+}
+1310.1.1 = {
+  holder = 167168
+}
+1318.1.1 = {
+  holder = 167256
+}
+1321.1.1 = {
+  holder = 167168
+}
+1325.1.1 = {
+  holder = 167169
+}
+1328.1.1 = {
+  holder = 167168
+}
+1450.1.1 = {
+  liege = 0
+  holder = 0
+}
+1700.1.1 = {
+  vice_royalty = no
+  law = investiture_law_0
+  law = cognatic_succession
+  law = crown_authority_1
+  law = centralization_2
+}

@@ -1,0 +1,16 @@
+title = c_abkhazia
+max_settlements = 5
+b_abaatha = castle
+b_tskhoumi = city
+b_pitsunda = temple
+culture = georgian
+religion = orthodox
+1286.1.1 = {
+  trade_post = b_spinola
+}
+1700.1.1 = {
+  b_anakopia = castle
+}
+1700.1.1 = {
+  b_gagra = city
+}

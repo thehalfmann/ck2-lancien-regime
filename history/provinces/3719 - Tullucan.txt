@@ -1,0 +1,13 @@
+# County Title
+title = c_tullucan
+
+# Settlements
+max_settlements = 3
+b_tullucan = tribal
+b_tullucan-ii = temple
+
+# Misc
+culture = nahuatl
+religion = aztec
+
+# History

@@ -1,0 +1,12 @@
+title = c_leix
+max_settlements = 3
+b_leix = tribal
+b_loigis = temple
+culture = irish
+religion = catholic
+1000.1.1 = {
+  b_leix = castle
+}
+1700.1.1 = {
+  b_timahoe = city
+}

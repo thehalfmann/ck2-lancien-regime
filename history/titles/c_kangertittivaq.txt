@@ -1,0 +1,4 @@
+1699.8.25 = {
+  holder = 100021
+  liege = k_denmark
+}

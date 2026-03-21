@@ -1,0 +1,23 @@
+title = c_priluk
+max_settlements = 5
+b_priluk = tribal
+culture = severian
+religion = slavic_pagan
+833.1.1 = {
+  culture = russian
+}
+902.1.1 = {
+  b_romny = temple
+}
+988.1.1 = {
+  religion = orthodox
+}
+1150.1.1 = {
+  b_priluk = castle
+  b_bobrovytsia = city
+  b_varva = castle
+  b_nizhyn = castle
+}
+1700.1.1 = {
+  culture = ruthenian
+}

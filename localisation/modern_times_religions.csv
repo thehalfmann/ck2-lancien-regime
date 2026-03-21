@@ -1,0 +1,11 @@
+protestant;Protestant;;;;;;;;;;;;;x
+protestant_DESC;Lutheran/Anglican branch of Protestantism;;;;;;;;;;;;;x
+d_protestant;Ecumenical Primacy;;;;;;;;;;;;;x
+d_protestant_adj;Primatial;;;;;;;;;;;;;x
+PROTESTANT_PRIMATE;Ecumenical Primate;;;;;;;;;;;;;x
+reformed;Reformed;;;;;;;;;;;;;x
+reformed_DESC;Reformed tradition, Reformed Protestantism, Reformed Christianity, or simply Reformed, is a major branch of Protestantism that follows the Christian theological tradition and forms of Christian practice set down by John Calvin and other Reformation-era theologians. It emphasizes the sovereignty of God and the authority of the Bible.;;;;;;;;;;;;;x
+create_protestant_papacy;Establish Ecumenical Primate in Rome;;;;;;;;;;;;;x
+create_protestant_papacy_desc;With Rome under Protestant control, pious Protestant ruler can establish Ecumenical Primate as leader of Protestants living in countries without established national churches.;;;;;;;;;;;;;x
+jansenism;Jansenism;;;;;;;;;;;;;x
+jansenism_DESC;Jansenism is modern theological movement within Catholicism, primarily active in the Kingdom of France, that arose in an attempt to reconcile the theological concepts of free will and divine grace;;;;;;;;;;;;;x

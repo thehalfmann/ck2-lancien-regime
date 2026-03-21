@@ -1,0 +1,20 @@
+title = c_mertola
+max_settlements = 4
+b_mertola = castle
+b_monsaraz = temple
+b_beja = city
+culture = visigothic
+religion = catholic
+811.1.1 = {
+  religion = sunni
+}
+939.1.1 = {
+  culture = andalusian_arabic
+}
+1253.1.1 = {
+  culture = portuguese
+  religion = catholic
+}
+1700.1.1 = {
+  b_serpa = castle
+}

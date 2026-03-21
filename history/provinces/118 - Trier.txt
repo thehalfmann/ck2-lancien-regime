@@ -1,0 +1,16 @@
+title = c_trier
+max_settlements = 4
+b_trier = temple
+b_coblenz = city
+b_sponheim = castle
+culture = french
+religion = catholic
+790.1.1 = {
+  culture = german
+}
+1700.1.1 = {
+  b_andernach = castle
+}
+1700.1.1 = {
+  capital = b_trier
+}

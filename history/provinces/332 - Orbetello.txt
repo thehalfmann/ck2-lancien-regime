@@ -1,0 +1,25 @@
+title = c_orbetello
+max_settlements = 4
+b_orbetello = temple
+b_pitigliano = castle
+b_grosseto = city
+culture = italian
+religion = catholic
+936.1.1 = {
+  capital = b_pitigliano
+}
+1066.1.1 = {
+  capital = b_orbetello
+}
+1096.1.1 = {
+  trade_post = b_della_gherardesca
+}
+1285.1.1 = {
+  trade_post = b_doria
+}
+1700.1.1 = {
+  b_roselle = castle
+}
+1700.1.1 = {
+  capital = b_pitigliano
+}

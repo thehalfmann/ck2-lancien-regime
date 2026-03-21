@@ -1,0 +1,25 @@
+title = c_havelberg
+max_settlements = 3
+b_lenzen = tribal
+culture = pommeranian
+religion = slavic_pagan
+800.1.1 = {
+  b_lenzen = castle
+  b_wittstock = city
+  b_havelberg = temple
+}
+983.1.1 = {
+  capital = b_havelberg
+}
+1200.1.1 = {
+  culture = german
+}
+1200.1.1 = {
+  religion = catholic
+}
+1700.1.1 = {
+  capital = b_lenzen
+}
+1700.1.1 = {
+  religion = protestant
+}

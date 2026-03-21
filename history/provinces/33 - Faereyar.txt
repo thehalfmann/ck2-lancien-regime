@@ -1,0 +1,24 @@
+title = c_faereyar
+max_settlements = 2
+b_skansin = tribal
+culture = pictish
+religion = catholic
+terrain = mountain
+855.1.1 = {
+  culture = norse
+  religion = norse_pagan
+}
+1000.1.1 = {
+  religion = catholic
+  b_skansin = castle
+  b_skansin = ca_shipyard_1
+}
+1066.1.1 = {
+  culture = norwegian
+}
+1700.1.1 = {
+  b_torshavn = city
+}
+1700.1.1 = {
+  religion = protestant
+}

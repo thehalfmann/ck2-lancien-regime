@@ -1,0 +1,130 @@
+761.1.1 = {
+  liege = e_tibet
+  holder = 12203
+}
+841.1.1 = {
+  liege = 0
+  holder = 0
+}
+920.1.1 = {
+  holder = 247135
+}
+930.1.1 = {
+  holder = 247166
+}
+975.1.1 = {
+  holder = 247167
+}
+990.1.1 = {
+  holder = 247168
+}
+1015.1.1 = {
+  holder = 247169
+}
+1050.1.1 = {
+  holder = 247170
+}
+1080.1.1 = {
+  holder = 247171
+}
+1110.1.1 = {
+  holder = 247172
+}
+1140.1.1 = {
+  holder = 247173
+}
+1200.1.1 = {
+  holder = 247177
+}
+1271.12.18 = {
+  liege = e_china_west_governor
+}
+1275.1.1 = {
+  holder = 247174
+}
+1300.1.1 = {
+  holder = 247175
+}
+1325.1.1 = {
+  holder = 247176
+}
+1350.1.1 = {
+  holder = 247178
+}
+1380.1.1 = {
+  holder = 247179
+}
+1450.1.1 = {
+  liege = 0
+  holder = 0
+}
+1700.1.1 = {
+  vice_royalty = no
+  law = investiture_law_0
+  law = cognatic_succession
+  law = centralization_2
+}
+1815.6.9 = {
+  holder = 119204700
+  liege = e_tibet
+}
+1830.6.9 = {
+  holder = 119834300
+  liege = e_tibet
+}
+1845.6.9 = {
+  holder = 111879749
+  liege = e_tibet
+}
+1860.6.9 = {
+  holder = 113584346
+  liege = e_tibet
+}
+1875.6.9 = {
+  holder = 117014785
+  liege = e_tibet
+}
+1890.6.9 = {
+  holder = 113593123
+  liege = e_tibet
+}
+1905.6.9 = {
+  holder = 112998527
+  liege = e_tibet
+}
+1920.6.9 = {
+  holder = 111759311
+  liege = e_tibet
+}
+1935.6.9 = {
+  holder = 115978408
+  liege = e_tibet
+}
+1950.6.9 = {
+  holder = 119646308
+  liege = e_tibet
+}
+1950.10.19 = {
+  holder = 111373350
+  liege = e_china_west_governor
+}
+1965.10.19 = {
+  holder = 117835334
+  liege = e_china_west_governor
+}
+1980.10.19 = {
+  holder = 116661231
+  liege = e_china_west_governor
+}
+1995.10.19 = {
+  holder = 116461604
+  liege = e_china_west_governor
+}
+2010.10.19 = {
+  holder = 111897353
+  liege = e_china_west_governor
+}
+2020.12.31 = {
+  holder = 0
+  liege = 0
+}

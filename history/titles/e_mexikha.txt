@@ -1,0 +1,12 @@
+20.1.1 = {
+  active = no
+  law = succ_primogeniture
+  law = agnatic_succession
+}
+1700.1.1 = {
+  vice_royalty = no
+  law = investiture_law_0
+  law = cognatic_succession
+  law = crown_authority_1
+  law = centralization_0
+}

@@ -1,0 +1,291 @@
+100020 = {
+	name = "Jorgen"
+	religion = protestant
+	culture = danish
+	dynasty = 100005
+	father = 100196
+	mother = 100197
+	1653.4.2 = {
+	  birth = yes
+	  }
+	  1683.7.28 = {
+		  add_spouse=100019    
+	}
+  }
+
+  100021 = {
+	name = "Frederik"
+	religion = protestant
+	culture = danish
+	dynasty = 100005
+	father = 100199
+	mother = 100198
+	1671.10.11 = {
+	  birth = yes
+	}
+	1695.12.5 = {
+	 add_spouse = 100539
+	}   
+	1699.8.25={
+	  capital = c_sjaelland
+	  add_claim = c_skate
+	  add_claim = c_blekinge
+	  add_claim = c_halland
+	}
+  }
+
+  100196 = {
+	name = "Frederik"
+	religion = protestant
+	culture = danish
+	dynasty = 100005
+	1609.3.18 = {
+	  birth = yes
+	} 
+	1643.10.1 = {
+	   add_spouse = 100197
+	}
+	  1670.2.9 = {
+	  death = yes 
+	} 
+  }
+  
+  100199 = {
+	name = "Christian"
+	religion = protestant
+	culture = danish
+	dynasty = 100005
+	father = 100196
+	mother = 100197
+	1646.4.15 = {
+	  birth = yes
+	} 
+	1667.6.15 = {
+	   add_spouse = 100198
+	} 
+	1699.8.25 = {
+	  death = yes      
+	}
+  }
+
+  100216 = {
+	name = "Anna"
+	female = yes
+	religion = protestant
+	culture = danish
+	dynasty = 100005
+	1574.12.12 = {
+	  birth = yes
+	} 
+	1619.5.13 = {
+	  death = yes    
+	}
+  }
+
+  100236 = {
+	name = "Frederik"
+	religion = protestant
+	culture = danish
+	dynasty = 100053
+	father = 100564
+	mother = 100563
+	1671.10.18 = {
+	  birth = yes
+	}
+	1698.5.12 = {  
+	  add_spouse = 100245
+	}
+  }
+
+  100244 = {
+	name = "Ulrikke Eleonore"
+	female = yes
+	religion = protestant
+	culture = danish
+	dynasty = 100005
+	father = 100196
+	mother = 100197
+	1656.9.11 = {
+	  birth = yes
+	}
+	1693.7.26 = {
+	 death = yes   
+	}
+  }
+
+  100336 = {
+	name = "Christian"
+	religion = reformed
+	culture = danish
+	dynasty = 100005
+	1481.7.1 = {
+	  birth = yes 
+	}
+	1514.6.11 = {
+	  add_spouse = 100276
+	}
+	1559.1.25 = {
+	 death = yes   
+	}
+  }
+
+  100337 = {
+	name = "Hans"
+	religion = catholic
+	culture = danish
+	dynasty = 100005
+	father = 100336
+	mother = 100276
+	1518.2.21 = {
+	  birth = yes 
+	}
+	1532.8.11 = {
+	 death = yes   
+	}
+  }
+
+  100338 = {
+	name = "Dorothea"
+	female = yes
+	religion = catholic
+	culture = danish
+	dynasty = 100005
+	father = 100336
+	mother = 100276
+	1520.11.10 = {
+	  birth = yes 
+	}
+	1580.5.31 = {
+	 death = yes   
+	}
+  }
+
+  100339 = {
+	name = "Christine"
+	female = yes
+	religion = catholic
+	culture = danish
+	dynasty = 100005
+	father = 100336
+	mother = 100276
+	1521.11.1 = {
+	  birth = yes 
+	}
+	1590.12.10 = {
+	 death = yes   
+	}
+  }
+
+  100541 = {
+	name = "Christian"
+	religion = protestant
+	culture = danish
+	dynasty = 100005
+	father = 100021
+	mother = 100539
+	1699.11.30 = {
+	  birth = yes
+	}
+  }
+
+  100563 = {
+	name = "Frederikke Amalie"
+	female = yes
+	religion = protestant
+	culture = danish
+	dynasty = 100005
+	father = 100196
+	mother = 100197
+	1649.4.11 = {
+	  birth = yes
+	}
+  }
+
+  100564 = {
+	name = "Christian Albrecht"
+	religion = protestant
+	culture = danish
+	dynasty = 100053
+	1649.4.11 = {
+	  birth = yes
+	  }
+	1667.11.4 = {
+	  add_spouse = 100563
+	  }
+	1695.10.24 = {
+	  death = yes      
+	}
+  }
+
+  100565 = {
+	name = "Frederik"
+	religion = protestant
+	culture = danish
+	dynasty = 100053
+	father = 100564
+	mother = 100563
+	1673.1.11 = {
+	  birth = yes
+	}
+  }
+
+  100567 = {
+	name = "Marie Elisabeth"
+	female = yes
+	religion = protestant
+	culture = danish
+	dynasty = 100053
+	father = 100564
+	mother = 100563
+	1678.3.21 = {
+	  birth = yes
+	}
+  }
+
+  100568 = {
+	name = "Ulrik Frederik"
+	religion = protestant
+	culture = danish
+	dynasty = 100147
+	father = 100564
+	trait = "bastard"
+	1638.7.20 = {
+	  birth = yes
+	}
+  }
+
+  100569 = {
+	name = "Margrethe Pape"
+	female = yes
+	religion = protestant
+	culture = danish
+	1620.1.1 = {
+	  birth = yes
+	  }
+	1684.1.1 = {
+	  death = yes      
+	}
+  }
+
+  100570 = {
+	name = "Frederik"
+	dynasty = 100148
+	religion = protestant
+	culture = danish
+	1645.1.1 = {
+	  birth = yes 
+	}
+  }
+  
+  100134 = {
+	name = "Anna Sophie" 
+	female = yes  
+	religion = protestant
+	culture = danish
+	dynasty = 100005
+	father = 100196
+	mother = 100197
+	1647.9.1 = {
+	  birth = yes          
+	  }
+  }

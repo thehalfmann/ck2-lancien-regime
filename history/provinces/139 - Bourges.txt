@@ -1,0 +1,13 @@
+title = c_bourges
+max_settlements = 5
+b_bourges = castle
+b_deols = temple
+b_chateauroux = city
+religion = catholic
+culture = french
+1151.1.1 = {
+  b_issoudun = castle
+}
+1700.1.1 = {
+  b_stsatur = city
+}

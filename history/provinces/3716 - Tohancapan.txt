@@ -1,0 +1,12 @@
+# County Title
+title = c_tohancapan
+
+# Settlements
+max_settlements = 3
+b_tohancapan = tribal
+
+# Misc
+culture = totonac
+religion = aztec
+
+# History

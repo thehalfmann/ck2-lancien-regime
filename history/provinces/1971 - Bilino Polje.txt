@@ -1,0 +1,20 @@
+title = c_bilino_polje
+max_settlements = 3
+b_visoki = tribal
+culture = bosnian
+religion = slavic_pagan
+terrain = mountain
+800.1.1 = {
+  religion = catholic
+  b_visoki = castle
+  b_vrhbosna = city
+}
+1000.1.1 = {
+  religion = bogomilist
+}
+1700.1.1 = {
+  b_konjic = temple
+}
+1700.1.1 = {
+  religion = orthodox
+}

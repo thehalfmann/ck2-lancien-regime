@@ -1,0 +1,26 @@
+title = c_bacs
+max_settlements = 4
+b_bacs = tribal
+culture = avar
+religion = tengri_pagan
+800.1.1 = {
+  b_bacs = castle
+  b_szintarev = city
+  b_apatin = temple
+}
+895.1.1 = {
+  b_bacs = tribal
+  remove_settlement = b_szintarev
+}
+930.1.1 = {
+  culture = serbian
+}
+950.1.1 = {
+  religion = catholic
+  b_bacs = castle
+  b_szintarev = city
+}
+1700.1.1 = {
+  religion = reformed
+  b_baja = castle
+}

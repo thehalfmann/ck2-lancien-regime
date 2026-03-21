@@ -1,0 +1,12 @@
+title = c_zamindawar
+max_settlements = 3
+b_zamindawar = castle
+b_bishlang = city
+culture = afghan
+religion = buddhist
+1700.1.1 = {
+  b_khalai = temple
+}
+1700.1.1 = {
+  religion = sunni
+}

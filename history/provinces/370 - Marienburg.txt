@@ -1,0 +1,30 @@
+title = c_marienburg
+terrain = forest
+max_settlements = 4
+b_marienburg = tribal
+culture = german
+religion = baltic_pagan
+1225.1.1 = {
+  religion = catholic
+  b_marienburg = castle
+  b_elbing = city
+  b_braunsberg = temple
+  b_marienburg = ca_keep_1
+  b_marienburg = ca_militia_barracks_1
+  b_marienburg = ca_wall_1
+  b_marienburg = ca_wall_q_1
+  b_elbing = ct_barracks_1
+  b_braunsberg = tp_barracks_1
+}
+1230.1.1 = {
+  trade_post = b_warendorp
+}
+1255.1.1 = {
+  culture = german
+}
+1337.1.1 = {
+  b_bartenstein = castle
+}
+1700.1.1 = {
+  religion = protestant
+}

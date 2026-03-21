@@ -1,0 +1,15 @@
+# County Title
+title = c_sotuta
+
+# Settlements
+max_settlements = 5
+b_sotuta = tribal
+b_sotuta-ii = tribal
+b_sotuta-iii = tribal
+b_sotuta-iv = temple
+
+# Misc
+culture = mayanx
+religion = mayan
+
+# History

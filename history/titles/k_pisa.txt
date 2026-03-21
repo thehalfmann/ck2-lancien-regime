@@ -1,0 +1,60 @@
+1060.1.1 = {
+  holder = 180023
+}
+1078.1.1 = {
+  holder = 180203
+}
+1084.1.1 = {
+  holder = 167486
+}
+1100.1.1 = {
+  holder = 167508
+}
+1115.1.1 = {
+  holder = 167407
+}
+1140.1.1 = {
+  holder = 180025
+}
+1157.1.1 = {
+  holder = 71168
+}
+1174.1.1 = {
+  holder = 167443
+}
+1190.1.1 = {
+  holder = 167512
+}
+1215.1.1 = {
+  holder = 167410
+}
+1220.1.1 = {
+  holder = 180026
+}
+1222.1.1 = {
+  holder = 71166
+}
+1230.1.1 = {
+  holder = 167453
+}
+1260.1.1 = {
+  holder = 167514
+}
+1270.1.1 = {
+  holder = 167401
+}
+1285.1.1 = {
+  holder = 0
+  liege = 0
+}
+1450.1.1 = {
+  liege = 0
+  holder = 0
+}
+1700.1.1 = {
+  vice_royalty = no
+  law = investiture_law_0
+  law = cognatic_succession
+  law = crown_authority_1
+  law = centralization_2
+}

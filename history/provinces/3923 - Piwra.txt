@@ -1,0 +1,13 @@
+# County Title
+title = c_piwra
+
+# Settlements
+max_settlements = 3
+b_piwra = tribal
+b_piwra-ii = tribal
+
+# Misc
+culture = chimuan
+religion = inti
+
+# History

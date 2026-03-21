@@ -1,0 +1,76 @@
+861.1.1 = {
+  holder = 163101
+}
+923.1.1 = {
+  holder = 261023
+}
+977.1.1 = {
+  holder = 0
+}
+1450.1.1 = {
+  liege = 0
+  holder = 0
+}
+1700.1.1 = {
+  vice_royalty = no
+  law = investiture_law_0
+  law = cognatic_succession
+  law = crown_authority_1
+  law = centralization_2
+}
+1947.8.15 = {
+  holder = 114152925
+  name = Pakistan
+  adjective = Pakistani
+}
+1948.9.11 = {
+  holder = 116701605
+}
+1951.10.19 = {
+  holder = 119893562
+}
+1955.8.7 = {
+  holder = 110784304
+}
+1958.10.27 = {
+  holder = 110244834
+}
+1969.3.25 = {
+  holder = 111673077
+}
+1971.12.20 = {
+  holder = 113600738
+}
+1973.8.14 = {
+  holder = 112539089
+}
+1978.9.16 = {
+  holder = 113838131
+}
+1988.8.17 = {
+  holder = 117081621
+}
+1993.7.18 = {
+  holder = 110589609
+}
+1993.11.14 = {
+  holder = 111459822
+}
+1997.12.2 = {
+  holder = 110589609
+}
+1998.1.1 = {
+  holder = 116219102
+}
+2001.6.20 = {
+  holder = 118604321
+}
+2008.8.18 = {
+  holder = 112624669
+}
+2008.9.9 = {
+  holder = 110501747
+}
+2013.9.9 = {
+  holder = 110748778
+}

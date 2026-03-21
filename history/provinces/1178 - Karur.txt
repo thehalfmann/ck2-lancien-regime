@@ -1,0 +1,21 @@
+title = c_karur
+max_settlements = 4
+b_karur = castle
+b_askhanda = city
+culture = panjabi
+religion = hindu
+800.1.1 = {
+  religion = sunni
+}
+1000.1.1 = {
+  religion = shiite
+}
+1180.1.1 = {
+  religion = sunni
+}
+1700.1.1 = {
+  b_vehari = temple
+}
+1700.1.1 = {
+  b_chishtian = castle
+}

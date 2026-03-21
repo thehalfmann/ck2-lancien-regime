@@ -1,0 +1,9 @@
+title = c_tadjoura
+max_settlements = 3
+b_tadjoura = castle
+b_berenice = city
+culture = somali
+religion = sunni
+1700.1.1 = {
+  b_obock = temple
+}

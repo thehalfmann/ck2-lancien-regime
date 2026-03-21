@@ -1,0 +1,13 @@
+# County Title
+title = c_wankawillka
+
+# Settlements
+max_settlements = 3
+b_wankawillka = tribal
+b_wankawillka-ii = tribal
+
+# Misc
+culture = quechua
+religion = inti
+
+# History

@@ -1,0 +1,13 @@
+title = c_purushapura
+max_settlements = 4
+b_purushapura = castle
+b_shah_ji_dheri = temple
+b_nowshera = city
+culture = panjabi
+religion = buddhist
+1700.1.1 = {
+  b_ali_masjid = castle
+}
+1700.1.1 = {
+  religion = sunni
+}

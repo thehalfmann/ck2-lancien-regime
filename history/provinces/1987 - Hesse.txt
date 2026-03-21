@@ -1,0 +1,14 @@
+title = c_hesse
+max_settlements = 5
+b_marburg = castle
+b_rotenburg_hesse = castle
+b_wetzlar = city
+culture = german
+religion = catholic
+1700.1.1 = {
+  b_hesse = temple
+}
+1700.1.1 = {
+  b_blankenstein = city
+  religion = protestant
+}

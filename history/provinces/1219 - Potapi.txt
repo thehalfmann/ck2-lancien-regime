@@ -1,0 +1,14 @@
+title = c_potapi
+max_settlements = 4
+b_potapi = castle
+b_kaveripattinam = city
+b_tirupati = temple
+culture = telugu
+religion = jain
+terrain = hills
+1066.1.1 = {
+  religion = hindu
+}
+1700.1.1 = {
+  b_melpadi = castle
+}

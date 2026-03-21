@@ -1,0 +1,22 @@
+title = c_venaissin
+max_settlements = 5
+b_orange = castle
+b_avignon = temple
+b_carpentras = city
+culture = visigothic
+religion = catholic
+867.1.1 = {
+  culture = occitan
+}
+1274.1.1 = {
+  capital = b_avignon
+}
+1274.1.1 = {
+  b_stpaul = temple
+}
+1318.1.1 = {
+  b_chateauneufdupape = castle
+}
+1700.1.1 = {
+  capital = b_orange
+}

@@ -1,0 +1,13 @@
+# County Title
+title = c_qasamarka
+
+# Settlements
+max_settlements = 4
+b_qasamarka = tribal
+b_qasamarka-ii = tribal
+
+# Misc
+culture = quechua
+religion = inti
+
+# History

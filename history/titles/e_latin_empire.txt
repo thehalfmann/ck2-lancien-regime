@@ -1,0 +1,37 @@
+1204.5.16 = {
+  holder = 205523
+  law = agnatic_succession
+  law = succ_primogeniture
+}
+1205.6.1 = {
+  holder = 205525
+}
+1216.6.11 = {
+  holder = 205725
+}
+1219.1.1 = {
+  holder = 205526
+}
+1219.8.1 = {
+  holder = 91062
+}
+1228.1.30 = {
+  holder = 461742
+}
+1237.1.11 = {
+  holder = 91068
+}
+1261.7.25 = {
+  holder = 0
+}
+1450.1.1 = {
+  liege = 0
+  holder = 0
+}
+1700.1.1 = {
+  vice_royalty = no
+  law = investiture_law_0
+  law = cognatic_succession
+  law = crown_authority_1
+  law = centralization_0
+}

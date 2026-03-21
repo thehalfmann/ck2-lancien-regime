@@ -1,0 +1,27 @@
+title = c_taranto
+max_settlements = 4
+b_castellaneta = castle
+b_taranto = city
+b_mottola = temple
+culture = greek
+religion = orthodox
+terrain = hills
+867.1.1 = {
+  culture = lombard
+  religion = catholic
+}
+900.1.1 = {
+  culture = italian
+}
+900.1.1 = {
+  religion = orthodox
+}
+1078.1.1 = {
+  trade_post = b_ziani
+}
+1086.1.1 = {
+  religion = catholic
+}
+1700.1.1 = {
+  b_tursi = castle
+}

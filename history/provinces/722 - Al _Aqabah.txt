@@ -1,0 +1,12 @@
+title = c_al_aqabah
+max_settlements = 4
+b_aqabah = castle
+b_reeshah = city
+culture = levantine_arabic
+religion = sunni
+1700.1.1 = {
+  b_quwairah = temple
+}
+1700.1.1 = {
+  b_mazraa = castle
+}

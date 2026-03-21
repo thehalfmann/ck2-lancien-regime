@@ -1,0 +1,47 @@
+1450.1.1 = {
+  liege = 0
+  holder = 0
+}
+1700.1.1 = {
+  name = Iraq
+  adjective = Iraqi
+  vice_royalty = no
+  law = investiture_law_0
+  law = cognatic_succession
+  law = crown_authority_1
+  law = centralization_2
+}
+1920.4.25 = {
+  holder = 110406492
+  liege = e_britannia
+}
+1932.10.3 = {
+  liege = 0
+}
+1933.9.8 = {
+  holder = 118444904
+}
+1939.4.4 = {
+  holder = 111661799
+}
+1958.7.14 = {
+  holder = 113078430
+}
+1963.2.8 = {
+  holder = 117757608
+}
+1966.4.13 = {
+  holder = 114663046
+}
+1968.7.17 = {
+  holder = 110739994
+}
+1979.7.16 = {
+  holder = 110860115
+}
+2003.4.9 = {
+  holder = 110172777
+}
+2014.7.24 = {
+  holder = 119814016
+}

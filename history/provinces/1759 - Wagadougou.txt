@@ -1,0 +1,14 @@
+title = c_wagadougou
+max_settlements = 3
+b_wagadougou = tribal
+culture = manden
+religion = west_african_pagan
+1300.1.1 = {
+  b_wagadougou = castle
+}
+1700.1.1 = {
+  b_po = city
+}
+1700.1.1 = {
+  b_gursi = temple
+}

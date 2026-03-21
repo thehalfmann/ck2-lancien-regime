@@ -1,0 +1,17 @@
+title = c_delingha
+max_settlements = 5
+b_delingha = castle
+culture = tangut
+religion = buddhist
+1700.1.1 = {
+  b_xuji = city
+}
+1700.1.1 = {
+  b_haixi = temple
+}
+1700.1.1 = {
+  b_hedong = castle
+}
+1700.1.1 = {
+  b_hexi = city
+}

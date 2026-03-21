@@ -1,0 +1,18 @@
+# 1750 - Zamfara
+
+# County Title
+title = c_malawiya
+
+# Settlements
+max_settlements = 5
+
+b_malawiya = tribal
+
+#b_anka
+#b_gusau
+
+# Misc
+culture = sudanese
+religion = south_bantu_mythology
+
+# History

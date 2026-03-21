@@ -1,0 +1,10 @@
+title = c_rottenburg
+max_settlements = 4
+b_weinsberg = castle
+b_rottenburg = city
+b_uffenheim = city
+culture = german
+religion = catholic
+1700.1.1 = {
+  b_weikersheim = temple
+}

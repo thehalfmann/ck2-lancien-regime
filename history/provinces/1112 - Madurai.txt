@@ -1,0 +1,17 @@
+title = c_madurai
+max_settlements = 6
+b_madurai = castle
+b_srivilliputtur = temple
+b_ramesvaram = city
+b_kilakarai = city
+culture = tamil
+religion = jain
+1066.1.1 = {
+  religion = hindu
+}
+1700.1.1 = {
+  b_ramnadhapuram = castle
+}
+1700.1.1 = {
+  b_tiruparankunram = castle
+}

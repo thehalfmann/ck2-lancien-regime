@@ -1,0 +1,4 @@
+1694.12.6 = {
+  holder = 100378
+  liege = k_england
+}

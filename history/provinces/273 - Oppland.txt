@@ -1,0 +1,19 @@
+title = c_oppland
+max_settlements = 3
+b_lillehammer = tribal
+culture = norse
+religion = norse_pagan
+1000.1.1 = {
+  b_lillehammer = castle
+  b_favang = city
+}
+1066.1.1 = {
+  culture = norwegian
+  religion = catholic
+}
+1700.1.1 = {
+  b_oyer = temple
+}
+1700.1.1 = {
+  religion = protestant
+}
