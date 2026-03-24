@@ -270,7 +270,7 @@
 
 100034 = {
 	name = "Charles" # Charles I of England
-	religion = catholic
+	religion = protestant
 	culture = english
 	dynasty = 3
 	father = 100215
@@ -282,9 +282,14 @@
 		add_spouse=100036
 	}  
 	1649.1.30 = {
+		give_nickname=nick_the_martyr
 		death = {
 			death_reason = death_execution
 			killer = 100035
+	}
+	create_bloodline = {
+			type = charles_the_martyr
+			has_dlc = "Holy Fury"
 		}
 	}
 }

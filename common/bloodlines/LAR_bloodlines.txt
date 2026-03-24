@@ -1,0 +1,8 @@
+charles_the_martyr = {
+	protestant_opinion = 5
+	monthly_character_piety = 0.1
+	inheritance = patrilineal
+	allow_bastards = no
+	picture = GFX_bloodlines_symbol_cross_1
+	flags = { historical_bloodline }
+}
