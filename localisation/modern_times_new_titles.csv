@@ -1,8 +1,8 @@
-e_united_states;United States;;;;;;;;;;;;;x
-e_united_states_adj;American;;;;;;;;;;;;;x
-e_canada;Canada;;;;;;;;;;;;;x
-e_canada_adj;Canadian;;;;;;;;;;;;;x
-e_brazil;Brazil;;;;;;;;;;;;;x
-e_brazil_adj;Brazilian;;;;;;;;;;;;;x
-k_belarus;Belarus;;;;;;;;;;;;;x
-k_belarus_adj;Belarusian;;;;;;;;;;;;;x
+e_united_states;United States;;;;Estados Unidos;;;;;;;;;x
+e_united_states_adj;American;;;;Estadounidense;;;;;;;;;x
+e_canada;Canada;;;;Canadá;;;;;;;;;x
+e_canada_adj;Canadian;;;;Canadiense;;;;;;;;;x
+e_brazil;Brazil;;;;Brasil;;;;;;;;;x
+e_brazil_adj;Brazilian;;;;Brasileño;;;;;;;;;x
+k_belarus;Belarus;;;;Bielorrusia;;;;;;;;;x
+k_belarus_adj;Belarusian;;;;Bielorruso;;;;;;;;;x

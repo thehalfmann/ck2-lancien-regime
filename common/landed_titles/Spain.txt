@@ -11,6 +11,8 @@ e_spain = {
 	}
 	capital = 197
 	culture = castillan
+	name_tier = king
+	title_prefix = SPAPREFIX
 	allow = {
 	  conditional_tooltip = {
 		trigger = {
@@ -73,7 +75,7 @@ e_spain = {
 	  }
 	  dignity = 1
 	  capital = 190
-	  culture = castillan
+	  culture = leonese
 	  allow = {
 		hidden_tooltip = {
 		  OR = {
@@ -110,6 +112,7 @@ e_spain = {
 	  roman = Carthaginensis
 	  greek = Carthaginensis
 	  muslim = 25
+	  culture = catalan
 	  d_valencia = {
 		color = {
 		  48

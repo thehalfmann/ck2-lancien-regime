@@ -1,0 +1,9 @@
+nick_the_catholicfem = {}
+nick_the_catholic = {}
+nick_the_navas = {}
+nick_the_summoned = {}
+nick_the_mercedes = {}
+nick_the_bad = {}
+nick_the_justiciero = {}
+nick_the_crassus = {}
+

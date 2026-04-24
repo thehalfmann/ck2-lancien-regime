@@ -852,10 +852,6 @@ iberian = {
 		}
 		from_dynasty_prefix = "de "
 		
-		male_patronym = "ez"
-		female_patronym = "ez"
-		grammar_transform = spanish
-
 		pat_grf_name_chance = 80
 		mat_grf_name_chance = 5
 		father_name_chance = 5
@@ -879,22 +875,23 @@ iberian = {
 		}
 
 		male_names = {
-			Alfonso_Alphonse Alonso_Alphonse ÿlvar_Oliver ÿlvaro_Oliver Bermudo_Vermudo Diego_Diaco Enrique_Henry Fadrique_Frederick Felipe_Philip Fernando_Ferdinand
- 			Fruela_Froila García_Garcia Gil_Egidius Gómez_Gomez Gonzalo_Gonzalo Guillén_William Guillermo_William Gutierre_Walter Juan_John Lope_Lupo Luis_Louis
-			Manrique_Amalric Martín_Martin Munio_Munio Nuño_Nuno Ordoño_Ordono Oveco_Obeko Pedro_Peter Pelayo_Pelagius Ramiro_Ramiro Rodrigo_Roderick
-			Salvador_Salvador Sancho_Sancho Suero_Suero Tello Vela_Vela
+			Alfonso_Alphonse Alonso_Alphonse Álvaro_Oliver Diego_Diaco Enrique_Henry Felipe_Philip Fernando_Ferdinand Gonzalo_Gonzalo Guillermo_William Juan_John Luis_Louis 
+			Martín_Martin Pedro_Peter Rodrigo_Roderick Salvador_Salvador Domingo_Dominic Lorenzo_Laurence Íñigo_Inigo Lázaro_Lazarus Ramón_Raymond Simón_Simon 
+			Miguel_Michael Cosme_Cosmas Manuel_Manuele Francisco_Francis "Juan Francisco" "Juan Antonio" Antonio_Anthony "Juan Luis" "Diego Felipe" Jerónimo_Jerome 
+			"Miguel Jerónimo" José_Joseph Cristóbal_Christopher Agustín_Augustine Gaspar_Caspar "Francisco Enrique" "Luis José" "Luis Jacinto" "Juan Clemente" "Juan Alonso" 
+			Gregorio_Gregory "Juan Salvador" "Juan Gregorio" "Pedro Salvador" Clemente_Clemence "Simón Gaspar" Carlos_Charles "Carlos Felipe" "Juan José" Teodoro_Theodore 
+			"Juan Guillermo" "Enrique Duarte" Andrés_Andrew "Juan Andrés" Hernando_Ferdinand Hernán_Ferdinand Sebastián_Stephen "Miguel Lorenzo" Nicolás Gabriel "Pedro Manuel" 
+			Bernardo "Francisco María" Baltasar "Juan Manuel" Ignacio_Ignace Tomás_Thomas "Juan Tomás" "Francisco Antonio" "José Antonio" "Pedro Manuel" "Luis Antonio"
+			
 		}
 		female_names = {
-			Aldonza_Aldonza Anderquina Beatriz_Beatrice Berenguela_Berengaria Blanca_Blanche Constanza_Constance Elvira_Elvira Estefanía_Stephania Fronilda_Fronilde Gontroda_Gotruda
-			Inés_Agnes Isabel_Elizabeth Jimena_Ximena Juana_Joan Leonor_Eleanor Mafalda_Matilda María_Maria Marina_Marine Mayor_Mayor Mencía_Mencia
-			Milia_Emily Sancha_Sancha Teresa_Teresa Toda_Toda Urraca_Urraca
+			Antonia Beatriz_Beatrice Blanca_Blanche Constanza_Constance Elvira_Elvira Estefanía_Stephania Inés_Agnes Isabel_Elizabeth Juana_Joan Leonor_Eleanor María_Maria Teresa_Teresa 
+			Guiomar Luisa_Louise Ana_Anna "María Luisa" Catalina_Catherine Elena_Helen Felipa Margarita_Margaret "Ana María" "María Ana" "Juana María" Francisca Jacinta_Hyacinth Clara 
+			Jerónima "Ana Catalina" "Juana Victoria" "Juana María" Sebastiana_Stephania "Clara María" "Leonor María" "Antonia María" "Isabel María" Dorotea Josefa Manuela "María Teresa"
+			
 		}
 		from_dynasty_prefix = "de "
 		
-		male_patronym = "ez"
-		female_patronym = "ez"
-		grammar_transform = spanish
-
 		pat_grf_name_chance = 45
 		mat_grf_name_chance = 15
 		father_name_chance = 30
@@ -906,7 +903,7 @@ iberian = {
 		modifier = default_culture_modifier
 	}
 	catalan = {
-		graphical_cultures = { southerngfx }
+		graphical_cultures = { southerngfx occitangfx }
 		
 		color = { 0.85 0.75 0.08 }
 		
@@ -918,15 +915,18 @@ iberian = {
 		}
 
 		male_names = {
-			Alfons_Alphonse Arnau_Arnold Artau_Artal Berenguer_Berengar Berenguer-Ramon Bernat_Bernard Bernat-Guillem Dalmau Ermengol_Ermengaud Felip_Philip
-			Ferran_Ferdinand Frederic_Frederick Gausfred_Godfrey Gerard_Gerard Gombau Guerau_Gerald Guifré_Wilfred Guillem_William Guillem-Ramon Guislabert_Gilbert
-			Hug_Hugh Jaume_Jacob Joan_John Jofré_Godfrey Ott_Otto Pere_Peter Ponç_Pons Ponç-Hug Ramon_Raymond Ramon-Berenguer_Raymond-Berengar
-			Ramon-Folc Roger_Roger Sanç_Sancho Sunyer_Sunyer Udalard
+			Alfons_Alphonse Arnau_Arnold Artau_Artal Bernat_Bernard Dalmau Ermengol_Ermengaud Felip_Philip
+			Ferran_Ferdinand Frederic_Frederick Gerard_Gerard Guerau_Gerald Guifré_Wilfred Guillem_William
+			Hug_Hugh Jaume_Jacob Joan_John Jofré_Godfrey Pere_Peter Ramon_Raymond Roger_Roger Enric_Henry Carles_Charles
+			Martí_Martin Bertran_Bertrand Andreu_Andrew Borrell Cebrià_Cyprian Climent_Clemence Domènec_Dominic Galí_Galindo Marçal_Martial Llorenç_Laurence Miquel_Michael
+			Julià_Julian Nicolau_Nicholas Simó_Simon Simeó_Simon Rubert_Robert Miró Gilabert_Gilbert Guitard_Gerard Esteve_Stephen Mateu_Matthew
+			Francesc_Francis Josep_Joseph Emanuel_Manuele Antoni_Anthony "Joan Antoni" Tomàs_Thomas Jeroni_Jerome Marc_Mark Agustí_Augustine Ignasi_Ignace Rafel Maurici
+			"Joan Alfons" "Joan Francesc" "Joan Agustí" "Joan Ignasi" "Joan Josep" "Josep Francesc"
 		}
 		female_names = {
-			Adelaida_Adelaide Agnès_Agnes Alamanda Arsenda_Arsenda Beatriu_Beatrice Blanca_Blanche Brunisenda Constança_Constance Dolça_Douce Elionor_Eleanor
-			Elisenda Ermessenda_Ermesinda Estefania_Stephania Gueraua Guillelma_Willhelmina Guisla_Gisela Isabel_Elizabeth Margarida_Margaret Maria_Maria Marquesa_Marquise
-			Sança_Sancha Sibila_Sibylla Teresa_Teresa Toda_Toda Violant_Yolanda
+			Adelaida_Adelaide Agnés_Agnes Alamanda Arsenda_Arsenda Beatriu_Beatrice Blanca_Blanche Brunisenda Constança_Constance Dolça_Douce Elionor_Eleanor
+			Elisenda Ermessenda_Ermesinda Estefania_Stephania Guisla_Gisela Isabel_Elizabeth Margarida_Margaret Maria_Maria Marquesa_Marquise Joana_Joan
+			Teresa_Teresa Toda_Toda Violant_Yolanda Anna_Anna "Anna Maria" "Maria Anna" "Joana Maria"
         }
 		from_dynasty_prefix = "de "
 		grammar_transform = french
@@ -942,34 +942,34 @@ iberian = {
 		modifier = default_culture_modifier
 	}
 	aragonese = {
-		graphical_cultures = { southerngfx }
+		graphical_culture = southerngfx
 		
-		color = { 0.95 0.82 0.09 }
-		
-		alternate_start = {
-			OR = {
-				year >= 1000
-				has_alternate_start_parameter = { key = culture value = full_random }
-			}
-		}
+		color = { 1 0.67 0.49 }
 
 		male_names = {
-			Alfonso_Alphonse Alonso_Alphonse ÿlvar_Oliver ÿlvaro_Oliver Bermudo_Vermudo Diego_Diaco Enrique_Henry Fadrique_Frederick Felipe_Philip Fernando_Ferdinand
- 			Fruela_Froila García_Garcia Gil_Egidius Gómez_Gomez Gonzalo_Gonzalo Guillén_William Guillermo_William Gutierre_Walter Juan_John Lope_Lupo Luis_Louis
-			Manrique_Amalric Martín_Martin Munio_Munio Nuño_Nuno Ordoño_Ordono Oveco_Obeko Pedro_Peter Pelayo_Pelagius Ramiro_Ramiro Rodrigo_Roderick
-			Salvador_Salvador Sancho_Sancho Suero_Suero Tello Vela_Vela
+			Alfonso_Alphonse Alonso_Alphonse Álvaro_Oliver Diego_Diaco Enrique_Henry Felipe_Philip Fernando_Ferdinand Gonzalo_Gonzalo Juan_John Luis_Louis
+			Martín_Martin Martino_Martin Pedro_Peter Rodrigo_Roderick Salvador Roberto_Robert Ramón_Raymond Arnallo_Arnold Ademaro Alberto_Albert Anselmo Andrés_Andrew Carlos_Charles 
+			Jaime_Jacob Fernando_Ferdinand Ferrand_Ferdinand Fernán_Ferdinand Bernaldo_Bernard Aznar_Aznar Íñigo_Inigo Antón_Anthony Miguel_Michael Benedito_Benedict 
+			Domingo_Dominic Asensio Julián_Julian Guiralt_Gerald Mengo Miquel_Michael Pascual_Pascal Vicent_Vincent Vicente_Vincent Lázaro_Lazarus Valero_Valerius Lorenzo_Laurence Marcial_Martial 
+			Cebrián_Cyprian Antolín_Antoninus Casiano Bartolomé_Bartolomeus Esteve_Stephen Adrián_Adrian Clemente_Clemence Mateo_Matthew Antonio_Anthony Simón_Simon Tomás_Thomas Jorge_George
+			Francisco_Francis José_Joseph "Juan Francisco" "Juan Antonio" Antonio_Anthony "Juan Luis" "Diego Felipe" Jerónimo_Jerome 
+			"Miguel Jerónimo" Cristóbal_Christopher Agustín_Augustine Gaspar_Caspar "Francisco Enrique" "Luis José" "Luis Jacinto" "Juan Clemente" "Juan Alonso" 
+			Gregorio_Gregory "Juan Salvador" "Juan Gregorio" "Pedro Salvador" Clemente_Clemence "Simón Gaspar" "Carlos Felipe" "Juan José" "José Alonso"
+			"Juan Guillermo" "Enrique Duarte" Andrés_Andrew "Juan Andrés" Sebastián_Stephen "Miguel Lorenzo" Nicolás Gabriel "Pedro Manuel" "Enrique Alonso"
+			Bernardo "Francisco María" Baltasar "Juan Manuel" Ignacio_Ignace Tomás_Thomas "Juan Tomás" "Francisco Antonio" "José Antonio" "Pedro Manuel" "Luis Antonio" "Ramón Felipe"
+			
 		}
 		female_names = {
-			Aldonza_Aldonza Anderquina Beatriz_Beatrice Berenguela_Berengaria Blanca_Blanche Constanza_Constance Elvira_Elvira Estefanía_Stephania Fronilda_Fronilde Gontroda_Gotruda
-			Inés_Agnes Isabel_Elizabeth Jimena_Ximena Juana_Joan Leonor_Eleanor Mafalda_Matilda María_Maria Marina_Marine Mayor_Mayor Mencía_Mencia
-			Milia_Emily Sancha_Sancha Teresa_Teresa Toda_Toda Urraca_Urraca
+			Beatriz_Beatrice Blanca_Blanche Constanza_Constance Elvira_Elvira Estefanía_Stephania
+			Inés_Agnes Isabel_Elisabeth Juana_Joan Leonor_Eleanor María_Maria
+			Milia_Emily Sancha_Sancha Teresa_Teresa Toda_Toda Urraca_Urraca Catalina_Catherine Luisa_Louise Ana_Anna Antona Felipa Margarita_Margaret
+			Adelaida_Adelaide Elionor_Eleanor Elisenda Ermesenda_Ermesinda Guillerma_Willhelmina 
+			Guisela_Gisela Yolanda_Yolanda Justa Gracia Lorenza Valentina "Ana María" "María Ana" "Juana María" Francisca Jacinta_Hyacinth Clara 
+			Jerónima "Ana Catalina" "Juana Victoria" "Juana María" Sebastiana_Stephania "Clara María" "Leonor María" "Antonia María" "Isabel María" Dorotea Josefa Manuela 
+			"María Teresa"
 		}
 		from_dynasty_prefix = "de "
 		
-		male_patronym = "ez"
-		female_patronym = "ez"
-		grammar_transform = spanish
-
 		pat_grf_name_chance = 45
 		mat_grf_name_chance = 15
 		father_name_chance = 30
@@ -981,33 +981,26 @@ iberian = {
 		modifier = default_culture_modifier
 	}
 	leonese = {
-		graphical_cultures = { southerngfx }
+		graphical_culture = southerngfx
 		
-		color = { 0.95 0.82 0.09 }
-		
-		alternate_start = {
-			OR = {
-				year >= 1000
-				has_alternate_start_parameter = { key = culture value = full_random }
-			}
-		}
+		color = { 0.99215686 0.61960784 0.2 }
 
 		male_names = {
-			Alfonso_Alphonse Alonso_Alphonse ÿlvar_Oliver ÿlvaro_Oliver Bermudo_Vermudo Diego_Diaco Enrique_Henry Fadrique_Frederick Felipe_Philip Fernando_Ferdinand
- 			Fruela_Froila García_Garcia Gil_Egidius Gómez_Gomez Gonzalo_Gonzalo Guillén_William Guillermo_William Gutierre_Walter Juan_John Lope_Lupo Luis_Louis
-			Manrique_Amalric Martín_Martin Munio_Munio Nuño_Nuno Ordoño_Ordono Oveco_Obeko Pedro_Peter Pelayo_Pelagius Ramiro_Ramiro Rodrigo_Roderick
-			Salvador_Salvador Sancho_Sancho Suero_Suero Tello Vela_Vela
+			Alfonso_Alphonse Álvaro_Oliver Diego_Diaco Enrique_Henry Felipe_Philip Fernando_Ferdinand Gonzalo_Gonzalo Guillermo_William Juan_John Luis_Louis 
+			Martín_Martin Pedro_Peter Rodrigo_Roderick Salvador_Salvador Domingo_Dominic Lorenzo_Laurence Íñigo_Inigo Lázaro_Lazarus Ramón_Raymond Simón_Simon 
+			Miguel_Michael Cosme_Cosmas Manuel_Manuele Francisco_Francis "Juan Francisco" "Juan Antonio" Antonio_Anthony "Juan Luis" "Diego Felipe" Jerónimo_Jerome 
+			"Miguel Jerónimo" José_Joseph Cristóbal_Christopher Agustín_Augustine Gaspar_Caspar "Francisco Enrique" "Luis José" "Luis Jacinto" "Juan Clemente" "Juan Alonso" 
+			Gregorio_Gregory "Juan Salvador" "Juan Gregorio" "Pedro Salvador" Clemente_Clemence "Simón Gaspar" Carlos_Charles "Carlos Felipe" "Juan José" Teodoro_Theodore 
+			"Juan Guillermo" "Enrique Duarte" Andrés_Andrew "Juan Andrés" Hernando_Ferdinand Hernán_Ferdinand Sebastián_Stephen "Miguel Lorenzo" Nicolás Gabriel "Pedro Manuel" 
+			Bernardo "Francisco María" Baltasar "Juan Manuel" Ignacio_Ignace Tomás_Thomas "Juan Tomás" "Francisco Antonio" "José Antonio" "Pedro Manuel" "Luis Antonio"
+			Duarte_Edward Leandre Ponce Antón_Anthony Garci_Garcia
 		}
 		female_names = {
-			Aldonza_Aldonza Anderquina Beatriz_Beatrice Berenguela_Berengaria Blanca_Blanche Constanza_Constance Elvira_Elvira Estefanía_Stephania Fronilda_Fronilde Gontroda_Gotruda
-			Inés_Agnes Isabel_Elizabeth Jimena_Ximena Juana_Joan Leonor_Eleanor Mafalda_Matilda María_Maria Marina_Marine Mayor_Mayor Mencía_Mencia
-			Milia_Emily Sancha_Sancha Teresa_Teresa Toda_Toda Urraca_Urraca
+			Antonia Beatriz_Beatrice Blanca_Blanche Constanza_Constance Elvira_Elvira Estefanía_Stephania Inés_Agnes Isabel_Elizabeth Juana_Joan Leonor_Eleanor María_Maria Teresa_Teresa 
+			Guiomar Luisa_Louise Ana_Anna "María Luisa" Catalina_Catherine Elena_Helen Felipa Margarita_Margaret "Ana María" "María Ana" "Juana María" Francisca Jacinta_Hyacinth Clara 
+			Jerónima "Ana Catalina" "Juana Victoria" "Juana María" Sebastiana_Stephania "Clara María" "Leonor María" "Antonia María" "Isabel María" Dorotea Josefa Manuela  Antona
 		}
 		from_dynasty_prefix = "de "
-		
-		male_patronym = "ez"
-		female_patronym = "ez"
-		grammar_transform = spanish
 
 		pat_grf_name_chance = 45
 		mat_grf_name_chance = 15
@@ -1031,20 +1024,17 @@ iberian = {
 		}
 
 		male_names = {
-			Afonso_Alphonse Aires ÿlvaro_Oliver Bermudo_Vermudo Diogo_Diaco Egas Estêvão_Stephen Fernão_Ferdinand Fernando_Ferdinand Garcia_Garcia
-			Gil_Egidius Gomes_Gomez Gonçalo_Gonzalo Guterre_Walter Henrique_Henry Hermígio João_John Lopo_Lupo Lourenço_Laurence Martim_Martin
-			Mem_Mendo Mendo_Mendo Monio_Munio Muno_Munio Nuno_Nuno Paio_Pelagius Pedro_Peter Pero_Peter Pôncio_Pons Rodrigo_Roderick Rui_Roderick
-			Sancho_Sancho Soeiro_Suero Raimundo_Raymond Vasco_Vasco Vicente_Vincent
+			Afonso_Alphonse Diogo_Diaco Estêvão_Stephen Fernão_Ferdinand Fernando_Ferdinand Luís_Louis "Fernando Augusto" José_Joseph "João José" Vicente_Vincent
+			Gonçalo_Gonzalo Nuno_Nuno Henrique_Henry João_John Lourenço_Laurence Martim_Martin Manuel_Manuele António_Anthony Francisco_Francis "António Luís" Domingo_Dominic
+			Paio_Pelagius Pedro_Peter Rodrigo_Roderick Rui_Roderick Duarte_Edward Filipe_Philip Carlos_Charles "Carlos Filipe" "Luís Filipe" "Duarte Nuno"
+			Vasco_Vasco Vicente_Vincent Dinis "Dinis Afonso" "José António"
 		}
 		female_names = {
-			Aldara_Alduara Aldonça_Aldonza Beatriz_Beatrice Berengária_Berengaria Branca_Blanche Constança_Constance Dórdia Elvira_Elvira Estevainha_Stephania Fruilhe_Fronilde
-			Gontinha Gontroda_Gotruda Guiomar Inês_Agnes Joana_Joan Leonor_Eleanor Mafalda_Matilda Margarida_Margaret Maria_Maria Marinha_Marine
-			Mor_Mayor Ouroana Sancha_Sancha Teresa_Teresa Urraca_Urraca
+			Beatriz_Beatrice Branca_Blanche Constança_Constance Elvira_Elvira Estevainha_Stephania
+			Guiomar Inês_Agnes Joana_Joan Leonor_Eleanor Margarida_Margaret Maria_Maria Marinha_Marine
+			Teresa_Teresa Filipa Catarina_Catherine "Joana Maria" Ana_Anna "Maria Ana" "Ana Maria" "Maria Teresa"
 		}
 		from_dynasty_prefix = "de "
-		male_patronym = "es"
-		female_patronym = "es"
-		grammar_transform = spanish
 
 		modifier = default_culture_modifier
 
@@ -1057,41 +1047,37 @@ iberian = {
 		mother_name_chance = 15
 	}
 	galician = {
-		graphical_cultures = { southerngfx }
+		graphical_culture = southerngfx
 		
-		color = { 0.75 0.67 0.07 }
-		alternate_start = {
-			OR = {
-				year >= 1000
-				has_alternate_start_parameter = { key = culture value = full_random }
-			}
-		}
+		color = { 1 0.87843137 0.36862745 }
 
 		male_names = {
-			Afonso_Alphonse Aires ÿlvaro_Oliver Bermudo_Vermudo Diogo_Diaco Egas Estêvão_Stephen Fernão_Ferdinand Fernando_Ferdinand Garcia_Garcia
-			Gil_Egidius Gomes_Gomez Gonçalo_Gonzalo Guterre_Walter Henrique_Henry Hermígio João_John Lopo_Lupo Lourenço_Laurence Martim_Martin
-			Mem_Mendo Mendo_Mendo Monio_Munio Muno_Munio Nuno_Nuno Paio_Pelagius Pedro_Peter Pero_Peter Pôncio_Pons Rodrigo_Roderick Rui_Roderick
-			Sancho_Sancho Soeiro_Suero Raimundo_Raymond Vasco_Vasco Vicente_Vincent
+			Alfonso_Alphonse Álvaro_OliverDiego_Diaco Enrique_Henry Felipe_Philip Fernando_Ferdinand Gonzalo_Gonzalo Juan_John Luis_Louis Martín_Martin Nuno_Nuno Pedro_Peter 
+			Paio_Pelagius Rodrigo_Roderick Salvador Ramón_Raymond Gelmiro Lorenzo_Laurence Marino_Marinus Santiago_Jacob Manuel Domingo_Dominic Antón_Anthony Lázaro_Lazarus 
+			Fernán_Ferdinand Andrés_Andrew Francisco_Francis "Juan Francisco" "Juan Antonio" Antonio_Anthony "Juan Luis" "Diego Felipe" Jerónimo_Jerome 
+			"Miguel Jerónimo" José_Joseph Cristóbal_Christopher Agustín_Augustine Gaspar_Caspar "Francisco Enrique" "Luis José" "Luis Jacinto" "Juan Clemente" "Juan Alonso" 
+			Gregorio_Gregory "Juan Salvador" "Juan Gregorio" "Pedro Salvador" Clemente_Clemence "Simón Gaspar" Carlos_Charles "Carlos Felipe" "Juan José" Teodoro_Theodore 
+			"Juan Guillermo" "Enrique Duarte" Andrés_Andrew "Juan Andrés" Sebastián_Stephen "Miguel Lorenzo" Nicolás Gabriel "Pedro Manuel" 
+			Bernardo "Francisco María" Baltasar "Juan Manuel" Ignacio_Ignace Tomás_Thomas "Juan Tomás" "Francisco Antonio" "José Antonio" "Pedro Manuel" "Luis Antonio"
 		}
 		female_names = {
-			Aldara_Alduara Aldonça_Aldonza Beatriz_Beatrice Berengária_Berengaria Branca_Blanche Constança_Constance Dórdia Elvira_Elvira Estevainha_Stephania Fruilhe_Fronilde
-			Gontinha Gontroda_Gotruda Guiomar Inês_Agnes Joana_Joan Leonor_Eleanor Mafalda_Matilda Margarida_Margaret Maria_Maria Marinha_Marine
-			Mor_Mayor Ouroana Sancha_Sancha Teresa_Teresa Urraca_Urraca
+			Beatriz_Beatrice Blanca_Blanche Constanza_Constance Elvira_Elvira 
+			Inés_Agnes Isabel_Elisabeth Juana_Joan Leonor_Eleanor María_Maria Marina_Marine
+			Teresa_Teresa Guiomar Margarita_Margaret Luisa_Louise Ana_Anna "María Luisa" Antona Catalina_Catherine Elena_Helen
+			Dulce_Douce Mariña "Ana María" "María Ana" "Juana María" Francisca Jacinta_Hyacinth Clara 
+			Jerónima "Ana Catalina" "Juana Victoria" "Juana María" Sebastiana_Stephania "Clara María" "Leonor María" "Antonia María" "Isabel María" Dorotea Josefa Manuela 
 		}
 		from_dynasty_prefix = "de "
-		male_patronym = "es"
-		female_patronym = "es"
-		grammar_transform = spanish
-
-		modifier = default_culture_modifier
-
-		pat_grf_name_chance = 55
-		mat_grf_name_chance = 5
+		
+		pat_grf_name_chance = 45
+		mat_grf_name_chance = 15
 		father_name_chance = 30
 		
-		pat_grm_name_chance = 60
-		mat_grm_name_chance = 15
-		mother_name_chance = 15
+		pat_grm_name_chance = 40
+		mat_grm_name_chance = 10
+		mother_name_chance = 40
+
+		modifier = default_culture_modifier
 	}
 }
 

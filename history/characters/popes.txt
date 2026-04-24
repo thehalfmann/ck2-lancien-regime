@@ -1,0 +1,2589 @@
+
+71829 = {
+	name="Ottobuono"
+	dynasty=13028
+	martial=4
+	diplomacy=9
+	intrigue=6
+	stewardship=6
+	religion="catholic"
+	culture="italian"
+	trait="gregarious"
+	trait="trusting"
+	trait="mastermind_theologian"
+	father=70924
+	1229.1.1 = {
+		birth="1229.1.1"
+	}
+	1276.6.22 = {
+		name="Hadrianus"
+	}
+	1276.8.18 = {
+		death="1276.8.18"
+	}
+}
+
+71832 = {
+	name="Giacomo"
+	dynasty=13049
+	martial=4
+	diplomacy=5
+	intrigue=6
+	stewardship=6
+	religion="catholic"
+	culture="italian"
+	trait="arbitrary"
+	trait="wroth"
+	trait="scholarly_theologian"
+	1210.1.1 = {
+		birth="1210.1.1"
+	}
+	1280.1.1 = {
+		trait="infirm"
+	}
+	1285.3.28 = {
+		name="Honorius"
+	}
+	1287.4.3 = {
+		death="1287.4.3"
+	}
+}
+
+71833 = {
+	name="Girolamo"
+	dynasty=13053
+	martial=4
+	diplomacy=6
+	intrigue=4
+	stewardship=6
+	religion="catholic"
+	culture="italian"
+	trait="content"
+	trait="kind"
+	trait="detached_priest"
+	1227.9.30 = {
+		birth="1227.9.30"
+	}
+	1287.4.3 = {
+		name="Nicolaus"
+	}
+	1292.4.4 = {
+		death="1292.4.4"
+	}
+}
+
+71834 = {
+	name="Pietro"
+	dynasty=8796
+	martial=3
+	diplomacy=5
+	intrigue=3
+	stewardship=3
+	religion="catholic"
+	culture="italian"
+	trait="content"
+	trait="mystic"
+	trait="shy"
+	trait="scholarly_theologian"
+	1215.1.1 = {
+		birth="1215.1.1"
+	}
+	1292.4.4 = {
+		name="Caelestinus"
+	}
+	1294.12.13 = {
+		name="Pietro"
+	}
+	1296.5.19 = {
+		name="Caelestinus"
+		give_nickname=nick_the_saint
+		death="1296.5.19"
+	}
+}
+
+71835 = {
+	name="Benedetto"
+	dynasty=622 #Gaetani
+	martial=6
+	diplomacy=4
+	intrigue=7
+	stewardship=5
+	religion="catholic"
+	culture="italian"
+	trait="paranoid"
+	trait="deceitful"
+	trait="scholarly_theologian"
+	father=167454
+	1235.1.1 = {
+		birth="1235.1.1"
+	}
+	1294.12.13 = {
+	name="Bonifatius"
+	# AKA: Benedetto
+	}
+	1303.10.11 = {
+		death="1303.10.11"
+	}
+}}
+
+71836 = {
+	name="Niccolò"
+	# AKA: Nicola
+	dynasty=13056
+	martial=3
+	diplomacy=7
+	intrigue=7
+	stewardship=6
+	religion="catholic"
+	culture="italian"
+	trait="just"
+	trait="honest"
+	trait="brave"
+	trait="scholarly_theologian"
+	
+	1240.1.1 = {
+		birth="1240.1.1"
+	}
+	1303.10.11 = {
+	name="Benedictus"
+	# AKA: Nicola
+	}
+	1304.7.7 = {
+		death="1304.7.7"
+	}
+}
+
+71830 = {
+	name="Pedro"
+	dynasty=8795
+	religion="catholic"
+	culture="portuguese"
+	1215.1.1={
+		birth="1215.1.1"
+	}
+	1276.8.18={
+		name="Ioannes"
+	# AKA: Pedro
+	}
+	1277.5.20={
+		death="1277.5.20"
+	}
+}
+
+478501 = {
+	name="Jacques" # Pope Benedict XII (Jacques Fournier), Pope at Avignon
+	dynasty=4
+	martial=1
+	diplomacy=4
+	intrigue=4
+	stewardship=7
+	religion="catholic"
+	culture="frankish"
+	trait="chaste"
+	trait="patient"
+	trait="kind"
+	trait="zealous"
+	trait="scholarly_theologian"
+	1285.1.1 = {
+		birth="1285.1.1"
+	}
+	1334.12.4 = {
+	name="Benedictus"
+	# AKA: Jacques
+	capital="c_venaissin"
+	}
+	1342.4.25 = {
+		death="1342.4.25"
+	}
+}
+
+70851 = {
+	name="Giovanni"
+	dynasty=2
+	martial=5
+	diplomacy=7
+	intrigue=6
+	stewardship=5
+	religion="catholic"
+	culture="italian"
+	trait="ambitious"
+	trait="charitable"
+	trait="fair"
+	trait="gardener"
+	trait="gregarious"
+	trait="honest"
+	trait="just"
+	trait="quick"
+	trait="proud"
+	trait="temperate"
+	trait="mastermind_theologian"
+	father=70846
+	mother=70847
+	1204.1.1 = {
+		birth="1204.1.1"
+	}
+	1277.5.20 = {
+		name=Nicolaus
+	# AKA: Giovanni
+	}
+	1280.8.22 = {
+		death="1280.8.22"
+	}
+}
+
+70785 = {
+	name="Tibaldo"
+	dynasty=234
+	martial=5
+	diplomacy=7
+	intrigue=7
+	stewardship=6
+	religion="catholic"
+	culture="italian"
+	trait="celibate"
+	trait="crusader"
+	trait="diligent"
+	trait="fair"
+	trait="just"
+	trait="scholar"
+	trait="martial_cleric"
+	father=70769
+	1215.1.1 = {
+		birth="1215.1.1"
+	}
+	1268.11.29 = {
+		name="Gregorius"
+	}
+	1276.1.10 = {
+		death="1276.1.10"
+	}
+}
+
+71825 = {
+	name="Jacques"
+	dynasty=8792
+	martial=4
+	diplomacy=4
+	intrigue=7
+	stewardship=7
+	religion="catholic"
+	culture="frankish"
+	trait="envious"
+	trait="deceitful"
+	trait="scholarly_theologian"
+	
+	1195.1.1 = {
+		birth="1195.1.1"
+	}
+	1261.5.25 = {
+	name="Urbanus"
+	# AKA: Jacques
+	}
+	1264.10.2 = {
+		death="1264.10.2"
+	}
+}
+
+71827 = {
+	name="Pierre"
+	dynasty=8794
+	martial=3
+	diplomacy=7
+	intrigue=3
+	stewardship=7
+	religion="catholic"
+	culture="frankish"
+	trait="just"
+	trait="gregarious"
+	trait="scholarly_theologian"
+	1225.1.1 = {
+		birth="1225.1.1"
+	}
+	1276.1.10 = {
+		name="Innocentius"
+	}
+	1276.6.22 = {
+		death="1276.6.22"
+	}
+}
+
+71831 = {
+	name="Simon"
+	#dynasty=101886 #not from the 'de Brionne'dynasty
+	martial=4
+	diplomacy=5
+	intrigue=6
+	stewardship=4
+	religion="catholic"
+	culture="frankish"
+	trait="drunkard"
+	trait="trusting"
+	trait="diligent"
+	trait="scholarly_theologian"
+	
+	1218.1.1 = {
+		birth="1218.1.1"
+	}
+	1280.8.22 = {
+	name="Martinus"
+	# AKA: Simon
+	}
+	1285.3.28 = {
+		death="1285.3.28"
+	}
+}
+
+71838 = {
+	name="Jacques"
+	dynasty=8798
+	martial=4
+	diplomacy=4
+	intrigue=8
+	stewardship=5
+	religion="catholic"
+	culture="frankish"
+	trait="ambitious"
+	trait="arbitrary"
+	trait="scholarly_theologian"
+	
+	1249.1.1 = {
+		birth="1249.1.1"
+	}
+	1314.4.20 = {
+	name="Ioannes"
+	# AKA: Jacques
+	capital="c_venaissin"
+	}
+	1334.12.4 = {
+		death="1334.12.4"
+	}
+}
+
+
+71820 = {
+	name="Cencio"
+	dynasty=13049
+	martial=4
+	diplomacy=7
+	intrigue=5
+	stewardship=7
+	religion="catholic"
+	culture="italian"
+	trait="kind"
+	trait="scholar"
+	trait="just"
+	trait="detached_priest"
+	
+	1148.1.1 = {
+		birth="1148.1.1"
+	}
+	1216.7.16 = {
+	name="Honorius"
+	# AKA: Cencio
+	}
+	1227.3.18 = {
+		death="1227.3.18"
+	}
+}
+
+71821 = {
+	name="Ugolino"
+	dynasty=8790
+	martial=4
+	diplomacy=5
+	intrigue=4
+	stewardship=8
+	religion="catholic"
+	culture="italian"
+	trait="ambitious"
+	trait="deceitful"
+	trait="mastermind_theologian"
+	father=71817
+	
+	1170.1.1 = {
+		birth="1170.1.1"
+	}
+	1227.3.18 = {
+	name="Gregorius"
+	# AKA: Ugolino
+	}
+	1241.8.22 = {
+		death="1241.8.22"
+	}
+}
+
+71822 = {
+	name="Goffredo"
+	dynasty=13050
+	martial=4
+	diplomacy=7
+	intrigue=6
+	stewardship=4
+	religion="catholic"
+	culture="italian"
+	trait="craven"
+	trait="scholar"
+	trait="detached_priest"
+	
+	1176.1.1 = {
+		birth="1176.1.1"
+	}
+	1241.8.22 = {
+	name="Caelestinus"
+	# AKA: Goffredo
+	trait="stressed"
+	}
+	1241.11.10 = {
+		death="1241.11.10"
+	}
+}
+
+71823 = {
+	name="Sinibaldo"
+	dynasty=13028
+	martial=3
+	diplomacy=8
+	intrigue=6
+	stewardship=6
+	religion="catholic"
+	culture="italian"
+	trait="proud"
+	trait="ambitious"
+	trait="scholarly_theologian"
+	father=167540
+	
+	1182.1.1 = {
+		birth="1182.1.1"
+	}
+	1241.11.10 = {
+	name="Innocentius"
+	# AKA: Sinibaldo
+	}
+	1254.12.7 = {
+		death="1254.12.7"
+	}
+}
+
+71824 = {
+	name="Rinaldo"
+	dynasty=8791
+	martial=4
+	diplomacy=5
+	intrigue=4
+	stewardship=4
+	religion="catholic"
+	culture="italian"
+	trait="scholar"
+	trait="detached_priest"
+	father=71819
+	mother=71818
+	
+	1199.1.1 = {
+		birth="1199.1.1"
+	}
+	1254.12.7 = {
+	name="Alexander"
+	# AKA: Rinaldo
+	}
+	1261.5.25 = {
+		death="1261.5.25"
+	}
+}
+
+70841 = {
+	name="Giancinto"
+	dynasty=2
+	martial=6
+	diplomacy=5
+	intrigue=4
+	stewardship=6
+	religion="catholic"
+	culture="italian"
+	trait="diligent"
+	trait="just"
+	trait="humble"
+	trait="trusting"
+	trait="ambitious"
+	trait="scholarly_theologian"
+	father=70840
+	1110.1.1 = {
+		birth="1110.1.1"
+	}
+	1191.3.20 = {
+		name=Caelestinus
+	# AKA: Giancinto
+	}
+	1198.1.8 = {
+		death="1198.1.8"
+	}
+}
+
+223754 = {
+	name="Uberto" # Pope Urban III (Uberto Crivelli)
+	# AKA: Urban
+	dynasty=156
+	martial=1
+	diplomacy=5
+	intrigue=5
+	stewardship=7
+	religion="catholic"
+	culture="italian"
+	trait="wroth"
+	trait="zealous"
+	trait="ill"
+	trait="scholarly_theologian"
+	1120.1.1 = {
+		birth="1120.1.1"
+	}
+	1185.5.25 = {
+		name="Urbanus"
+	}
+	1187.10.20 = {
+		death="1187.10.20"
+	}
+}
+
+71806 = {
+	name="Gherardo"
+	dynasty=8679
+	martial=5
+	diplomacy=7
+	intrigue=3
+	stewardship=4
+	religion="catholic"
+	culture="italian"
+	trait="ambitious"
+	trait="scholar"
+	trait="martial_cleric"
+	
+	1075.1.1 = {
+		birth="1075.1.1"
+	}
+	1144.3.8 = {
+	name="Lucius"
+	# AKA: Gherardo
+	}
+	1145.2.15 = {
+		death="1145.2.15"
+	}
+}
+
+71807 = {
+	name="Bernardo"
+	dynasty=8786
+	martial=3
+	diplomacy=5
+	intrigue=4
+	stewardship=4
+	religion="catholic"
+	culture="italian"
+	trait="humble"
+	trait="gregarious"
+	trait="scholarly_theologian"
+	1080.1.1 = {
+		birth="1080.1.1"
+	}
+	1145.2.15 = {
+	name="Eugenius"
+	# AKA: Bernardo
+	}
+	1153.7.8 = {
+		death="1153.7.8"
+	}
+}
+
+71808 = {
+	name="Corrado"
+	dynasty=8787
+	martial=4
+	diplomacy=7
+	intrigue=5
+	stewardship=6
+	religion="catholic"
+	culture="italian"
+	trait="patient"
+	trait="arbitrary"
+	trait="detached_priest"
+	
+	1073.1.1 = {
+		birth="1073.1.1"
+	}
+	1153.7.8 = {
+	name="Anastasius"
+	# AKA: Corrado
+	}
+	1154.12.3 = {
+		death="1154.12.3"
+	}
+}
+
+71810 = {
+	name="Orlando"
+	dynasty=100330
+	martial=3
+	diplomacy=8
+	intrigue=5
+	stewardship=8
+	religion="catholic"
+	culture="italian"
+	trait="diligent"
+	trait="temperate"
+	trait="mastermind_theologian"
+	
+	1105.1.1 = {
+		birth="1105.1.1"
+	}
+	1159.9.1 = {
+	name="Alexander"
+	# AKA: Orlando
+	}
+	1181.8.30 = {
+		death="1181.8.30"
+	}
+}
+
+71811 = {
+	name="Ubaldo"
+	dynasty=8789
+	martial=3
+	diplomacy=4
+	intrigue=3
+	stewardship=4
+	religion="catholic"
+	culture="italian"
+	trait="slothful"
+	trait="content"
+	trait="scholarly_theologian"
+	
+	1100.1.1 = {
+		birth="1100.1.1"
+	}
+	1181.8.30 = {
+	name="Lucius"
+	# AKA: Ubaldo
+	}
+	1185.5.25 = {
+		death="1185.5.25"
+	}
+}
+
+71812 = {
+	name="Alberto"
+	dynasty=13044
+	martial=5
+	diplomacy=7
+	intrigue=6
+	stewardship=6
+	religion="catholic"
+	culture="italian"
+	trait="trusting"
+	trait="scholar"
+	trait="detached_priest"
+	1105.1.1 = {
+		birth="1105.1.1"
+	}
+	1187.10.20 = {
+	name="Gregorius"
+	# AKA: Alberto
+	}
+	1187.12.17 = {
+		death="1187.12.17"
+	}
+}
+
+71813 = {
+	name="Paolino"
+	dynasty=13046
+	martial=6
+	diplomacy=4
+	intrigue=7
+	stewardship=5
+	religion="catholic"
+	culture="italian"
+	trait="just"
+	trait="trusting"
+	trait="scholarly_theologian"
+	
+	1130.1.1 = {
+		birth="1130.1.1"
+	}
+	1187.12.17 = {
+	name="Clemens"
+	# AKA: Paolino
+	}
+	1191.3.20 = {
+		death="1191.3.20"
+	}
+}
+
+71814 = {
+	name="Lotario"
+	dynasty=8790
+	martial=7
+	diplomacy=8
+	intrigue=6
+	stewardship=8
+	religion="catholic"
+	culture="italian"
+	trait="chaste"
+	trait="ambitious"
+	trait="mastermind_theologian"
+	father=71815
+	1161.1.1 = {
+		birth="1161.1.1"
+	}
+	1198.1.8 = {
+		name="Innocentius"
+	}
+	1216.7.16 = {
+		death="1216.7.16"
+	}
+}
+71805 = {
+	name="Guido"
+	dynasty=8785
+	martial=4
+	diplomacy=7
+	intrigue=5
+	stewardship=6
+	religion="catholic"
+	culture="italian"
+	trait="charitable"
+	trait="kind"
+	trait="scholarly_theologian"
+	
+	1071.1.1 = {
+		birth="1071.1.1"
+	}
+	1143.9.24 = {
+	name="Caelestinus"
+	# AKA: Guido
+	}
+	1144.3.8 = {
+		death="1144.3.8"
+	}
+}
+
+71800 = {
+	name="Gregorio"
+	dynasty=13042
+	martial=5
+	diplomacy=8
+	intrigue=6
+	stewardship=7
+	religion="catholic"
+	culture="italian"
+	trait="zealous"
+	trait="brave"
+	trait="honest"
+	trait="mastermind_theologian"
+	father=71801
+	
+	1070.1.1 = {
+		birth="1070.1.1"
+	}
+	1130.2.13 = {
+	name="Innocentius"
+	# AKA: Gregorio
+	}
+	1143.9.24 = {
+		death="1143.9.24"
+	}
+}
+
+294 = {
+	name="Guy"
+	dynasty=681
+	martial=4
+	diplomacy=6
+	intrigue=4
+	stewardship=7
+	religion="catholic"
+	culture="frankish"
+	trait="martial_cleric"
+	father=280
+	mother=289
+	1060.1.1 = {
+		birth="1060.1.1"
+	}
+	1119.1.28 = {
+	name="Callistus"
+	# AKA: Guy
+	}
+	1124.12.13 = {
+		death="1124.12.13"
+	}
+}
+
+2014 = {
+	name="Raineri"
+	# AKA: Rainero
+	dynasty=100333
+	martial=5
+	diplomacy=5
+	intrigue=8
+	stewardship=8
+	religion="catholic"
+	culture="italian"
+	trait="martial_cleric"
+	1062.1.1 = {
+		birth="1062.1.1"
+	}
+	1099.7.29 = {
+	name="Paschalis"
+	# AKA: Rainero
+	}
+	1118.1.21 = {
+		death="1118.1.21"
+	}
+}
+
+2017 = {
+	name="Giovanni"
+	dynasty=622 #Gaetani
+	martial=4
+	diplomacy=5
+	intrigue=5
+	stewardship=6
+	religion="catholic"
+	culture="italian"
+	trait="kind"
+	trait="humble"
+	trait="martial_cleric"
+	father=167496
+	1064.1.1 = {
+		birth="1064.1.1"
+	}
+	1118.1.21 = {
+	name="Gelasius"
+	# AKA: Giovanni
+	}
+	1119.1.29 = {
+		death="1119.1.29"
+	}
+}
+
+2021 = {
+	name="Lamberto"
+	dynasty=621
+	martial=8
+	diplomacy=8
+	intrigue=6
+	stewardship=5
+	religion="catholic"
+	culture="italian"
+	trait="scholarly_theologian"
+	1066.1.1 = {
+		birth="1066.1.1"
+	}
+	1124.12.13 = {
+	name="Honorius"
+	# AKA: Lamberto
+	}
+	1130.2.13 = {
+		death="1130.2.13"
+	}
+}
+
+2013 = {
+	name="Othon"
+	# AKA: Odo
+	dynasty=23113 #Châtillon
+	martial=6
+	diplomacy=4
+	intrigue=6
+	stewardship=8
+	religion="catholic"
+	culture="frankish"
+	trait="diligent"
+	trait="zealous"
+	trait="mastermind_theologian"
+	father=91189 #Milon de Châtillon
+	1035.1.1 = {
+		birth="1035.1.1"
+	}
+	1087.9.16 = {
+		name="Urbanus"
+	}
+	1099.7.29 = {
+		death="1099.7.29"
+	}
+}
+
+2012 = {
+	name="Dauferio"
+	# AKA: Dauferio
+	dynasty=8782
+	martial=4
+	diplomacy=8
+	intrigue=8
+	stewardship=8
+	religion="catholic"
+	culture="italian"
+	trait="chaste"
+	trait="diligent"
+	trait="honest"
+	trait="just"
+	trait="kind"
+	trait="humble"
+	trait="zealous"
+	trait="patient"
+	trait="temperate"
+	trait="brave"
+	trait="mastermind_theologian"
+	1026.1.1 = {
+		birth="1026.1.1"
+	}
+	1085.5.25 = {
+		name="Victor"
+		# AKA: Dauferio
+	}
+	1087.9.16 = {
+		death="1087.9.16"
+	}
+}
+
+2010 = {
+	name="Ildebrando"
+	# AKA: Hildebrand
+	dynasty=8783
+	martial=4
+	diplomacy=8
+	intrigue=8
+	stewardship=8
+	religion="catholic"
+	culture="italian"
+	trait="chaste"
+	trait="diligent"
+	trait="honest"
+	trait="just"
+	trait="kind"
+	trait="humble"
+	trait="zealous"
+	trait="patient"
+	trait="temperate"
+	trait="brave"
+	trait="mastermind_theologian"
+	1022.1.1 = {
+		birth="1022.1.1"
+	}
+	1073.4.21 = {
+		name="Gregorius"
+		# AKA: Hildebrand
+	}
+	1085.5.25 = {
+		give_nickname=nick_the_saint
+		death="1085.5.25"
+	}
+}
+
+2008 = {
+	name="Anselmo"
+	dynasty=13014
+	martial=2
+	diplomacy=7
+	intrigue=5
+	stewardship=6
+	religion="catholic"
+	culture="italian"
+	trait="diligent"
+	trait="charitable"
+	trait="honest"
+	trait="just"
+	trait="kind"
+	trait="humble"
+	trait="zealous"
+	trait="patient"
+	trait="brave"
+	trait="mastermind_theologian"
+	1019.1.1 = {
+		birth="1019.1.1"
+	}
+	1061.9.30 = {
+	name="Alexander"
+	# AKA: Anselmo
+	}
+	1073.4.21 = {
+		death="1073.4.21"
+	}
+}
+
+7940 = {
+	name="Gerard" #Nicolas II (pope), born Gérard l'Allobroge
+	#dynasty= #he is a commoner
+	
+	religion="catholic"
+	culture="frankish"
+	
+	trait="just"
+	trait="zealous"
+	trait="mastermind_theologian"
+	
+	995.1.1 = {
+		birth="995.1.1"
+	}
+	
+	1058.3.29 = {
+	name="Nicolaus"
+	# AKA: Gerard
+	}
+	
+	1061.7.27 = {
+		death="1061.7.27"
+	}
+}
+
+7939 = {
+	name="Giovanni" #Benedictus X
+	dynasty=100349
+	martial=6
+	diplomacy=7
+	intrigue=8
+	stewardship=8
+	religion="catholic"
+	culture="italian"
+	trait="diligent"
+	trait="deceitful"
+	trait="ambitious"
+	trait="charismatic_negotiator"
+	father=7935
+	1020.1.1 = {
+		birth="1020.1.1"
+	}
+	1058.3.29={
+		name="Benedictus"
+	}
+	1059.1.24={
+		add_trait="monk"
+	}
+	1079.5.4 = {
+		death="1079.5.4"
+	}
+}
+
+11034 = {
+	name="Friedrich"
+	dynasty=22007
+	martial=3
+	diplomacy=5
+	intrigue=8
+	stewardship=6
+	religion="catholic"
+	culture="german"
+	trait="chaste"
+	trait="detached_priest"
+	father=11032
+	mother=11033
+	1007.1.1 = {
+		birth="1007.1.1"
+	}
+	1057.8.3 = {
+	name="Stephanus"
+	# AKA: Friedrich
+	}
+	1058.3.29 = {
+		death="1058.3.29"
+	}
+}
+
+7894 = {
+	name="Geghard"
+	# AKA: Gebhard
+	martial=6
+	diplomacy=7
+	intrigue=8
+	stewardship=8
+	religion="catholic"
+	culture="german"
+	trait="diligent"
+	trait="patient"
+	trait="zealous"
+	trait="charismatic_negotiator"
+	1018.1.1 = {
+		birth="1018.1.1"
+	}
+	1054.4.19 = {
+	name="Victor"
+	# AKA: Gebhard
+	}
+	1057.7.28 = {
+		death="1057.7.28"
+	}
+}
+
+1338 = {
+	name="Bruno"
+	# AKA: Leo
+	dynasty=664
+	martial=8
+	diplomacy=7
+	intrigue=5
+	stewardship=7
+	religion="catholic"
+	culture="german"
+	trait="kind"
+	trait="skilled_tactician"
+	father=1332
+	mother=1333
+	1002.6.21 = {
+		birth="1002.6.21"
+	}
+	1048.8.9 = {
+	name="Leo"
+	}
+	1054.4.19 = {
+		death="1054.4.19"
+	}
+}
+
+7817 = {
+	name="Poppo"
+	martial=6
+	diplomacy=7
+	intrigue=8
+	stewardship=8
+	religion="catholic"
+	culture="german"
+	trait="diligent"
+	trait="patient"
+	trait="zealous"
+	trait="charismatic_negotiator"
+	980.1.1 = {
+		birth="980.1.1"
+	}
+	1048.7.17 = {
+	name="Damasus"
+	# AKA: Poppo
+	}
+	1048.8.9 = {
+		death="1048.8.9"
+	}
+}
+
+7937 = {
+	name="Theophylactus"
+	dynasty=100349
+	martial=6
+	diplomacy=7
+	intrigue=8
+	stewardship=8
+	religion="catholic"
+	culture="italian"
+	trait="diligent"
+	trait="patient"
+	trait="zealous"
+	trait="charismatic_negotiator"
+	father=7935
+	1012.1.1 = {
+		birth="1012.1.1"
+	}
+	1032.10.1 = {
+	name="Benedictus"
+	# AKA: Theophylactus
+	}
+	1056.1.1 = {
+		death="1056.1.1"
+	}
+}
+
+7934 = {
+	name="Theophylact"
+	# AKA: Romanus
+	dynasty=100349
+	martial=6
+	diplomacy=7
+	intrigue=8
+	stewardship=8
+	religion="catholic"
+	culture="italian"
+	trait="diligent"
+	trait="patient"
+	trait="zealous"
+	trait="charismatic_negotiator"
+	father=7932
+	957.1.1 = {
+		birth="957.1.1"
+	}
+	1024.8.9 = {
+	name=Ioannes
+	# AKA: Romanus
+	}
+	1032.10.1 = {
+		death="1032.10.1"
+	}
+}
+
+7933 = {
+	name="Theophylact"
+	dynasty=100349
+	martial=6
+	diplomacy=7
+	intrigue=8
+	stewardship=8
+	religion="catholic"
+	culture="italian"
+	trait="diligent"
+	trait="patient"
+	trait="zealous"
+	trait="charismatic_negotiator"
+	father=7932
+	956.1.1 = {
+		birth="956.1.1"
+	}
+	1012.5.12 = {
+	name=Benedictus
+	# AKA: Theophylact
+	}
+	1024.8.9 = {
+		death="1024.8.9"
+	}
+}
+
+7824 = {
+	name="Gilert"
+	# AKA: Gilbert
+	martial=6
+	diplomacy=7
+	intrigue=8
+	stewardship=8
+	religion="catholic"
+	culture="frankish"
+	trait="diligent"
+	trait="patient"
+	trait="zealous"
+	trait="charismatic_negotiator"
+	946.1.1 = {
+		birth="946.1.1"
+	}
+	999.2.18 = {
+	name="Silvester"
+	# AKA: Gilbert
+	}
+	1003.5.12 = {
+		death="1003.5.12"
+	}
+}
+
+1318 = {
+	name="Bruno"
+	dynasty=651
+	martial=8
+	diplomacy=5
+	intrigue=6
+	stewardship=7
+	religion="catholic"
+	culture="german"
+	trait="tough_soldier"
+	father=1308
+	972.1.1 = {
+		birth="972.1.1"
+	}
+	996.5.3 = {
+	name="Gregorius"
+	# AKA: Bruno
+	}
+	999.2.18 = {
+		death="999.2.18"
+	}
+}
+
+7930 = {
+	name="Benedictus"
+	dynasty=100349
+	martial=6
+	diplomacy=7
+	intrigue=8
+	stewardship=8
+	religion="catholic"
+	culture="italian"
+	trait="diligent"
+	trait="patient"
+	trait="zealous"
+	trait="charismatic_negotiator"
+	father=7929
+	933.1.1 = {
+		birth="933.1.1"
+	}
+	983.7.10 = {
+		death="983.7.10"
+	}
+}
+
+7931 = {
+	name="Alberic"
+	# AKA: Octavianus
+	dynasty=100349
+	martial=6
+	diplomacy=7
+	intrigue=8
+	stewardship=8
+	religion="catholic"
+	culture="italian"
+	trait="diligent"
+	trait="patient"
+	trait="zealous"
+	trait="charismatic_negotiator"
+	father=7919
+	mother=7928
+	937.1.1 = {
+		birth="937.1.1"
+	}
+	955.12.16 = {
+	name="Ioannes"
+	# AKA: Octavianus
+	}
+	964.5.14 = {
+		death="964.5.14"
+	}
+}
+
+7917 = {
+	name="Sergius"
+	# AKA: John
+	dynasty=7051
+	martial=6
+	diplomacy=7
+	intrigue=8
+	stewardship=8
+	religion="catholic"
+	culture="italian"
+	trait="bastard"
+	trait="patient"
+	trait="zealous"
+	trait="charismatic_negotiator"
+	father=7916
+	mother=7915
+	910.1.1 = {
+		birth="910.1.1"
+	}
+	931.3.15 = {
+	name="Ioannes"
+	}
+	935.12.20 = {
+		death="935.12.20"
+	}
+}
+
+7916 = {
+	name="Sergius"
+	martial=6
+	diplomacy=7
+	intrigue=8
+	stewardship=8
+	religion="catholic"
+	culture="italian"
+	trait="diligent"
+	trait="patient"
+	trait="zealous"
+	trait="charismatic_negotiator"
+	810.1.1 = {
+		birth="810.1.1"
+	}
+	911.4.14 = {
+		death="911.4.14"
+	}
+}
+
+7819 = {
+	name="Johannes"
+	martial=6
+	diplomacy=7
+	intrigue=8
+	stewardship=8
+	religion="catholic"
+	culture="italian"
+	trait="diligent"
+	trait="patient"
+	trait="zealous"
+	trait="charismatic_negotiator"
+	1000.1.1 = {
+		birth="1000.1.1"
+	}
+	1045.5.1 = {
+	name="Gregorius"
+	# AKA: Johannes
+	}
+	1048.1.1 = {
+		death="1048.1.1"
+	}
+}
+
+7820 = {
+	name="Giovanni"
+	martial=6
+	diplomacy=7
+	intrigue=8
+	stewardship=8
+	religion="catholic"
+	culture="italian"
+	trait="diligent"
+	trait="patient"
+	trait="zealous"
+	trait="charismatic_negotiator"
+	1000.1.1 = {
+		birth="1000.1.1"
+	}
+	1045.1.20 = {
+	name="Silvester"
+	# AKA: Giovanni
+	}
+	1062.1.1 = {
+		death="1062.1.1"
+	}
+}
+
+7821 = {
+	name="Peitro"
+	# AKA: Pietro
+	martial=6
+	diplomacy=7
+	intrigue=8
+	stewardship=8
+	religion="catholic"
+	culture="italian"
+	trait="diligent"
+	trait="patient"
+	trait="zealous"
+	trait="charismatic_negotiator"
+	932.1.1 = {
+		birth="932.1.1"
+	}
+	1009.7.1 = {
+	name="Sergius"
+	# AKA: Pietro
+	}
+	1012.5.12 = {
+		death="1012.5.12"
+	}
+}
+
+7822 = {
+	name="Fasanius"
+	martial=6
+	diplomacy=7
+	intrigue=8
+	stewardship=8
+	religion="catholic"
+	culture="italian"
+	trait="diligent"
+	trait="patient"
+	trait="zealous"
+	trait="charismatic_negotiator"
+	919.1.1 = {
+		birth="919.1.1"
+	}
+	1003.12.6 = {
+	name="Ioannes"
+	# AKA: Fasanius
+	}
+	1009.7.1 = {
+		death="1009.7.1"
+	}
+}
+
+7823 = {
+	name="John Sicco"
+	# AKA: John Sicco
+	martial=6
+	diplomacy=7
+	intrigue=8
+	stewardship=8
+	religion="catholic"
+	culture="italian"
+	trait="diligent"
+	trait="patient"
+	trait="zealous"
+	trait="charismatic_negotiator"
+	909.1.1 = {
+		birth="909.1.1"
+	}
+	1003.5.12 = {
+	name="Ioannes"
+	# AKA: John Sicco
+	}
+	1003.12.6 = {
+		death="1003.12.6"
+	}
+}
+
+7825 = {
+	name="John"
+	martial=6
+	diplomacy=7
+	intrigue=8
+	stewardship=8
+	religion="catholic"
+	culture="italian"
+	trait="diligent"
+	trait="patient"
+	trait="zealous"
+	trait="charismatic_negotiator"
+	910.1.1 = {
+		birth="910.1.1"
+	}
+	984.8.20 = {
+	name="Ioannes"
+	}
+	996.5.3 = {
+		death="996.5.3"
+	}
+}
+
+7826 = {
+	name="Pietro"
+	martial=6
+	diplomacy=7
+	intrigue=8
+	stewardship=8
+	religion="catholic"
+	culture="italian"
+	trait="diligent"
+	trait="patient"
+	trait="zealous"
+	trait="charismatic_negotiator"
+	912.1.1 = {
+		birth="912.1.1"
+	}
+	983.7.10 = {
+	name="Ioannes"
+	# AKA: Pietro
+	}
+	984.8.20 = {
+		death="984.8.20"
+	}
+}
+
+7827 = {
+	name="Hildebrand"
+	martial=6
+	diplomacy=7
+	intrigue=8
+	stewardship=8
+	religion="catholic"
+	culture="italian"
+	trait="diligent"
+	trait="patient"
+	trait="zealous"
+	trait="charismatic_negotiator"
+	910.1.1 = {
+		birth="910.1.1"
+	}
+	972.9.6 = {
+	name="Benedictus"
+	# AKA: Hildebrand
+	}
+	974.7.1 = {
+		death="974.7.1"
+	}
+}
+
+7828 = {
+	name="Giovanni"
+	martial=6
+	diplomacy=7
+	intrigue=8
+	stewardship=8
+	religion="catholic"
+	culture="italian"
+	trait="diligent"
+	trait="patient"
+	trait="zealous"
+	trait="charismatic_negotiator"
+	910.1.1 = {
+		birth="910.1.1"
+	}
+	965.3.1 = {
+	name="Ioannes"
+	# AKA: Giovanni
+	}
+	972.9.6 = {
+		death="972.9.6"
+	}
+}
+
+7829 = {
+	name="John"
+	martial=6
+	diplomacy=7
+	intrigue=8
+	stewardship=8
+	religion="catholic"
+	culture="italian"
+	trait="diligent"
+	trait="patient"
+	trait="zealous"
+	trait="charismatic_negotiator"
+	910.1.1 = {
+		birth="910.1.1"
+	}
+	964.6.23 = {
+	name="Leo"
+	# AKA: John
+	}
+	965.3.1 = {
+		death="965.3.1"
+	}
+}
+
+7830 = {
+	name="John"
+	martial=6
+	diplomacy=7
+	intrigue=8
+	stewardship=8
+	religion="catholic"
+	culture="italian"
+	trait="diligent"
+	trait="patient"
+	trait="zealous"
+	trait="charismatic_negotiator"
+	910.1.1 = {
+		birth="910.1.1"
+	}
+	964.4.14 = {
+	name="Benedictus"
+	# AKA: John
+	}
+	964.6.23 = {
+		death="964.6.23"
+	}
+}
+
+7831 = {
+	name="John"
+	martial=6
+	diplomacy=7
+	intrigue=8
+	stewardship=8
+	religion="catholic"
+	culture="italian"
+	trait="diligent"
+	trait="patient"
+	trait="zealous"
+	trait="charismatic_negotiator"
+	900.1.1 = {
+		birth="900.1.1"
+	}
+	946.5.1 = {
+	name="Agapetus"
+	# AKA: John
+	}
+	955.12.16 = {
+		death="955.12.16"
+	}
+}
+
+7832 = {
+	name="John"
+	martial=6
+	diplomacy=7
+	intrigue=8
+	stewardship=8
+	religion="catholic"
+	culture="italian"
+	trait="diligent"
+	trait="patient"
+	trait="zealous"
+	trait="charismatic_negotiator"
+	880.1.1 = {
+		birth="880.1.1"
+	}
+	942.10.1 = {
+	name="Marinus"
+	# AKA: John
+	}
+	946.5.1 = {
+		death="946.5.1"
+	}
+}
+
+7833 = {
+	name="John"
+	martial=6
+	diplomacy=7
+	intrigue=8
+	stewardship=8
+	religion="catholic"
+	culture="italian"
+	trait="diligent"
+	trait="patient"
+	trait="zealous"
+	trait="charismatic_negotiator"
+	880.1.1 = {
+		birth="880.1.1"
+	}
+	939.7.13 = {
+	name="Stephanus"
+	# AKA: John
+	}
+	942.10.1 = {
+		death="942.10.1"
+	}
+}
+
+7834 = {
+	name="John"
+	martial=6
+	diplomacy=7
+	intrigue=8
+	stewardship=8
+	religion="catholic"
+	culture="italian"
+	trait="diligent"
+	trait="patient"
+	trait="zealous"
+	trait="charismatic_negotiator"
+	880.1.1 = {
+		birth="880.1.1"
+	}
+	935.12.1 = {
+	name="Leo"
+	# AKA: John
+	}
+	939.7.13 = {
+		death="939.7.13"
+	}
+}
+
+7835 = {
+	name="Stephanus"
+	martial=6
+	diplomacy=7
+	intrigue=8
+	stewardship=8
+	religion="catholic"
+	culture="italian"
+	trait="diligent"
+	trait="patient"
+	trait="zealous"
+	trait="charismatic_negotiator"
+	870.1.1 = {
+		birth="870.1.1"
+	}
+	929.1.1 = {
+	name="Stephanus"
+	# AKA: Stephanus
+	}
+	931.3.15 = {
+		death="931.3.15"
+	}
+}
+
+7836 = {
+	name="Stephanus"
+	martial=6
+	diplomacy=7
+	intrigue=8
+	stewardship=8
+	religion="catholic"
+	culture="italian"
+	trait="diligent"
+	trait="patient"
+	trait="zealous"
+	trait="charismatic_negotiator"
+	870.1.1 = {
+		birth="870.1.1"
+	}
+	928.5.1 = {
+	name="Leo"
+	# AKA: Stephanus
+	}
+	929.1.1 = {
+		death="929.1.1"
+	}
+}
+
+7837 = {
+	name="Johannes"
+	martial=6
+	diplomacy=7
+	intrigue=8
+	stewardship=8
+	religion="catholic"
+	culture="italian"
+	trait="diligent"
+	trait="patient"
+	trait="zealous"
+	trait="charismatic_negotiator"
+	870.1.1 = {
+		birth="870.1.1"
+	}
+	914.3.1 = {
+	name="Ioannes"
+	# AKA: Johannes
+	}
+	928.5.1 = {
+		death="928.5.1"
+	}
+}
+
+7838 = {
+	name="Johannes"
+	martial=6
+	diplomacy=7
+	intrigue=8
+	stewardship=8
+	religion="catholic"
+	culture="italian"
+	trait="diligent"
+	trait="patient"
+	trait="zealous"
+	trait="charismatic_negotiator"
+	870.1.1 = {
+		birth="870.1.1"
+	}
+	913.7.1 = {
+	name="Landus"
+	# AKA: Johannes
+	}
+	914.3.1 = {
+		death="914.3.1"
+	}
+}
+
+7839 = {
+	name="Johannes"
+	martial=6
+	diplomacy=7
+	intrigue=8
+	stewardship=8
+	religion="catholic"
+	culture="italian"
+	trait="diligent"
+	trait="patient"
+	trait="zealous"
+	trait="charismatic_negotiator"
+	870.1.1 = {
+		birth="870.1.1"
+	}
+	911.4.14 = {
+	name="Anastasius"
+	# AKA: Johannes
+	}
+	913.7.1 = {
+		death="913.7.1"
+	}
+}
+
+7840 = {
+	name="Johannes"
+	martial=6
+	diplomacy=7
+	intrigue=8
+	stewardship=8
+	religion="catholic"
+	culture="italian"
+	trait="diligent"
+	trait="patient"
+	trait="zealous"
+	trait="charismatic_negotiator"
+	840.1.1 = {
+		birth="840.1.1"
+	}
+	903.7.1 = {
+	name="Leo"
+	# AKA: Johannes
+	}
+	903.9.1 = {
+		death="903.9.1"
+	}
+}
+
+7841 = {
+	name="Mammalus"
+	martial=6
+	diplomacy=7
+	intrigue=8
+	stewardship=8
+	religion="catholic"
+	culture="italian"
+	trait="diligent"
+	trait="patient"
+	trait="zealous"
+	trait="charismatic_negotiator"
+	840.1.1 = {
+		birth="840.1.1"
+	}
+	900.1.1 = {
+	name="Benedictus"
+	# AKA: Mammalus
+	}
+	903.7.1 = {
+		death="903.7.1"
+	}
+}
+
+7842 = {
+	name="Mammalus"
+	martial=6
+	diplomacy=7
+	intrigue=8
+	stewardship=8
+	religion="catholic"
+	culture="italian"
+	trait="diligent"
+	trait="patient"
+	trait="zealous"
+	trait="charismatic_negotiator"
+	840.1.1 = {
+		birth="840.1.1"
+	}
+	897.12.1 = {
+	name="Ioannes"
+	# AKA: Mammalus
+	}
+	900.1.1 = {
+		death="900.1.1"
+	}
+}
+
+7843 = {
+	name="Theodorus"
+	martial=6
+	diplomacy=7
+	intrigue=8
+	stewardship=8
+	religion="catholic"
+	culture="italian"
+	trait="diligent"
+	trait="patient"
+	trait="zealous"
+	trait="charismatic_negotiator"
+	840.1.1 = {
+		birth="840.1.1"
+	}
+	897.11.1 = {
+	name="Theodorus"
+	# AKA: Theodorus
+	}
+	897.12.1 = {
+		death="897.12.1"
+	}
+}
+
+7844 = {
+	name="Theodorus"
+	martial=6
+	diplomacy=7
+	intrigue=8
+	stewardship=8
+	religion="catholic"
+	culture="italian"
+	trait="diligent"
+	trait="patient"
+	trait="zealous"
+	trait="charismatic_negotiator"
+	840.1.1 = {
+		birth="840.1.1"
+	}
+	897.8.1 = {
+	name="Romanus"
+	# AKA: Theodorus
+	}
+	897.11.1 = {
+		death="897.11.1"
+	}
+}
+
+7845 = {
+	name="John"
+	martial=6
+	diplomacy=7
+	intrigue=8
+	stewardship=8
+	religion="catholic"
+	culture="italian"
+	trait="diligent"
+	trait="patient"
+	trait="zealous"
+	trait="charismatic_negotiator"
+	840.1.1 = {
+		birth="840.1.1"
+	}
+	896.5.1 = {
+	name="Stephanus"
+	# AKA: John
+	}
+	897.8.1 = {
+		death="897.8.1"
+	}
+}
+
+7846 = {
+	name="John"
+	martial=6
+	diplomacy=7
+	intrigue=8
+	stewardship=8
+	religion="catholic"
+	culture="italian"
+	trait="diligent"
+	trait="patient"
+	trait="zealous"
+	trait="charismatic_negotiator"
+	840.1.1 = {
+		birth="840.1.1"
+	}
+	896.4.4 = {
+	name="Bonifatius"
+	# AKA: John
+	}
+	896.5.1 = {
+		death="896.5.1"
+	}
+}
+
+7847 = {
+	name="John"
+	martial=6
+	diplomacy=7
+	intrigue=8
+	stewardship=8
+	religion="catholic"
+	culture="italian"
+	trait="diligent"
+	trait="patient"
+	trait="zealous"
+	trait="charismatic_negotiator"
+	816.1.1 = {
+		birth="816.1.1"
+	}
+	891.9.14 = {
+	name="Formosus"
+	# AKA: John
+	}
+	896.4.4 = {
+		death="896.4.4"
+	}
+}
+
+7848 = {
+	name="John"
+	martial=6
+	diplomacy=7
+	intrigue=8
+	stewardship=8
+	religion="catholic"
+	culture="italian"
+	trait="diligent"
+	trait="patient"
+	trait="zealous"
+	trait="charismatic_negotiator"
+	816.1.1 = {
+		birth="816.1.1"
+	}
+	885.9.1 = {
+	name="Stephanus"
+	# AKA: John
+	}
+	891.9.14 = {
+		death="891.9.14"
+	}
+}
+
+7849 = {
+	name="John"
+	martial=6
+	diplomacy=7
+	intrigue=8
+	stewardship=8
+	religion="catholic"
+	culture="italian"
+	trait="diligent"
+	trait="patient"
+	trait="zealous"
+	trait="charismatic_negotiator"
+	816.1.1 = {
+		birth="816.1.1"
+	}
+	884.5.15 = {
+	name="Hadrianus"
+	# AKA: John
+	}
+	885.9.1 = {
+		death="885.9.1"
+	}
+}
+
+7850 = {
+	name="John"
+	martial=6
+	diplomacy=7
+	intrigue=8
+	stewardship=8
+	religion="catholic"
+	culture="italian"
+	trait="diligent"
+	trait="patient"
+	trait="zealous"
+	trait="charismatic_negotiator"
+	816.1.1 = {
+		birth="816.1.1"
+	}
+	882.12.16 = {
+	name="Marinus"
+	# AKA: John
+	}
+	884.5.15 = {
+		death="884.5.15"
+	}
+}
+
+7851 = {
+	name="Martin"
+	martial=6
+	diplomacy=7
+	intrigue=8
+	stewardship=8
+	religion="catholic"
+	culture="italian"
+	trait="diligent"
+	trait="patient"
+	trait="zealous"
+	trait="charismatic_negotiator"
+	816.1.1 = {
+		birth="816.1.1"
+	}
+	872.12.14 = {
+	name="Ioannes"
+	# AKA: Martin
+	}
+	882.12.16 = {
+		death="882.12.16"
+	}
+}
+
+7852 = {
+	name="Martin"
+	martial=6
+	diplomacy=7
+	intrigue=8
+	stewardship=8
+	religion="catholic"
+	culture="italian"
+	trait="diligent"
+	trait="patient"
+	trait="zealous"
+	trait="charismatic_negotiator"
+	792.1.1 = {
+		birth="792.1.1"
+	}
+	867.11.13 = {
+	name="Hadrianus"
+	# AKA: Martin
+	}
+	872.12.14 = {
+		death="872.12.14"
+	}
+}
+
+7853 = {
+	name="Martin"
+	martial=6
+	diplomacy=7
+	intrigue=8
+	stewardship=8
+	religion="catholic"
+	culture="italian"
+	trait="diligent"
+	trait="patient"
+	trait="zealous"
+	trait="charismatic_negotiator"
+	800.1.1 = {
+		birth="800.1.1"
+	}
+	858.4.17 = {
+	name="Nicolaus"
+	# AKA: Martin
+	}
+	867.11.13 = {
+		death="867.11.13"
+	}
+}
+
+7854 = {
+	name="Martin"
+	martial=6
+	diplomacy=7
+	intrigue=8
+	stewardship=8
+	religion="catholic"
+	culture="italian"
+	trait="diligent"
+	trait="patient"
+	trait="zealous"
+	trait="charismatic_negotiator"
+	790.1.1 = {
+		birth="790.1.1"
+	}
+	855.7.17 = {
+	name="Benedictus"
+	# AKA: Martin
+	}
+	858.4.17 = {
+		death="858.4.17"
+	}
+}
+
+7855 = {
+	name="Martin"
+	martial=6
+	diplomacy=7
+	intrigue=8
+	stewardship=8
+	religion="catholic"
+	culture="italian"
+	trait="diligent"
+	trait="patient"
+	trait="zealous"
+	trait="charismatic_negotiator"
+	790.1.1 = {
+		birth="790.1.1"
+	}
+	847.1.24 = {
+	name="Leo"
+	# AKA: Martin
+	}
+	855.7.17 = {
+		death="855.7.17"
+	}
+}
+
+7856 = {
+	name="Martin"
+	martial=6
+	diplomacy=7
+	intrigue=8
+	stewardship=8
+	religion="catholic"
+	culture="italian"
+	trait="diligent"
+	trait="patient"
+	trait="zealous"
+	trait="charismatic_negotiator"
+	790.1.1 = {
+		birth="790.1.1"
+	}
+	844.1.11 = {
+	name="Sergius"
+	# AKA: Martin
+	}
+	847.1.24 = {
+		death="847.1.24"
+	}
+}
+
+7857 = {
+	name="Martin"
+	martial=6
+	diplomacy=7
+	intrigue=8
+	stewardship=8
+	religion="catholic"
+	culture="italian"
+	trait="diligent"
+	trait="patient"
+	trait="zealous"
+	trait="charismatic_negotiator"
+	770.1.1 = {
+		birth="770.1.1"
+	}
+	827.9.16 = {
+	name="Gregorius"
+	# AKA: Martin
+	}
+	844.1.11 = {
+		death="844.1.11"
+	}
+}
+
+7858 = {
+	name="Martin"
+	martial=6
+	diplomacy=7
+	intrigue=8
+	stewardship=8
+	religion="catholic"
+	culture="italian"
+	trait="diligent"
+	trait="patient"
+	trait="zealous"
+	trait="charismatic_negotiator"
+	770.1.1 = {
+		birth="770.1.1"
+	}
+	827.8.27 = {
+	name="Valentinus"
+	# AKA: Martin
+	}
+	827.9.16 = {
+		death="827.9.16"
+	}
+}
+
+7859 = {
+	name="Martin"
+	martial=6
+	diplomacy=7
+	intrigue=8
+	stewardship=8
+	religion="catholic"
+	culture="italian"
+	trait="diligent"
+	trait="patient"
+	trait="zealous"
+	trait="charismatic_negotiator"
+	770.1.1 = {
+		birth="770.1.1"
+	}
+	824.2.11 = {
+	name="Eugenius"
+	# AKA: Martin
+	}
+	827.8.27 = {
+		death="827.8.27"
+	}
+}
+
+7860 = {
+	name="Pascal"
+	martial=6
+	diplomacy=7
+	intrigue=8
+	stewardship=8
+	religion="catholic"
+	culture="italian"
+	trait="diligent"
+	trait="patient"
+	trait="zealous"
+	trait="charismatic_negotiator"
+	750.1.1 = {
+		birth="750.1.1"
+	}
+	817.1.24 = {
+	name="Paschalis"
+	# AKA: Pascal
+	}
+	824.2.11 = {
+		death="824.2.11"
+	}
+}
+
+7861 = {
+	name="Pascal"
+	martial=6
+	diplomacy=7
+	intrigue=8
+	stewardship=8
+	religion="catholic"
+	culture="italian"
+	trait="diligent"
+	trait="patient"
+	trait="zealous"
+	trait="charismatic_negotiator"
+	750.1.1 = {
+		birth="750.1.1"
+	}
+	816.6.12 = {
+	name="Stephanus"
+	# AKA: Pascal
+	}
+	817.1.24 = {
+		death="817.1.24"
+	}
+}
+
+7862 = {
+	name="Pascal"
+	martial=6
+	diplomacy=7
+	intrigue=8
+	stewardship=8
+	religion="catholic"
+	culture="italian"
+	trait="diligent"
+	trait="patient"
+	trait="zealous"
+	trait="charismatic_negotiator"
+	750.1.1 = {
+		birth="750.1.1"
+	}
+	795.12.25 = {
+	name="Leo"
+	# AKA: Pascal
+	}
+	816.6.12 = {
+		death="816.6.12"
+	}
+}
+
+7863 = {
+	name="Theodore"
+	martial=6
+	diplomacy=7
+	intrigue=8
+	stewardship=8
+	religion="catholic"
+	culture="italian"
+	trait="diligent"
+	trait="patient"
+	trait="zealous"
+	trait="charismatic_negotiator"
+	700.1.1 = {
+		birth="700.1.1"
+	}
+	772.1.24 = {
+	name="Hadrianus"
+	# AKA: Theodore
+	}
+	795.12.25 = {
+		death="795.12.25"
+	}
+}
+
+7864 = {
+	name="Theodore"
+	martial=6
+	diplomacy=7
+	intrigue=8
+	stewardship=8
+	religion="catholic"
+	culture="italian"
+	trait="diligent"
+	trait="patient"
+	trait="zealous"
+	trait="charismatic_negotiator"
+	700.1.1 = {
+		birth="700.1.1"
+	}
+	767.6.28 = {
+	name="Stephanus"
+	# AKA: Theodore
+	}
+	772.1.24 = {
+		death="772.1.24"
+	}
+}
+
+7865 = {
+	name="Theodore"
+	martial=6
+	diplomacy=7
+	intrigue=8
+	stewardship=8
+	religion="catholic"
+	culture="italian"
+	trait="diligent"
+	trait="patient"
+	trait="zealous"
+	trait="charismatic_negotiator"
+	700.1.1 = {
+		birth="700.1.1"
+	}
+	757.4.29 = {
+	name="Paulus"
+	# AKA: Theodore
+	}
+	767.6.28 = {
+		death="767.6.28"
+	}
+}
+
+7895 = {
+	name="Theodore"
+	martial=6
+	diplomacy=7
+	intrigue=8
+	stewardship=8
+	religion="catholic"
+	culture="italian"
+	trait="diligent"
+	trait="patient"
+	trait="zealous"
+	trait="charismatic_negotiator"
+	700.1.1 = {
+		birth="700.1.1"
+	}
+	752.3.22 = {
+	name="Stephanus"
+	# AKA: Theodore
+	}
+	757.4.29 = {
+		death="757.4.29"
+	}
+}
+
+7007001 = {
+	name = "Pierre" # Clemens VI
+	religion = catholic
+	culture = italian
+	1291.1.1 = {
+	  birth = yes   
+	} 
+	1291.3.22 = {
+	name = "Clemens"
+	}
+	1352.12.6 = {
+	  death = yes            
+	} 
+}
+
+7007002 = {
+	name = "Étienne" # Innocentius VI
+	religion = catholic
+	culture = italian
+	1282.1.1 = {
+	  birth = yes   
+	} 
+	1282.3.22 = {
+	name = "Innocentius"
+	}
+	1362.9.12 = {
+	  death = yes            
+	} 
+}
+
+7007003 = {
+	name = "Guillaume" # Urbanus V
+	religion = catholic
+	culture = italian
+	1310.1.1 = {
+	  birth = yes   
+	} 
+	1310.3.22 = {
+	name = "Urbanus"
+	}
+	1370.12.19 = {
+	  death = yes            
+	} 
+}
+
+7007002 = {
+	name = "Étienne" # Innocentius VI
+	religion = catholic
+	culture = italian
+	1291.1.1 = {
+	  birth = yes   
+	} 
+	1291.3.22 = {
+	name = "Innocentius"
+	}
+	1352.12.6 = {
+	  death = yes            
+	} 
+}
+
+7007002 = {
+	name = "Étienne" # Innocentius VI
+	religion = catholic
+	culture = italian
+	1291.1.1 = {
+	  birth = yes   
+	} 
+	1291.3.22 = {
+	name = "Innocentius"
+	}
+	1352.12.6 = {
+	  death = yes            
+	} 
+}

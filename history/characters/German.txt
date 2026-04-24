@@ -933,7 +933,6 @@
    		}
 	}
 	1693.3.8 = {
-		death = yes
 	}
 }
 
@@ -1572,15 +1571,6 @@
 	}
 }
 
-#100250 = { 
-#	name = "Moritz Wilhelm" # Moritz Wilhelm, Duke of Saxe-Zeitz
-#	religion = protestant
-#	culture = german
-#	dynasty = 20
-#	1664.3.12 = {
-#		birth = yes
-#	}
-#}
 
 100251 = {
 	name = "Johann Philipp" # Johann Philipp von Greifenclau zu Vollraths
@@ -1709,6 +1699,7 @@
 	name = "Felipe" # Philip II of Spain
 	religion = catholic
 	culture = german
+	culture = castillan
 	dynasty = 7
 	father = 100270
 	mother = 100272
@@ -1781,6 +1772,7 @@
 	name = "Ferdinand" # Ferdinand I, Holy Roman Emperor
 	religion = catholic
 	culture = german
+	culture = castillan
 	dynasty = 7
 	father = 100264
 	mother = 100265

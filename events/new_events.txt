@@ -29,3 +29,66 @@ narrative_event = {
 		}
 	}
 }
+
+character_event = {
+	id = lar.1
+	desc = "Nothing"
+	is_triggered_only = yes
+	
+	
+	trigger = {
+		current_heir = { NOT = { dynasty = ROOT } }
+	}
+	
+	option = {
+		name = "supportPhillipV"
+		
+		trigger = {
+			trait = inbred
+			has_landed_title = e_spain
+		}
+		
+		transfer_scaled_wealth = { to = c_100047 value = all }
+		
+		any_artifact = {
+			transfer_artifact = {
+				from = c_100049
+				to = c_100047
+			}
+		}
+		
+		abdicate_to = c_100047
+		
+		set_player_character = c_100047
+
+		c_100049 = {
+			death = yes
+		}
+	}
+	
+	option = {
+		name = "supportCharlesIII"
+
+		trigger = {
+			trait = inbred
+			has_landed_title = e_spain
+		}
+		
+		transfer_scaled_wealth = { to = c_100185 value = all }
+		
+		any_artifact = {
+			transfer_artifact = {
+				from = c_100049
+				to = c_100185
+			}
+		}
+
+		abdicate_to = c_100185
+		
+		set_player_character = c_100185
+		
+		c_100049 = {
+			death = yes
+		}
+	}
+}

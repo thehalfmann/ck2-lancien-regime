@@ -125,6 +125,8 @@
 	religion = catholic
 	culture = castillan
 	dynasty = 71
+	father = 1000001
+	mother = 1000003
 	give_nickname = nick_the_mad
 	1479.11.6 = {
 	  birth = yes
@@ -307,7 +309,6 @@
 
   100574 = {
 	name = "Baltasar Manrique" # Baltasar Manrique de Mendoza de los Cobos y Luna
-	dynasty = 181
 	religion = catholic
 	culture = castillan
 	1650.1.1 = {
@@ -326,8 +327,7 @@
   }
 
   100576 = {
-	name = "Alfonso Perez" # Alfonso Perez de Guzmán y Marañon
-	dynasty = 182
+	name = "Alfonso Perez de Guzmán y Marañon"
 	religion = catholic
 	culture = castillan
 	1650.1.1 = {
@@ -409,3 +409,813 @@
 		death = yes  
 	}
 }
+
+  1000001 = {
+	name = "Isabel" # Isabel of Castile
+	female = yes
+	religion = catholic
+	culture = castillan
+	dynasty = 71
+	father = 1000002
+	mother = 1000053
+	give_nickname = nick_the_catholicfem
+	1451.4.22 = {
+	  birth = yes   
+	}   
+	  1504.11.26 = {
+	  death = yes            
+	} 
+  }
+    1000053 = {
+	name = "Isabel" # Isabel of Avis
+	female = yes
+	religion = catholic
+	culture = portuguese
+	dynasty = 72
+	1428.1.1 = {
+	  birth = yes   
+	}   
+	  1496.1.1 = {
+	  death = yes            
+	} 
+  }
+ 
+   1000003 = {
+	name = "Fernando" # Fernando II of Aragon
+	religion = catholic
+	culture = castillan
+	dynasty = 71
+	father = 1000004
+	mother = 1000005
+	give_nickname = nick_the_catholic
+	1452.3.10 = {
+	  birth = yes   
+	}
+	1469.10.1 = {
+		  add_spouse=1000001  
+	}     
+	1516.1.23 = {
+	  death = yes            
+	} 
+  }
+   
+   1000004 = {
+	name = "Juan" # Juan II of Aragon
+	religion = catholic
+	culture = castillan
+	dynasty = 71
+	give_nickname = nick_the_great
+	1398.6.29 = {
+	  birth = yes   
+	}
+	1447.1.1 = {
+		  add_spouse=1000005 
+	}     
+	1479.1.20 = {
+	  death = yes            
+	} 
+  }
+  
+   1000005 = {
+	name = "Juana" # Juana Enríquez
+	female = yes
+	religion = catholic
+	culture = castillan
+	dynasty = 184
+	1425.1.1 = {
+	  birth = yes   
+	}   
+	  1468.2.13 = {
+	  death = yes            
+	} 
+  }
+ 
+   1000006 = {
+	name = "Enrique" # Enrique IV of Castile
+	religion = catholic
+	culture = castillan
+	dynasty = 71
+	father = 1000002
+	1425.1.5 = {
+	  birth = yes   
+	}   
+	1474.12.11 = {
+	  death = yes            
+	} 
+  }
+  
+   1000002 = {
+	name = "Juan" # Juan II of Castile
+	religion = catholic
+	culture = castillan
+	dynasty = 71
+	father = 1000007
+	1406.3.6 = {
+	  birth = yes   
+	}
+	1447.10.1 = {
+		  add_spouse=1000053
+	}     
+	1454.7.21 = {
+	  death = yes            
+	} 
+  }
+  
+   1000007 = {
+	name = "Enrique" # Enrique III of Castile
+	religion = catholic
+	culture = castillan
+	dynasty = 71
+	father = 1000008
+	1379.10.4 = {
+	  birth = yes   
+	}   
+	1406.12.25 = {
+	  death = yes            
+	} 
+  }
+    
+   1000008 = {
+	name = "Juan" # Juan I of Castile
+	religion = catholic
+	culture = castillan
+	dynasty = 71
+	father = 1000009
+	1358.8.24 = {
+	  birth = yes   
+	}   
+	1390.10.9 = {
+	  death = yes            
+	} 
+  }
+    
+   1000009 = {
+	name = "Enrique" # Enrique II of Castile
+	religion = catholic
+	culture = castillan
+	dynasty = 71
+	father = 1000010
+	give_nickname = nick_the_generous
+	1334.1.13 = {
+	  birth = yes   
+	}   
+	1379.5.29 = {
+	  death = yes            
+	} 
+  }
+    
+   1000011 = {
+	name = "Pedro" # Pedro of Castile
+	religion = catholic
+	culture = castillan
+	dynasty = 180
+	father = 1000010
+	1334.8.30 = {
+	  birth = yes   
+	}   
+	1369.3.23 = {
+	  death = yes            
+	} 
+  }
+
+   1000010 = {
+	name = "Alfonso" # Alfonso XI of Castile
+	religion = catholic
+	culture = castillan
+	dynasty = 180
+	father = 1000012
+	give_nickname = nick_the_justiciero
+	1311.8.13 = {
+	  birth = yes   
+	}   
+	1350.3.26 = {
+	  death = yes            
+	} 
+  }
+
+   1000012 = {
+	name = "Fernando" # Fernando IV of Castile
+	religion = catholic
+	culture = castillan
+	dynasty = 180
+	father = 1000013
+	give_nickname = nick_the_summoned
+	1285.12.6 = {
+	  birth = yes   
+	}   
+	1312.9.7 = {
+	  death = yes            
+	} 
+  }
+  
+   1000013 = {
+	name = "Sancho" # Sancho IV of Castile
+	religion = catholic
+	culture = castillan
+	dynasty = 180
+	father = 1000014
+	give_nickname = nick_the_brave
+	1258.5.12 = {
+	  birth = yes   
+	}   
+	1295.4.25 = {
+	  death = yes            
+	} 
+  }
+  
+   1000014 = {
+	name = "Alfonso" # Alfonso X of Castile
+	religion = catholic
+	culture = castillan
+	dynasty = 180
+	father = 1000015
+	give_nickname = nick_the_wise
+	1221.11.23 = {
+	  birth = yes   
+	}   
+	1284.4.4 = {
+	  death = yes            
+	} 
+  }
+   
+   1000015 = {
+	name = "Fernando" # Fernando III of Castile
+	religion = catholic
+	culture = castillan
+	dynasty = 180
+	father = 1000016
+	give_nickname = nick_the_saint
+	1199.1.1 = {
+	  birth = yes   
+	}   
+	1252.5.30 = {
+	  death = yes            
+	} 
+  }
+   
+   1000016 = {
+	name = "Alfonso" # Alfonso IX of Leon
+	religion = catholic
+	culture = leonese
+	dynasty = 180
+	father = 1000017
+	1171.1.23 = {
+	  birth = yes   
+	}   
+	1230.9.24 = {
+	  death = yes            
+	} 
+  }
+   
+   1000017 = {
+	name = "Fernando" # Fernando II of Leon
+	religion = catholic
+	culture = leonese
+	dynasty = 180
+	father = 1000018 # Alfonso VII of Leon
+	1137.1.1 = {
+	  birth = yes   
+	}   
+	1188.1.22 = {
+	  death = yes            
+	} 
+  }
+    
+   1000019 = {
+	name = "Enrique" # Enrique I of Castile
+	religion = catholic
+	culture = castillan
+	dynasty = 180
+	father = 1000020
+	1204.4.14 = {
+	  birth = yes   
+	}   
+	1217.6.6 = {
+	  death = yes            
+	} 
+  }
+
+   1000020 = {
+	name = "Alfonso" # Alfonso VIII of Castile
+	religion = catholic
+	culture = castillan
+	dynasty = 180
+	father = 1000021
+	give_nickname = nick_the_navas
+	1155.11.11 = {
+	  birth = yes   
+	}   
+	1214.10.6 = {
+	  death = yes            
+	} 
+  }
+
+   1000021 = {
+	name = "Sancho" # Sancho III of Castile
+	religion = catholic
+	culture = castillan
+	dynasty = 180
+	father = 1000018
+	1133.1.1 = {
+	  birth = yes   
+	}   
+	1158.8.31 = {
+	  death = yes            
+	} 
+  }
+  
+   1000018 = {
+	name = "Alfonso" # Alfonso VII of Leon
+	religion = catholic
+	culture = leonese
+	dynasty = 180
+	father = 1000022
+	mother = 1000023
+	1105.3.1 = {
+	  birth = yes   
+	}   
+	1157.8.21 = {
+	  death = yes            
+	} 
+  }
+    
+   1000022 = {
+	name = "Raymond" # Raymond of Bourgogne
+	religion = catholic
+	culture = french
+	dynasty = 180
+	1070.1.1 = {
+	  birth = yes   
+	}   
+	1090.1.1 = {
+	    add_spouse=1000023   
+	}
+	1107.9.20 = {
+	  death = yes            
+	} 
+  }
+    
+   1000023 = {
+	name = "Urraca" # Urraca of Leon
+	female = yes
+	religion = catholic
+	culture = leonese
+	dynasty = 181
+	father = 1000024
+	1081.6.24 = {
+	  birth = yes   
+	}   
+	1126.3.8 = {
+	  death = yes            
+	} 
+  }
+   
+   1000024 = {
+	name = "Alfonso" # Alfonso VI of Leon
+	religion = catholic
+	culture = leonese
+	dynasty = 181
+	father = 1000025
+	give_nickname = nick_the_brave
+	1040.1.1 = {
+	  birth = yes   
+	}   
+	1109.7.1 = {
+	  death = yes            
+	} 
+  }
+      
+   1000026 = {
+	name = "Sancho" # Sancho II of Castile
+	religion = catholic
+	culture = castillan
+	dynasty = 181
+	father = 1000025
+	1038.1.1 = {
+	  birth = yes   
+	}   
+	1072.10.7 = {
+	  death = yes            
+	} 
+  }
+  
+   1000025 = {
+	name = "Fernando" # Fernando I of Leon
+	religion = catholic
+	culture = castillan
+	dynasty = 181
+	give_nickname = nick_the_great
+	1016.1.1 = {
+	  birth = yes   
+	}   
+	1065.12.27 = {
+	  death = yes            
+	} 
+  }
+  
+   1000027 = {
+	name = "Bermudo" # Bermudo III of Leon
+	religion = catholic
+	culture = leonese
+	dynasty = 182
+	father = 1000028
+	give_nickname = nick_the_young
+	1017.1.1 = {
+	  birth = yes   
+	}   
+	1037.9.4 = {
+	  death = yes            
+	} 
+  }
+   
+   1000028 = {
+	name = "Alfonso" # Alfonso V of Leon
+	religion = catholic
+	culture = leonese
+	dynasty = 182
+	father = 1000029
+	give_nickname = nick_the_noble
+	994.1.1 = {
+	  birth = yes   
+	}   
+	1028.1.1 = {
+	  death = yes            
+	} 
+  }
+
+   1000029 = {
+	name = "Bermudo" # Bermudo II of Leon
+	religion = catholic
+	culture = leonese
+	dynasty = 182
+	father = 1000030
+	give_nickname = nick_the_gouty
+	948.1.1 = {
+	  birth = yes   
+	}   
+	999.1.1 = {
+	  death = yes            
+	} 
+  }
+     
+   1000030 = {
+	name = "Ordoño" # Ordoño III of Leon
+	religion = catholic
+	culture = leonese
+	dynasty = 182
+	father = 1000031
+	925.1.1 = {
+	  birth = yes   
+	}   
+	956.1.1 = {
+	  death = yes            
+	} 
+  }
+     
+   1000032 = {
+	name = "Ramiro" # Ramiro III of Leon
+	religion = catholic
+	culture = leonese
+	dynasty = 182
+	father = 1000033
+	961.1.1 = {
+	  birth = yes   
+	}   
+	985.1.1 = {
+	  death = yes            
+	} 
+  }
+  
+   1000033 = {
+	name = "Sancho" # Sancho I of Leon
+	religion = catholic
+	culture = leonese
+	dynasty = 182
+	father = 1000031
+	give_nickname = nick_the_crassus
+	935.1.1 = {
+	  birth = yes   
+	}   
+	966.1.1 = {
+	  death = yes            
+	} 
+  }
+  
+   1000031 = {
+	name = "Ramiro" # Ramiro II of Leon
+	religion = catholic
+	culture = leonese
+	dynasty = 182
+	father = 1000034
+	give_nickname = nick_the_great
+	898.1.1 = {
+	  birth = yes   
+	}   
+	951.1.1 = {
+	  death = yes            
+	} 
+  }
+    
+   1000035 = {
+	name = "Alfonso" # Alfonso IV of Leon
+	religion = catholic
+	culture = leonese
+	dynasty = 182
+	father = 1000034
+	give_nickname = nick_the_monk
+	899.1.1 = {
+	  birth = yes   
+	}   
+	931.1.1 = {
+	  death = yes            
+	} 
+  }
+    
+   1000036 = {
+	name = "Ordoño" # Ordoño IV of Leon
+	religion = catholic
+	culture = leonese
+	dynasty = 182
+	father = 1000035
+	give_nickname = nick_the_bad
+	925.1.1 = {
+	  birth = yes   
+	}   
+	962.1.1 = {
+	  death = yes            
+	} 
+  }
+  
+   1000038 = {
+	name = "Fruela" # Fruela II of Leon
+	religion = catholic
+	culture = leonese
+	dynasty = 182
+	father = 1000037
+	give_nickname = nick_the_leper
+	874.1.1 = {
+	  birth = yes   
+	}   
+	925.1.1 = {
+	  death = yes            
+	} 
+  }   
+   
+   1000034 = {
+	name = "Ordoño" # Ordoño II of Leon
+	religion = catholic
+	culture = leonese
+	dynasty = 182
+	father = 1000037
+	875.1.1 = {
+	  birth = yes   
+	}   
+	924.1.1 = {
+	  death = yes            
+	} 
+  }
+    
+   1000039 = {
+	name = "García" # García I of Leon
+	religion = catholic
+	culture = leonese
+	dynasty = 182
+	father = 1000037
+	870.1.1 = {
+	  birth = yes   
+	}   
+	914.1.1 = {
+	  death = yes            
+	} 
+  }
+    
+   1000037 = {
+	name = "Alfonso" # Alfonso III of Asturias
+	religion = catholic
+	culture = leonese
+	dynasty = 182
+	father = 1000039
+	give_nickname = nick_the_great
+	852.1.1 = {
+	  birth = yes   
+	}   
+	910.1.1 = {
+	  death = yes            
+	} 
+  }
+    
+   1000039 = {
+	name = "Ordoño" # Ordoño I of Asturias
+	religion = catholic
+	culture = leonese
+	dynasty = 182
+	father = 1000051
+	821.1.1 = {
+	  birth = yes   
+	}   
+	866.1.1 = {
+	  death = yes            
+	} 
+  }
+ 
+   1000040 = {
+	name = "Bermudo" # Bermudo I of Asturias
+	religion = catholic
+	culture = leonese
+	dynasty = 182
+	father = 1000041
+	750.1.1 = {
+	  birth = yes   
+	}   
+	797.1.1 = {
+	  death = yes            
+	} 
+  }
+      
+   1000052 = {
+	name = "Aurelio" # Aurelio of Asturias
+	religion = catholic
+	culture = leonese
+	dynasty = 182
+	father = 1000041
+	740.1.1 = {
+	  birth = yes   
+	}   
+	774.1.1 = {
+	  death = yes            
+	} 
+  }
+      
+   1000041 = {
+	name = "Fruela" # Fruela Pérez of Cantabria
+	religion = catholic
+	culture = leonese
+	dynasty = 182
+	father = 1000042
+	708.1.1 = {
+	  birth = yes   
+	}   
+	756.1.1 = {
+	  death = yes            
+	} 
+  }
+      
+   1000042 = {
+	name = "Pedro" # Pedro of Cantabria
+	religion = catholic
+	culture = leonese
+	dynasty = 182
+	671.1.1 = {
+	  birth = yes   
+	}   
+	726.1.1 = {
+	  death = yes            
+	} 
+  }
+       
+   1000043 = {
+	name = "Mauregato" # Mauregato of Asturias
+	religion = catholic
+	culture = leonese
+	dynasty = 182
+	father = 1000044
+	719.1.1 = {
+	  birth = yes   
+	}   
+	788.1.1 = {
+	  death = yes            
+	} 
+  }
+       
+   1000045 = {
+	name = "Silo" # Silo of Asturias
+	religion = catholic
+	culture = leonese
+	dynasty = 182
+	father = 1000044
+	718.1.1 = {
+	  birth = yes   
+	}   
+	783.1.1 = {
+	  death = yes            
+	} 
+  }
+       
+   1000044 = {
+	name = "Alfonso" # Alfonso I of Asturias
+	religion = catholic
+	culture = leonese
+	dynasty = 182
+	father = 1000042
+	693.1.1 = {
+	  birth = yes   
+	}
+	722.1.1 = {
+		add_spouse=1000048    
+	}	
+	739.1.1 = {
+	  death = yes            
+	} 
+  }
+       
+   1000045 = {
+	name = "Silo" # Silo of Asturias
+	religion = catholic
+	culture = leonese
+	dynasty = 182
+	father = 1000044
+	718.1.1 = {
+	  birth = yes   
+	}   
+	783.1.1 = {
+	  death = yes            
+	} 
+  }
+
+   1000046 = {
+	name = "Alfonso" # Alfonso II of Asturias
+	religion = catholic
+	culture = leonese
+	dynasty = 183
+	father = 1000047
+	give_nickname = nick_the_chaste
+	760.1.1 = {
+	  birth = yes   
+	}   
+	842.1.1 = {
+	  death = yes            
+	} 
+  }  
+  
+   1000047 = {
+	name = "Fruela" # Fruela I of Asturias
+	religion = catholic
+	culture = leonese
+	dynasty = 183
+	father = 1000042
+	mother = 1000048
+	give_nickname = nick_the_cruel
+	722.9.1 = {
+	  birth = yes   
+	}   
+	842.1.1 = {
+	  death = yes            
+	} 
+  }
+          
+   1000048 = {
+	name = "Ermesinda" # Ermesinda of Asturias
+	female = yes
+	religion = catholic
+	culture = leonese
+	dynasty = 183
+	father = 1000050
+	702.1.1 = {
+	  birth = yes   
+	}   
+	740.1.1 = {
+	  death = yes            
+	} 
+  }
+  
+   1000049 = {
+	name = "Fafila" # Fafila of Asturias
+	religion = catholic
+	culture = leonese
+	dynasty = 183
+	father = 1000050
+	700.1.1 = {
+	  birth = yes   
+	}   
+	739.1.1 = {
+	  death = yes            
+	} 
+  }  
+  
+   1000050 = {
+	name = "Pelayo" # Pelayo of Asturias
+	religion = catholic
+	culture = leonese
+	dynasty = 183
+	680.1.1 = {
+	  birth = yes   
+	}   
+	737.1.1 = {
+	  death = yes            
+	} 
+  }  
+      
+   1000051 = {
+	name = "Ramiro" # Ramiro I of Asturias
+	religion = catholic
+	culture = leonese
+	dynasty = 182
+	father = 1000040
+	790.1.1 = {
+	  birth = yes   
+	}   
+	866.1.1 = {
+	  death = yes            
+	} 
+  }
+ 

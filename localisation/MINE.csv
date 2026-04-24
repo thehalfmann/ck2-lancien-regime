@@ -1,0 +1,447 @@
+#IBERIAN TITLE NAMES;;;;;;;;;;;;;;
+#IBERIAN;;;;;;;;;;;;;;
+##ARAGONESE;;;;;;;;;;;;;;
+###FEUDAL;;;;;;;;;;;;;;
+####RULERS;;;;;;;;;;;;;;
+baron_aragonese;Don;;;;Don;;;;;;;;x;
+baron_female_aragonese;Doña;;;;Doña;;;;;;;;;x
+count_aragonese;Lord;;;;Señor;;;;;;;;;x
+count_female_aragonese;Lady;;;;Señora;;;;;;;;;x
+duke_aragonese;Duque;;;;Duque;;;;;;;;;x
+duke_female_aragonese;Duquesa;;;;Duquesa;;;;;;;;;x
+king_aragonese;King;;;;Rey;;;;;;;;;x
+king_female_aragonese;Queen;;;;Reina;;;;;;;;;x
+emperor_aragonese;King;;;;Rey;;;;;;;;;x
+emperor_female_aragonese;Queen;;;;Reina;;;;;;;;;x
+####TITLES;;;;;;;;;;;;;;
+barony_aragonese;Lordship;;;;Señorío;;;;;;;;;x
+county_aragonese;Lordship;;;;Señorío;;;;;;;;;x
+duchy_aragonese;Duchy;;;;Ducado;;;;;;;;;x
+kingdom_aragonese;Kingdom;;;;Reino;;;;;;;;;x
+empire_aragonese;Crown;;;;Corona;;;;;;;;;x
+####TITLES_OF;;;;;;;;;;;;;;
+barony_of_aragonese;Señorio de;;;;Señorío de;;;;;;;;;x
+county_of_aragonese;Señorio de;;;;Señorío de;;;;;;;;;x
+duchy_of_aragonese;Ducado de;;;;Ducado de;;;;;;;;;x
+kingdom_of_aragonese;Reino de;;;;Reino de;;;;;;;;;x
+empire_of_aragonese;Corona de;;;;Corona de;;;;;;;;;x
+###TRIBAL;;;;;;;;;;;;;;
+####RULERS;;;;;;;;;;;;;;
+tribal_baron_aragonese;Don;;;;Don;;;;;;;;x;
+tribal_baron_female_aragonese;Doña;;;;Doña;;;;;;;;;x
+tribal_count_aragonese;Señor;;;;Señor;;;;;;;;;x
+tribal_count_female_aragonese;Señora;;;;Señor;;;;;;;;;x
+tribal_duke_aragonese;Conte;;;;Conte;;;;;;;;;x
+tribal_duke_female_aragonese;Contesa;;;;Contesa;;;;;;;;;x
+tribal_king_aragonese;Rey;;;;Rey;;;;;;;;;x
+tribal_king_female_aragonese;Reyna;;;;Reyna;;;;;;;;;x
+tribal_emperor_aragonese;Rey;;;;Rey;;;;;;;;;x
+tribal_emperor_female_aragonese;Reyna;;;;Reyna;;;;;;;;;x
+####TITLES;;;;;;;;;;;;;;
+tribal_barony_aragonese;Señorio;;;;Señorío;;;;;;;;;x
+tribal_county_aragonese;Señorio;;;;Señorío;;;;;;;;;x
+tribal_duchy_aragonese;Contado;;;;Contado;;;;;;;;;x
+tribal_kingdom_aragonese;Reyno;;;;Reyno;;;;;;;;;x
+tribal_empire_aragonese;Corona;;;;Corona;;;;;;;;;x
+####TITLES_OF;;;;;;;;;;;;;;
+tribal_barony_of_aragonese;Señorio de;;;;Señorío de;;;;;;;;;x
+tribal_county_of_aragonese;Señorio de;;;;Señorío de;;;;;;;;;x
+tribal_duchy_of_aragonese;Contado de;;;;Contado de;;;;;;;;;x
+tribal_kingdom_of_aragonese;Reyno de;;;;Reyno de;;;;;;;;;x
+tribal_empire_of_aragonese;Corona de;;;;Corona de;;;;;;;;;x
+###MISC;;;;;;;;;;;;;;
+title_prince_aragonese;Infante;;;;Infante;;;;;;;;;x
+title_prince_female_aragonese;Infanta;;;;Infanta;;;;;;;;;x
+###JOBS;;;;;;;;;;;;;;
+job_chancellor_aragonese;Secretario;;;;Secretario;;;;;;;;;x
+job_marshal_aragonese;Álferez;;;;Álferez;;;;;;;;;x
+job_treasurer_aragonese;Contador;;;;Contador;;;;;;;;;x
+job_spymaster_aragonese;Inquisidor;;;;Inquisidor;;;;;;;;;x
+job_spiritual_aragonese;Capellán;;;;Capellán;;;;;;;;;x
+##BASQUE;;;;;;;;;;;;;;
+###FEUDAL;;;;;;;;;;;;;;
+####RULERS;;;;;;;;;;;;;;
+baron_basque;Jauna;;;;Jauna;;;;;;;;;x
+baron_female_basque;Dama;;;;Dama;;;;;;;;;x
+count_basque;Kondea;;;;Kondea;;;;;;;;;x
+count_female_basque;Kondesa;;;;Kondesa;;;;;;;;;x
+duke_basque;Dukea;;;;Dukea;;;;;;;;;x
+duke_female_basque;Dukesa;;;;Dukesa;;;;;;;;;x
+king_basque;Erregea;;;;Erregea;;;;;;;;;x
+king_female_basque;Erregina;;;;Erregina;;;;;;;;;x
+emperor_basque;Erregea;;;;Erregea;;;;;;;;;x
+emperor_female_basque;Erregina;;;;Erregina;;;;;;;;;x
+####TITLES;;;;;;;;;;;;;;
+barony_basque;Jaurerria;;;;Jaurerria;;;;;;;;;x
+county_basque;Konderri;;;;Konderri;;;;;;;;;x
+duchy_basque;Dukerri;;;;Dukerri;;;;;;;;;x
+kingdom_basque;Erresuma;;;;Erresuma;;;;;;;;;x
+empire_basque;Koroa;;;;Koroa;;;;;;;;;x
+####TITLES_OF;;;;;;;;;;;;;;
+barony_of_basque;Jaurerria;;;;Jaurerria;;;;;;;;;x
+county_of_basque;Konderri;;;;Konderri;;;;;;;;;x
+duchy_of_basque;Dukerri;;;;Dukerri;;;;;;;;;x
+kingdom_of_basque;Erresuma;;;;Erresuma;;;;;;;;;x
+empire_of_basque;Koroa;;;;Koroa;;;;;;;;;x
+###REPUBLICAN;;;;;;;;;;;;;;
+####RULERS;;;;;;;;;;;;;;
+city_baron_basque;Auzapez;;;;Auzapez;;;;;;;;;x
+city_baron_female_basque;Auzapezeme;;;;Auzapezeme;;;;;;;;;x
+city_count_basque;Auzapesaso;;;;Auzapesaso;;;;;;;;;x
+city_count_female_basque;Auzapesaseme;;;;Auzapesaseme;;;;;;;;;x
+city_duke_basque;Gobernari;;;;Gobernari;;;;;;;;;x
+city_duke_female_basque;Gobernareme;;;;Gobernareme;;;;;;;;;x
+city_king_basque;Printze;;;;Printze;;;;;;;;;x
+city_king_female_basque;Printzesa;;;;Printzesa;;;;;;;;;x
+city_emperor_basque;Lehendakari;;;;Lehendakari;;;;;;;;;x
+city_emperor_female_basque;Lehendakareme;;;;Lehendakareme;;;;;;;;;x
+####TITLES;;;;;;;;;;;;;;
+city_barony_basque;Hiri;;;;Hiri;;;;;;;;;x
+city_county_basque;Hiriso;;;;Hiriso;;;;;;;;;x
+city_duchy_basque;Probintzia;;;;Probintzia;;;;;;;;;x
+city_kingdom_basque;Printzerri;;;;Printzerri;;;;;;;;;x
+city_empire_basque;Errepublika;;;;Errepublika;;;;;;;;;x
+family_palace_barony_basque;Etxe;;;;Etxe;;;;;;;;;x
+####TITLES_OF;;;;;;;;;;;;;;
+city_barony_of_basque;Hiri;;;;Hiri;;;;;;;;;x
+city_county_of_basque;Hiriso;;;;Hiriso;;;;;;;;;x
+city_duchy_of_basque;Probintzia;;;;Probintzia;;;;;;;;;x
+city_kingdom_of_basque;Printzerri;;;;Printzerri;;;;;;;;;x
+city_empire_of_basque;Errepublika;;;;Errepublika;;;;;;;;;x
+family_palace_barony_of_basque;Etxe;;;;Etxe;;;;;;;;;x
+###TRIBAL;;;;;;;;;;;;;;
+####RULERS;;;;;;;;;;;;;;
+tribal_baron_basque;Gaztelujaun;;;;Gaztelujaun;;;;;;;;;x
+tribal_baron_female_basque;Dama;;;;Dama;;;;;;;;;x
+tribal_count_basque;Konde;;;;Konde;;;;;;;;;x
+tribal_count_female_basque;Kondesa;;;;Kondesa;;;;;;;;;x
+tribal_duke_basque;Duke;;;;Duke;;;;;;;;;x
+tribal_duke_female_basque;Dukesa;;;;Dukesa;;;;;;;;;x
+tribal_king_basque;Errege;;;;Errege;;;;;;;;;x
+tribal_king_female_basque;Erregina;;;;Erregina;;;;;;;;;x
+tribal_emperor_basque;Errege;;;;Errege;;;;;;;;;x
+tribal_emperor_female_basque;Erregina;;;;Erregina;;;;;;;;;x
+####TITLES;;;;;;;;;;;;;;
+tribal_barony_basque;Gaztelu;;;;Gaztelu;;;;;;;;;x
+tribal_county_basque;Konderri;;;;Konderri;;;;;;;;;x
+tribal_duchy_basque;Dukerri;;;;Dukerri;;;;;;;;;x
+tribal_kingdom_basque;Erresuma;;;;Erresuma;;;;;;;;;x
+tribal_empire_basque;Koroa;;;;Koroa;;;;;;;;;x
+####TITLES_OF;;;;;;;;;;;;;;
+tribal_barony_of_basque;Gaztelu;;;;Gaztelu;;;;;;;;;x
+tribal_county_of_basque;Konderri;;;;Konderri;;;;;;;;;x
+tribal_duchy_of_basque;Dukerri;;;;Dukerri;;;;;;;;;x
+tribal_kingdom_of_basque;Erresuma;;;;Erresuma;;;;;;;;;x
+tribal_empire_of_basque;Koroa;;;;Koroa;;;;;;;;;x
+###JOBS;;;;;;;;;;;;;;
+job_chancellor_basque;Errektore;;;;Errektore;;;;;;;;;x
+job_marshal_basque;Alferez;;;;Alferez;;;;;;;;;x
+job_treasurer_basque;Diruzaina;;;;Diruzaina;;;;;;;;;x
+job_spymaster_basque;Espiaburu;;;;Espiaburu;;;;;;;;;x
+job_spiritual_basque;Kapilau;;;;Kapilau;;;;;;;;;x
+##MISC;;;;;;;;;;;;;;
+title_prince_basque;Infante;;;;Infante;;;;;;;;;x
+title_prince_female_basque;Infanta;;;;Infanta;;;;;;;;;x
+##CASTILLAN;;;;;;;;;;;;;;
+###FEUDAL;;;;;;;;;;;;;;
+####RULERS;;;;;;;;;;;;;;
+baron_castillan;Don;;;;Don;;;;;;;;x;
+baron_female_castillan;Doña;;;;Doña;;;;;;;;;x
+count_castillan;Lord;;;;Señor;;;;;;;;;x
+count_female_castillan;Lady;;;;Señora;;;;;;;;;x
+duke_castillan;Duque;;;;Conde;;;;;;;;;x
+duke_female_castillan;Duquesa;;;;Condesa;;;;;;;;;x
+king_castillan;King;;;;Rey;;;;;;;;;x
+king_female_castillan;Queen;;;;Reina;;;;;;;;;x
+emperor_castillan;King;;;;Rey;;;;;;;;;x
+emperor_female_castillan;Queen;;;;Reina;;;;;;;;;x
+####TITLES;;;;;;;;;;;;;;
+barony_castillan;Señorio;;;;Señorío;;;;;;;;;x
+county_castillan;Señorio;;;;Señorío;;;;;;;;;x
+duchy_castillan;Duchy;;;;Ducado;;;;;;;;;x
+kingdom_castillan;Reino;;;;Reino;;;;;;;;;x
+empire_castillan;Crown;;;;Corona;;;;;;;;;x
+####TITLES_OF;;;;;;;;;;;;;;
+barony_of_castillan;Señorio de;;;;Señorío de;;;;;;;;;x
+county_of_castillan;Señorio de;;;;Señorío de;;;;;;;;;x
+duchy_of_castillan;Duchy of;;;;Ducado de;;;;;;;;;x
+kingdom_of_castillan;Kingdom of;;;;Reino de;;;;;;;;;x
+empire_of_castillan;Crown of;;;;Corona de;;;;;;;;;x
+###TRIBAL;;;;;;;;;;;;;;
+####RULERS;;;;;;;;;;;;;;
+tribal_baron_castillan;Don;;;;Don;;;;;;;;x;
+tribal_baron_female_castillan;Doña;;;;Doña;;;;;;;;;x
+tribal_count_castillan;Señor;;;;Señor;;;;;;;;;x
+tribal_count_female_castillan;Señora;;;;Señor;;;;;;;;;x
+tribal_duke_castillan;Conde;;;;Conde;;;;;;;;;x
+tribal_duke_female_castillan;Condesa;;;;Condesa;;;;;;;;;x
+tribal_king_castillan;Rey;;;;Rey;;;;;;;;;x
+tribal_king_female_castillan;Reyna;;;;Reyna;;;;;;;;;x
+tribal_emperor_castillan;Rey;;;;Rey;;;;;;;;;x
+tribal_emperor_female_castillan;Reyna;;;;Reyna;;;;;;;;;x
+####TITLES;;;;;;;;;;;;;;
+tribal_barony_castillan;Señorio;;;;Señorío;;;;;;;;;x
+tribal_county_castillan;Señorio;;;;Señorío;;;;;;;;;x
+tribal_duchy_castillan;Condado;;;;Condado;;;;;;;;;x
+tribal_kingdom_castillan;Reyno;;;;Reyno;;;;;;;;;x
+tribal_empire_castillan;Corona;;;;Corona;;;;;;;;;x
+####TITLES_OF;;;;;;;;;;;;;;
+tribal_barony_of_castillan;Señorio de;;;;Señorío de;;;;;;;;;x
+tribal_county_of_castillan;Señorio de;;;;Señorío de;;;;;;;;;x
+tribal_duchy_of_castillan;Condado de;;;;Condado de;;;;;;;;;x
+tribal_kingdom_of_castillan;Reyno de;;;;Reyno de;;;;;;;;;x
+tribal_empire_of_castillan;Corona de;;;;Corona de;;;;;;;;;x
+###MISC;;;;;;;;;;;;;;
+title_prince_castillan;Infante;;;;Infante;;;;;;;;;x
+title_prince_female_castillan;Infanta;;;;Infanta;;;;;;;;;x
+###JOBS;;;;;;;;;;;;;;
+job_chancellor_castillan;Secretario;;;;Secretario;;;;;;;;;x
+job_marshal_castillan;Álferez;;;;Álferez;;;;;;;;;x
+job_treasurer_castillan;Contador;;;;Contador;;;;;;;;;x
+job_spymaster_castillan;Inquisidor;;;;Inquisidor;;;;;;;;;x
+job_spiritual_castillan;Capellán;;;;Capellán;;;;;;;;;x
+###REPUBLICAN;;;;;;;;;;;;;;
+####RULERS;;;;;;;;;;;;;;
+city_baron_castillan;Regidor;;;;Regidor;;;;;;;;x;
+city_baron_female_castillan;Doña;;;;Doña;;;;;;;;;x
+city_count_castillan;Corregidor;;;;Corregidor;;;;;;;;;x
+city_count_female_castillan;Doña;;;;Doña;;;;;;;;;x
+city_duke_castillan;Corregidor;;;;Conde;;;;;;;;;x
+city_duke_female_castillan;Condesa;;;;Condesa;;;;;;;;;x
+city_king_castillan;Rey;;;;Rey;;;;;;;;;x
+city_king_female_castillan;Reyna;;;;Reyna;;;;;;;;;x
+city_emperor_castillan;Rey;;;;Rey;;;;;;;;;x
+city_emperor_female_castillan;Reyna;;;;Reyna;;;;;;;;;x
+####TITLES;;;;;;;;;;;;;;
+city_barony_castillan;Señorio;;;;Señorío;;;;;;;;;x
+city_county_castillan;Señorio;;;;Señorío;;;;;;;;;x
+city_duchy_castillan;Condado;;;;Condado;;;;;;;;;x
+city_kingdom_castillan;Reyno;;;;Reyno;;;;;;;;;x
+city_empire_castillan;Corona;;;;Corona;;;;;;;;;x
+####TITLES_OF;;;;;;;;;;;;;;
+city_barony_of_castillan;Señorio de;;;;Señorío de;;;;;;;;;x
+city_county_of_castillan;Corregimiento of;;;;Corregimiento de;;;;;;;;;x
+city_duchy_of_castillan;Condado de;;;;Condado de;;;;;;;;;x
+city_kingdom_of_castillan;Reyno de;;;;Reyno de;;;;;;;;;x
+city_empire_of_castillan;Corona de;;;;Corona de;;;;;;;;;x
+###MISC;;;;;;;;;;;;;;
+title_prince_castillan;Infante;;;;Infante;;;;;;;;;x
+title_prince_female_castillan;Infanta;;;;Infanta;;;;;;;;;x
+###JOBS;;;;;;;;;;;;;;
+job_chancellor_castillan;Secretario;;;;Secretario;;;;;;;;;x
+job_marshal_castillan;Álferez;;;;Álferez;;;;;;;;;x
+job_treasurer_castillan;Contador;;;;Contador;;;;;;;;;x
+job_spymaster_castillan;Inquisidor;;;;Inquisidor;;;;;;;;;x
+job_spiritual_castillan;Capellán;;;;Capellán;;;;;;;;;x
+##CATALAN;;;;;;;;;;;;;;
+###FEUDAL;;;;;;;;;;;;;;
+####RULERS;;;;;;;;;;;;;;
+baron_catalan;Senyor;;;;Senyor;;;;;;;;x;
+baron_female_catalan;Senyora;;;;Senyora;;;;;;;;;x
+count_catalan;Vescomte;;;;Vescomte;;;;;;;;;x
+count_female_catalan;Vescomtessa;;;;Vescomtessa;;;;;;;;;x
+duke_catalan;Count;;;;Comte;;;;;;;;;x
+duke_female_catalan;Count;;;;Comtessa;;;;;;;;;x
+king_catalan;King;;;;Rei;;;;;;;;;x
+king_female_catalan;Que;;;;Reina;;;;;;;;;x
+emperor_catalan;Rei;;;;Rei;;;;;;;;;x
+emperor_female_catalan;Reina;;;;Reina;;;;;;;;;x
+####TITLES;;;;;;;;;;;;;;
+barony_catalan;Senyorio;;;;Senyorio;;;;;;;;;x
+county_catalan;Vescomtat;;;;Vescomtat;;;;;;;;;x
+duchy_catalan;Comtat;;;;Comtat;;;;;;;;;x
+kingdom_catalan;Regne;;;;Regne;;;;;;;;;x
+empire_catalan;Corona;;;;Corona;;;;;;;;;x
+####TITLES_OF;;;;;;;;;;;;;;
+barony_of_catalan;Senyorio de;;;;Senyorio de;;;;;;;;;x
+county_of_catalan;Vescomtat de;;;;Vescomtat de;;;;;;;;;x
+duchy_of_catalan;Comtat de;;;;Comtat de;;;;;;;;;x
+kingdom_of_catalan;Regne de;;;;Regne de;;;;;;;;;x
+empire_of_catalan;Corona de;;;;Corona de;;;;;;;;;x
+###TRIBAL;;;;;;;;;;;;;;
+####RULERS;;;;;;;;;;;;;;
+tribal_baron_catalan;Senyor;;;;Senyor;;;;;;;;x;
+tribal_baron_female_catalan;Senyora;;;;Senyora;;;;;;;;;x
+tribal_count_catalan;Vescomte;;;;Vescomte;;;;;;;;;x
+tribal_count_female_catalan;Vescomtessa;;;;Vescomtessa;;;;;;;;;x
+tribal_duke_catalan;Duc;;;;Duc;;;;;;;;;x
+tribal_duke_female_catalan;Ducessa;;;;Ducessa;;;;;;;;;x
+tribal_king_catalan;Rei;;;;Rei;;;;;;;;;x
+tribal_king_female_catalan;Reina;;;;Reina;;;;;;;;;x
+tribal_emperor_catalan;Rei;;;;Rei;;;;;;;;;x
+tribal_emperor_female_catalan;Reina;;;;Reina;;;;;;;;;x
+####TITLES_OF;;;;;;;;;;;;;;
+tribal_barony_of_catalan;Baronia de;;;;Baronia de;;;;;;;;;x
+tribal_county_of_catalan;Comtat de;;;;Comtat de;;;;;;;;;x
+tribal_duchy_of_catalan;Ducat de;;;;Ducat de;;;;;;;;;x
+tribal_kingdom_of_catalan;Regne de;;;;Regne de;;;;;;;;;x
+tribal_empire_of_catalan;Corona de;;;;Corona de;;;;;;;;;x
+####TITLES;;;;;;;;;;;;;;
+tribal_barony_catalan;Baronia;;;;Baronia;;;;;;;;;x
+tribal_county_catalan;Comtat;;;;Comtat;;;;;;;;;x
+tribal_duchy_catalan;Ducat;;;;Ducat;;;;;;;;;x
+tribal_kingdom_catalan;Regne;;;;Regne;;;;;;;;;x
+tribal_empire_catalan;Corona;;;;Corona;;;;;;;;;x
+###REPUBLICAN;;;;;;;;;;;;;;
+####RULERS;;;;;;;;;;;;;;
+family_palace_baron_dalmatian;Patrici;;;;Patrici;;;;;;;;;x
+family_palace_baron_female_dalmatian;Patricia;;;;Patricia;;;;;;;;;x
+city_baron_catalan;Batlle;;;;Batlle;;;;;;;;x;
+city_baron_female_catalan;Batllessa;;;;Batllessa;;;;;;;;;x
+city_count_catalan;President;;;;President;;;;;;;;;x
+city_count_female_catalan;President;;;;President;;;;;;;;;x
+city_duke_catalan;Gran President;;;;Gran President;;;;;;;;;x
+city_duke_female_catalan;Gran President;;;;Gran President;;;;;;;;;x
+city_king_catalan;Príncep;;;;Príncep;;;;;;;;;x
+city_king_female_catalan;Princessa;;;;Princessa;;;;;;;;;x
+city_emperor_catalan;Consul;;;;Consul;;;;;;;;;x
+city_emperor_female_catalan;Consulessa;;;;Consulessa;;;;;;;;;x
+####TITLES;;;;;;;;;;;;;;
+family_palace_barony_dalmatian;Ca;;;;Ca;;;;;;;;;x
+city_barony_catalan;Ciutat;;;;Ciutat;;;;;;;;;x
+city_county_catalan;Comarca;;;;Comarca;;;;;;;;;x
+city_duchy_catalan;Generalitat;;;;Generalitat;;;;;;;;;x
+city_kingdom_catalan;Principat;;;;Principat;;;;;;;;;x
+city_empire_catalan;República;;;;República;;;;;;;;;x
+####TITLES_OF;;;;;;;;;;;;;;
+family_palace_barony_of_dalmatian;Ca de;;;;Ca de;;;;;;;;;x
+city_barony_of_catalan;Ciutat de;;;;Ciutat de;;;;;;;;;x
+city_county_of_catalan;Comarca de;;;;Comarca de;;;;;;;;;x
+city_duchy_of_catalan;Generalitat de;;;;Generalitat de;;;;;;;;;x
+city_kingdom_of_catalan;Principat de;;;;Principat de;;;;;;;;;x
+city_empire_of_catalan;República de;;;;República de;;;;;;;;;x
+###MISC;;;;;;;;;;;;;;
+title_prince_catalan;Príncep;;;;Príncep;;;;;;;;;x
+title_prince_female_catalan;Princessa;;;;Princessa;;;;;;;;;x
+###JOBS;;;;;;;;;;;;;;
+job_chancellor_catalan;Canceller;;;;Canceller;;;;;;;;;x
+job_marshal_catalan;Conestable;;;;Conestable;;;;;;;;;x
+job_treasurer_catalan;Mestre racional;;;;Mestre racional;;;;;;;;;x
+job_spymaster_catalan;Inquisidor General;;;;Inquisidor General;;;;;;;;;x
+job_spiritual_catalan;Capellà del Rei;;;;Capellà del Rei;;;;;;;;;x
+##GALICIAN
+###FEUDAL;;;;;;;;;;;;;;
+####RULERS;;;;;;;;;;;;;;
+baron_galician;Don;;;;Don;;;;;;;;x;
+baron_female_galician;Doña;;;;Doña;;;;;;;;;x
+count_galician;Señor;;;;Señor;;;;;;;;;x
+count_female_galician;Señora;;;;Señora;;;;;;;;;x
+duke_galician;Conde;;;;Conde;;;;;;;;;x
+duke_female_galician;Condesa;;;;Condesa;;;;;;;;;x
+king_galician;Rey;;;;Rey;;;;;;;;;x
+king_female_galician;Reyña;;;;Reyña;;;;;;;;;x
+emperor_galician;Rey;;;;Rey;;;;;;;;;x
+emperor_female_galician;Reyña;;;;Reyña;;;;;;;;;x
+####TITLES;;;;;;;;;;;;;;
+barony_galician;Señorio;;;;Señorío;;;;;;;;;x
+county_galician;Señorío;;;;Señorío;;;;;;;;;x
+duchy_galician;Condado;;;;Condado;;;;;;;;;x
+kingdom_galician;Reyno;;;;Reyno;;;;;;;;;x
+empire_galician;Coroa;;;;Coroa;;;;;;;;;x
+####TITLES_OF;;;;;;;;;;;;;;
+barony_of_galician;Señorío de;;;;Señorío de;;;;;;;;;x
+county_of_galician;Señorío de;;;;Señorío de;;;;;;;;;x
+duchy_of_galician;Condado de;;;;Condado de;;;;;;;;;x
+kingdom_of_galician;Reyno de;;;;Reyno de;;;;;;;;;x
+empire_of_galician;Coroa de;;;;Coroa de;;;;;;;;;x
+###MISC;;;;;;;;;;;;;;
+title_prince_galician;Infante;;;;Infante;;;;;;;;;x
+title_prince_female_galician;Infanta;;;;Infanta;;;;;;;;;x
+###JOBS;;;;;;;;;;;;;;
+job_chancellor_galician;Secretario;;;;Secretario;;;;;;;;;x
+job_marshal_galician;Marechal;;;;Marechal;;;;;;;;;x
+job_treasurer_galician;Tesoureiro;;;;Tesoureiro;;;;;;;;;x
+job_spymaster_galician;Xefe de Espias;;;;Xefe de Espias;;;;;;;;;x
+job_spiritual_galician;Capelán;;;;Capelán;;;;;;;;;x
+##LEONESE
+###FEUDAL;;;;;;;;;;;;;;
+####RULERS;;;;;;;;;;;;;;
+baron_leonese;Don;;;;Don;;;;;;;;x;
+baron_female_leonese;Doña;;;;Doña;;;;;;;;;x
+count_leonese;Lord;;;;Señor;;;;;;;;;x
+count_female_leonese;Lady;;;;Señora;;;;;;;;;x
+duke_leonese;;;;;Conde;;;;;;;;;x
+duke_female_leonese;Condesa;;;;Condesa;;;;;;;;;x
+king_leonese;Rey;;;;Rey;;;;;;;;;x
+king_female_leonese;Reyna;;;;Reyna;;;;;;;;;x
+emperor_leonese;Rey;;;;Rey;;;;;;;;;x
+emperor_female_leonese;Reyna;;;;Reyna;;;;;;;;;x
+####TITLES;;;;;;;;;;;;;;
+barony_leonese;Señorio;;;;Señorío;;;;;;;;;x
+county_leonese;Señorio;;;;Señorío;;;;;;;;;x
+duchy_leonese;Condau;;;;Condáu;;;;;;;;;x
+kingdom_leonese;Regno;;;;Regno;;;;;;;;;x
+empire_leonese;Corona;;;;Corona;;;;;;;;;x
+####TITLES_OF;;;;;;;;;;;;;;
+barony_of_leonese;Señorio de;;;;Señorío de;;;;;;;;;x
+county_of_leonese;Señorio de;;;;Señorío de;;;;;;;;;x
+duchy_of_leonese;Condáu de;;;;Condáu de;;;;;;;;;x
+kingdom_of_leonese;Regno de;;;;Regno de;;;;;;;;;x
+empire_of_leonese;Corona de;;;;Corona de;;;;;;;;;x
+###TRIBAL;;;;;;;;;;;;;;
+####RULERS;;;;;;;;;;;;;;
+tribal_baron_leonese;Don;;;;Don;;;;;;;;x;
+tribal_baron_female_leonese;Doña;;;;Doña;;;;;;;;;x
+tribal_count_leonese;Señor;;;;Señor;;;;;;;;;x
+tribal_count_female_leonese;Señora;;;;Señor;;;;;;;;;x
+tribal_duke_leonese;Conde;;;;Conde;;;;;;;;;x
+tribal_duke_female_leonese;Condesa;;;;Condesa;;;;;;;;;x
+tribal_king_leonese;Rey;;;;Rey;;;;;;;;;x
+tribal_king_female_leonese;Reyna;;;;Reyna;;;;;;;;;x
+tribal_emperor_leonese;Rey;;;;Rey;;;;;;;;;x
+tribal_emperor_female_leonese;Reyna;;;;Reyna;;;;;;;;;x
+####TITLES;;;;;;;;;;;;;;
+tribal_barony_leonese;Señorio;;;;Señorío;;;;;;;;;x
+tribal_county_leonese;Señorio;;;;Señorío;;;;;;;;;x
+tribal_duchy_leonese;Condáu;;;;Condáu;;;;;;;;;x
+tribal_kingdom_leonese;Regno;;;;Regno;;;;;;;;;x
+tribal_empire_leonese;Corona;;;;Corona;;;;;;;;;x
+####TITLES_OF;;;;;;;;;;;;;;
+tribal_barony_of_leonese;Señorio de;;;;Señorío de;;;;;;;;;x
+tribal_county_of_leonese;Señorio de;;;;Señorío de;;;;;;;;;x
+tribal_duchy_of_leonese;Condáu de;;;;Condáu de;;;;;;;;;x
+tribal_kingdom_of_leonese;Regno de;;;;Regno de;;;;;;;;;x
+tribal_empire_of_leonese;Corona de;;;;Corona de;;;;;;;;;x
+###MISC;;;;;;;;;;;;;;
+title_prince_leonese;Infante;;;;Infante;;;;;;;;;x
+title_prince_female_leonese;Infanta;;;;Infanta;;;;;;;;;x
+###JOBS;;;;;;;;;;;;;;
+job_chancellor_leonese;Secretariu;;;;Secretariu;;;;;;;;;x
+job_marshal_leonese;Álferez;;;;Álferez;;;;;;;;;x
+job_treasurer_leonese;Contador;;;;Contador;;;;;;;;;x
+job_spymaster_leonese;Inquisidor;;;;Inquisidor;;;;;;;;;x
+job_spiritual_leonese;Capellán;;;;Capellán;;;;;;;;;x
+##PORTUGUESE
+###FEUDAL;;;;;;;;;;;;;;
+####RULERS;;;;;;;;;;;;;;
+baron_portuguese;Dom;;;;Dom;;;;;;;;x;
+baron_female_portuguese;Dona;;;;Dona;;;;;;;;;x
+count_portuguese;Senhor;;;;Senhor;;;;;;;;;x
+count_female_portuguese;Senhora;;;;Senhora;;;;;;;;;x
+duke_portuguese;Conde;;;;Conde;;;;;;;;;x
+duke_female_portuguese;Condesa;;;;Condesa;;;;;;;;;x
+king_portuguese;Rei;;;;Rei;;;;;;;;;x
+king_female_portuguese;Reinha;;;;Reinha;;;;;;;;;x
+emperor_portuguese;Rei;;;;Rei;;;;;;;;;x
+emperor_female_portuguese;Reinha;;;;Reinha;;;;;;;;;x
+####TITLES;;;;;;;;;;;;;;
+barony_portuguese;Senhorio;;;;Senhorio;;;;;;;;;x
+county_portuguese;Senhorio;;;;Senhorio;;;;;;;;;x
+duchy_portuguese;Condado;;;;Condado;;;;;;;;;x
+kingdom_portuguese;Reino;;;;Reino;;;;;;;;;x
+empire_portuguese;Corõa;;;;Corõa;;;;;;;;;x
+####TITLES_OF;;;;;;;;;;;;;;
+barony_of_portuguese;Senhorio de;;;;Senhorio de;;;;;;;;;x
+county_of_portuguese;Senhorio de;;;;Senhorio de;;;;;;;;;x
+duchy_of_portuguese;Condado de;;;;Condado de;;;;;;;;;x
+kingdom_of_portuguese;Reino de;;;;Reino de;;;;;;;;;x
+empire_of_portuguese;Corõa de;;;;Corõa de;;;;;;;;;x
+###MISC;;;;;;;;;;;;;;
+title_prince_portuguese;Infante;;;;Infante;;;;;;;;;x
+title_prince_female_portuguese;Infanta;;;;Infanta;;;;;;;;;x
+###JOBS;;;;;;;;;;;;;;
+job_chancellor_portuguese;Chanceler;;;;Chanceler;;;;;;;;;x
+job_marshal_portuguese;Marechal;;;;Marechal;;;;;;;;;x
+job_treasurer_portuguese;Tesoureiro;;;;Tesoureiro;;;;;;;;;x
+job_spymaster_portuguese;Chefe de Espiões;;;;Chefe de Espiões;;;;;;;;;x
+job_spiritual_portuguese;Capelão;;;;Capelão;;;;;;;;;x

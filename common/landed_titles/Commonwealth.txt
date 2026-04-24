@@ -11,6 +11,7 @@ e_commonwealth = {
 	}
 	capital = 527
 	culture = polish
+	name_tier = king
 	allow = {
 	  hidden_tooltip = {
 		OR = {

@@ -178,25 +178,23 @@ k_papal_state = {
     Alexander
     Anastasius
     Benedictus
-    Caelestinus
+	Bonifatius
     Callistus
     Clemens
     Eugenius
+	Felix
     Leo
     Gregorius
     Hadrianus
-    Honorius
     Innocentius
     Ioannes
-    Lucius
-    Marinus
-    Martinus
+	Iulius
+	Marcellus
     Nicolaus
-    Sergius
-    Silvester
-    Stephanus
+	Paulus
+	Pius
+	Sixtus
     Urbanus
-    Victor
   }
 }
 d_papal_guards = {
