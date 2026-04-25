@@ -410,6 +410,116 @@
 	}
 }
 
+100273 = {
+	name = "Felipe" # Philip II of Spain
+	religion = catholic
+	culture = german
+	culture = castillan
+	dynasty = 7
+	father = 100270
+	mother = 100272
+	1527.5.21 = {
+		birth = yes
+	}
+	1543.11.12 = {  
+		add_spouse = 100281
+	}
+	1559.1.1 = {  
+		add_spouse = 100342
+	}
+	1570.6.4 = {  
+		add_spouse = 100288
+	}
+	1598.9.13 = {
+	 death = yes   
+	}
+}
+
+100274 = {
+	name = "María" # Maria of Austria, Holy Roman Empress
+	female = yes
+	religion = catholic
+	culture = castillan
+	dynasty = 7
+	father = 100270
+	mother = 100272
+	1528.6.21 = {
+		birth = yes
+	}
+	1603.2.26 = {
+		death = yes   
+	}
+}
+
+100275 = {
+	name = "Juana" # Joanna of Austria, Princess of Portugal
+	female = yes
+	religion = catholic
+	culture = castillan
+	dynasty = 7
+	father = 100270
+	mother = 100272
+	1535.6.24 = {
+		birth = yes
+	}
+	1573.9.7 = {
+		death = yes   
+	}
+}
+
+100277 = {
+	name = "Fernando" # Ferdinand I, Holy Roman Emperor
+	religion = catholic
+	culture = castillan
+	dynasty = 7
+	father = 100264
+	mother = 100265
+	1503.3.10 = {
+		birth = yes
+	}
+	1521.5.26 = {
+		add_spouse = 100285
+	}
+	1564.7.25 = {
+		death = yes   
+	}
+}
+
+100279 = {
+	name = "Catalina" # Catherine of Austria, Queen of Portugal
+	female = yes
+	religion = catholic
+	culture = castillan
+	dynasty = 7
+	father = 100264
+	mother = 100265
+	1507.1.14 = {
+		birth = yes
+	}   
+	1557.6.11 = {
+		effect = {ROOT={ give_minor_title = title_regent }}    
+	}   
+	1578.2.12 = {
+		death = yes   
+	}
+}
+
+100288 = {
+	name = "Ana" # Anna of Austria, Queen of Spain
+	female = yes
+	religion = catholic
+	culture = castillan
+	dynasty = 7
+	father = 100287
+	mother  = 100274
+	1549.11.2 = {
+		birth = yes 
+	}
+	1580.10.26 = {
+	 death = yes   
+	}
+}
+
   1000001 = {
 	name = "Isabel" # Isabel of Castile
 	female = yes
@@ -447,7 +557,7 @@
 	dynasty = 71
 	father = 1000004
 	mother = 1000005
-	#give_nickname = nick_the_catholic
+	give_nickname = nick_the_catholic
 	1452.3.10 = {
 	  birth = yes   
 	}
@@ -464,7 +574,7 @@
 	religion = catholic
 	culture = castillan
 	dynasty = 71
-	#give_nickname = nick_the_great
+	give_nickname = nick_the_great
 	1398.6.29 = {
 	  birth = yes   
 	}
@@ -568,7 +678,7 @@
 	name = "Pedro" # Pedro of Castile
 	religion = catholic
 	culture = castillan
-	dynasty = 184
+	dynasty = 180
 	father = 1000010
 	1334.8.30 = {
 	  birth = yes   
@@ -582,9 +692,9 @@
 	name = "Alfonso" # Alfonso XI of Castile
 	religion = catholic
 	culture = castillan
-	dynasty = 184
+	dynasty = 180
 	father = 1000012
-	#give_nickname = nick_the_justiciero
+	give_nickname = nick_the_justiciero
 	1311.8.13 = {
 	  birth = yes   
 	}   
@@ -597,9 +707,9 @@
 	name = "Fernando" # Fernando IV of Castile
 	religion = catholic
 	culture = castillan
-	dynasty = 184
+	dynasty = 180
 	father = 1000013
-	#give_nickname = nick_the_summoned
+	give_nickname = nick_the_summoned
 	1285.12.6 = {
 	  birth = yes   
 	}   
@@ -612,7 +722,7 @@
 	name = "Sancho" # Sancho IV of Castile
 	religion = catholic
 	culture = castillan
-	dynasty = 184
+	dynasty = 180
 	father = 1000014
 	give_nickname = nick_the_brave
 	1258.5.12 = {
@@ -627,7 +737,7 @@
 	name = "Alfonso" # Alfonso X of Castile
 	religion = catholic
 	culture = castillan
-	dynasty = 184
+	dynasty = 180
 	father = 1000015
 	give_nickname = nick_the_wise
 	1221.11.23 = {
@@ -642,7 +752,7 @@
 	name = "Fernando" # Fernando III of Castile
 	religion = catholic
 	culture = castillan
-	dynasty = 184
+	dynasty = 180
 	father = 1000016
 	give_nickname = nick_the_saint
 	1199.1.1 = {
@@ -657,7 +767,7 @@
 	name = "Alfonso" # Alfonso IX of Leon
 	religion = catholic
 	culture = leonese
-	dynasty = 184
+	dynasty = 180
 	father = 1000017
 	1171.1.23 = {
 	  birth = yes   
@@ -671,7 +781,7 @@
 	name = "Fernando" # Fernando II of Leon
 	religion = catholic
 	culture = leonese
-	dynasty = 184
+	dynasty = 180
 	father = 1000018 # Alfonso VII of Leon
 	1137.1.1 = {
 	  birth = yes   
@@ -685,7 +795,7 @@
 	name = "Enrique" # Enrique I of Castile
 	religion = catholic
 	culture = castillan
-	dynasty = 184
+	dynasty = 180
 	father = 1000020
 	1204.4.14 = {
 	  birth = yes   
@@ -699,7 +809,7 @@
 	name = "Alfonso" # Alfonso VIII of Castile
 	religion = catholic
 	culture = castillan
-	dynasty = 184
+	dynasty = 180
 	father = 1000021
 	give_nickname = nick_the_navas
 	1155.11.11 = {
@@ -714,7 +824,7 @@
 	name = "Sancho" # Sancho III of Castile
 	religion = catholic
 	culture = castillan
-	dynasty = 184
+	dynasty = 180
 	father = 1000018
 	1133.1.1 = {
 	  birth = yes   
@@ -728,7 +838,7 @@
 	name = "Alfonso" # Alfonso VII of Leon
 	religion = catholic
 	culture = leonese
-	dynasty = 184
+	dynasty = 180
 	father = 1000022
 	mother = 1000023
 	1105.3.1 = {
@@ -743,7 +853,7 @@
 	name = "Raymond" # Raymond of Bourgogne
 	religion = catholic
 	culture = french
-	dynasty = 184
+	dynasty = 180
 	1070.1.1 = {
 	  birth = yes   
 	}   
@@ -760,7 +870,7 @@
 	female = yes
 	religion = catholic
 	culture = leonese
-	dynasty = 185
+	dynasty = 181
 	father = 1000024
 	1081.6.24 = {
 	  birth = yes   
@@ -774,7 +884,7 @@
 	name = "Alfonso" # Alfonso VI of Leon
 	religion = catholic
 	culture = leonese
-	dynasty = 185
+	dynasty = 181
 	father = 1000025
 	give_nickname = nick_the_brave
 	1040.1.1 = {
@@ -789,7 +899,7 @@
 	name = "Sancho" # Sancho II of Castile
 	religion = catholic
 	culture = castillan
-	dynasty = 185
+	dynasty = 181
 	father = 1000025
 	1038.1.1 = {
 	  birth = yes   
@@ -803,7 +913,7 @@
 	name = "Fernando" # Fernando I of Leon
 	religion = catholic
 	culture = castillan
-	dynasty = 185
+	dynasty = 181
 	give_nickname = nick_the_great
 	1016.1.1 = {
 	  birth = yes   
@@ -817,7 +927,7 @@
 	name = "Bermudo" # Bermudo III of Leon
 	religion = catholic
 	culture = leonese
-	dynasty = 186
+	dynasty = 182
 	father = 1000028
 	give_nickname = nick_the_young
 	1017.1.1 = {
@@ -832,7 +942,7 @@
 	name = "Alfonso" # Alfonso V of Leon
 	religion = catholic
 	culture = leonese
-	dynasty = 186
+	dynasty = 182
 	father = 1000029
 	give_nickname = nick_the_noble
 	994.1.1 = {
@@ -847,7 +957,7 @@
 	name = "Bermudo" # Bermudo II of Leon
 	religion = catholic
 	culture = leonese
-	dynasty = 186
+	dynasty = 182
 	father = 1000030
 	give_nickname = nick_the_gouty
 	948.1.1 = {
@@ -862,7 +972,7 @@
 	name = "Ordoño" # Ordoño III of Leon
 	religion = catholic
 	culture = leonese
-	dynasty = 186
+	dynasty = 182
 	father = 1000031
 	925.1.1 = {
 	  birth = yes   
@@ -876,7 +986,7 @@
 	name = "Ramiro" # Ramiro III of Leon
 	religion = catholic
 	culture = leonese
-	dynasty = 186
+	dynasty = 182
 	father = 1000033
 	961.1.1 = {
 	  birth = yes   
@@ -890,7 +1000,7 @@
 	name = "Sancho" # Sancho I of Leon
 	religion = catholic
 	culture = leonese
-	dynasty = 186
+	dynasty = 182
 	father = 1000031
 	give_nickname = nick_the_crassus
 	935.1.1 = {
@@ -905,7 +1015,7 @@
 	name = "Ramiro" # Ramiro II of Leon
 	religion = catholic
 	culture = leonese
-	dynasty = 186
+	dynasty = 182
 	father = 1000034
 	give_nickname = nick_the_great
 	898.1.1 = {
@@ -920,7 +1030,7 @@
 	name = "Alfonso" # Alfonso IV of Leon
 	religion = catholic
 	culture = leonese
-	dynasty = 186
+	dynasty = 182
 	father = 1000034
 	give_nickname = nick_the_monk
 	899.1.1 = {
@@ -935,7 +1045,7 @@
 	name = "Ordoño" # Ordoño IV of Leon
 	religion = catholic
 	culture = leonese
-	dynasty = 186
+	dynasty = 182
 	father = 1000035
 	give_nickname = nick_the_bad
 	925.1.1 = {
@@ -950,7 +1060,7 @@
 	name = "Fruela" # Fruela II of Leon
 	religion = catholic
 	culture = leonese
-	dynasty = 186
+	dynasty = 182
 	father = 1000037
 	give_nickname = nick_the_leper
 	874.1.1 = {
@@ -965,7 +1075,7 @@
 	name = "Ordoño" # Ordoño II of Leon
 	religion = catholic
 	culture = leonese
-	dynasty = 186
+	dynasty = 182
 	father = 1000037
 	875.1.1 = {
 	  birth = yes   
@@ -979,7 +1089,7 @@
 	name = "García" # García I of Leon
 	religion = catholic
 	culture = leonese
-	dynasty = 186
+	dynasty = 182
 	father = 1000037
 	870.1.1 = {
 	  birth = yes   
@@ -993,7 +1103,7 @@
 	name = "Alfonso" # Alfonso III of Asturias
 	religion = catholic
 	culture = leonese
-	dynasty = 186
+	dynasty = 182
 	father = 1000039
 	give_nickname = nick_the_great
 	852.1.1 = {
@@ -1008,7 +1118,7 @@
 	name = "Ordoño" # Ordoño I of Asturias
 	religion = catholic
 	culture = leonese
-	dynasty = 186
+	dynasty = 182
 	father = 1000051
 	821.1.1 = {
 	  birth = yes   
@@ -1022,7 +1132,7 @@
 	name = "Bermudo" # Bermudo I of Asturias
 	religion = catholic
 	culture = leonese
-	dynasty = 186
+	dynasty = 182
 	father = 1000041
 	750.1.1 = {
 	  birth = yes   
@@ -1036,7 +1146,7 @@
 	name = "Aurelio" # Aurelio of Asturias
 	religion = catholic
 	culture = leonese
-	dynasty = 186
+	dynasty = 182
 	father = 1000041
 	740.1.1 = {
 	  birth = yes   
@@ -1050,7 +1160,7 @@
 	name = "Fruela" # Fruela Pérez of Cantabria
 	religion = catholic
 	culture = leonese
-	dynasty = 186
+	dynasty = 182
 	father = 1000042
 	708.1.1 = {
 	  birth = yes   
@@ -1064,7 +1174,7 @@
 	name = "Pedro" # Pedro of Cantabria
 	religion = catholic
 	culture = leonese
-	dynasty = 186
+	dynasty = 182
 	671.1.1 = {
 	  birth = yes   
 	}   
@@ -1077,7 +1187,7 @@
 	name = "Mauregato" # Mauregato of Asturias
 	religion = catholic
 	culture = leonese
-	dynasty = 186
+	dynasty = 182
 	father = 1000044
 	719.1.1 = {
 	  birth = yes   
@@ -1091,7 +1201,7 @@
 	name = "Silo" # Silo of Asturias
 	religion = catholic
 	culture = leonese
-	dynasty = 186
+	dynasty = 182
 	father = 1000044
 	718.1.1 = {
 	  birth = yes   
@@ -1105,7 +1215,7 @@
 	name = "Alfonso" # Alfonso I of Asturias
 	religion = catholic
 	culture = leonese
-	dynasty = 186
+	dynasty = 182
 	father = 1000042
 	693.1.1 = {
 	  birth = yes   
@@ -1122,7 +1232,7 @@
 	name = "Silo" # Silo of Asturias
 	religion = catholic
 	culture = leonese
-	dynasty = 186
+	dynasty = 182
 	father = 1000044
 	718.1.1 = {
 	  birth = yes   
@@ -1209,7 +1319,7 @@
 	name = "Ramiro" # Ramiro I of Asturias
 	religion = catholic
 	culture = leonese
-	dynasty = 186
+	dynasty = 182
 	father = 1000040
 	790.1.1 = {
 	  birth = yes   

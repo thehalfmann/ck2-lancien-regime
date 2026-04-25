@@ -1695,63 +1695,6 @@
 	}
 }
 
-100273 = {
-	name = "Felipe" # Philip II of Spain
-	religion = catholic
-	culture = german
-	culture = castillan
-	dynasty = 7
-	father = 100270
-	mother = 100272
-	1527.5.21 = {
-		birth = yes
-	}
-	1543.11.12 = {  
-		add_spouse = 100281
-	}
-	1559.1.1 = {  
-		add_spouse = 100342
-	}
-	1570.6.4 = {  
-		add_spouse = 100288
-	}
-	1598.9.13 = {
-	 death = yes   
-	}
-}
-
-100274 = {
-	name = "Maria" # Maria of Austria, Holy Roman Empress
-	female = yes
-	religion = catholic
-	culture = german
-	dynasty = 7
-	father = 100270
-	mother = 100272
-	1528.6.21 = {
-		birth = yes
-	}
-	1603.2.26 = {
-		death = yes   
-	}
-}
-
-100275 = {
-	name = "Johanna" # Joanna of Austria, Princess of Portugal
-	female = yes
-	religion = catholic
-	culture = german
-	dynasty = 7
-	father = 100270
-	mother = 100272
-	1535.6.24 = {
-		birth = yes
-	}
-	1573.9.7 = {
-		death = yes   
-	}
-}
-
 100276 = {
 	name = "Isabella" # Isabella of Austria
 	female = yes
@@ -1768,25 +1711,6 @@
 	}
 }
 
-100277 = {
-	name = "Ferdinand" # Ferdinand I, Holy Roman Emperor
-	religion = catholic
-	culture = german
-	culture = castillan
-	dynasty = 7
-	father = 100264
-	mother = 100265
-	1503.3.10 = {
-		birth = yes
-	}
-	1521.5.26 = {
-		add_spouse = 100285
-	}
-	1564.7.25 = {
-		death = yes   
-	}
-}
-
 100278 = {
 	name = "Mary" # Mary of Hungary
 	female = yes
@@ -1799,25 +1723,6 @@
 		birth = yes
 	}
 	1558.10.18 = {
-		death = yes   
-	}
-}
-
-100279 = {
-	name = "Catherine" # Catherine of Austria, Queen of Portugal
-	female = yes
-	religion = catholic
-	culture = german
-	dynasty = 7
-	father = 100264
-	mother = 100265
-	1507.1.14 = {
-		birth = yes
-	}   
-	1557.6.11 = {
-		effect = {ROOT={ give_minor_title = title_regent }}    
-	}   
-	1578.2.12 = {
 		death = yes   
 	}
 }
@@ -1852,22 +1757,6 @@
 	 add_spouse = 100274
 	}  
 	1576.10.12 = {
-	 death = yes   
-	}
-}
-
-100288 = {
-	name = "Anna" # Anna of Austria, Queen of Spain
-	female = yes
-	religion = catholic
-	culture = german
-	dynasty = 7
-	father = 100287
-	mother  = 100274
-	1549.11.2 = {
-		birth = yes 
-	}
-	1580.10.26 = {
 	 death = yes   
 	}
 }
