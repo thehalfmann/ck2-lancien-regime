@@ -1,8 +1,134 @@
+751.11.1 = {
+	holder = pipino
+}
+768.9.24 = {
+	holder = cmi
+}
+771.12.4 = {
+	holder = ci
+}
+814.1.28 = {
+	holder = li
+}
+840.6.20 = {
+	holder = cii
+}
+877.12.8 = {
+	holder = lii
+}
+879.9.4 = {
+	holder = liii
+}
+882.8.5 = {
+	holder = cmii
+}
+884.12.12 = {
+	holder = ciii
+}
+888.1.13 = {
+	holder = odon
+}
+898.1.1 = {
+	holder = robi
+}
+923.6.15 = {
+	holder = raul
+}
+936.1.15 = {
+	holder = liv
+}
+954.11.12 = {
+	holder = lot
+}
+986.3.2 = {
+	holder = lv
+}
+987.5.21 = {
+	holder = hugo
+}
+996.10.24 = {
+	holder = robii
+}
+1031.10.5 = {
+	holder = ei
+}
+1060.8.4 = {
+	holder = fi
+}
+1108.8.3 = {
+	holder = lvi
+}
+1137.8.1 = {
+	holder = lvii
+}
+1180.9.18 = {
+	holder = fii
+}
+1223.7.14 = {
+	holder = lviii
+}
+1226.11.8 = {
+	holder = lix
+}
+1270.8.25 = {
+	holder = fiii
+}
+1285.10.5 = {
+	holder = fiv
+}
+1314.11.29 = {
+	holder = lx
+}
+1316.11.15 = {
+	holder = ji
+}
+1316.11.19 = {
+	holder = fv
+}
+1322.1.3 = {
+	holder = civ
+}
+1328.4.2 = {
+	holder = fvi
+}
+1350.8.22 = {
+	holder = jii
+}
+1364.4.8 = {
+	holder = cv
+}
+1380.9.16 = {
+	holder = cvi
+}
+1422.10.30 = {
+	holder = cvii
+}
+1461.7.22 = {
+	holder = lxi
+}
+1483.8.30 = {
+	holder = cviii
+}
+1498.4.7 = {
+	holder = lxii
+}
+1515.1.1 = {
+	holder = frci
+}
+1547.3.31 = {
+	holder = eii
+}
+1559.7.10 = {
+	holder = frcii
+}
+1560.12.25 = {
+	holder = cix
+}
+1574.6.30 = {
+	holder = eiii
+}
 1589.8.2 = {
-  effect = {
-    insert_title_history = k_france
-  }
-  holder = 100298
+	holder = eiv
 }
 1610.5.14 = {
   holder = 100039
@@ -32,3 +158,10 @@
   law = banish_voting_power_0
   law = succession_voting_power_0
 }
+
+#1589.8.2 = {
+#  effect = {
+#    insert_title_history = k_france
+#  }
+#  holder = 100298
+#}
