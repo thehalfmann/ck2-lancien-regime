@@ -2531,7 +2531,7 @@
 7007002 = {
 	name = "Étienne" # Innocentius VI
 	religion = catholic
-	culture = italian
+	culture = french
 	1282.1.1 = {
 	  birth = yes   
 	} 
@@ -2546,7 +2546,7 @@
 7007003 = {
 	name = "Guillaume" # Urbanus V
 	religion = catholic
-	culture = italian
+	culture = french
 	1310.1.1 = {
 	  birth = yes   
 	} 
@@ -2558,32 +2558,643 @@
 	} 
 }
 
-7007002 = {
-	name = "Étienne" # Innocentius VI
+7007004 = {
+	name = "Pierre" # Gregorius XI
 	religion = catholic
-	culture = italian
-	1291.1.1 = {
+	culture = french
+	1329.1.1 = {
 	  birth = yes   
 	} 
-	1291.3.22 = {
-	name = "Innocentius"
+	1329.3.22 = {
+	name = "Gregorius"
 	}
-	1352.12.6 = {
+	1378.3.27 = {
 	  death = yes            
 	} 
 }
 
-7007002 = {
-	name = "Étienne" # Innocentius VI
+7007005 = {
+	name = "Bartolomeo" # Urbanus VI
 	religion = catholic
 	culture = italian
-	1291.1.1 = {
+	1325.1.1 = {
 	  birth = yes   
 	} 
-	1291.3.22 = {
-	name = "Innocentius"
+	1325.3.22 = {
+	name = "Urbanus"
 	}
-	1352.12.6 = {
+	1389.10.15 = {
 	  death = yes            
 	} 
 }
+
+7007006 = {
+	name = "Pietro" # Bonifatius IX
+	religion = catholic
+	culture = italian
+	1325.1.1 = {
+	  birth = yes   
+	} 
+	1325.3.22 = {
+	name = "Bonifatius"
+	}
+	1404.10.1 = {
+	  death = yes            
+	} 
+}
+
+7007007 = {
+	name = "Cosimo" # Innocentius VII
+	religion = catholic
+	culture = italian
+	1339.1.1 = {
+	  birth = yes   
+	} 
+	1339.3.22 = {
+	name = "Innocentius"
+	}
+	1406.11.6 = {
+	  death = yes            
+	} 
+}
+
+7007008 = {
+	name = "Angelo" # Gregorius XII
+	religion = catholic
+	culture = italian
+	1326.1.1 = {
+	  birth = yes   
+	} 
+	1326.3.22 = {
+	name = "Gregorius"
+	}
+	1415.7.4 = {
+	  death = yes            
+	} 
+}
+
+7007009 = {
+	name = "Oddone" # Martinus V
+	religion = catholic
+	culture = italian
+	1369.1.1 = {
+	  birth = yes   
+	} 
+	1369.3.22 = {
+	name = "Urbanus"
+	}
+	1431.2.20 = {
+	  death = yes            
+	} 
+}
+
+70070010 = {
+	name = "Gabriele" # Eugenius IV
+	religion = catholic
+	culture = italian
+	1383.1.1 = {
+	  birth = yes   
+	} 
+	1383.3.22 = {
+	name = "Eugenius"
+	}
+	1447.2.23 = {
+	  death = yes            
+	} 
+}
+
+7007011 = {
+	name = "Tommaso" # Nicolaus V
+	religion = catholic
+	culture = italian
+	1397.1.1 = {
+	  birth = yes   
+	} 
+	1397.3.22 = {
+	name = "Nicolaus"
+	}
+	1447.3.24 = {
+	  death = yes            
+	} 
+}
+
+7007012 = {
+	name = "Alfonso" # Callistus III
+	religion = catholic
+	culture = castillan
+	# dynasty = deBorja
+	1378.1.1 = {
+	  birth = yes   
+	} 
+	1378.3.22 = {
+	name = "Callistus"
+	}
+	1458.8.6 = {
+	  death = yes            
+	} 
+}
+
+7007013 = {
+	name = "Enea" # Pius II
+	religion = catholic
+	culture = italian
+	1405.1.1 = {
+	  birth = yes   
+	} 
+	1405.3.22 = {
+	name = "Pius"
+	}
+	1464.8.15 = {
+	  death = yes            
+	} 
+}
+
+7007014 = {
+	name = "Pietro" # Paulus II
+	religion = catholic
+	culture = italian
+	1417.1.1 = {
+	  birth = yes   
+	} 
+	1417.3.22 = {
+	name = "Paulus"
+	}
+	1471.7.26 = {
+	  death = yes            
+	} 
+}
+
+7007015 = {
+	name = "Francesco" # Sixtus IV
+	religion = catholic
+	culture = italian
+	1414.1.1 = {
+	  birth = yes   
+	} 
+	1414.3.22 = {
+	name = "Sixtus"
+	}
+	1484.8.12 = {
+	  death = yes            
+	} 
+}
+
+7007016 = {
+	name = "Giovanni" # Innocentius VIII
+	religion = catholic
+	culture = italian
+	1432.1.1 = {
+	  birth = yes   
+	} 
+	1432.3.22 = {
+	name = "Innocentius"
+	}
+	1492.7.25 = {
+	  death = yes            
+	} 
+}
+
+7007017 = {
+	name = "Rodrigo" # Alexander VI
+	religion = catholic
+	culture = castillan
+	# dynasty = deBorja
+	1431.1.1 = {
+	  birth = yes   
+	} 
+	1431.3.22 = {
+	name = "Alexander"
+	}
+	1503.8.18 = {
+	  death = yes            
+	} 
+}
+
+7007018 = {
+	name = "Francesco" # Pius III
+	religion = catholic
+	culture = italian
+	1439.1.1 = {
+	  birth = yes   
+	} 
+	1439.3.22 = {
+	name = "Pius"
+	}
+	1503.10.18 = {
+	  death = yes            
+	} 
+}
+
+7007019 = {
+	name = "Giuliano" # Iulius II
+	religion = catholic
+	culture = italian
+	1443.1.1 = {
+	  birth = yes   
+	} 
+	1443.3.22 = {
+	name = "Iulius"
+	}
+	1513.2.21 = {
+	  death = yes            
+	} 
+}
+
+7007020 = {
+	name = "Giovanni" # Leo X
+	religion = catholic
+	culture = italian
+	# dynasty = Medici
+	1475.1.1 = {
+	  birth = yes   
+	} 
+	1475.3.22 = {
+	name = "Leo"
+	}
+	1521.12.1 = {
+	  death = yes            
+	} 
+}
+
+7007021 = {
+	name = "Adriaan" # Hadrianus VI
+	religion = catholic
+	culture = dutch
+	1459.1.1 = {
+	  birth = yes   
+	} 
+	1459.3.22 = {
+	name = "Hadrianus"
+	}
+	1523.9.14 = {
+	  death = yes            
+	} 
+}
+
+7007022 = {
+	name = "Giulio" # Clemens VII
+	religion = catholic
+	culture = italian
+	# dynasty = Medici
+	1478.1.1 = {
+	  birth = yes   
+	} 
+	1478.3.22 = {
+	name = "Clemens"
+	}
+	1534.9.25 = {
+	  death = yes            
+	} 
+}
+
+7007023 = {
+	name = "Alessandro" # Paulus III
+	religion = catholic
+	culture = italian
+	# dynasty = Farnese
+	1468.1.1 = {
+	  birth = yes   
+	} 
+	1468.3.22 = {
+	name = "Paulus"
+	}
+	1549.11.10 = {
+	  death = yes            
+	} 
+}
+
+7007024 = {
+	name = "Giovanni" # Iulius III
+	religion = catholic
+	culture = italian
+	1487.1.1 = {
+	  birth = yes   
+	} 
+	1487.3.22 = {
+	name = "Iulius"
+	}
+	1555.3.29 = {
+	  death = yes            
+	} 
+}
+
+7007025 = {
+	name = "Marcello" # Marcellus X
+	religion = catholic
+	culture = italian
+	1501.1.1 = {
+	  birth = yes   
+	} 
+	1501.3.22 = {
+	name = "Marcellus"
+	}
+	1555.5.1 = {
+	  death = yes            
+	} 
+}
+
+7007026 = {
+	name = "Gian Pietro" # Paulus IV
+	religion = catholic
+	culture = italian
+	1514.1.1 = {
+	  birth = yes   
+	} 
+	1514.3.22 = {
+	name = "Paulus"
+	}
+	1559.8.18 = {
+	  death = yes            
+	} 
+}
+
+7007027 = {
+	name = "Giovanni" # Pius IV
+	religion = catholic
+	culture = italian
+	# dynasty = Medici
+	1499.1.1 = {
+	  birth = yes   
+	} 
+	1499.3.22 = {
+	name = "Pius"
+	}
+	1565.12.9 = {
+	  death = yes            
+	} 
+}
+
+7007028 = {
+	name = "Antonio" # Pius V
+	religion = catholic
+	culture = italian
+	trait = saint
+	1504.1.1 = {
+	  birth = yes   
+	} 
+	1504.3.22 = {
+	name = "Pius"
+	}
+	1572.5.1 = {
+	  death = yes            
+	} 
+}
+
+7007029 = {
+	name = "Ugo" # Gregorius XIII
+	religion = catholic
+	culture = italian
+	1502.1.1 = {
+	  birth = yes   
+	} 
+	1502.3.22 = {
+	name = "Gregorius"
+	}
+	1585.4.10 = {
+	  death = yes            
+	} 
+}
+
+7007030 = {
+	name = "Felice" # Sixtus V
+	religion = catholic
+	culture = italian
+	1521.1.1 = {
+	  birth = yes   
+	} 
+	1521.3.22 = {
+	name = "Sixtus"
+	}
+	1590.8.27 = {
+	  death = yes            
+	} 
+}
+
+7007031 = {
+	name = "Giovanni Battista" # Urbanus VII
+	religion = catholic
+	culture = italian
+	1521.1.1 = {
+	  birth = yes   
+	} 
+	1521.3.22 = {
+	name = "Urbanus"
+	}
+	1590.10.27 = {
+	  death = yes            
+	} 
+}
+
+7007032 = {
+	name = "Niccolò" # Gregorius XIV
+	religion = catholic
+	culture = italian
+	1535.1.1 = {
+	  birth = yes   
+	} 
+	1535.3.22 = {
+	name = "Gregorius"
+	}
+	1591.10.16 = {
+	  death = yes            
+	} 
+}
+
+7007033 = {
+	name = "Giovanni Antonio" # Innocentius IX
+	religion = catholic
+	culture = italian
+	1519.1.1 = {
+	  birth = yes   
+	} 
+	1519.3.22 = {
+	name = "Innocentius"
+	}
+	1591.12.30 = {
+	  death = yes            
+	} 
+}
+
+7007034 = {
+	name = "Ippolito" # Clemens VIII
+	religion = catholic
+	culture = italian
+	1536.1.1 = {
+	  birth = yes   
+	} 
+	1536.3.22 = {
+	name = "Clemens"
+	}
+	1605.3.3 = {
+	  death = yes            
+	} 
+}
+
+7007035 = {
+	name = "Alessandro" # Leo XI
+	religion = catholic
+	culture = italian
+	# dynasty = Medici
+	1535.1.1 = {
+	  birth = yes   
+	} 
+	1535.3.22 = {
+	name = "Leo"
+	}
+	1605.4.27 = {
+	  death = yes            
+	} 
+}
+
+7007036 = {
+	name = "Camillo" # Paulus V
+	religion = catholic
+	culture = italian
+	# dynasty = Borghese
+	1536.1.1 = {
+	  birth = yes   
+	} 
+	1536.3.22 = {
+	name = "Paulus"
+	}
+	1621.5.28 = {
+	  death = yes            
+	} 
+}
+
+7007037 = {
+	name = "Alessandro" # Gregorius XV
+	religion = catholic
+	culture = italian
+	1554.1.1 = {
+	  birth = yes   
+	} 
+	1554.3.22 = {
+	name = "Gregorius"
+	}
+	1623.7.8 = {
+	  death = yes            
+	} 
+}
+
+7007038 = {
+	name = "Maffeo Vincenzo" # Urbanus VIII
+	religion = catholic
+	culture = italian
+	# dynasty = Barberini
+	1568.1.1 = {
+	  birth = yes   
+	} 
+	1568.3.22 = {
+	name = "Urbanus"
+	}
+	1644.7.29 = {
+	  death = yes            
+	} 
+}
+
+7007039 = {
+	name = "Giovanni Battista" # Innocentius X
+	religion = catholic
+	culture = italian
+	# dynasty = Pamphili
+	1574.5.6 = {
+	  birth = yes   
+	} 
+	1644.1.1 = {
+	name = "Innocentius"
+	}
+	1655.1.7 = {
+	  death = yes            
+	} 
+}
+
+7007040 = {
+	name = "Fabio" # Alexander VII
+	religion = catholic
+	culture = italian
+	# dynasty = Chigi
+	1599.1.1 = {
+	  birth = yes   
+	} 
+	1655.3.22 = {
+	name = "Alexander"
+	}
+	1667.5.22 = {
+	  death = yes            
+	} 
+}
+
+7007041 = {
+	name = "Giulio" # Clemens IX
+	religion = catholic
+	culture = italian
+	1600.1.1 = {
+	  birth = yes   
+	} 
+	1600.3.22 = {
+	name = "Clemens"
+	}
+	1669.3.3 = {
+	  death = yes            
+	} 
+}
+
+7007042 = {
+	name = "Emilio" # Clemens X
+	religion = catholic
+	culture = italian
+	1590.7.13 = {
+	  birth = yes   
+	} 
+	1669.1.1 = {
+	name = "Clemens"
+	}
+	1676.7.22 = {
+	  death = yes            
+	} 
+}
+
+7007043 = {
+	name = "Benedetto" # Innocentius XI
+	religion = catholic
+	culture = italian
+	1611.5.16 = {
+	  birth = yes   
+	} 
+	1676.1.1 = {
+	name = "Innocentius"
+	}
+	1689.8.12 = {
+	  death = yes            
+	} 
+}
+
+7007044 = {
+	name = "Pietro" # Alexander VIII
+	religion = catholic
+	culture = italian
+	1610.1.1 = {
+	  birth = yes   
+	} 
+	1689.1.1 = {
+	name = "Alexander"
+	}
+	1691.2.1 = {
+	  death = yes            
+	} 
+}
+
+100023 = {
+	name = "Antonio" # Innocentius XII
+	religion = catholic
+	culture = italian
+	dynasty = 8
+	1615.3.13 = {
+	  birth = yes   
+	} 
+	1691.1.1 = {
+	name = "Innocentius"
+	} 
+}
+

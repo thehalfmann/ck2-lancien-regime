@@ -10,17 +10,7 @@
 	  birth = yes
 	}
   }
-
-  100023 = {
-	name = "Innocentius" # Pope Innocent XII
-	religion = catholic
-	culture = italian
-	dynasty = 8
-	1615.3.13 = {
-	  birth = yes
-	}
-  }
-
+  
   100026 = {
 	name = "Alfonso" # Alfonso IV d'Este
 	religion = catholic
